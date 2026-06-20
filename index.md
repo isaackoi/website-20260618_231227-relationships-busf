@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/Relationships_betwee_d7372c-overview-social.jpg
+  preview_image: /assets/images/Relationships_betwee_d7372c-overview-social.jpg
+image: /assets/images/Relationships_betwee_d7372c-overview-social.jpg
 site_image_description: A nighttime roadside scene shows people looking up at a glowing saucer-shaped object above distant mountains while film reels,...
 ---
 
