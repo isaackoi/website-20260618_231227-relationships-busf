@@ -447,7 +447,7 @@ image: /assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-ov
 
 ## Introduction
 
-Before people spoke of “[flying saucers]({{ 'flying-saucer/' | relative_url }})”, many already had a working image of intelligent extraterrestrials: Martians living on a nearby, ageing world, fighting drought with immense engineering works. That image came from a late nineteenth- and early twentieth-century blend of telescopic observation, translation, popular astronomy, newspaper culture and fiction. The famous “canals” of Mars were not real artificial waterways, but the idea that they might be signs of a civilisation helped make alien intelligence feel close, technological and plausible long before the modern UFO era began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</span></span></span>
+Before people spoke of “[flying saucers]({{ 'flying-saucer/' | relative_url }})”, many already had a working image of intelligent extraterrestrials: Martians living on a nearby, ageing world, fighting drought with immense engineering works. That image came from a late nineteenth- and early twentieth-century blend of telescopic observation, translation, popular astronomy, newspaper culture and fiction. The famous “canals” of Mars were not real artificial waterways, but the idea that they might be signs of a civilisation helped make alien intelligence feel close, technological and plausible long before the modern UFO era began.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-overview.webp" | relative_url }}" alt="Overview image for Mars Myths" loading="eager" decoding="sync" fetchpriority="high">
@@ -458,23 +458,23 @@ That matters for the relationship between UFOs and science fiction because the f
 
 ## Canals Made Mars Look Engineered
 
-The canal story began with real astronomy, not pure fantasy. During the favourable opposition of Mars in 1877, the Italian astronomer Giovanni Schiaparelli mapped linear-looking features on the planet and called them “[canali]({{ 'canali/' | relative_url }})”, a word better understood as channels. In English-language discussion, however, “canali” became “canals”, a term that strongly suggested artificial construction. The Library of Congress and Adler Planetarium both emphasise that this translation helped shift the public meaning of the markings from uncertain surface features towards possible engineering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</span></span></span>
+The canal story began with real astronomy, not pure fantasy. During the favourable opposition of Mars in 1877, the Italian astronomer Giovanni Schiaparelli mapped linear-looking features on the planet and called them “[canali]({{ 'canali/' | relative_url }})”, a word better understood as channels. In English-language discussion, however, “canali” became “canals”, a term that strongly suggested artificial construction. The Library of Congress and Adler Planetarium both emphasise that this translation helped shift the public meaning of the markings from uncertain surface features towards possible engineering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</span></span></span>
 
-Percival [Lowell]({{ 'lowell/' | relative_url }}) then turned a suggestive word into a full planetary drama. From his observatory in Flagstaff, Arizona, he argued that the lines were an organised system built by intelligent Martians to carry water from the polar caps across a drying planet. His books, including *Mars* in 1895, *Mars and Its Canals* in 1906 and *Mars as the Abode of Life* in 1908, gave the claim a persuasive narrative shape: Mars was old, arid and inhabited by a civilisation advanced enough to respond to planetary crisis with global infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s ObsessionOct 6, 2011 — In his day, Lowell was far and away the most influential populari...</span></span></span>
+Percival [Lowell]({{ 'lowell/' | relative_url }}) then turned a suggestive word into a full planetary drama. From his observatory in Flagstaff, Arizona, he argued that the lines were an organised system built by intelligent Martians to carry water from the polar caps across a drying planet. His books, including *Mars* in 1895, *Mars and Its Canals* in 1906 and *Mars as the Abode of Life* in 1908, gave the claim a persuasive narrative shape: Mars was old, arid and inhabited by a civilisation advanced enough to respond to planetary crisis with global infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s ObsessionOct 6, 2011 — In his day, Lowell was far and away the most influential populari...</span></span></span>
 
-The point was not merely that Mars might contain life. The more powerful idea was that Mars showed signs of purposeful large-scale design. Lowell’s argument treated straightness, regularity and planetary organisation as evidence of mind. The Library of Congress summarises his central claim as the view that the canal structure was something “only intelligent life forms could produce”; that logic made Mars an early training ground for interpreting ambiguous visual evidence as [alien technology]({{ 'tech-magic/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</span></span></span>
+The point was not merely that Mars might contain life. The more powerful idea was that Mars showed signs of purposeful large-scale design. Lowell’s argument treated straightness, regularity and planetary organisation as evidence of mind. The Library of Congress summarises his central claim as the view that the canal structure was something “only intelligent life forms could produce”; that logic made Mars an early training ground for interpreting ambiguous visual evidence as [alien technology]({{ 'tech-magic/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</span></span></span>
 
-The canal theory also fitted the engineering imagination of its age. The Suez Canal had opened in 1869, the Panama Canal was a major project of the period, and newspapers were accustomed to discussing vast technological schemes. Recent research on Australian newspaper coverage shows that late nineteenth-century readers did not simply absorb canal claims passively; they discussed them through humour, scepticism, engineering analogies and arguments about observational authority. That mix of fascination and doubt is important: Martian civilisation was not a single belief imposed from above, but a public negotiation over what science, instruments and imagination could legitimately infer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.23563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The canal theory also fitted the engineering imagination of its age. The Suez Canal had opened in 1869, the Panama Canal was a major project of the period, and newspapers were accustomed to discussing vast technological schemes. Recent research on Australian newspaper coverage shows that late nineteenth-century readers did not simply absorb canal claims passively; they discussed them through humour, scepticism, engineering analogies and arguments about observational authority. That mix of fascination and doubt is important: Martian civilisation was not a single belief imposed from above, but a public negotiation over what science, instruments and imagination could legitimately infer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.23563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-1-dark.svg" | relative_url }}" alt="Mars Myths illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Astronomy, Speculation and Fiction Reinforced Each Other
 
-The Martian civilisation idea spread because it sat at the boundary between science and storytelling. Astronomers had a visible object to discuss; newspapers had a dramatic hook; fiction writers had a ready-made world. Mars was close enough to be observed through telescopes, similar enough to Earth to invite comparison, and strange enough to support speculation. A pre-space-age survey by Barrie W. Jones notes that belief in life on Mars was widespread in the nineteenth century, including the idea that dark regions might be vegetation; the canal saga was only the most famous expression of a broader habit of reading Mars as a living world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mars Before the Space Age</span><span class="citation-popover-snippet">arXiv Mars Before the Space Age</span></span></span>
+The Martian civilisation idea spread because it sat at the boundary between science and storytelling. Astronomers had a visible object to discuss; newspapers had a dramatic hook; fiction writers had a ready-made world. Mars was close enough to be observed through telescopes, similar enough to Earth to invite comparison, and strange enough to support speculation. A pre-space-age survey by Barrie W. Jones notes that belief in life on Mars was widespread in the nineteenth century, including the idea that dark regions might be vegetation; the canal saga was only the most famous expression of a broader habit of reading Mars as a living world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mars Before the Space Age</span><span class="citation-popover-snippet">arXiv Mars Before the Space Age</span></span></span>
 
-Fiction quickly turned these possibilities into memorable scenarios. The Library of Congress notes that ideas about Martian civilisation were already circulating before Lowell’s best-known canal writings, giving authors motifs they could develop into stories about advanced planetary societies. H. G. [Wells]({{ 'wells/' | relative_url }})’s *The War of the Worlds*, first serialised in 1897, did not need to reproduce Lowell’s canals in detail; it used the broader premise of a dying, more advanced Mars to imagine invasion from a neighbouring world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/envisioning-martian-civilizations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
+Fiction quickly turned these possibilities into memorable scenarios. The Library of Congress notes that ideas about Martian civilisation were already circulating before Lowell’s best-known canal writings, giving authors motifs they could develop into stories about advanced planetary societies. H. G. [Wells]({{ 'wells/' | relative_url }})’s *The War of the Worlds*, first serialised in 1897, did not need to reproduce Lowell’s canals in detail; it used the broader premise of a dying, more advanced Mars to imagine invasion from a neighbouring world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/envisioning-martian-civilizations.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
 
-Edgar Rice Burroughs’s [Barsoom]({{ 'barsoom/' | relative_url }}) stories show the other major route: Mars as adventure world rather than invasion threat. *A Princess of Mars* and its sequels drew on the picture of a desert planet shaped by canals, ancient races, environmental decline and heroic conflict. Specialist discussion of Burroughs’s Mars notes that his fictional waterways were explicitly tied to “the famous Martian waterways, or canals” known from earthly astronomy, turning speculative observation into world-building machinery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timjmajor.com/2013/07/26/edgar-rice-burroughs-and-the-martian-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timjmajor.com">[Tim Major]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timjmajor.com</span><span class="citation-popover-title">Tim Major Edgar Rice Burroughs and the Martian canals</span><span class="citation-popover-snippet">Tim Major Edgar Rice Burroughs and the Martian canals</span></span></span>
+Edgar Rice Burroughs’s [Barsoom]({{ 'barsoom/' | relative_url }}) stories show the other major route: Mars as adventure world rather than invasion threat. *A Princess of Mars* and its sequels drew on the picture of a desert planet shaped by canals, ancient races, environmental decline and heroic conflict. Specialist discussion of Burroughs’s Mars notes that his fictional waterways were explicitly tied to “the famous Martian waterways, or canals” known from earthly astronomy, turning speculative observation into world-building machinery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timjmajor.com/2013/07/26/edgar-rice-burroughs-and-the-martian-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timjmajor.com">[Tim Major]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timjmajor.com</span><span class="citation-popover-title">Tim Major Edgar Rice Burroughs and the Martian canals</span><span class="citation-popover-snippet">Tim Major Edgar Rice Burroughs and the Martian canals</span></span></span>
 
 These stories did not simply repeat scientific claims. They translated the canal myth into emotional and narrative patterns that later UFO culture would also use:
 
@@ -495,13 +495,13 @@ By the time flying [saucers]({{ 'saucers/' | relative_url }}) became headline ne
 
 ## Why the Canal Myth Felt Plausible
 
-The canal myth endured because it combined weak evidence with strong plausibility cues. Mars had polar caps that appeared to change with the seasons, visible dark and light markings, and a reddish colour that made it seem both Earth-like and alien. In the limited telescopic conditions of the period, observers could disagree sincerely about what they saw. Some drew straight lines; others saw diffuse patches; others doubted the lines altogether. The uncertainty made room for interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mars Before the Space Age</span><span class="citation-popover-snippet">arXiv Mars Before the Space Age</span></span></span>
+The canal myth endured because it combined weak evidence with strong plausibility cues. Mars had polar caps that appeared to change with the seasons, visible dark and light markings, and a reddish colour that made it seem both Earth-like and alien. In the limited telescopic conditions of the period, observers could disagree sincerely about what they saw. Some drew straight lines; others saw diffuse patches; others doubted the lines altogether. The uncertainty made room for interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mars Before the Space Age</span><span class="citation-popover-snippet">arXiv Mars Before the Space Age</span></span></span>
 
-Lowell’s version also gave the observations a coherent mechanism. If Mars was drying, if the polar caps contained water, and if the dark regions changed seasonally, then canals could seem to explain how a civilisation survived. The argument was wrong, but it had the shape of an explanation rather than a random fantasy. It connected visible features to motive, motive to engineering, and engineering to intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teachastronomy.com/textbook/Life-in-the-Universe/Lowell-and-Canals-on-Mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teachastronomy.com">[teachastronomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teachastronomy.com</span><span class="citation-popover-snippet">Open source on teachastronomy.com.</span></span></span>
+Lowell’s version also gave the observations a coherent mechanism. If Mars was drying, if the polar caps contained water, and if the dark regions changed seasonally, then canals could seem to explain how a civilisation survived. The argument was wrong, but it had the shape of an explanation rather than a random fantasy. It connected visible features to motive, motive to engineering, and engineering to intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teachastronomy.com/textbook/Life-in-the-Universe/Lowell-and-Canals-on-Mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teachastronomy.com">[teachastronomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teachastronomy.com</span><span class="citation-popover-snippet">Open source on teachastronomy.com.</span></span></span>
 
-Mainstream scientists were not uniformly persuaded. The AP’s review of David Baron’s 2025 book *The Martians* stresses that Lowell’s claims captivated the public even though many scientists remained sceptical. That division helped the story travel: it could be reported as a live controversy, defended as bold science, mocked as overreach, and used by fiction writers without needing final proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/477c27190ce06e411d010017b7dbfd07" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
+Mainstream scientists were not uniformly persuaded. The AP’s review of David Baron’s 2025 book *The Martians* stresses that Lowell’s claims captivated the public even though many scientists remained sceptical. That division helped the story travel: it could be reported as a live controversy, defended as bold science, mocked as overreach, and used by fiction writers without needing final proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/477c27190ce06e411d010017b7dbfd07" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
 
-The eventual collapse of the canal theory also matters. Better observations and spacecraft data showed that the imagined canal network was not an artificial Martian infrastructure. [Mariner]({{ 'mariner/' | relative_url }}) 4’s 1965 fly-by revealed a much thinner atmosphere and a cratered surface, while later orbital mapping, especially Mariner 9, helped end the classical canal picture. The falsehood of the canals does not make them culturally irrelevant; it makes them a clear example of how scientific uncertainty, visual ambiguity and popular expectation can join into a durable alien myth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mars Before the Space Age</span><span class="citation-popover-snippet">arXiv Mars Before the Space Age</span></span></span>
+The eventual collapse of the canal theory also matters. Better observations and spacecraft data showed that the imagined canal network was not an artificial Martian infrastructure. [Mariner]({{ 'mariner/' | relative_url }}) 4’s 1965 fly-by revealed a much thinner atmosphere and a cratered surface, while later orbital mapping, especially Mariner 9, helped end the classical canal picture. The falsehood of the canals does not make them culturally irrelevant; it makes them a clear example of how scientific uncertainty, visual ambiguity and popular expectation can join into a durable alien myth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Mars Before the Space Age</span><span class="citation-popover-snippet">arXiv Mars Before the Space Age</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-2-dark.svg" | relative_url }}" alt="Mars Myths illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -520,7 +520,7 @@ The comparison is not exact. Martian civilisation stories usually concerned a kn
 
 ## The Useful Lesson Is Not “Science Fiction Caused UFOs”
 
-The canal episode is sometimes reduced to a simple moral about mistranslation or gullibility. That is too thin. Schiaparelli’s “canali” mattered, but the larger story involved telescopic limits, public trust in astronomy, the prestige of engineering, newspaper circulation, imperial-era infrastructure projects, environmental fears and fiction’s appetite for inhabited worlds. Recent scholarship on newspaper responses underlines that audiences could be amused, sceptical and fascinated at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.23563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The canal episode is sometimes reduced to a simple moral about mistranslation or gullibility. That is too thin. Schiaparelli’s “canali” mattered, but the larger story involved telescopic limits, public trust in astronomy, the prestige of engineering, newspaper circulation, imperial-era infrastructure projects, environmental fears and fiction’s appetite for inhabited worlds. Recent scholarship on newspaper responses underlines that audiences could be amused, sceptical and fascinated at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2603.23563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For UFO history, the better lesson is about cultural readiness. By 1947, the public did not need to invent the extraterrestrial hypothesis from scratch. Popular science and fiction had already normalised several ideas: nearby worlds might be inhabited; alien societies might be older and more advanced; technology might betray their presence; and official or expert interpretation might lag behind public imagination. The flying saucer became a new symbol, but it entered a much older mental landscape.
 
@@ -530,194 +530,194 @@ Mars was therefore one of the main bridges between nineteenth-century astronomic
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-3-dark.svg" | relative_url }}" alt="Mars Myths illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Before Saucers, People Imagined Mars. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Before Saucers, People Imagined Mars. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H.G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H.G. Wells</p>
         
-        <p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explores astronomy, extraterrestrial life, and how scientific ideas influence culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores astronomy, extraterrestrial life, and how scientific ideas influence culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mars+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fEIJAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mars+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mars">Mars</a>
-        </h4>
-        <p class="fr-book-author">By Percival Lowell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mars+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fEIJAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mars+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mars">Mars</a>
+</h4>
+<p class="fr-book-author">By Percival Lowell</p>
         
-        <p class="fr-book-desc">A foundational primary-source work behind the Martian civilisation narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mars+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">A foundational primary-source work behind the Martian civilisation narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mars+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps explain how observations, speculation, and popular narratives can create enduring beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how observations, speculation, and popular narratives can create enduring beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="mars-myths-before-saucers-people-imagined-mars-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-saucers-people-imagined-mars-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="before-saucers-people-imagined-mars-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ Mars was therefore one of the main bridges between nineteenth-century astronomic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ Mars was therefore one of the main bridges between nineteenth-century astronomic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ Mars was therefore one of the main bridges between nineteenth-century astronomic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ Mars was therefore one of the main bridges between nineteenth-century astronomic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ Mars was therefore one of the main bridges between nineteenth-century astronomic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,132 +923,132 @@ Mars was therefore one of the main bridges between nineteenth-century astronomic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</p></details>
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing and Interpreting Martian Oceans and CanalsOne of Lowell&#x27;s central arguments was that the structure of the canals he and other astr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Mars Before the Space Age  
-   Link: <a href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/0811.2700</a>  
+   Link:<a href="https://arxiv.org/abs/0811.2700" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/0811.2700</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13197-mars-canals-water-history-lowell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracing the Canals of Mars: An Astronomer&#x27;s ObsessionOct 6, 2011 — In his day, Lowell was far and away the most influential populari...</p></details>
+   Link:<a href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13197-mars-canals-water-history-lowell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracing the Canals of Mars: An Astronomer&#x27;s ObsessionOct 6, 2011 — In his day, Lowell was far and away the most influential populari...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lowell.edu  
    Title: percival lowells search for life on mars  
-   Link: <a href="https://lowell.edu/percival-lowells-search-for-life-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/percival-lowells-search-for-life-on-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell&#x27;s Search for Life on MarsPercival Lowell&#x27;s groundbreaking study of Mars canals in the 1890s sought evidence of intelligen...</p></details>
+   Link:<a href="https://lowell.edu/percival-lowells-search-for-life-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/percival-lowells-search-for-life-on-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell&#x27;s Search for Life on MarsPercival Lowell&#x27;s groundbreaking study of Mars canals in the 1890s sought evidence of intelligen...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.23563" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.23563</a>  
+   Link:<a href="https://arxiv.org/abs/2603.23563" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.23563</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.22906" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.22906</a>  
+   Link:<a href="https://arxiv.org/abs/2603.22906" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.22906</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/envisioning-martian-civilizations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/envisioning-martian-civilizations.html</a>  
+   Link:<a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/envisioning-martian-civilizations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/envisioning-martian-civilizations.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: teachastronomy.com  
-   Link: <a href="https://www.teachastronomy.com/textbook/Life-in-the-Universe/Lowell-and-Canals-on-Mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachastronomy.com/textbook/Life-in-the-Universe/Lowell-and-Canals-on-Mars/</a>  
+   Link:<a href="https://www.teachastronomy.com/textbook/Life-in-the-Universe/Lowell-and-Canals-on-Mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachastronomy.com/textbook/Life-in-the-Universe/Lowell-and-Canals-on-Mars/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The canals of Mars  
-   Link: <a href="https://www.youtube.com/watch?v=ChJKQMiNC2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ChJKQMiNC2c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ChJKQMiNC2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ChJKQMiNC2c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Percival Lowell  
-   Link: <a href="https://www.youtube.com/watch?v=UvmoKv1BOAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvmoKv1BOAw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does The Canals Of Mars Prove The Existence Of Martians? | NASA&#x27;s Unexplained Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UvmoKv1BOAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvmoKv1BOAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does The Canals Of Mars Prove The Existence Of Martians? | NASA&#x27;s Unexplained Files...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: timjmajor.com  
    Title: Tim Major Edgar Rice Burroughs and the Martian canals  
-   Link: <a href="https://timjmajor.com/2013/07/26/edgar-rice-burroughs-and-the-martian-canals/" target="_blank" rel="noopener noreferrer nofollow">https://timjmajor.com/2013/07/26/edgar-rice-burroughs-and-the-martian-canals/</a>  
+   Link:<a href="https://timjmajor.com/2013/07/26/edgar-rice-burroughs-and-the-martian-canals/" target="_blank" rel="noopener noreferrer nofollow">https://timjmajor.com/2013/07/26/edgar-rice-burroughs-and-the-martian-canals/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/477c27190ce06e411d010017b7dbfd07" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/477c27190ce06e411d010017b7dbfd07</a>  
+   Link:<a href="https://apnews.com/article/477c27190ce06e411d010017b7dbfd07" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/477c27190ce06e411d010017b7dbfd07</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/25267328256218719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/25267328256218719/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/25267328256218719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/25267328256218719/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Percival Lowell  
-   Link: <a href="https://en.wikipedia.org/wiki/Percival_Lowell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Percival_Lowell</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Percival_Lowell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Percival_Lowell</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Barsoom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barsoom</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barsoom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barsoom</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: The War of the Worlds  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.stackexchange.com  
    Title: what is the science behind the canals of mars  
-   Link: <a href="https://space.stackexchange.com/questions/12184/what-is-the-science-behind-the-canals-of-mars" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/12184/what-is-the-science-behind-the-canals-of-mars</a>  
+   Link:<a href="https://space.stackexchange.com/questions/12184/what-is-the-science-behind-the-canals-of-mars" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/12184/what-is-the-science-behind-the-canals-of-mars</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: amazon.co.uk  
    Title: Mars and Its Canals  
-   Link: <a href="https://www.amazon.co.uk/Mars-Its-Canals-Scholars-Choice/dp/129594393X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Mars-Its-Canals-Scholars-Choice/dp/129594393X</a>  
+   Link:<a href="https://www.amazon.co.uk/Mars-Its-Canals-Scholars-Choice/dp/129594393X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Mars-Its-Canals-Scholars-Choice/dp/129594393X</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WcFP7Ifb-KU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WcFP7Ifb-KU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WcFP7Ifb-KU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WcFP7Ifb-KU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cStCiyOrJNA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell Mars canals history astronomy fiction The canals of Mars Dave Darling...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cStCiyOrJNA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell Mars canals history astronomy fiction The canals of Mars Dave Darling...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/WarofTheWorlds/comments/wggyok/anyone_know_if_the_fact_that_hg_wells_choose_mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarofTheWorlds/comments/wggyok/anyone_know_if_the_fact_that_hg_wells_choose_mars/</a>  
+   Link:<a href="https://www.reddit.com/r/WarofTheWorlds/comments/wggyok/anyone_know_if_the_fact_that_hg_wells_choose_mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WarofTheWorlds/comments/wggyok/anyone_know_if_the_fact_that_hg_wells_choose_mars/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LANDKAcom/videos/martian-canals/3417959091772205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LANDKAcom/videos/martian-canals/3417959091772205/</a>  
+   Link:<a href="https://www.facebook.com/LANDKAcom/videos/martian-canals/3417959091772205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LANDKAcom/videos/martian-canals/3417959091772205/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: erbzine.com  
-   Link: <a href="https://www.erbzine.com/mag14/1438.html" target="_blank" rel="noopener noreferrer nofollow">https://www.erbzine.com/mag14/1438.html</a>  
+   Link:<a href="https://www.erbzine.com/mag14/1438.html" target="_blank" rel="noopener noreferrer nofollow">https://www.erbzine.com/mag14/1438.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUb5Ae9jP1V/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUb5Ae9jP1V/</a>  
+   Link:<a href="https://www.instagram.com/p/DUb5Ae9jP1V/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUb5Ae9jP1V/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: burroughsbibliophiles.com  
-   Link: <a href="https://www.burroughsbibliophiles.com/burger.html" target="_blank" rel="noopener noreferrer nofollow">https://www.burroughsbibliophiles.com/burger.html</a>  
+   Link:<a href="https://www.burroughsbibliophiles.com/burger.html" target="_blank" rel="noopener noreferrer nofollow">https://www.burroughsbibliophiles.com/burger.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: historytoday.com  
-   Link: <a href="https://www.historytoday.com/archive/feature/martian-century" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/archive/feature/martian-century</a>  
+   Link:<a href="https://www.historytoday.com/archive/feature/martian-century" target="_blank" rel="noopener noreferrer nofollow">https://www.historytoday.com/archive/feature/martian-century</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/47015/47015-h/47015-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/47015/47015-h/47015-h.htm</a>  
+   Link:<a href="https://www.gutenberg.org/files/47015/47015-h/47015-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/47015/47015-h/47015-h.htm</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: booksandlookspodcast.com  
-   Link: <a href="https://booksandlookspodcast.com/the-martian-craze-how-percival-lowell-invented-canals-on-mars-131/" target="_blank" rel="noopener noreferrer nofollow">https://booksandlookspodcast.com/the-martian-craze-how-percival-lowell-invented-canals-on-mars-131/</a>  
+   Link:<a href="https://booksandlookspodcast.com/the-martian-craze-how-percival-lowell-invented-canals-on-mars-131/" target="_blank" rel="noopener noreferrer nofollow">https://booksandlookspodcast.com/the-martian-craze-how-percival-lowell-invented-canals-on-mars-131/</a>  

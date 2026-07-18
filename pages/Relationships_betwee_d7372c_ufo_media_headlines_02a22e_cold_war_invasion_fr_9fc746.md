@@ -280,19 +280,19 @@ image: /assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_col
 
 ## Introduction
 
-Cold War UFO headlines rarely presented [strange lights]({{ 'strange-lights/' | relative_url }}) in the sky as neutral mysteries. Instead, many stories framed sightings through the most urgent fears of the age: surprise attack, secret weapons, missile technology and foreign infiltration. In newspaper headlines and radio reports, an [unidentified]({{ 'unidentified/' | relative_url }}) object could quickly become a possible Soviet aircraft, a revolutionary weapon or a warning that national defences had been breached. This framing mattered because it linked UFO reports to the same anxieties that animated Cold War science fiction. Alien visitors and enemy invaders often occupied the same imaginative space, allowing uncertain observations to be transformed into stories about threats approaching from above. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
+Cold War UFO headlines rarely presented [strange lights]({{ 'strange-lights/' | relative_url }}) in the sky as neutral mysteries. Instead, many stories framed sightings through the most urgent fears of the age: surprise attack, secret weapons, missile technology and foreign infiltration. In newspaper headlines and radio reports, an [unidentified]({{ 'unidentified/' | relative_url }}) object could quickly become a possible Soviet aircraft, a revolutionary weapon or a warning that national defences had been breached. This framing mattered because it linked UFO reports to the same anxieties that animated Cold War science fiction. Alien visitors and enemy invaders often occupied the same imaginative space, allowing uncertain observations to be transformed into stories about threats approaching from above.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_cold_war_invasion_fr_9fc746-Illustration-1-dark.svg" | relative_url }}" alt="Invasion Frame illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_cold_war_invasion_fr_9fc746-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_cold_war_invasion_fr_9fc746-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader relationship between UFOs and science fiction, invasion framing is one of the clearest examples of how media language shaped public understanding. [Headlines]({{ 'headlines/' | relative_url }}) did not simply report sightings; they often translated ambiguity into a narrative of danger and strategic vulnerability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
+Within the broader relationship between UFOs and science fiction, invasion framing is one of the clearest examples of how media language shaped public understanding. [Headlines]({{ 'headlines/' | relative_url }}) did not simply report sightings; they often translated ambiguity into a narrative of danger and strategic vulnerability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
 
 ## Why Cold War skies felt politically charged
 
-The early UFO era emerged during a period when the public was already conditioned to look upward for threats. The end of the Second World War had been followed by the atomic bomb, long-range [rockets]({{ 'rockets/' | relative_url }}), Cold War espionage and fears of sudden attack. In such an atmosphere, unusual aerial reports were easily interpreted through a military lens rather than as isolated observational puzzles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
+The early UFO era emerged during a period when the public was already conditioned to look upward for threats. The end of the Second World War had been followed by the atomic bomb, long-range [rockets]({{ 'rockets/' | relative_url }}), Cold War espionage and fears of sudden attack. In such an atmosphere, unusual aerial reports were easily interpreted through a military lens rather than as isolated observational puzzles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
 
-The timing was crucial. The modern flying-saucer phenomenon exploded after the widely publicised 1947 Kenneth Arnold sighting. Newspapers rapidly spread the term “flying saucer”, creating a recognisable category for aerial mysteries. At the same time, governments and militaries were investing heavily in radar systems, jet aircraft and intelligence gathering. Readers therefore encountered UFO stories in a world already preoccupied with unknown objects crossing national borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.si.edu/publication-details/?id=165599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.si.edu">[Smithsonian Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.si.edu</span><span class="citation-popover-snippet">Smithsonian ResearchAccount of Kenneth A. Arnold&#x27;s sighting of unexplained flying objects. Press reports used the words &quot;flying saucer&quot; a...</span></span></span>
+The timing was crucial. The modern flying-saucer phenomenon exploded after the widely publicised 1947 Kenneth Arnold sighting. Newspapers rapidly spread the term “flying saucer”, creating a recognisable category for aerial mysteries. At the same time, governments and militaries were investing heavily in radar systems, jet aircraft and intelligence gathering. Readers therefore encountered UFO stories in a world already preoccupied with unknown objects crossing national borders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.si.edu/publication-details/?id=165599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.si.edu">[Smithsonian Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.si.edu</span><span class="citation-popover-snippet">Smithsonian ResearchAccount of Kenneth A. Arnold&#x27;s sighting of unexplained flying objects. Press reports used the words &quot;flying saucer&quot; a...</span></span></span>
 
-This political atmosphere encouraged a particular question: if something was in the sky and could not be identified, was it an enemy technology? Before extraterrestrial explanations became dominant in popular culture, many reports were interpreted as potential military developments. In parts of Europe and North America, observers frequently connected unusual aerial objects to experimental missiles, reconnaissance aircraft or secret weapons programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-ufo-reports-change-with-technology-times-180968011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine How UFO Reports Change With the Technology of the Times</span><span class="citation-popover-snippet">Smithsonian MagazineHow UFO Reports Change With the Technology of the TimesFebruary 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
+This political atmosphere encouraged a particular question: if something was in the sky and could not be identified, was it an enemy technology? Before extraterrestrial explanations became dominant in popular culture, many reports were interpreted as potential military developments. In parts of Europe and North America, observers frequently connected unusual aerial objects to experimental missiles, reconnaissance aircraft or secret weapons programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/how-ufo-reports-change-with-technology-times-180968011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine How UFO Reports Change With the Technology of the Times</span><span class="citation-popover-snippet">Smithsonian MagazineHow UFO Reports Change With the Technology of the TimesFebruary 1, 2018...</span><span class="citation-popover-meta">Published: February 1, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rih9-80p0Ec" title="The Truth about Roswell: Decoding Decades of Deception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer">The Truth about Roswell: Decoding Decades of Deception</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 9.8M &middot; Uploaded: June 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rih9-80p0Ec">Open on YouTube</a></p></div></div></div>
@@ -301,14 +301,14 @@ This political atmosphere encouraged a particular question: if something was in 
 
 Headlines work by reducing uncertainty. During the Cold War, that often meant replacing “unidentified” with language suggesting intrusion, pursuit or threat.
 
-Terms such as “mystery craft”, “unknown objects”, “flying discs invade skies” and similar formulations encouraged readers to think in strategic rather than scientific terms. The object itself might remain unexplained, but the narrative implied movement into protected space. A sighting became a potential breach of national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
+Terms such as “mystery craft”, “unknown objects”, “flying discs invade skies” and similar formulations encouraged readers to think in strategic rather than scientific terms. The object itself might remain unexplained, but the narrative implied movement into protected space. A sighting became a potential breach of national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
 
 Several mechanisms made this framing powerful:
 
 * **It transformed observation into conflict.** A light or radar contact became a possible contest between defenders and intruders.
 * **It borrowed language from military reporting.** Objects were “tracked”, “intercepted”, “scrambled against” or “investigated”.
 * **It encouraged readers to imagine hostile intent.** If something appeared suddenly and could not be identified, headlines often implied that concealment itself was suspicious.
-* **It echoed popular science-fiction plots.** Stories of invasion from the skies already existed in novels, [comics]({{ 'comics/' | relative_url }}) and films, making the framing instantly familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
+* **It echoed popular science-fiction plots.** Stories of invasion from the skies already existed in novels, [comics]({{ 'comics/' | relative_url }}) and films, making the framing instantly familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
 
 The result was a feedback loop. News reports borrowed dramatic structures from contemporary fears, while science fiction borrowed imagery and urgency from news coverage. UFOs became a meeting point between journalism, defence anxieties and speculative storytelling.
 
@@ -316,11 +316,11 @@ The result was a feedback loop. News reports borrowed dramatic structures from c
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_cold_war_invasion_fr_9fc746-Illustration-2-dark.svg" | relative_url }}" alt="Invasion Frame illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_cold_war_invasion_fr_9fc746-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_cold_war_invasion_fr_9fc746-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Washington 1952 case and the invasion narrative
 
-One of the clearest examples came during the Washington, D.C., UFO incidents of July 1952. Radar operators and observers reported unidentified objects near the American capital, and fighter aircraft were scrambled to investigate. The combination of radar contacts, military response and proximity to government institutions made the story especially dramatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
+One of the clearest examples came during the Washington, D.C., UFO incidents of July 1952. Radar operators and observers reported unidentified objects near the American capital, and fighter aircraft were scrambled to investigate. The combination of radar contacts, military response and proximity to government institutions made the story especially dramatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
 
-Press coverage frequently treated the events as more than a curiosity. At the height of the Red Scare, commentators openly considered whether the objects might be connected to Soviet capabilities. The possibility of hostile penetration of American airspace was a genuine concern, and headlines reflected that atmosphere. Reports often emphasised pursuit, interception and the inability of military aircraft to provide immediate answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
+Press coverage frequently treated the events as more than a curiosity. At the height of the Red Scare, commentators openly considered whether the objects might be connected to Soviet capabilities. The possibility of hostile penetration of American airspace was a genuine concern, and headlines reflected that atmosphere. Reports often emphasised pursuit, interception and the inability of military aircraft to provide immediate answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
 
-Importantly, the public impact did not depend on proof of a threat. The dramatic framing itself created the impression that something extraordinary—and potentially dangerous—was occurring. The story became memorable because it resembled an invasion scenario, even though no evidence established that such an invasion was taking place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
+Importantly, the public impact did not depend on proof of a threat. The dramatic framing itself created the impression that something extraordinary—and potentially dangerous—was occurring. The story became memorable because it resembled an invasion scenario, even though no evidence established that such an invasion was taking place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ozMMDAhYx0" title="Cold War UFO Secrets | Aliens Uncovered: Declassified | Full Documentary Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ozMMDAhYx0" target="_blank" rel="noopener noreferrer">Cold War UFO Secrets | Aliens Uncovered: Declassified | Full Documentary Movie</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ozMMDAhYx0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ozMMDAhYx0">Open on YouTube</a></p></div></div></div>
@@ -329,7 +329,7 @@ Importantly, the public impact did not depend on proof of a threat. The dramatic
 
 A common misunderstanding is that Cold War governments treated UFOs as confirmed extraterrestrial visitors. Official records tell a more complicated story.
 
-Military and intelligence agencies often took reports seriously because they wanted to determine whether unidentified objects represented foreign technology or a security threat. Investigations such as [Project Blue Book]({{ 'blue-book/' | relative_url }}) were explicitly concerned with national security and scientific analysis. The fact that officials investigated reports did not mean they had concluded the objects were alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/ew99mj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Official Project Blue Book Findings in Plain English</span><span class="citation-popover-snippet">Official ProjectBlueBook Findings in Plain EnglishJanuary 30, 2020...</span><span class="citation-popover-meta">Published: January 30, 2020</span></span></span>
+Military and intelligence agencies often took reports seriously because they wanted to determine whether unidentified objects represented foreign technology or a security threat. Investigations such as [Project Blue Book]({{ 'blue-book/' | relative_url }}) were explicitly concerned with national security and scientific analysis. The fact that officials investigated reports did not mean they had concluded the objects were alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/ew99mj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Official Project Blue Book Findings in Plain English</span><span class="citation-popover-snippet">Official ProjectBlueBook Findings in Plain EnglishJanuary 30, 2020...</span><span class="citation-popover-meta">Published: January 30, 2020</span></span></span>
 
 This distinction is crucial. Headlines sometimes compressed several separate ideas into one dramatic narrative:
 
@@ -345,9 +345,9 @@ This distinction is crucial. Headlines sometimes compressed several separate ide
 
 </div>
 
-The leap from step three to step four was often stronger in public imagination than in official assessments. Government concern frequently reflected uncertainty about defence and intelligence questions rather than confidence in extraterrestrial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
+The leap from step three to step four was often stronger in public imagination than in official assessments. Government concern frequently reflected uncertainty about defence and intelligence questions rather than confidence in extraterrestrial explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY</span><span class="citation-popover-snippet">When UFOs Buzzed the White House and the Air Force Blamed the Weather &#124; HISTORY...</span></span></span>
 
-Historical research on Cold War UFO culture has repeatedly concluded that broader social fears—including atomic war and geopolitical rivalry—help explain why UFO stories gained such traction. Investigators examining government files have argued that many UFO scares reveal more about Cold War psychology than about evidence for alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
+Historical research on Cold War UFO culture has repeatedly concluded that broader social fears—including atomic war and geopolitical rivalry—help explain why UFO stories gained such traction. Investigators examining government files have argued that many UFO scares reveal more about Cold War psychology than about evidence for alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l5evk6lvo9Y" title="1950s Flying Saucer, UFO, and Alien Encounter Movies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l5evk6lvo9Y" target="_blank" rel="noopener noreferrer">1950s Flying Saucer, UFO, and Alien Encounter Movies</a></p><p class="youtube-embed-meta">Channel: Retro Reel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l5evk6lvo9Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l5evk6lvo9Y">Open on YouTube</a></p></div></div></div>
@@ -356,199 +356,199 @@ Historical research on Cold War UFO culture has repeatedly concluded that broade
 
 Cold War invasion framing helped merge UFO culture with science-fiction storytelling. Once unidentified objects were routinely discussed as possible intruders from beyond national borders, it became easy to imagine them as visitors from beyond Earth itself.
 
-The emotional structure was remarkably similar. Both Cold War news coverage and invasion science fiction relied on questions of vulnerability: Who is approaching? What technology do they possess? Can authorities protect the public? Are officials hiding information? These themes appeared in headlines and fiction simultaneously, reinforcing one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
+The emotional structure was remarkably similar. Both Cold War news coverage and invasion science fiction relied on questions of vulnerability: Who is approaching? What technology do they possess? Can authorities protect the public? Are officials hiding information? These themes appeared in headlines and fiction simultaneously, reinforcing one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</span></span></span>
 
-As a result, many readers encountered UFO reports not as isolated observational events but as chapters in a larger narrative of hidden threats and looming incursions. The language of invasion gave uncertain sightings a dramatic storyline, and that storyline connected naturally to the science-fiction imagination of the mid-twentieth century. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
+As a result, many readers encountered UFO reports not as isolated observational events but as chapters in a larger narrative of hidden threats and looming incursions. The language of invasion gave uncertain sightings a dramatic storyline, and that storyline connected naturally to the science-fiction imagination of the mid-twentieth century.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Headlines Sounded Like Invasion Warnings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Headlines Sounded Like Invasion Warnings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports were interpreted and discussed during the era when invasion and defense narratives were common.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports were interpreted and discussed during the era when invasion and defense narratives were common.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the public atmosphere of the early flying-saucer era when media and officials debated possible threats in the skies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the public atmosphere of the early flying-saucer era when media and officials debated possible threats in the skies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PpBPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PpBPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">Provides the geopolitical backdrop that made unidentified objects seem potentially hostile or militarily significant.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the geopolitical backdrop that made unidentified objects seem potentially hostile or militarily significant.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+by+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bn0XwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H. G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bn0XwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H. G. Wells</p>
         
-        <p class="fr-book-desc">Illustrates the invasion narratives and cultural assumptions that influenced Cold War media framing of mysterious aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the invasion narratives and cultural assumptions that influenced Cold War media framing of mysterious aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cold+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cold War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="invasion-frame-when-ufo-headlines-sounded-like-invasion-warnings-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-ufo-headlines-sounded-like-invasion-warnings-ufo-art-print-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ As a result, many readers encountered UFO reports not as isolated observational 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ As a result, many readers encountered UFO reports not as isolated observational 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ As a result, many readers encountered UFO reports not as isolated observational 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ As a result, many readers encountered UFO reports not as isolated observational 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ As a result, many readers encountered UFO reports not as isolated observational 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,113 +754,113 @@ As a result, many readers encountered UFO reports not as isolated observational 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: When UFOs Buzzed the White House and the Air Force Blamed the Weather | HISTORY  
-   Link: <a href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufos-washington-white-house-air-force-coverup</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When UFOs Buzzed the White House and the Air Force Blamed the Weather | HISTORY...</p></details>
+   Link:<a href="https://www.history.com/news/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufos-washington-white-house-air-force-coverup</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When UFOs Buzzed the White House and the Air Force Blamed the Weather | HISTORY...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: ufos washington dc news reports  
-   Link: <a href="https://www.history.com/news/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufos-washington-dc-news-reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, &#x27;Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; Over Washington Sent the Press Into a Frenzy | HISTORY...</p></details>
+   Link:<a href="https://www.history.com/news/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufos-washington-dc-news-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, &#x27;Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; Over Washington Sent the Press Into a Frenzy | HISTORY...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Official Project Blue Book Findings in Plain English  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/ew99mj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ew99mj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Official ProjectBlueBook Findings in Plain EnglishJanuary 30, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/ew99mj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ew99mj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official ProjectBlueBook Findings in Plain EnglishJanuary 30, 2020...</p></details>
    Published: January 30, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1rp3bgq/declassified_project_blue_book_findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rp3bgq/declassified_project_blue_book_findings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Project BLUE BOOK: Findings, Unidentified Sightings, and the Absence of Extraterrestrial Evidence...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rp3bgq/declassified_project_blue_book_findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rp3bgq/declassified_project_blue_book_findings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Project BLUE BOOK: Findings, Unidentified Sightings, and the Absence of Extraterrestrial Evidence...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airandspace.si.edu  
    Title: The Study of Flying Saucer Sightings | National Air and Space Museum  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2002/may/05/spaceexploration.research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianCold War hysteria sparked UFO obsession, study finds | Space | The GuardianMay 5, 2002...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2002/may/05/spaceexploration.research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianCold War hysteria sparked UFO obsession, study finds | Space | The GuardianMay 5, 2002...</p></details>
    Published: May 5, 2002  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineJournalism Versus the Flying Saucers: Assessing the First Generation of UFO Reportage, 1947–1967: American Journal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.si.edu  
-   Link: <a href="https://research.si.edu/publication-details/?id=165599" target="_blank" rel="noopener noreferrer nofollow">https://research.si.edu/publication-details/?id=165599</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian ResearchAccount of Kenneth A. Arnold&#x27;s sighting of unexplained flying objects. Press reports used the words &quot;flying saucer&quot; a...</p></details>
+   Link:<a href="https://research.si.edu/publication-details/?id=165599" target="_blank" rel="noopener noreferrer nofollow">https://research.si.edu/publication-details/?id=165599</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian ResearchAccount of Kenneth A. Arnold&#x27;s sighting of unexplained flying objects. Press reports used the words &quot;flying saucer&quot; a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine How UFO Reports Change With the Technology of the Times  
-   Link: <a href="https://www.smithsonianmag.com/history/how-ufo-reports-change-with-technology-times-180968011/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-ufo-reports-change-with-technology-times-180968011/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineHow UFO Reports Change With the Technology of the TimesFebruary 1, 2018...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/history/how-ufo-reports-change-with-technology-times-180968011/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/how-ufo-reports-change-with-technology-times-180968011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineHow UFO Reports Change With the Technology of the TimesFebruary 1, 2018...</p></details>
    Published: February 1, 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2021/jun/25/ufo-report-pentagon-security-experts-reaction" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2021/jun/25/ufo-report-pentagon-security-experts-reaction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Pentagon UFO report is deeply troubling for US security experts | US national security | The GuardianJune 25, 2021...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2021/jun/25/ufo-report-pentagon-security-experts-reaction" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2021/jun/25/ufo-report-pentagon-security-experts-reaction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Pentagon UFO report is deeply troubling for US security experts | US national security | The GuardianJune 25, 2021...</p></details>
    Published: June 25, 2021  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popularmechanics.com  
    Title: j allen hynek project blue book ufo investigation truth  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Though Hynek avoided wild conspiracy theories, later fringe theorists co-opted his work, blending UFO research with anti-government senti...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Though Hynek avoided wild conspiracy theories, later fringe theorists co-opted his work, blending UFO research with anti-government senti...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vrjNUoiBw6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vrjNUoiBw6s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth VS The Flying Saucers (1956)-16 Facts About The Movie That Turned UFO Mania Into Movie History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vrjNUoiBw6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vrjNUoiBw6s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth VS The Flying Saucers (1956)-16 Facts About The Movie That Turned UFO Mania Into Movie History...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bg58bW1oZRo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bg58bW1oZRo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;): Decoding Decades of Deception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bg58bW1oZRo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bg58bW1oZRo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;): Decoding Decades of Deception...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Cold War UFO Secrets | Aliens Uncovered: Declassified | Full Documentary Movie  
-   Link: <a href="https://www.youtube.com/watch?v=1ozMMDAhYx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1ozMMDAhYx0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This 1956 Alien Invasion Film Still Terrifies Viewers Today...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1ozMMDAhYx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1ozMMDAhYx0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why This 1956 Alien Invasion Film Still Terrifies Viewers Today...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l5evk6lvo9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l5evk6lvo9Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War UFO Secrets | Aliens Uncovered: Declassified | Full Documentary Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l5evk6lvo9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l5evk6lvo9Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War UFO Secrets | Aliens Uncovered: Declassified | Full Documentary Movie...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thehistorypress.co.uk  
    Title: The History Press UFOs and the Cold War  
-   Link: <a href="https://thehistorypress.co.uk/article/ufos-and-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://thehistorypress.co.uk/article/ufos-and-the-cold-war/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History PressUFOs and the Cold War - The History Press...</p></details>
+   Link:<a href="https://thehistorypress.co.uk/article/ufos-and-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://thehistorypress.co.uk/article/ufos-and-the-cold-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History PressUFOs and the Cold War - The History Press...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wired.com  
    Title: flyingsaucer anniversary  
-   Link: <a href="https://www.wired.com/2007/06/flyingsaucer-anniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/flyingsaucer-anniversary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of This World: 60 Years of Flying Saucers | WIREDJune 24, 2007...</p></details>
+   Link:<a href="https://www.wired.com/2007/06/flyingsaucer-anniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/flyingsaucer-anniversary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of This World: 60 Years of Flying Saucers | WIREDJune 24, 2007...</p></details>
    Published: June 24, 2007  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapfiles.app  
    Title: cold war ufo files  
-   Link: <a href="https://uapfiles.app/cold-war-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://uapfiles.app/cold-war-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UmbraCold War Flying-Saucer Files (1940s–1960s) · Umbra...</p></details>
+   Link:<a href="https://uapfiles.app/cold-war-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://uapfiles.app/cold-war-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UmbraCold War Flying-Saucer Files (1940s–1960s) · Umbra...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Truth about Roswell: Decoding Decades of Deception  
-   Link: <a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
+   Link:<a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-believers/
 description: Focused pages that expand on Believers.
-date: '2026-06-18'
+date: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_believers_scifi_expe_ff9754
 parent_title: Believers
@@ -16,7 +16,7 @@ parent_permalink: /believers/
 
 # Explore Topics in Believers
 
-The following pages expand on the main **[Believers]({{ '/believers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Believers]({{ '/believers/' | relative_url }})** page and cover its key branches in.
 
 - [Abductions]({{ '/abductions-085001/' | relative_url }})
 - [Ambiguous Lights]({{ '/ambiguous-lights/' | relative_url }})

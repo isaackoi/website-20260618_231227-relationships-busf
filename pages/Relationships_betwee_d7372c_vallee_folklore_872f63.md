@@ -447,22 +447,22 @@ image: /assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-overvie
 
 ## Introduction
 
-Jacques Vallée changed one of the central questions in UFO culture. Instead of asking only whether UFOs were spacecraft from another planet, he asked why modern UFO encounters so often resembled older stories about fairies, angels, demons, sky ships, little people and strange visitors from hidden realms. His best-known statement of that argument was *Passport to [Magonia]({{ 'magonia/' | relative_url }})*, first published in 1969, a book that compared modern [close encounters]({{ 'close-encounters/' | relative_url }}) with folklore and historical reports rather than treating them as a wholly new space-age phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
+Jacques Vallée changed one of the central questions in UFO culture. Instead of asking only whether UFOs were spacecraft from another planet, he asked why modern UFO encounters so often resembled older stories about fairies, angels, demons, sky ships, little people and strange visitors from hidden realms. His best-known statement of that argument was *Passport to [Magonia]({{ 'magonia/' | relative_url }})*, first published in 1969, a book that compared modern [close encounters]({{ 'close-encounters/' | relative_url }}) with folklore and historical reports rather than treating them as a wholly new space-age phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-overview.webp" | relative_url }}" alt="Overview image for Vallee" loading="eager" decoding="sync" fetchpriority="high">
-The point was not simply that UFO witnesses were copying old legends. Vallée’s stronger claim was that recurring encounter patterns may be filtered through the language of each period. A medieval witness might describe an aerial realm or supernatural beings; a twentieth-century witness, living in the age of [rockets]({{ 'rockets/' | relative_url }}), radar and science fiction, might describe a craft, pilots and advanced technology. That comparison matters for the relationship between UFOs and science fiction because it shifts the UFO from a single “alien spaceship” narrative into a broader history of how cultures imagine contact with the non-human, the hidden and the technologically miraculous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
+The point was not simply that UFO witnesses were copying old legends. Vallée’s stronger claim was that recurring encounter patterns may be filtered through the language of each period. A medieval witness might describe an aerial realm or supernatural beings; a twentieth-century witness, living in the age of [rockets]({{ 'rockets/' | relative_url }}), radar and science fiction, might describe a craft, pilots and advanced technology. That comparison matters for the relationship between UFOs and science fiction because it shifts the UFO from a single “alien spaceship” narrative into a broader history of how cultures imagine contact with the non-human, the hidden and the technologically miraculous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJ4JuA2UYL4" title="Dr. Jacques Vallée: UAP Encounters, Patterns, and the Signals of Intelligence | The Sol Forum #4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJ4JuA2UYL4" target="_blank" rel="noopener noreferrer">Dr. Jacques Vallée: UAP Encounters, Patterns, and the Signals of Intelligence | The Sol Forum #4</a></p><p class="youtube-embed-meta">Channel: The Sol Foundation &middot; Views: 74.8K &middot; Uploaded: August 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJ4JuA2UYL4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJ4JuA2UYL4">Open on YouTube</a></p></div></div></div>
 
 ## Magonia and Encounter Patterns
 
-The title *Passport to Magonia* comes from a medieval story about a region called Magonia, from which ships were said to sail in the clouds. Vallée used that story as a symbolic doorway into a larger argument: reports of extraordinary visitors did not begin with [flying saucers]({{ 'flying-saucer/' | relative_url }}) in 1947, and the “craft from the sky” motif had much older precedents. In the text, Magonia is introduced through cloud ships, storm wizards and alleged travellers from an aerial country, a framing that lets Vallée place modern UFO reports beside pre-modern stories without claiming they are identical in every detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
+The title *Passport to Magonia* comes from a medieval story about a region called Magonia, from which ships were said to sail in the clouds. Vallée used that story as a symbolic doorway into a larger argument: reports of extraordinary visitors did not begin with [flying saucers]({{ 'flying-saucer/' | relative_url }}) in 1947, and the “craft from the sky” motif had much older precedents. In the text, Magonia is introduced through cloud ships, storm wizards and alleged travellers from an aerial country, a framing that lets Vallée place modern UFO reports beside pre-modern stories without claiming they are identical in every detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
 
-What interested Vallée was pattern rather than costume. In *Passport to Magonia*, older accounts include beings who appear and vanish, small or oddly proportioned visitors, aerial movement, [strange lights]({{ 'strange-lights/' | relative_url }}), abduction-like journeys, gifts that change value, distorted time, sexual or reproductive motifs, warnings, prophecies and ambiguous physical traces. In one cited folklore passage, fairies are described as diminutive beings who could speak to people and then vanish; another passage links fairy traditions to aerial beings, prophecy and intervention in human affairs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
+What interested Vallée was pattern rather than costume. In *Passport to Magonia*, older accounts include beings who appear and vanish, small or oddly proportioned visitors, aerial movement, [strange lights]({{ 'strange-lights/' | relative_url }}), abduction-like journeys, gifts that change value, distorted time, sexual or reproductive motifs, warnings, prophecies and ambiguous physical traces. In one cited folklore passage, fairies are described as diminutive beings who could speak to people and then vanish; another passage links fairy traditions to aerial beings, prophecy and intervention in human affairs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
 
-Those motifs overlap with many twentieth-century close-encounter reports: humanoid occupants, paralysis, beams of light, craft that land or disappear, beings who speak in puzzling ways, and witnesses left frightened or transformed. Vallée’s catalogue of UFO landings includes examples from the late nineteenth century through the 1960s: airship crews asking for water, small figures seen near craft, beings carrying strange devices, witnesses who report paralysis, and objects that leave marks, sounds or lights behind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
+Those motifs overlap with many twentieth-century close-encounter reports: humanoid occupants, paralysis, beams of light, craft that land or disappear, beings who speak in puzzling ways, and witnesses left frightened or transformed. Vallée’s catalogue of UFO landings includes examples from the late nineteenth century through the 1960s: airship crews asking for water, small figures seen near craft, beings carrying strange devices, witnesses who report paralysis, and objects that leave marks, sounds or lights behind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801409.us.archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801409.us.archive.org</span><span class="citation-popover-title">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span><span class="citation-popover-snippet">Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993</span></span></span>
 
 This is where the science-fiction connection becomes subtle. Vallée was not mainly saying that science fiction invented UFO encounters. He was suggesting that science fiction supplied one [modern vocabulary]({{ 'modern-vocabulary/' | relative_url }}) for an older-looking encounter structure. In a religious culture, the visitor might be an angel or demon; in a fairy tradition, a member of the hidden people; in a space-age society, an alien pilot. The narrative frame changes, but some reported encounter features recur.
 
@@ -470,9 +470,9 @@ This is where the science-fiction connection becomes subtle. Vallée was not mai
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-1-dark.svg" | relative_url }}" alt="Vallee illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Folklore Matters to UFO Interpretation
 
-Vallée’s comparison pushed against the two dominant interpretive habits of mid-century UFO debate. One side tended to reduce UFO reports to misidentifications, [hoaxes]({{ 'hoaxes/' | relative_url }}), psychological errors or mass excitement. The other side treated the strongest cases as evidence for extraterrestrial craft. Vallée was dissatisfied with both because neither, in his view, explained the strangeness, symbolism and historical continuity of close-encounter narratives. WIRED’s profile of Vallée summarises this position clearly: he regarded the phenomenon as both a scientific and social frontier, requiring databases and pattern analysis as well as attention to testimony, culture and interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span><span class="citation-popover-snippet">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span></span></span>
+Vallée’s comparison pushed against the two dominant interpretive habits of mid-century UFO debate. One side tended to reduce UFO reports to misidentifications, [hoaxes]({{ 'hoaxes/' | relative_url }}), psychological errors or mass excitement. The other side treated the strongest cases as evidence for extraterrestrial craft. Vallée was dissatisfied with both because neither, in his view, explained the strangeness, symbolism and historical continuity of close-encounter narratives. WIRED’s profile of Vallée summarises this position clearly: he regarded the phenomenon as both a scientific and social frontier, requiring databases and pattern analysis as well as attention to testimony, culture and interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span><span class="citation-popover-snippet">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span></span></span>
 
-That view grew out of the late 1960s moment. [Project Blue Book]({{ 'blue-book/' | relative_url }}), the United States Air Force’s long-running UFO investigation, ended in 1969; the Air Force later stated that 12,618 sightings had been reported to the project and 701 remained unidentified, while also concluding that there was no evidence that unidentified cases represented extraterrestrial vehicles or technology beyond modern science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> Vallée’s *Passport to Magonia* appeared in the same period, offering a third route: not official dismissal, not simple alien confirmation, but comparative study of how extraordinary encounters are reported across time.
+That view grew out of the late 1960s moment. [Project Blue Book]({{ 'blue-book/' | relative_url }}), the United States Air Force’s long-running UFO investigation, ended in 1969; the Air Force later stated that 12,618 sightings had been reported to the project and 701 remained unidentified, while also concluding that there was no evidence that unidentified cases represented extraterrestrial vehicles or technology beyond modern science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> Vallée’s *Passport to Magonia* appeared in the same period, offering a third route: not official dismissal, not simple alien confirmation, but comparative study of how extraordinary encounters are reported across time.
 
 Folklore mattered to Vallée because it made UFO testimony culturally legible. A report is not just a neutral data point; it is told by a witness using available images, fears, expectations and story forms. That does not automatically make it false. Folklorists have long studied how recurring narratives can preserve experience, social anxiety and symbolic meaning without being straightforward literal records. Vallée applied a similar instinct to UFOs: he treated the witness story as evidence of something worth studying, while resisting the leap from “strange encounter” to “interstellar vehicle”.
 
@@ -483,13 +483,13 @@ This approach also complicates the role of science fiction. By the 1950s and 196
 
 ## Vallée’s Challenge to the Extraterrestrial Script
 
-Vallée’s reputation is partly built on his refusal to settle for the standard extraterrestrial hypothesis. He had scientific credentials and was deeply involved in data-driven UFO study: Rice University’s archive describes his papers as including background files, correspondence, field notes and press documents collected between 1960 and 2015, amounting to 48 linear feet of material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.library.rice.edu/repositories/2/resources/1085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[archives.library.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-snippet">Open source on rice.edu.</span></span></span> Yet his comparative method led him away from the idea that UFOs should be understood simply as machines travelling from another star system.
+Vallée’s reputation is partly built on his refusal to settle for the standard extraterrestrial hypothesis. He had scientific credentials and was deeply involved in data-driven UFO study: Rice University’s archive describes his papers as including background files, correspondence, field notes and press documents collected between 1960 and 2015, amounting to 48 linear feet of material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.library.rice.edu/repositories/2/resources/1085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[archives.library.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-snippet">Open source on rice.edu.</span></span></span> Yet his comparative method led him away from the idea that UFOs should be understood simply as machines travelling from another star system.
 
-The reason was not that he rejected physical evidence altogether. Vallée continued to investigate cases with alleged traces, including later work on materials analysis. The issue was that the reported behaviour of UFOs often seemed theatrically absurd, culturally adaptive or psychologically charged. WIRED notes that he doubted the idea of UFOs as “interstellar SUVs” and preferred to keep open stranger possibilities, including models that would explain why encounters appear to interact with belief, perception and mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span><span class="citation-popover-snippet">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span></span></span>
+The reason was not that he rejected physical evidence altogether. Vallée continued to investigate cases with alleged traces, including later work on materials analysis. The issue was that the reported behaviour of UFOs often seemed theatrically absurd, culturally adaptive or psychologically charged. WIRED notes that he doubted the idea of UFOs as “interstellar SUVs” and preferred to keep open stranger possibilities, including models that would explain why encounters appear to interact with belief, perception and mythology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span><span class="citation-popover-snippet">Jacques Vallée Still Doesn’t Know What UFOs Are &#124; WIRED</span></span></span>
 
 In this sense, Vallée’s folklore argument was also a critique of science-fiction literalism. Popular science fiction often turns mystery into hardware: a ship, a crew, a planet of origin, a mission. Vallée argued that many UFO stories do not behave like straightforward reconnaissance reports. They resemble initiations, tricks, visions, ordeals, warnings or symbolic dramas. That does not prove they are supernatural, extraterrestrial or psychological. It does show why a purely mechanical reading can miss important parts of the testimony.
 
-Rice University’s Archives of the Impossible places Vallée’s influence in exactly this mixed register, describing his work as combining scientific analysis with folklore and parapsychological approaches; it also notes that Steven Spielberg read and admired these books when shaping *Close Encounters of the Third Kind*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://impossiblearchives.rice.edu/archives-impossible-intro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Open source on rice.edu.</span></span></span> That connection is important: Vallée’s ideas entered the cultural space where UFO investigation and science-fiction storytelling were already feeding each other.
+Rice University’s Archives of the Impossible places Vallée’s influence in exactly this mixed register, describing his work as combining scientific analysis with folklore and parapsychological approaches; it also notes that Steven Spielberg read and admired these books when shaping *Close Encounters of the Third Kind*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://impossiblearchives.rice.edu/archives-impossible-intro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site | Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Open source on rice.edu.</span></span></span> That connection is important: Vallée’s ideas entered the cultural space where UFO investigation and science-fiction storytelling were already feeding each other.
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-2-dark.svg" | relative_url }}" alt="Vallee illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -501,7 +501,7 @@ There is also a source problem. Older reports often survive through chronicles, 
 
 A second limit is that symbolic comparison can become too elastic. If every strange visitor becomes part of the same pattern, the pattern risks explaining everything and nothing. Vallée’s best use of folklore is not as a shortcut to a grand answer, but as a warning against premature certainty. It asks researchers to notice repeated motifs, cultural translation and narrative form before declaring that the case must be alien, imaginary or fraudulent.
 
-That caution is also what keeps Vallée relevant beyond UFO belief communities. His archive at Rice, his long record of field investigation, and continuing scholarly interest in extraordinary experience show that his work is not merely a claim about “ancient aliens”. It is a method for asking how anomalous reports move between experience, memory, culture, technology and story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.library.rice.edu/repositories/2/resources/1085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[archives.library.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-snippet">Open source on rice.edu.</span></span></span>
+That caution is also what keeps Vallée relevant beyond UFO belief communities. His archive at Rice, his long record of field investigation, and continuing scholarly interest in extraordinary experience show that his work is not merely a claim about “ancient aliens”. It is a method for asking how anomalous reports move between experience, memory, culture, technology and story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.library.rice.edu/repositories/2/resources/1085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.library.rice.edu">[archives.library.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.library.rice.edu</span><span class="citation-popover-snippet">Open source on rice.edu.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eze1ikq-sMQ" title="The New Era in UFO Research with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer">The New Era in UFO Research with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 43.6K &middot; Uploaded: January 2023 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eze1ikq-sMQ">Open on YouTube</a></p></div></div></div>
@@ -518,194 +518,194 @@ The lasting value of Vallée’s argument is not that it solves UFOs. It changes
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-3-dark.svg" | relative_url }}" alt="Vallee illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vallee Linked UFOs to Older Legends. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vallee Linked UFOs to Older Legends. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that UFO encounters share patterns with folklore, myths and older legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that UFO encounters share patterns with folklore, myths and older legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Documents unusual aerial phenomena across centuries, supporting the historical-comparison approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents unusual aerial phenomena across centuries, supporting the historical-comparison approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Expands the challenge to simple extraterrestrial explanations and explores recurring encounter patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Expands the challenge to simple extraterrestrial explanations and explores recurring encounter patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Supernatural+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Supernatural on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KUONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Supernatural" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Supernatural+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Supernatural">Supernatural</a>
-        </h4>
-        <p class="fr-book-author">By Graham Hancock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Supernatural+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Supernatural on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KUONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Supernatural" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Supernatural+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Supernatural">Supernatural</a>
+</h4>
+<p class="fr-book-author">By Graham Hancock</p>
         
-        <p class="fr-book-desc">Explores links between anomalous experiences, folklore and non-human encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Supernatural+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores links between anomalous experiences, folklore and non-human encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Supernatural+by+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="vallee-why-vallee-linked-ufos-to-older-legends-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vallee-linked-ufos-to-older-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-vallee-linked-ufos-to-older-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -721,7 +721,7 @@ The lasting value of Vallée’s argument is not that it solves UFOs. It changes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -741,7 +741,7 @@ The lasting value of Vallée’s argument is not that it solves UFOs. It changes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -773,7 +773,7 @@ The lasting value of Vallée’s argument is not that it solves UFOs. It changes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -825,7 +825,7 @@ The lasting value of Vallée’s argument is not that it solves UFOs. It changes
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -870,7 +870,7 @@ The lasting value of Vallée’s argument is not that it solves UFOs. It changes
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -911,165 +911,165 @@ The lasting value of Vallée’s argument is not that it solves UFOs. It changes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ia801409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: <a href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
+   Link:<a href="https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: Jacques Vallée Still Doesn’t Know What UFOs Are | WIRED  
-   Link: <a href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are</a>  
+   Link:<a href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.library.rice.edu  
-   Link: <a href="https://archives.library.rice.edu/repositories/2/resources/1085" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/resources/1085</a>  
+   Link:<a href="https://archives.library.rice.edu/repositories/2/resources/1085" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/resources/1085</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: impossiblearchives.rice.edu  
-   Link: <a href="https://impossiblearchives.rice.edu/archives-impossible-intro" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/archives-impossible-intro</a>  
+   Link:<a href="https://impossiblearchives.rice.edu/archives-impossible-intro" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/archives-impossible-intro</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.rice.edu  
    Title: s archives impossible offer insight and expertise world ufo day  
-   Link: <a href="https://news.rice.edu/news/2025/rices-archives-impossible-offer-insight-and-expertise-world-ufo-day" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2025/rices-archives-impossible-offer-insight-and-expertise-world-ufo-day</a>  
+   Link:<a href="https://news.rice.edu/news/2025/rices-archives-impossible-offer-insight-and-expertise-world-ufo-day" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2025/rices-archives-impossible-offer-insight-and-expertise-world-ufo-day</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.rice.edu  
-   Link: <a href="https://news.rice.edu/news/2025/exploring-unexplained-new-chapter-archives-impossible-brings-together-people-different" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2025/exploring-unexplained-new-chapter-archives-impossible-brings-together-people-different</a>  
+   Link:<a href="https://news.rice.edu/news/2025/exploring-unexplained-new-chapter-archives-impossible-brings-together-people-different" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2025/exploring-unexplained-new-chapter-archives-impossible-brings-together-people-different</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.rice.edu  
    Title: decade discovery 10 years rices archives impossible  
-   Link: <a href="https://news.rice.edu/news/2024/decade-discovery-10-years-rices-archives-impossible" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2024/decade-discovery-10-years-rices-archives-impossible</a>  
+   Link:<a href="https://news.rice.edu/news/2024/decade-discovery-10-years-rices-archives-impossible" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2024/decade-discovery-10-years-rices-archives-impossible</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Jacques Vallée  
-   Link: <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Archives of the Impossible  
-   Link: <a href="https://en.wikipedia.org/wiki/Archives_of_the_Impossible" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_of_the_Impossible</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Archives_of_the_Impossible" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_of_the_Impossible</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Jacques" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jacques" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thetalkingllama.wordpress.com  
    Title: passport to magonia  
-   Link: <a href="https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/</a>  
+   Link:<a href="https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://thetalkingllama.wordpress.com/2012/06/27/passport-to-magonia/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TheWhyFiles/comments/1ggdwha/rice_universitys_archives_of_the_impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/1ggdwha/rice_universitys_archives_of_the_impossible/</a>  
+   Link:<a href="https://www.reddit.com/r/TheWhyFiles/comments/1ggdwha/rice_universitys_archives_of_the_impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/1ggdwha/rice_universitys_archives_of_the_impossible/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia601409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
+   Link:<a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/messengersofdece0000vall" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/messengersofdece0000vall</a>  
+   Link:<a href="https://archive.org/details/messengersofdece0000vall" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/messengersofdece0000vall</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: passporttomagoni0000vall m8g5  
-   Link: <a href="https://archive.org/details/passporttomagoni0000vall_m8g5" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/passporttomagoni0000vall_m8g5</a>  
+   Link:<a href="https://archive.org/details/passporttomagoni0000vall_m8g5" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/passporttomagoni0000vall_m8g5</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ia800500.us.archive.org  
-   Link: <a href="https://ia800500.us.archive.org/29/items/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%20Vallee%2C%20Chris%20Aubeck%20Wonders%20in%20the%20Sky%20%20Unexplained%20Aerial%20Objects%20from%20Antiquity%20to%20Modern%20Times.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800500.us.archive.org/29/items/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%20Vallee%2C%20Chris%20Aubeck%20Wonders%20in%20the%20Sky%20%20Unexplained%20Aerial%20Objects%20from%20Antiquity%20to%20Modern%20Times.pdf</a>  
+   Link:<a href="https://ia800500.us.archive.org/29/items/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%20Vallee%2C%20Chris%20Aubeck%20Wonders%20in%20the%20Sky%20%20Unexplained%20Aerial%20Objects%20from%20Antiquity%20to%20Modern%20Times.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800500.us.archive.org/29/items/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%20Vallee%2C%20Chris%20Aubeck%20Wonders%20in%20the%20Sky%20%20Unexplained%20Aerial%20Objects%20from%20Antiquity%20to%20Modern%20Times.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/pronunciation/english/jacques" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/pronunciation/english/jacques</a>  
+   Link:<a href="https://dictionary.cambridge.org/pronunciation/english/jacques" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/pronunciation/english/jacques</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: journal.equinoxpub.com  
-   Link: <a href="https://journal.equinoxpub.com/IR/article/view/19355" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/IR/article/view/19355</a>  
+   Link:<a href="https://journal.equinoxpub.com/IR/article/view/19355" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/IR/article/view/19355</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
+   Link:<a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wakefieldbooks.com  
-   Link: <a href="https://wakefieldbooks.com/book/9780975720042" target="_blank" rel="noopener noreferrer nofollow">https://wakefieldbooks.com/book/9780975720042</a>  
+   Link:<a href="https://wakefieldbooks.com/book/9780975720042" target="_blank" rel="noopener noreferrer nofollow">https://wakefieldbooks.com/book/9780975720042</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sobrief.com  
    Title: Passport to Magonia  
-   Link: <a href="https://sobrief.com/books/passport-to-magonia-2" target="_blank" rel="noopener noreferrer nofollow">https://sobrief.com/books/passport-to-magonia-2</a>  
+   Link:<a href="https://sobrief.com/books/passport-to-magonia-2" target="_blank" rel="noopener noreferrer nofollow">https://sobrief.com/books/passport-to-magonia-2</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Jacques Vallée, UFOs, and the Case against Extraterrestrial Origins  
-   Link: <a href="https://www.youtube.com/watch?v=lmLE0X5FRFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lmLE0X5FRFc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jacques Vallée: UAP Encounters, Patterns, and the Signals of Intelligence | The Sol Forum #4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lmLE0X5FRFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lmLE0X5FRFc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jacques Vallée: UAP Encounters, Patterns, and the Signals of Intelligence | The Sol Forum #4...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NJ4JuA2UYL4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJ4JuA2UYL4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport To Magonia by Jacques Vallée - Chapter 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NJ4JuA2UYL4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJ4JuA2UYL4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport To Magonia by Jacques Vallée - Chapter 1...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The New Era in UFO Research with Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eze1ikq-sMQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Passport to Magonia folklore UFOs Passport To Magonia by Jacques Vallée - Chapter 1 Disinfo Zone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eze1ikq-sMQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Passport to Magonia folklore UFOs Passport To Magonia by Jacques Vallée - Chapter 1 Disinfo Zone...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ig4zb1/92_paper_summarizing_jacques_vallees_hypothesis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ig4zb1/92_paper_summarizing_jacques_vallees_hypothesis/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ig4zb1/92_paper_summarizing_jacques_vallees_hypothesis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ig4zb1/92_paper_summarizing_jacques_vallees_hypothesis/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/list/book/71255" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/list/book/71255</a>  
+   Link:<a href="https://www.goodreads.com/list/book/71255" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/list/book/71255</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dreamstudies.org  
-   Link: <a href="https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/</a>  
+   Link:<a href="https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CriticalTheory/comments/1bomals/any_serious_critical_theory_on_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CriticalTheory/comments/1bomals/any_serious_critical_theory_on_ufos/</a>  
+   Link:<a href="https://www.reddit.com/r/CriticalTheory/comments/1bomals/any_serious_critical_theory_on_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CriticalTheory/comments/1bomals/any_serious_critical_theory_on_ufos/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d6rn56/anyone_else_read_passport_to_magonia/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dur.ac.uk  
-   Link: <a href="https://www.dur.ac.uk/media/durham-university/departments-/law-school/news-and-events/events/seti-and-uap-event---bohlander-2025/Senn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dur.ac.uk/media/durham-university/departments-/law-school/news-and-events/events/seti-and-uap-event---bohlander-2025/Senn.pdf</a>  
+   Link:<a href="https://www.dur.ac.uk/media/durham-university/departments-/law-school/news-and-events/events/seti-and-uap-event---bohlander-2025/Senn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dur.ac.uk/media/durham-university/departments-/law-school/news-and-events/events/seti-and-uap-event---bohlander-2025/Senn.pdf</a>  

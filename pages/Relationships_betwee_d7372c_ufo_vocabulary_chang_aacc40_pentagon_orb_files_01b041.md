@@ -280,13 +280,13 @@ image: /assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_pe
 
 ## Introduction
 
-The 2026 release of Pentagon-linked UAP ([Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena) files gave unusual prominence to a word that has increasingly replaced older terms such as “[flying saucer]({{ 'flying-saucer/' | relative_url }})”: orb. What made these files notable was not simply that they described glowing spheres. Rather, several reports appeared to connect orb sightings across the same broad geographic area over multiple years, creating what looked like a recurring evidence trail rather than a single isolated incident. That pattern matters because repeated sightings often feel more convincing to both investigators and the public, even when no definitive explanation has been established. The orb files therefore sit at an important junction between official government language, public interpretation and the long-standing science-fiction habit of treating recurring mysteries as signs of an underlying phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+The 2026 release of Pentagon-linked UAP ([Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena) files gave unusual prominence to a word that has increasingly replaced older terms such as “[flying saucer]({{ 'flying-saucer/' | relative_url }})”: orb. What made these files notable was not simply that they described glowing spheres. Rather, several reports appeared to connect orb sightings across the same broad geographic area over multiple years, creating what looked like a recurring evidence trail rather than a single isolated incident. That pattern matters because repeated sightings often feel more convincing to both investigators and the public, even when no definitive explanation has been established. The orb files therefore sit at an important junction between official government language, public interpretation and the long-standing science-fiction habit of treating recurring mysteries as signs of an underlying phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_pentagon_orb_files_01b041-Illustration-1-dark.svg" | relative_url }}" alt="Orb Files illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_pentagon_orb_files_01b041-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_pentagon_orb_files_01b041-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Released Files Reportedly Described
 
-In June 2026, the Pentagon released a third batch of declassified UAP materials containing dozens of documents, witness accounts, images and videos gathered from agencies including the FBI, CIA and Department of Defense. Several of the newly released records focused on reports from the northeastern United States involving luminous spheres or orb-like objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+In June 2026, the Pentagon released a third batch of declassified UAP materials containing dozens of documents, witness accounts, images and videos gathered from agencies including the FBI, CIA and Department of Defense. Several of the newly released records focused on reports from the northeastern United States involving luminous spheres or orb-like objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
 The reports varied in detail, but several recurring themes appeared:
 
@@ -294,9 +294,9 @@ The reports varied in detail, but several recurring themes appeared:
 * Some reports involved multiple orbs moving together.
 * One FBI account described a red sphere containing what observers characterised as a bright white centre.
 * Another case referred to a luminous object hovering above a pond and apparently changing shape or separating into smaller points of light.
-* Multiple files referenced sightings occurring in proximity to locations associated with earlier orb reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+* Multiple files referenced sightings occurring in proximity to locations associated with earlier orb reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
-A particularly important detail was that at least one 2025 interview explicitly linked a new observation to previous reports in the same region. The released documentation referred to nearby incidents with labels such as “Triangle Orbs”, “Red Orb Rotation” and “Orbs Over the Pond”, suggesting investigators were treating the reports as potentially connected rather than entirely independent events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+A particularly important detail was that at least one 2025 interview explicitly linked a new observation to previous reports in the same region. The released documentation referred to nearby incidents with labels such as “Triangle Orbs”, “Red Orb Rotation” and “Orbs Over the Pond”, suggesting investigators were treating the reports as potentially connected rather than entirely independent events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
 That does not mean the files demonstrated a single phenomenon. It does mean that the released records documented a sequence of observations that investigators believed were similar enough to cross-reference.
 
@@ -311,7 +311,7 @@ Several factors contribute to this:
 
 **Patterns appear more meaningful than isolated events.** Human beings naturally look for repetition. When separate witnesses report similar-looking objects in the same region, many people assume a common cause exists.
 
-**Government cross-referencing adds authority.** Once official documents begin connecting incidents together, the pattern can appear more substantial than a collection of unrelated witness stories. The language of files, case numbers and investigative references gives a sense of continuity even when conclusions remain unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+**Government cross-referencing adds authority.** Once official documents begin connecting incidents together, the pattern can appear more substantial than a collection of unrelated witness stories. The language of files, case numbers and investigative references gives a sense of continuity even when conclusions remain unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
 **Recurring reports fit familiar science-fiction narratives.** Popular fiction has long portrayed mysterious visitors returning to particular locations, establishing “hotspots” of activity. When official records describe repeated orb sightings in one area, many readers instinctively interpret the pattern through those existing cultural frameworks.
 
@@ -357,7 +357,7 @@ Because many unrelated things can appear as glowing spheres, similarity of appea
 
 ### Official Files Often Preserve Questions Rather Than Answer Them
 
-The 2026 release presented testimony and documentation but did not establish a verified explanation for the northeastern orb reports. The files demonstrated that reports existed and were recorded. They did not demonstrate extraterrestrial technology, unknown physics or a single coherent phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+The 2026 release presented testimony and documentation but did not establish a verified explanation for the northeastern orb reports. The files demonstrated that reports existed and were recorded. They did not demonstrate extraterrestrial technology, unknown physics or a single coherent phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
 ## Where Documentation Still Falls Short
 
@@ -377,7 +377,7 @@ Many of the released records contain descriptions, interviews, sketches or smart
 
 </div>
 
-The Pentagon's own UAP reporting efforts illustrate this broader challenge. The All-domain Anomaly Resolution Office (AARO) has repeatedly noted that many reports arrive with insufficient data for confident identification, while cases that are resolved frequently turn out to involve balloons, birds, drones or other conventional [explanations]({{ 'explanations/' | relative_url }}). In its FY2024 reporting, AARO stated that dozens of investigated cases had been resolved as ordinary objects and that many unresolved reports remained unresolved largely because available information was incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceUNCLASSIFIEDApril 20, 2026...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span>
+The Pentagon's own UAP reporting efforts illustrate this broader challenge. The All-domain Anomaly Resolution Office (AARO) has repeatedly noted that many reports arrive with insufficient data for confident identification, while cases that are resolved frequently turn out to involve balloons, birds, drones or other conventional [explanations]({{ 'explanations/' | relative_url }}). In its FY2024 reporting, AARO stated that dozens of investigated cases had been resolved as ordinary objects and that many unresolved reports remained unresolved largely because available information was incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">Director of National IntelligenceUNCLASSIFIEDApril 20, 2026...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span>
 
 This means that a repeated sighting pattern can be intriguing without becoming conclusive. The orb files reveal continuity of reporting, not necessarily continuity of explanation.
 
@@ -389,197 +389,197 @@ The broader significance of the 2026 release lies in language. Earlier generatio
 
 By grouping multiple sphere-related incidents within a single documentary trail, the release helped make “orb” a more official category within contemporary UFO vocabulary. Whether future investigations ultimately identify mundane causes, advanced technology or something still unknown, the files demonstrate how government disclosures can reinforce emerging terminology.
 
-In that sense, the orb files are as much about classification as they are about mystery. They show how repeated reports can elevate a descriptive label into a recognised investigative category, even while the underlying phenomenon remains unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+In that sense, the orb files are as much about classification as they are about mystery. They show how repeated reports can elevate a descriptive label into a recognised investigative category, even while the underlying phenomenon remains unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Repeated Orb Reports Can Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Repeated Orb Reports Can Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Focuses on government UAP investigations and official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government UAP investigations and official reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly aligns with official files, military reports and recurring sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with official files, military reports and recurring sighting claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for repeated reports and evidentiary evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for repeated reports and evidentiary evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how official narratives and modern belief systems interact around anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how official narratives and modern belief systems interact around anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Memorabilia A4 Vintage Magazine Poster"><img src="{{ '/assets/images/marketplace-covers/b47b2607f628cfda94f4.jpg' | relative_url }}" alt="Listing image for The X-Files Memorabilia A4 Vintage Magazine Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Memorabilia A4 Vintage Magazine Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Memorabilia A4 Vintage Magazine Poster"><img src="{{ '/assets/images/marketplace-covers/b47b2607f628cfda94f4.jpg' | relative_url }}" alt="Listing image for The X-Files Memorabilia A4 Vintage Magazine Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Memorabilia A4 Vintage Magazine Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6d32fac58a7b8813b2f2.jpg' | relative_url }}" alt="Listing image for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6d32fac58a7b8813b2f2.jpg' | relative_url }}" alt="Listing image for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show."><img src="{{ '/assets/images/marketplace-covers/eaa2d2e74f4849bf93e2.jpg' | relative_url }}" alt="Listing image for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show."><img src="{{ '/assets/images/marketplace-covers/eaa2d2e74f4849bf93e2.jpg' | relative_url }}" alt="Listing image for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1"><img src="{{ '/assets/images/marketplace-covers/ff8d557e5edfa8b036e0.jpg' | relative_url }}" alt="Listing image for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1"><img src="{{ '/assets/images/marketplace-covers/ff8d557e5edfa8b036e0.jpg' | relative_url }}" alt="Listing image for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="orb-files-what-repeated-orb-reports-can-really-show-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ In that sense, the orb files are as much about classification as they are about 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ In that sense, the orb files are as much about classification as they are about 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ In that sense, the orb files are as much about classification as they are about 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ In that sense, the orb files are as much about classification as they are about 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ In that sense, the orb files are as much about classification as they are about 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,81 +785,81 @@ In that sense, the orb files are as much about classification as they are about 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: New Pentagon UFO file reveals glowing orbs in US Northeast  
-   Link: <a href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsNew UFO files released by US including reports of glowing red orbs | US News | Sky News...</p></details>
+   Link:<a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsNew UFO files released by US including reports of glowing red orbs | US News | Sky News...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceUNCLASSIFIEDApril 20, 2026...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceUNCLASSIFIEDApril 20, 2026...</p></details>
    Published: April 20, 2026  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1u59v0a/pentagonfbi_uap_release_72_files_detailing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1u59v0a/pentagonfbi_uap_release_72_files_detailing/</a>  
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1u59v0a/pentagonfbi_uap_release_72_files_detailing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1u59v0a/pentagonfbi_uap_release_72_files_detailing/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon releases 3rd batch of UFO files, detailing mysterious orb sightings: &quot;Are you seeing this?&quot; - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsPentagon releases 3rd batch of UFO files, detailing mysterious orb sightings: &quot;Are you seeing this?&quot; - CBS News...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1u4684e/pentagon_releases_third_batch_of_declassified_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1u4684e/pentagon_releases_third_batch_of_declassified_uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Releases Third Batch of Declassified UAP Files with Orb Videos, Eyewitness Testimonies, and Historic AudioJune 12, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1u4684e/pentagon_releases_third_batch_of_declassified_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1u4684e/pentagon_releases_third_batch_of_declassified_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Releases Third Batch of Declassified UAP Files with Orb Videos, Eyewitness Testimonies, and Historic AudioJune 12, 2026...</p></details>
    Published: June 12, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AtlasOfMystery/comments/1u3vdks/official_fbi_uap_video_shows_a_plasma_like_sphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AtlasOfMystery/comments/1u3vdks/official_fbi_uap_video_shows_a_plasma_like_sphere/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UAP Video Shows a “Plasma Like Sphere” Hovering Over a Pond for Approximately 45 MinutesJune 12, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/AtlasOfMystery/comments/1u3vdks/official_fbi_uap_video_shows_a_plasma_like_sphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AtlasOfMystery/comments/1u3vdks/official_fbi_uap_video_shows_a_plasma_like_sphere/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UAP Video Shows a “Plasma Like Sphere” Hovering Over a Pond for Approximately 45 MinutesJune 12, 2026...</p></details>
    Published: June 12, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1u41i3y/pentagon_releases_third_batch_of_declassified_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1u41i3y/pentagon_releases_third_batch_of_declassified_uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Releases Third Batch of Declassified UAP Files, Including Orb Videos and Apollo 16 DebriefJune 12, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1u41i3y/pentagon_releases_third_batch_of_declassified_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1u41i3y/pentagon_releases_third_batch_of_declassified_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Releases Third Batch of Declassified UAP Files, Including Orb Videos and Apollo 16 DebriefJune 12, 2026...</p></details>
    Published: June 12, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/u_WLnavarro/comments/1t8p32o/three_strange_details_from_the_new_pentagon_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/u_WLnavarro/comments/1t8p32o/three_strange_details_from_the_new_pentagon_uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>strange details from the new Pentagon UAP files that almost nobody is talking aboutMay 9, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/u_WLnavarro/comments/1t8p32o/three_strange_details_from_the_new_pentagon_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/u_WLnavarro/comments/1t8p32o/three_strange_details_from_the_new_pentagon_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>strange details from the new Pentagon UAP files that almost nobody is talking aboutMay 9, 2026...</p></details>
    Published: May 9, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CFMRuMDNwKI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>declassified UFO footage shows mystery ‘metal orb’ moving eerily - YouTubeApril 20, 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CFMRuMDNwKI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>declassified UFO footage shows mystery ‘metal orb’ moving eerily - YouTubeApril 20, 2023...</p></details>
    Published: April 20, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mediaite.com  
    Title: www.mediaite.com Pentagon Releases UFO Videos and Images in Latest Release  
-   Link: <a href="https://www.mediaite.com/media/news/pentagon-releases-new-batch-of-ufo-files-including-new-mystery-orb-images-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediaite.com/media/news/pentagon-releases-new-batch-of-ufo-files-including-new-mystery-orb-images-videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Releases UFO Videos and Images in Latest ReleaseJune 12, 2026...</p></details>
+   Link:<a href="https://www.mediaite.com/media/news/pentagon-releases-new-batch-of-ufo-files-including-new-mystery-orb-images-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediaite.com/media/news/pentagon-releases-new-batch-of-ufo-files-including-new-mystery-orb-images-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Releases UFO Videos and Images in Latest ReleaseJune 12, 2026...</p></details>
    Published: June 12, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: www.reddit.com Case study on “metallic orbs” — data from 500+ reports  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1n1rd42" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1n1rd42</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>study on “metallic orbs” — data from 500+ reportsAugust 27, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1n1rd42" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1n1rd42</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study on “metallic orbs” — data from 500+ reportsAugust 27, 2025...</p></details>
    Published: August 27, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Third batch of Pentagon UFO files released: See all 6 videos  
-   Link: <a href="https://www.youtube.com/watch?v=WpT4K5ZElXE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpT4K5ZElXE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases third batch of UFO files with orbs moving across sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpT4K5ZElXE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpT4K5ZElXE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases third batch of UFO files with orbs moving across sky...</p></details>

@@ -280,17 +280,17 @@ image: /assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_fr
 
 ## Introduction
 
-Before most people had seen a rocket, a satellite or any authentic image of another world, Frank R. Paul was drawing them. As the principal illustrator for Hugo Gernsback’s early science-fiction magazines, Paul filled newsstands with vast machines, towering future cities, airborne craft and engineered landscapes that looked as though they belonged to a technologically transformed universe. His importance to the relationship between science fiction and later UFO culture lies not in predicting specific [flying-saucer]({{ 'flying-saucer/' | relative_url }}) shapes, but in making the idea of artificial objects in the sky visually familiar decades before the UFO boom of 1947. Paul’s illustrations gave readers a way to picture advanced technology operating beyond ordinary experience, creating a visual vocabulary that later audiences could draw upon when reports of mysterious aerial objects entered popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
+Before most people had seen a rocket, a satellite or any authentic image of another world, Frank R. Paul was drawing them. As the principal illustrator for Hugo Gernsback’s early science-fiction magazines, Paul filled newsstands with vast machines, towering future cities, airborne craft and engineered landscapes that looked as though they belonged to a technologically transformed universe. His importance to the relationship between science fiction and later UFO culture lies not in predicting specific [flying-saucer]({{ 'flying-saucer/' | relative_url }}) shapes, but in making the idea of artificial objects in the sky visually familiar decades before the UFO boom of 1947. Paul’s illustrations gave readers a way to picture advanced technology operating beyond ordinary experience, creating a visual vocabulary that later audiences could draw upon when reports of mysterious aerial objects entered popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-1-dark.svg" | relative_url }}" alt="Frank R Paul illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Paul's Role in Early Science Fiction Magazines
 
-Frank R. Paul is widely regarded as the first major science-fiction illustrator. Working closely with publisher and editor Hugo Gernsback, he became the defining visual artist of magazines such as *[Amazing Stories]({{ 'amazing-stories/' | relative_url }})*, *Science [Wonder]({{ 'wonder/' | relative_url }}) Stories* and *Wonder Stories*. His covers appeared on the earliest issues of *Amazing Stories*, including the pioneering 1926 run that helped establish science fiction as a distinct magazine genre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
+Frank R. Paul is widely regarded as the first major science-fiction illustrator. Working closely with publisher and editor Hugo Gernsback, he became the defining visual artist of magazines such as *[Amazing Stories]({{ 'amazing-stories/' | relative_url }})*, *Science [Wonder]({{ 'wonder/' | relative_url }}) Stories* and *Wonder Stories*. His covers appeared on the earliest issues of *Amazing Stories*, including the pioneering 1926 run that helped establish science fiction as a distinct magazine genre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
 
-What distinguished Paul from many contemporary illustrators was his technical background. Trained in architecture and mechanical drafting, he approached speculative art as a problem of visual engineering. His machines were often fantastical, but they appeared constructed rather than magical. Readers encountered spacecraft with visible structures, enormous power plants, intricate control systems and cities built around technological principles. The Society of Illustrators notes that this combination of imagination and technical precision became central to the visual identity of early science fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
+What distinguished Paul from many contemporary illustrators was his technical background. Trained in architecture and mechanical drafting, he approached speculative art as a problem of visual engineering. His machines were often fantastical, but they appeared constructed rather than magical. Readers encountered spacecraft with visible structures, enormous power plants, intricate control systems and cities built around technological principles. The Society of Illustrators notes that this combination of imagination and technical precision became central to the visual identity of early science fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
 
-The magazines themselves depended heavily on such imagery. Cover art was often the first thing a prospective reader saw at a newsstand. Scholars of pulp culture have noted that these covers communicated a magazine’s attitude toward science and technology before a reader opened the issue. Paul’s images therefore did more than decorate stories; they taught readers what scientific futures might look like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amycchambers.com/2018/05/30/sf-magazine-cover-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amycchambers.com">[Dr Amy C. Chambers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amycchambers.com</span><span class="citation-popover-snippet">Dr Amy C. ChambersAmazing Stories, Amazing Art: SF Magazine Cover Art – Dr Amy C. ChambersMay 30, 2018...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
+The magazines themselves depended heavily on such imagery. Cover art was often the first thing a prospective reader saw at a newsstand. Scholars of pulp culture have noted that these covers communicated a magazine’s attitude toward science and technology before a reader opened the issue. Paul’s images therefore did more than decorate stories; they taught readers what scientific futures might look like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amycchambers.com/2018/05/30/sf-magazine-cover-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amycchambers.com">[Dr Amy C. Chambers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amycchambers.com</span><span class="citation-popover-snippet">Dr Amy C. ChambersAmazing Stories, Amazing Art: SF Magazine Cover Art – Dr Amy C. ChambersMay 30, 2018...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OOnhl23FBpw" title="Frank R Paul: Father of Science Fiction Art" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer">Frank R Paul: Father of Science Fiction Art</a></p><p class="youtube-embed-meta">Channel: Rave Sensation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OOnhl23FBpw">Open on YouTube</a></p></div></div></div>
@@ -308,15 +308,15 @@ His illustrations repeatedly presented several themes:
 * Multi-level future cities filled with towers, bridges and aerial traffic.
 * Flying machines operating in crowded, technologically managed skies.
 * Mechanical infrastructures extending beyond anything then possible in reality.
-* Alien worlds portrayed as places shaped by engineering rather than pure fantasy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
+* Alien worlds portrayed as places shaped by engineering rather than pure fantasy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
 
 </div>
 
 This mattered because readers saw these images month after month. The skies in Paul’s artwork were rarely empty. They were occupied by vehicles, platforms, airways and machines. Even when the designs were scientifically implausible, they suggested that advanced civilisations would naturally fill the heavens with manufactured objects.
 
-Unlike later UFO imagery, Paul did not standardise a single craft shape. Early science-fiction magazines depicted [rockets]({{ 'rockets/' | relative_url }}), cylinders, streamlined vessels, aircraft-like vehicles and enormous space liners. The important cultural lesson was not the appearance of a particular machine but the broader assumption that unknown objects in the sky might be technological creations. The *Encyclopedia of Science Fiction* notes that early magazine illustrations frequently portrayed spaceships as engineered vehicles with recognisable structural features rather than mystical phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">SF Encyclopedia SFE: Spaceships</span><span class="citation-popover-snippet">SF Encyclopedia SFE: Spaceships</span></span></span>
+Unlike later UFO imagery, Paul did not standardise a single craft shape. Early science-fiction magazines depicted [rockets]({{ 'rockets/' | relative_url }}), cylinders, streamlined vessels, aircraft-like vehicles and enormous space liners. The important cultural lesson was not the appearance of a particular machine but the broader assumption that unknown objects in the sky might be technological creations. The *Encyclopedia of Science Fiction* notes that early magazine illustrations frequently portrayed spaceships as engineered vehicles with recognisable structural features rather than mystical phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">SF Encyclopedia SFE: Spaceships</span><span class="citation-popover-snippet">SF Encyclopedia SFE: Spaceships</span></span></span>
 
-Paul’s influence became so pervasive that later observers remarked on how strongly his mechanical style shaped expectations. Even decades afterward, collectors and enthusiasts identified many forms of science-fiction machinery with his visual approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/CoolSciFiCovers/comments/ea4njf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
+Paul’s influence became so pervasive that later observers remarked on how strongly his mechanical style shaped expectations. Even decades afterward, collectors and enthusiasts identified many forms of science-fiction machinery with his visual approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/CoolSciFiCovers/comments/ea4njf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-2-dark.svg" | relative_url }}" alt="Frank R Paul illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -324,11 +324,11 @@ Paul’s influence became so pervasive that later observers remarked on how stro
 
 When the modern UFO era began in 1947, newspaper readers were not encountering the idea of strange craft entirely for the first time. Millions of magazine readers had already spent years seeing illustrations of advanced vehicles crossing skies, travelling between planets and arriving from other worlds.
 
-The connection should not be overstated. Paul did not invent flying-saucer reports, and most of his spacecraft looked different from the disc-shaped objects that became famous after Kenneth Arnold's sighting. Yet his artwork helped establish an important mental category: the notion that unexplained aerial phenomena could be interpreted as engineered machines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">SF Encyclopedia SFE: Spaceships</span><span class="citation-popover-snippet">SF Encyclopedia SFE: Spaceships</span></span></span>
+The connection should not be overstated. Paul did not invent flying-saucer reports, and most of his spacecraft looked different from the disc-shaped objects that became famous after Kenneth Arnold's sighting. Yet his artwork helped establish an important mental category: the notion that unexplained aerial phenomena could be interpreted as engineered machines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">SF Encyclopedia SFE: Spaceships</span><span class="citation-popover-snippet">SF Encyclopedia SFE: Spaceships</span></span></span>
 
-This influence operated through familiarity. When readers encountered reports of mysterious aerial objects, they already possessed visual references for concepts such as interplanetary travel, technologically advanced visitors and machines operating beyond known human capabilities. Paul's illustrations had normalised those possibilities within popular culture years before UFOs became a public controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amycchambers.com/2018/05/30/sf-magazine-cover-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amycchambers.com">[Dr Amy C. Chambers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amycchambers.com</span><span class="citation-popover-snippet">Dr Amy C. ChambersAmazing Stories, Amazing Art: SF Magazine Cover Art – Dr Amy C. ChambersMay 30, 2018...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
+This influence operated through familiarity. When readers encountered reports of mysterious aerial objects, they already possessed visual references for concepts such as interplanetary travel, technologically advanced visitors and machines operating beyond known human capabilities. Paul's illustrations had normalised those possibilities within popular culture years before UFOs became a public controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amycchambers.com/2018/05/30/sf-magazine-cover-art/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amycchambers.com">[Dr Amy C. Chambers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amycchambers.com</span><span class="citation-popover-snippet">Dr Amy C. ChambersAmazing Stories, Amazing Art: SF Magazine Cover Art – Dr Amy C. ChambersMay 30, 2018...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span>
 
-The effect can be seen in the broader evolution of science-fiction imagery. The *Encyclopedia of Science Fiction* notes that UFO enthusiasm after the Second World War influenced later science-fiction illustration, especially through the increasing appearance of disc-shaped spacecraft. In other words, influence eventually flowed in both directions: early science-fiction art helped prepare audiences to imagine extraordinary craft, while later UFO reports altered the appearance of science-fiction spacecraft themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">SF Encyclopedia SFE: Spaceships</span><span class="citation-popover-snippet">SF Encyclopedia SFE: Spaceships</span></span></span>
+The effect can be seen in the broader evolution of science-fiction imagery. The *Encyclopedia of Science Fiction* notes that UFO enthusiasm after the Second World War influenced later science-fiction illustration, especially through the increasing appearance of disc-shaped spacecraft. In other words, influence eventually flowed in both directions: early science-fiction art helped prepare audiences to imagine extraordinary craft, while later UFO reports altered the appearance of science-fiction spacecraft themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-title">SF Encyclopedia SFE: Spaceships</span><span class="citation-popover-snippet">SF Encyclopedia SFE: Spaceships</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6GnFUgqIHsM" title="Frank R. Paul 1920s Cover Art" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer">Frank R. Paul 1920s Cover Art</a></p><p class="youtube-embed-meta">Channel: The1920sChannel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6GnFUgqIHsM">Open on YouTube</a></p></div></div></div>
@@ -338,200 +338,200 @@ The effect can be seen in the broader evolution of science-fiction imagery. The 
 
 ## The Illustrator Who Made Strange Craft Visible
 
-Frank R. Paul’s lasting significance lies in visualisation. Long before [spaceflight]({{ 'spaceflight/' | relative_url }}) became reality, he transformed abstract speculation into concrete images. Readers could look at his covers and see machines crossing alien skies, cities suspended above the ground and vessels travelling between worlds. Those pictures did not provide evidence for UFOs, but they supplied something culturally important: a believable visual framework for imagining technological objects beyond ordinary experience. In the decades before [television]({{ 'television/' | relative_url }}) space imagery, few artists did more to make engineered skies seem imaginable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
+Frank R. Paul’s lasting significance lies in visualisation. Long before [spaceflight]({{ 'spaceflight/' | relative_url }}) became reality, he transformed abstract speculation into concrete images. Readers could look at his covers and see machines crossing alien skies, cities suspended above the ground and vessels travelling between worlds. Those pictures did not provide evidence for UFOs, but they supplied something culturally important: a believable visual framework for imagining technological objects beyond ordinary experience. In the decades before [television]({{ 'television/' | relative_url }}) space imagery, few artists did more to make engineered skies seem imaginable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-3-dark.svg" | relative_url }}" alt="Frank R Paul illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_frank_r_paul_visual_b8a93d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The illustrator who made strange craft visible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The illustrator who made strange craft visible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tYpPvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H. G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tYpPvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H. G. Wells</p>
         
-        <p class="fr-book-desc">Established many alien roles later echoed in pulp fiction and UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Established many alien roles later echoed in pulp fiction and UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects public UFO interpretations to broader cultural expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects public UFO interpretations to broader cultural expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
-        </h4>
-        <p class="fr-book-author">By Mike Ashley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
+</h4>
+<p class="fr-book-author">By Mike Ashley</p>
         
-        <p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frank R. Paul Father of Science Fiction Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uaLUQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frank R. Paul Father of Science Fiction Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frank R. Paul Father of Science Fiction Art">Frank R. Paul Father of Science Fiction Art</a>
-        </h4>
-        <p class="fr-book-author">By Stephen D. Korshak</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frank R. Paul Father of Science Fiction Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uaLUQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frank R. Paul Father of Science Fiction Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frank R. Paul Father of Science Fiction Art">Frank R. Paul Father of Science Fiction Art</a>
+</h4>
+<p class="fr-book-author">By Stephen D. Korshak</p>
         
-        <p class="fr-book-desc">Showcases the artist behind many influential spacecraft depictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Showcases the artist behind many influential spacecraft depictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="frank-r-paul-the-illustrator-who-made-strange-craft-visible-relationships-betwee-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ Frank R. Paul’s lasting significance lies in visualisation. Long before [space
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ Frank R. Paul’s lasting significance lies in visualisation. Long before [space
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ Frank R. Paul’s lasting significance lies in visualisation. Long before [space
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ Frank R. Paul’s lasting significance lies in visualisation. Long before [space
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ Frank R. Paul’s lasting significance lies in visualisation. Long before [space
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,70 +737,70 @@ Frank R. Paul’s lasting significance lies in visualisation. Long before [space
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sf-encyclopedia.com  
    Title: SF Encyclopedia SFE: Spaceships  
-   Link: <a href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/spaceships</a>  
+   Link:<a href="https://sf-encyclopedia.com/entry/spaceships" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/spaceships</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CoolSciFiCovers/comments/ea4njf" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CoolSciFiCovers/comments/ea4njf</a>  
+   Link:<a href="https://www.reddit.com/r/CoolSciFiCovers/comments/ea4njf" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CoolSciFiCovers/comments/ea4njf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: societyillustrators.org  
-   Link: <a href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow">https://societyillustrators.org/award-winners/frankrpaul/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</p></details>
+   Link:<a href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow">https://societyillustrators.org/award-winners/frankrpaul/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: amycchambers.com  
-   Link: <a href="https://amycchambers.com/2018/05/30/sf-magazine-cover-art/" target="_blank" rel="noopener noreferrer nofollow">https://amycchambers.com/2018/05/30/sf-magazine-cover-art/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Amy C. ChambersAmazing Stories, Amazing Art: SF Magazine Cover Art – Dr Amy C. ChambersMay 30, 2018...</p></details>
+   Link:<a href="https://amycchambers.com/2018/05/30/sf-magazine-cover-art/" target="_blank" rel="noopener noreferrer nofollow">https://amycchambers.com/2018/05/30/sf-magazine-cover-art/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr Amy C. ChambersAmazing Stories, Amazing Art: SF Magazine Cover Art – Dr Amy C. ChambersMay 30, 2018...</p></details>
    Published: May 30, 2018  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Amazing Stories/Volume 01  
-   Link: <a href="https://en.wikisource.org/wiki/Amazing_Stories/Volume_01" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Amazing_Stories/Volume_01</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Stories/Volume 01 - Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Amazing_Stories/Volume_01" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Amazing_Stories/Volume_01</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Stories/Volume 01 - Wikisource, the free online library...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: Art and the science of generative AI: A deeper dive  
-   Link: <a href="https://arxiv.org/abs/2306.04141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.04141</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 7, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2306.04141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.04141</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 7, 2023...</p></details>
    Published: June 7, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6GnFUgqIHsM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gernsback Continuum - William Gibson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6GnFUgqIHsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gernsback Continuum - William Gibson...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: actualitte.com  
    Title: Histoire de ces étranges couvertures de science-fiction  
-   Link: <a href="https://actualitte.com/article/19121/archives/histoire-de-ces-etranges-couvertures-de-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://actualitte.com/article/19121/archives/histoire-de-ces-etranges-couvertures-de-science-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2018...</p></details>
+   Link:<a href="https://actualitte.com/article/19121/archives/histoire-de-ces-etranges-couvertures-de-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://actualitte.com/article/19121/archives/histoire-de-ces-etranges-couvertures-de-science-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2018...</p></details>
    Published: May 21, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Encyclopedia of Science Fiction (1978 book)  
-   Link: <a href="https://en.wikipedia.org/wiki/Encyclopedia_of_Science_Fiction_%281978_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Encyclopedia_of_Science_Fiction_%281978_book%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Encyclopedia_of_Science_Fiction_%281978_book%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Encyclopedia_of_Science_Fiction_%281978_book%29</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: The Visual Encyclopedia of Science Fiction  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Visual_Encyclopedia_of_Science_Fiction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Visual_Encyclopedia_of_Science_Fiction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Visual_Encyclopedia_of_Science_Fiction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Visual_Encyclopedia_of_Science_Fiction</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Frank R. Paul: Father of Science Fiction Art  
-   Link: <a href="https://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OOnhl23FBpw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>downthetubes.net...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OOnhl23FBpw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>downthetubes.net...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Gernsback Continuum  
-   Link: <a href="https://www.youtube.com/watch?v=sVUGkYGnQHk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sVUGkYGnQHk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=sVUGkYGnQHk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sVUGkYGnQHk</a>  

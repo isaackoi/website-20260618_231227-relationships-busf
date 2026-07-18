@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_uf
 
 ## Introduction
 
-[Comics]({{ 'comics/' | relative_url }}) often depict UFO abductions without showing the entire event. Instead of illustrating every second of a character being taken aboard a spacecraft, artists rely on the gutter—the blank space between panels—to let readers complete the missing action themselves. This process, known in comics theory as [closure]({{ 'closure/' | relative_url }}), allows a sequence such as a hovering saucer, a descending beam, an empty field, and a frightened witness to become a complete abduction narrative in the reader’s mind. Scholars of comics have long argued that readers actively infer events that are not shown, turning disconnected images into a coherent story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[Emergent Mind+2Closure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Emergent Mind Comic Narrative Structures</span><span class="citation-popover-snippet">Emergent MindComic Narrative StructuresFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+[Comics]({{ 'comics/' | relative_url }}) often depict UFO abductions without showing the entire event. Instead of illustrating every second of a character being taken aboard a spacecraft, artists rely on the gutter—the blank space between panels—to let readers complete the missing action themselves. This process, known in comics theory as [closure]({{ 'closure/' | relative_url }}), allows a sequence such as a hovering saucer, a descending beam, an empty field, and a frightened witness to become a complete abduction narrative in the reader’s mind. Scholars of comics have long argued that readers actively infer events that are not shown, turning disconnected images into a coherent story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Emergent Mind Comic Narrative Structures</span><span class="citation-popover-snippet">Emergent MindComic Narrative StructuresFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_ufo_gutter_inference_903c4d-Illustration-1-dark.svg" | relative_url }}" alt="Gutter Inference illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_ufo_gutter_inference_903c4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_ufo_gutter_inference_903c4d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within science-fiction comics, this mechanism was especially useful for UFO stor
 
 ## Closure Between Panels
 
-The key mechanism behind inferred UFO abductions is closure. Scott McCloud's influential description of comics argues that readers mentally construct continuous events from separate images. The gutter is not merely empty space; it is where unseen actions are imagined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[Emergent Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Emergent Mind Comic Narrative Structures</span><span class="citation-popover-snippet">Emergent MindComic Narrative StructuresFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+The key mechanism behind inferred UFO abductions is closure. Scott McCloud's influential description of comics argues that readers mentally construct continuous events from separate images. The gutter is not merely empty space; it is where unseen actions are imagined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[Emergent Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Emergent Mind Comic Narrative Structures</span><span class="citation-popover-snippet">Emergent MindComic Narrative StructuresFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 
 In a UFO sequence, a comic might present:
 
@@ -302,7 +302,7 @@ In a UFO sequence, a comic might present:
 
 </div>
 
-No panel explicitly shows the person rising into the craft. Nevertheless, most readers conclude that an abduction occurred. The story emerges from the relationship between the images rather than from any single image alone. Research on visual narrative comprehension similarly notes that comic readers routinely generate inferences about actions that occur between depicted moments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4689435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 14, 2015...</span><span class="citation-popover-meta">Published: July 14, 2015</span></span></span>
+No panel explicitly shows the person rising into the craft. Nevertheless, most readers conclude that an abduction occurred. The story emerges from the relationship between the images rather than from any single image alone. Research on visual narrative comprehension similarly notes that comic readers routinely generate inferences about actions that occur between depicted moments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4689435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 14, 2015...</span><span class="citation-popover-meta">Published: July 14, 2015</span></span></span>
 
 This inferential process is particularly effective for UFO narratives because abductions are already associated with mystery and missing time. The omission itself becomes part of the storytelling.
 
@@ -327,7 +327,7 @@ A typical sequence might show:
 
 The critical moment—the actual abduction—exists only in the gutter.
 
-This technique resembles examples often discussed in comics theory where a major event occurs between panels and is understood through implication rather than direct depiction. Analysts of comics narrative describe the gutter as containing what is not represented but is nevertheless inferred by the reader. Meaning emerges through logical connections and expectations built from surrounding images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: closure.uni-kiel.de">[Closure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">closure.uni-kiel.de</span><span class="citation-popover-snippet">CLOSURE #1 - Wildfeuer und Bateman - Zwischen gutter und closure &#124; www.closure.uni-kiel.de...</span></span></span>
+This technique resembles examples often discussed in comics theory where a major event occurs between panels and is understood through implication rather than direct depiction. Analysts of comics narrative describe the gutter as containing what is not represented but is nevertheless inferred by the reader. Meaning emerges through logical connections and expectations built from surrounding images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: closure.uni-kiel.de">[Closure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">closure.uni-kiel.de</span><span class="citation-popover-snippet">CLOSURE #1 - Wildfeuer und Bateman - Zwischen gutter und closure &#124; www.closure.uni-kiel.de...</span></span></span>
 
 For UFO stories, these expectations are strengthened by established visual shorthand. Readers already recognise the combination of saucer, beam and frightened witness. Because those symbols are familiar, the omitted action requires very little explanation.
 
@@ -339,7 +339,7 @@ Showing less can sometimes make an encounter feel more convincing or more unsett
 
 When an artist skips the decisive moment, readers participate in constructing it. Rather than passively watching an event unfold, they become collaborators in the narrative. The imagined version of the abduction may feel more vivid because it is generated from the reader's own expectations and fears.
 
-The technique also creates pacing advantages. A lengthy depiction of a character being transported into a spacecraft may require several panels. By contrast, a single gutter can contain the entire event. The page moves quickly from mystery to consequence while preserving narrative clarity. Studies of comic storytelling emphasise that sequential art depends on readers supplying movement, causality and continuity between images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/AEU/TC-AEU-1037.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada University of Alberta</span><span class="citation-popover-snippet">Library and Archives Canada University of Alberta</span></span></span>
+The technique also creates pacing advantages. A lengthy depiction of a character being transported into a spacecraft may require several panels. By contrast, a single gutter can contain the entire event. The page moves quickly from mystery to consequence while preserving narrative clarity. Studies of comic storytelling emphasise that sequential art depends on readers supplying movement, causality and continuity between images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/AEU/TC-AEU-1037.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collectionscanada.gc.ca">[Library and Archives Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collectionscanada.gc.ca</span><span class="citation-popover-title">Library and Archives Canada University of Alberta</span><span class="citation-popover-snippet">Library and Archives Canada University of Alberta</span></span></span>
 
 In UFO comics, this compression allows creators to devote more space to aftermath, investigation or alien revelation while still communicating that an abduction occurred.
 
@@ -363,7 +363,7 @@ Several cues commonly appear together:
 
 </div>
 
-Narrative theorists describe this process as inferential reasoning based on context and world knowledge. Readers evaluate the available clues and construct the most coherent explanation connecting the panels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: closure.uni-kiel.de">[Closure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">closure.uni-kiel.de</span><span class="citation-popover-snippet">CLOSURE #1 - Wildfeuer und Bateman - Zwischen gutter und closure &#124; www.closure.uni-kiel.de...</span></span></span>
+Narrative theorists describe this process as inferential reasoning based on context and world knowledge. Readers evaluate the available clues and construct the most coherent explanation connecting the panels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: closure.uni-kiel.de">[Closure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">closure.uni-kiel.de</span><span class="citation-popover-snippet">CLOSURE #1 - Wildfeuer und Bateman - Zwischen gutter und closure &#124; www.closure.uni-kiel.de...</span></span></span>
 
 Because UFO abduction stories draw on a well-established science-fiction vocabulary, the explanation usually arrives immediately. A reader does not need to see every step. The symbols and their sequence are enough.
 
@@ -373,7 +373,7 @@ Because UFO abduction stories draw on a well-established science-fiction vocabul
 
 Comics have always operated under constraints of page space, panel count and visual clarity. Gutter-based storytelling turns those constraints into strengths. A creator can imply an entire UFO encounter with a few carefully chosen images while preserving suspense and mystery.
 
-This efficiency helped UFO imagery become highly portable across science-fiction comics. A light in the sky, a beam, a vanished character and a shocked observer could communicate a complete encounter within seconds of reading. The reader's ability to perform closure supplied the missing action, allowing comics to tell larger stories with fewer images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[Emergent Mind+2Emory Theses and Dissertations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Emergent Mind Comic Narrative Structures</span><span class="citation-popover-snippet">Emergent MindComic Narrative StructuresFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+This efficiency helped UFO imagery become highly portable across science-fiction comics. A light in the sky, a beam, a vanished character and a shocked observer could communicate a complete encounter within seconds of reading. The reader's ability to perform closure supplied the missing action, allowing comics to tell larger stories with fewer images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">Emergent Mind Comic Narrative Structures</span><span class="citation-popover-snippet">Emergent MindComic Narrative StructuresFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 
 In this way, the gutter became one of the most powerful tools for UFO storytelling. The abduction was often not drawn at all. It happened in the space between panels, where readers finished the encounter for themselves.
 
@@ -382,178 +382,178 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Comics Made Readers Finish the Encounter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Comics Made Readers Finish the Encounter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCloud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
+</h4>
+<p class="fr-book-author">By Scott McCloud</p>
         
-        <p class="fr-book-desc">Introduces closure and gutter inference directly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces closure and gutter inference directly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Comics+and+Sequential+Art+by+Will+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Comics and Sequential Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VFeNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Comics and Sequential Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Comics+and+Sequential+Art+by+Will+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Comics and Sequential Art">Comics and Sequential Art</a>
-        </h4>
-        <p class="fr-book-author">By Will Eisner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Comics+and+Sequential+Art+by+Will+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Comics and Sequential Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VFeNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Comics and Sequential Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Comics+and+Sequential+Art+by+Will+Eisner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Comics and Sequential Art">Comics and Sequential Art</a>
+</h4>
+<p class="fr-book-author">By Will Eisner</p>
         
-        <p class="fr-book-desc">Explains reader participation between panels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Comics+and+Sequential+Art+by+Will+Eisner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reader participation between panels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Comics+and+Sequential+Art+by+Will+Eisner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C1h_UE_CqDwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Making Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Comics">Making Comics</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCloud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C1h_UE_CqDwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Making Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Comics">Making Comics</a>
+</h4>
+<p class="fr-book-author">By Scott McCloud</p>
         
-        <p class="fr-book-desc">Shows practical methods for implying unseen events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows practical methods for implying unseen events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-O4q0kuCyWoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-O4q0kuCyWoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
+</h4>
+<p class="fr-book-author">By John E. Mack</p>
         
-        <p class="fr-book-desc">Relates to implied abduction narratives and missing moments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relates to implied abduction narratives and missing moments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Comics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Comics+and+Sequential+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Comics and Sequential Art</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Comics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Comics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Comics+and+Sequential+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Comics and Sequential Art</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Comics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="gutter-inference-how-comics-made-readers-finish-the-encounter-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,110 +759,110 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4689435/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4689435/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 2015...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4689435/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4689435/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 2015...</p></details>
    Published: July 14, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: etd.library.emory.edu  
    Title: Theses and Dissertations Distribution Agreement  
-   Link: <a href="https://etd.library.emory.edu/downloads/h415pc009?locale=en" target="_blank" rel="noopener noreferrer nofollow">https://etd.library.emory.edu/downloads/h415pc009?locale=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emory Theses and DissertationsDistribution Agreement...</p></details>
+   Link:<a href="https://etd.library.emory.edu/downloads/h415pc009?locale=en" target="_blank" rel="noopener noreferrer nofollow">https://etd.library.emory.edu/downloads/h415pc009?locale=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emory Theses and DissertationsDistribution Agreement...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Techniques and Tricks: Calvin and Hobbes and the Art of Closure  
-   Link: <a href="https://www.youtube.com/watch?v=_-oEzu7omaw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_-oEzu7omaw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott McCloud - Understanding Comics, The Invisible Art (Game Developers&#x27; Library ep06)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_-oEzu7omaw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_-oEzu7omaw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott McCloud - Understanding Comics, The Invisible Art (Game Developers&#x27; Library ep06)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Scott Mc Cloud  
-   Link: <a href="https://www.youtube.com/watch?v=JQ_ieEtyt00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JQ_ieEtyt00</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting a better &quot;Understanding&quot; of how comics work...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JQ_ieEtyt00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JQ_ieEtyt00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting a better &quot;Understanding&quot; of how comics work...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: How to Make Comics the Scott Mc Cloud Method  
-   Link: <a href="https://www.youtube.com/watch?v=2kUWl55SgxU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2kUWl55SgxU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott McCloud - Understanding Comics, The Invisible Art (Game Developers&#x27; Library ep06)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2kUWl55SgxU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2kUWl55SgxU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott McCloud - Understanding Comics, The Invisible Art (Game Developers&#x27; Library ep06)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: emergentmind.com  
    Title: Emergent Mind Comic Narrative Structures  
-   Link: <a href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/comic-narrative-structures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergent MindComic Narrative StructuresFebruary 4, 2026...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/comic-narrative-structures" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/comic-narrative-structures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emergent MindComic Narrative StructuresFebruary 4, 2026...</p></details>
    Published: February 4, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: closure.uni-kiel.de  
-   Link: <a href="https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman" target="_blank" rel="noopener noreferrer nofollow">https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSURE #1 - Wildfeuer und Bateman - Zwischen gutter und closure | www.closure.uni-kiel.de...</p></details>
+   Link:<a href="https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman" target="_blank" rel="noopener noreferrer nofollow">https://www.closure.uni-kiel.de/closure1/wildfeuer_bateman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLOSURE #1 - Wildfeuer und Bateman - Zwischen gutter und closure | www.closure.uni-kiel.de...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: collectionscanada.gc.ca  
    Title: Library and Archives Canada University of Alberta  
-   Link: <a href="https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/AEU/TC-AEU-1037.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/AEU/TC-AEU-1037.pdf</a>  
+   Link:<a href="https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/AEU/TC-AEU-1037.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/AEU/TC-AEU-1037.pdf</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: research.ceu.edu  
-   Link: <a href="https://research.ceu.edu/en/publications/action-starring-narratives-and-events-structure-and-inference-in-" target="_blank" rel="noopener noreferrer nofollow">https://research.ceu.edu/en/publications/action-starring-narratives-and-events-structure-and-inference-in-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEU Research Pure PortalAction starring narratives and events: Structure and inference in visual narrative comprehension - CEU Research P...</p></details>
+   Link:<a href="https://research.ceu.edu/en/publications/action-starring-narratives-and-events-structure-and-inference-in-" target="_blank" rel="noopener noreferrer nofollow">https://research.ceu.edu/en/publications/action-starring-narratives-and-events-structure-and-inference-in-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEU Research Pure PortalAction starring narratives and events: Structure and inference in visual narrative comprehension - CEU Research P...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/graphicnovels/comments/wxvjaf" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/graphicnovels/comments/wxvjaf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are some artistic abilities that you have noticed which are unique to graphic novels/comic books? Things that are impossible in other sto...</p></details>
+   Link:<a href="https://www.reddit.com/r/graphicnovels/comments/wxvjaf" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/graphicnovels/comments/wxvjaf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are some artistic abilities that you have noticed which are unique to graphic novels/comic books? Things that are impossible in other sto...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: www.reddit.com Crazy panel layouts almost always take me out of the story  
-   Link: <a href="https://www.reddit.com/r/graphicnovels/comments/wy7ghf" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/graphicnovels/comments/wy7ghf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>panel layouts almost always take me out of the story.August 26, 2022...</p></details>
+   Link:<a href="https://www.reddit.com/r/graphicnovels/comments/wy7ghf" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/graphicnovels/comments/wy7ghf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>panel layouts almost always take me out of the story.August 26, 2022...</p></details>
    Published: August 26, 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Who Murdered That Guy? The Mysterious Mechanics of Panel Transitions  
-   Link: <a href="https://www.youtube.com/watch?v=vJ-e9Nz-u6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vJ-e9Nz-u6Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scott McCloud comics theory closure gutter Scott McCloud: Understanding comics TED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vJ-e9Nz-u6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vJ-e9Nz-u6Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scott McCloud comics theory closure gutter Scott McCloud: Understanding comics TED...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Fire In The Sky  
-   Link: <a href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oKquY6-NOOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Activity Surges Across the U.S. | [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;): Inside America&#x27;s UFO Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oKquY6-NOOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Activity Surges Across the U.S. | [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;): Inside America&#x27;s UFO Investigation...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=46WgbQqXTYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=46WgbQqXTYc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Murdered That Guy? The Mysterious Mechanics of Panel Transitions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=46WgbQqXTYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=46WgbQqXTYc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who Murdered That Guy? The Mysterious Mechanics of Panel Transitions...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Getting a better "Understanding" of how comics work  
-   Link: <a href="https://www.youtube.com/watch?v=d5bmWAefByE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d5bmWAefByE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comics and Graphic Novel Basics: Panel, Frame, Gutter, Bleed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d5bmWAefByE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d5bmWAefByE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comics and Graphic Novel Basics: Panel, Frame, Gutter, Bleed...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Scott Mc Cloud: Understanding comics  
-   Link: <a href="https://www.youtube.com/watch?v=fXYckRgsdjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fXYckRgsdjI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comic Panel Transitions | Understanding Comics by Scott McCloud with examples...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fXYckRgsdjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fXYckRgsdjI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comic Panel Transitions | Understanding Comics by Scott McCloud with examples...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Watch The Skies! A Brief History Of UFO Comics  
-   Link: <a href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpFgPpvX2gI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fire In The Sky - The Travis Walton UFO Abduction Story 4K...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpFgPpvX2gI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fire In The Sky - The Travis Walton UFO Abduction Story 4K...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/tipofmytongue/comments/i2xnet" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/tipofmytongue/comments/i2xnet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.com[TOMT][ART][1950S-60S]Abstract comic-style art panels with pure motion and no real content or charactersAugust 3, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/tipofmytongue/comments/i2xnet" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/tipofmytongue/comments/i2xnet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.com[TOMT][ART][1950S-60S]Abstract comic-style art panels with pure motion and no real content or charactersAugust 3, 2020...</p></details>
    Published: August 3, 2020  

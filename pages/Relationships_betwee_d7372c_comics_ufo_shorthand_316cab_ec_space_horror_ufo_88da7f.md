@@ -274,19 +274,19 @@ image: /assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_ec
 
 ## Introduction
 
-Early 1950s EC Comics did more than place [flying saucers]({{ 'flying-saucer/' | relative_url }}) into stories. Through titles such as *Weird Science*, *Weird Fantasy*, and later *Weird Science-Fantasy*, EC surrounded saucers with a complete visual environment of alien monsters, ray weapons, [rockets]({{ 'rockets/' | relative_url }}), laboratories, space helmets, and looming cosmic threats. Readers learned to recognise UFOs not as isolated objects but as part of a larger science-fiction world. In that world, a saucer usually meant intelligent visitors, advanced technology, and consequences that could range from wonder to catastrophe. The result was a powerful visual shorthand that helped shape how generations of readers imagined UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
+Early 1950s EC Comics did more than place [flying saucers]({{ 'flying-saucer/' | relative_url }}) into stories. Through titles such as *Weird Science*, *Weird Fantasy*, and later *Weird Science-Fantasy*, EC surrounded saucers with a complete visual environment of alien monsters, ray weapons, [rockets]({{ 'rockets/' | relative_url }}), laboratories, space helmets, and looming cosmic threats. Readers learned to recognise UFOs not as isolated objects but as part of a larger science-fiction world. In that world, a saucer usually meant intelligent visitors, advanced technology, and consequences that could range from wonder to catastrophe. The result was a powerful visual shorthand that helped shape how generations of readers imagined UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_ec_space_horror_ufo_88da7f-Illustration-1-dark.svg" | relative_url }}" alt="EC Space Horror illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_ec_space_horror_ufo_88da7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_ec_space_horror_ufo_88da7f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Alien Monsters and Dramatic Covers
 
-EC's science-fiction line emerged at the height of the flying-saucer craze that followed the late-1940s wave of UFO reports. Rather than treating [saucers]({{ 'saucers/' | relative_url }}) as distant mysteries, EC artists placed them inside highly dramatic scenes. Covers and splash pages frequently showed humans confronting strange extraterrestrial beings, standing beneath hovering craft, or facing technologies beyond their understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
+EC's science-fiction line emerged at the height of the flying-saucer craze that followed the late-1940s wave of UFO reports. Rather than treating [saucers]({{ 'saucers/' | relative_url }}) as distant mysteries, EC artists placed them inside highly dramatic scenes. Covers and splash pages frequently showed humans confronting strange extraterrestrial beings, standing beneath hovering craft, or facing technologies beyond their understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
 
-Artists such as Wally Wood and Al Feldstein became especially influential. Their imagery combined sleek spacecraft with grotesque alien life forms: tentacled creatures, giant insects, fish-like humanoids, and bizarre planetary species. Contemporary assessments of EC's science-fiction art repeatedly highlight these alien designs as a defining feature of the line. The visual message was clear: if a saucer appeared, something intelligent and potentially dangerous had arrived with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2007/06/gallery-of-ec-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">gallery of ec s</span><span class="citation-popover-snippet">The document mentions the immediate appeal these comic covers had to young boys at the time, who were eager to spend their allowance on t...</span></span></span>
+Artists such as Wally Wood and Al Feldstein became especially influential. Their imagery combined sleek spacecraft with grotesque alien life forms: tentacled creatures, giant insects, fish-like humanoids, and bizarre planetary species. Contemporary assessments of EC's science-fiction art repeatedly highlight these alien designs as a defining feature of the line. The visual message was clear: if a saucer appeared, something intelligent and potentially dangerous had arrived with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2007/06/gallery-of-ec-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">gallery of ec s</span><span class="citation-popover-snippet">The document mentions the immediate appeal these comic covers had to young boys at the time, who were eager to spend their allowance on t...</span></span></span>
 
-This mattered because many real-world UFO reports were ambiguous. Witnesses often described lights, shapes, or distant objects. EC's covers removed ambiguity. A flying disc hovering over a city, a desert, or a spacecraft instantly became part of a narrative involving alien visitors. Readers did not need lengthy [explanations]({{ 'explanations/' | relative_url }}); the surrounding imagery supplied the meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panelsandprose.com">[Panels &amp; Prose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panelsandprose.com</span><span class="citation-popover-title">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span><span class="citation-popover-snippet">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span></span></span>
+This mattered because many real-world UFO reports were ambiguous. Witnesses often described lights, shapes, or distant objects. EC's covers removed ambiguity. A flying disc hovering over a city, a desert, or a spacecraft instantly became part of a narrative involving alien visitors. Readers did not need lengthy [explanations]({{ 'explanations/' | relative_url }}); the surrounding imagery supplied the meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panelsandprose.com">[Panels &amp; Prose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panelsandprose.com</span><span class="citation-popover-title">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span><span class="citation-popover-snippet">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span></span></span>
 
-The covers also favoured emotional extremes. Fear, awe, isolation, and impending doom were rendered in bold colours and exaggerated poses. An astronaut abandoned in space, a city threatened by unknown forces, or explorers facing alien worlds created a visual atmosphere in which saucers belonged naturally alongside cosmic horror. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/8568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: Weird Fantasy (EC, 1950 series) #16September 6, 1950...</span><span class="citation-popover-meta">Published: September 6, 1950</span></span></span>
+The covers also favoured emotional extremes. Fear, awe, isolation, and impending doom were rendered in bold colours and exaggerated poses. An astronaut abandoned in space, a city threatened by unknown forces, or explorers facing alien worlds created a visual atmosphere in which saucers belonged naturally alongside cosmic horror.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/8568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: Weird Fantasy (EC, 1950 series) #16September 6, 1950...</span><span class="citation-popover-meta">Published: September 6, 1950</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CYvMrYN2grQ" title="Is TASCHEN’s EC Weird Science Worth It? Full Flip-Through" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CYvMrYN2grQ" target="_blank" rel="noopener noreferrer">Is TASCHEN’s EC Weird Science Worth It? Full Flip-Through</a></p><p class="youtube-embed-meta">Channel: Read Your Comics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CYvMrYN2grQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CYvMrYN2grQ">Open on YouTube</a></p></div></div></div>
@@ -305,15 +305,15 @@ Common visual elements included:
 * Transparent helmets and pressure suits.
 * Vast control rooms filled with panels, screens, and switches.
 * Laboratories conducting dangerous experiments.
-* Alien cities and futuristic landscapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panelsandprose.com">[Panels &amp; Prose+2Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panelsandprose.com</span><span class="citation-popover-title">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span><span class="citation-popover-snippet">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span></span></span>
+* Alien cities and futuristic landscapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panelsandprose.com">[panelsandprose.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panelsandprose.com</span><span class="citation-popover-title">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span><span class="citation-popover-snippet">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span></span></span>
 
 </div>
 
 Together these elements created what might be called the saucer's visual neighbourhood. A flying disc became one component in a larger network of futuristic signs. Readers encountering a saucer in an EC comic therefore interpreted it through associated images of advanced science, interplanetary travel, and alien civilisation.
 
-The artwork of Wally Wood was especially important in this respect. His pages often featured highly detailed machinery, spacecraft interiors, and technological environments. Even when the story centred on human explorers, the surrounding equipment suggested a universe where extraordinary vehicles and unexplained phenomena were normal. A saucer therefore looked less like an isolated mystery and more like one machine among many in a technologically crowded cosmos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
+The artwork of Wally Wood was especially important in this respect. His pages often featured highly detailed machinery, spacecraft interiors, and technological environments. Even when the story centred on human explorers, the surrounding equipment suggested a universe where extraordinary vehicles and unexplained phenomena were normal. A saucer therefore looked less like an isolated mystery and more like one machine among many in a technologically crowded cosmos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
 
-EC stories also repeatedly linked technology with moral consequences. Advanced devices could save lives, destroy worlds, or expose human arrogance. This theme extended to alien visitors and their craft. The saucer was not merely transportation; it often symbolised superior knowledge or power that humans were unprepared to handle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
+EC stories also repeatedly linked technology with moral consequences. Advanced devices could save lives, destroy worlds, or expose human arrogance. This theme extended to alien visitors and their craft. The saucer was not merely transportation; it often symbolised superior knowledge or power that humans were unprepared to handle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lpFgPpvX2gI" title="Watch The Skies! A Brief History Of UFO Comics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer">Watch The Skies! A Brief History Of UFO Comics</a></p><p class="youtube-embed-meta">Channel: Strange Brain Parts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lpFgPpvX2gI">Open on YouTube</a></p></div></div></div>
@@ -326,207 +326,207 @@ EC stories also repeatedly linked technology with moral consequences. Advanced d
 
 The flying saucer matched EC's artistic goals almost perfectly. Visually, it was simple enough to recognise immediately yet flexible enough to support many kinds of stories. A saucer could be a threat, a rescue vehicle, a scientific mystery, or evidence of hidden cosmic forces.
 
-EC's artists also benefited from the saucer's distinctive silhouette. A disc with a dome remained legible even in small cover compositions. It could hover over a city, emerge from space, or appear through clouds while still drawing the reader's eye. This made it ideal for dramatic cover design and fast visual storytelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.ha.com">[Heritage Auctions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.ha.com</span><span class="citation-popover-title">Heritage Auctions Al Feldstein</span><span class="citation-popover-snippet">Heritage AuctionsAl Feldstein - Weird Science-Fantasy #26 Cover Original Art (EC, &#124; Lot #42271 &#124; Heritage AuctionsJanuary 18, 2007...</span><span class="citation-popover-meta">Published: January 18, 2007</span></span></span>
+EC's artists also benefited from the saucer's distinctive silhouette. A disc with a dome remained legible even in small cover compositions. It could hover over a city, emerge from space, or appear through clouds while still drawing the reader's eye. This made it ideal for dramatic cover design and fast visual storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.ha.com">[Heritage Auctions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.ha.com</span><span class="citation-popover-title">Heritage Auctions Al Feldstein</span><span class="citation-popover-snippet">Heritage AuctionsAl Feldstein - Weird Science-Fantasy #26 Cover Original Art (EC, &#124; Lot #42271 &#124; Heritage AuctionsJanuary 18, 2007...</span><span class="citation-popover-meta">Published: January 18, 2007</span></span></span>
 
-The connection became particularly visible in *Weird Science-Fantasy* #26, a notable EC issue devoted to UFO claims and inspired by contemporary saucer debates. Its cover directly leveraged public fascination with flying saucers, showing how naturally the UFO topic fit within EC's established science-fiction imagery. By that point, readers already associated saucers with the artistic language EC had spent years developing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.ha.com">[Heritage Auctions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.ha.com</span><span class="citation-popover-title">Heritage Auctions Al Feldstein</span><span class="citation-popover-snippet">Heritage AuctionsAl Feldstein - Weird Science-Fantasy #26 Cover Original Art (EC, &#124; Lot #42271 &#124; Heritage AuctionsJanuary 18, 2007...</span><span class="citation-popover-meta">Published: January 18, 2007</span></span></span>
+The connection became particularly visible in *Weird Science-Fantasy* #26, a notable EC issue devoted to UFO claims and inspired by contemporary saucer debates. Its cover directly leveraged public fascination with flying saucers, showing how naturally the UFO topic fit within EC's established science-fiction imagery. By that point, readers already associated saucers with the artistic language EC had spent years developing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.ha.com">[Heritage Auctions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.ha.com</span><span class="citation-popover-title">Heritage Auctions Al Feldstein</span><span class="citation-popover-snippet">Heritage AuctionsAl Feldstein - Weird Science-Fantasy #26 Cover Original Art (EC, &#124; Lot #42271 &#124; Heritage AuctionsJanuary 18, 2007...</span><span class="citation-popover-meta">Published: January 18, 2007</span></span></span>
 
-What made EC distinctive was the way it merged [wonder]({{ 'wonder/' | relative_url }}) and horror. Many earlier science-fiction traditions celebrated exploration and technological progress. EC retained those themes but often added irony, cosmic punishment, or unsettling revelations. Alien visitors might be wiser than humanity, indifferent to it, or actively hostile. The saucer therefore became a visual gateway to stories about human vulnerability on a cosmic scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
+What made EC distinctive was the way it merged [wonder]({{ 'wonder/' | relative_url }}) and horror. Many earlier science-fiction traditions celebrated exploration and technological progress. EC retained those themes but often added irony, cosmic punishment, or unsettling revelations. Alien visitors might be wiser than humanity, indifferent to it, or actively hostile. The saucer therefore became a visual gateway to stories about human vulnerability on a cosmic scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
 
-Within the broader relationship between UFOs and science fiction, EC's contribution was not simply popularising flying discs. It was teaching readers a complete set of UFO codes. By repeatedly placing saucers alongside monsters, ray guns, rockets, control rooms, and cosmic dangers, EC helped define the visual context through which UFOs would be imagined for decades afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panelsandprose.com">[Panels &amp; Prose+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panelsandprose.com</span><span class="citation-popover-title">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span><span class="citation-popover-snippet">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span></span></span>
+Within the broader relationship between UFOs and science fiction, EC's contribution was not simply popularising flying discs. It was teaching readers a complete set of UFO codes. By repeatedly placing saucers alongside monsters, ray guns, rockets, control rooms, and cosmic dangers, EC helped define the visual context through which UFOs would be imagined for decades afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panelsandprose.com">[panelsandprose.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panelsandprose.com</span><span class="citation-popover-title">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span><span class="citation-popover-snippet">Panels &amp; Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels &amp; Prose</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qHlCBIzeU5I" title="Wally Wood&#x27;s EC Stories Artist&#x27;s Edition - EXPANDED Hardcover | Weird Science | Shock Suspenstories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qHlCBIzeU5I" target="_blank" rel="noopener noreferrer">Wally Wood&#x27;s EC Stories Artist&#x27;s Edition - EXPANDED Hardcover | Weird Science | Shock Suspenstories</a></p><p class="youtube-embed-meta">Channel: Near Mint Condition</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qHlCBIzeU5I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qHlCBIzeU5I">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Space Horror Taught Readers UFO Codes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Space Horror Taught Readers UFO Codes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The EC Archives: Weird Science Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xu9KEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The EC Archives: Weird Science Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The EC Archives: Weird Science Volume 1">The EC Archives: Weird Science Volume 1</a>
-        </h4>
-        <p class="fr-book-author">By Bill Gaines, Al Feldstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The EC Archives: Weird Science Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xu9KEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The EC Archives: Weird Science Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The EC Archives: Weird Science Volume 1">The EC Archives: Weird Science Volume 1</a>
+</h4>
+<p class="fr-book-author">By Bill Gaines, Al Feldstein</p>
         
-        <p class="fr-book-desc">Directly showcases the UFO and space-horror imagery discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly showcases the UFO and space-horror imagery discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1+by+Al+Feldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The EC Archives: Weird Fantasy Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dQXXngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The EC Archives: Weird Fantasy Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1+by+Al+Feldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The EC Archives: Weird Fantasy Volume 1">The EC Archives: Weird Fantasy Volume 1</a>
-        </h4>
-        <p class="fr-book-author">By Al Feldstein, William M. Gaines et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1+by+Al+Feldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The EC Archives: Weird Fantasy Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dQXXngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The EC Archives: Weird Fantasy Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1+by+Al+Feldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The EC Archives: Weird Fantasy Volume 1">The EC Archives: Weird Fantasy Volume 1</a>
+</h4>
+<p class="fr-book-author">By Al Feldstein, William M. Gaines et al.</p>
         
-        <p class="fr-book-desc">Packed with aliens, saucers and cosmic threats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1+by+Al+Feldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Packed with aliens, saucers and cosmic threats.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1+by+Al+Feldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of EC Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TUAszAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The History of EC Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of EC Comics">The History of EC Comics</a>
-        </h4>
-        <p class="fr-book-author">By Grant Geissman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of EC Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TUAszAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The History of EC Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of EC Comics">The History of EC Comics</a>
+</h4>
+<p class="fr-book-author">By Grant Geissman</p>
         
-        <p class="fr-book-desc">Provides context for EC&#x27;s visual universe.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for EC&#x27;s visual universe.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCloud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
+</h4>
+<p class="fr-book-author">By Scott McCloud</p>
         
-        <p class="fr-book-desc">Explains why visual symbols become instantly recognizable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why visual symbols become instantly recognizable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The EC Archives: Weird Science Volume 1</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The EC Archives: Weird Fantasy Volume 1</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+EC+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of EC Comics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The EC Archives: Weird Science Volume 1</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Fantasy+Volume+1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The EC Archives: Weird Fantasy Volume 1</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+EC+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of EC Comics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="ec-space-horror-how-space-horror-taught-readers-ufo-codes-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ Within the broader relationship between UFOs and science fiction, EC's contribut
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ Within the broader relationship between UFOs and science fiction, EC's contribut
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ Within the broader relationship between UFOs and science fiction, EC's contribut
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ Within the broader relationship between UFOs and science fiction, EC's contribut
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ Within the broader relationship between UFOs and science fiction, EC's contribut
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,134 +732,134 @@ Within the broader relationship between UFOs and science fiction, EC's contribut
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Weird Science ([comics](&#123;&#123; 'comics/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weird_Science_%28comics%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weird_Science_%28comics%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: EC Comics  
-   Link: <a href="https://en.wikipedia.org/wiki/EC_Comics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/EC_Comics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/EC_Comics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/EC_Comics</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: gallery of ec s  
-   Link: <a href="https://www.wired.com/2007/06/gallery-of-ec-s" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/gallery-of-ec-s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The document mentions the immediate appeal these comic covers had to young boys at the time, who were eager to spend their allowance on t...</p></details>
+   Link:<a href="https://www.wired.com/2007/06/gallery-of-ec-s" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/gallery-of-ec-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The document mentions the immediate appeal these comic covers had to young boys at the time, who were eager to spend their allowance on t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/8568/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/8568/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: Weird Fantasy (EC, 1950 series) #16September 6, 1950...</p></details>
+   Link:<a href="https://www.comics.org/issue/8568/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/8568/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: Weird Fantasy (EC, 1950 series) #16September 6, 1950...</p></details>
    Published: September 6, 1950  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/11733/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/11733/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: Weird Science-Fantasy (EC, 1954 series) #26...</p></details>
+   Link:<a href="https://www.comics.org/issue/11733/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/11733/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: Weird Science-Fantasy (EC, 1954 series) #26...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2012/02/dan-dare" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/02/dan-dare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The nostalgia, detailed spaceship designs, and British charm captivate him, making the books a cherished addition to his collection. A fi...</p></details>
+   Link:<a href="https://www.wired.com/2012/02/dan-dare" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/02/dan-dare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The nostalgia, detailed spaceship designs, and British charm captivate him, making the books a cherished addition to his collection. A fi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255560/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255560/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Flying Saucers (Western, 1968 series) #12November 1, 1976...</p></details>
+   Link:<a href="https://www.comics.org/issue/255560/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255560/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Flying Saucers (Western, 1968 series) #12November 1, 1976...</p></details>
    Published: November 1, 1976  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/10430/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/10430/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science (EC, 1951 series) #18...</p></details>
+   Link:<a href="https://www.comics.org/issue/10430/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/10430/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science (EC, 1951 series) #18...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/9170/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/9170/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science (EC, 1951 series) #9June 15, 1951...</p></details>
+   Link:<a href="https://www.comics.org/issue/9170/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/9170/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science (EC, 1951 series) #9June 15, 1951...</p></details>
    Published: June 15, 1951  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/8953/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/8953/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science (EC, 1951 series) #7February 2, 1951...</p></details>
+   Link:<a href="https://www.comics.org/issue/8953/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/8953/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science (EC, 1951 series) #7February 2, 1951...</p></details>
    Published: February 2, 1951  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: panelsandprose.com  
    Title: Panels & Prose EC Sci-Fi At Scale: Taschen’s XXL Weird Science – Panels & Prose  
-   Link: <a href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow">https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/</a>  
+   Link:<a href="https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/" target="_blank" rel="noopener noreferrer nofollow">https://panelsandprose.com/2025/05/03/ec-sci-fi-at-scale-taschens-xxl-weird-science/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: comics.ha.com  
    Title: Heritage Auctions Al Feldstein  
-   Link: <a href="https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s" target="_blank" rel="noopener noreferrer nofollow">https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heritage AuctionsAl Feldstein - Weird Science-Fantasy #26 Cover Original Art (EC, | Lot #42271 | Heritage AuctionsJanuary 18, 2007...</p></details>
+   Link:<a href="https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s" target="_blank" rel="noopener noreferrer nofollow">https://comics.ha.com/itm/original-comic-art/covers/al-feldstein-weird-science-fantasy-26-cover-original-art-ec-1954-/a/823-42271.s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heritage AuctionsAl Feldstein - Weird Science-Fantasy #26 Cover Original Art (EC, | Lot #42271 | Heritage AuctionsJanuary 18, 2007...</p></details>
    Published: January 18, 2007  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theparisreview.org  
-   Link: <a href="https://www.theparisreview.org/blog/2016/09/13/flying-saucers-art-department/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparisreview.org/blog/2016/09/13/flying-saucers-art-department/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers Over the Art Dept.! How Book Designers Took on UFOsSeptember 13, 2016...</p></details>
+   Link:<a href="https://www.theparisreview.org/blog/2016/09/13/flying-saucers-art-department/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparisreview.org/blog/2016/09/13/flying-saucers-art-department/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers Over the Art Dept.! How Book Designers Took on UFOsSeptember 13, 2016...</p></details>
    Published: September 13, 2016  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cult-scifi.com  
    Title: weird science weird fantasy 1950s comics by ec  
-   Link: <a href="https://cult-scifi.com/weird-science-weird-fantasy-1950s-comics-by-ec/" target="_blank" rel="noopener noreferrer nofollow">https://cult-scifi.com/weird-science-weird-fantasy-1950s-comics-by-ec/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science/Weird Fantasy (1950s Comics by EC) - Cult Sci Fi and FantasyApril 25, 2026...</p></details>
+   Link:<a href="https://cult-scifi.com/weird-science-weird-fantasy-1950s-comics-by-ec/" target="_blank" rel="noopener noreferrer nofollow">https://cult-scifi.com/weird-science-weird-fantasy-1950s-comics-by-ec/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Science/Weird Fantasy (1950s Comics by EC) - Cult Sci Fi and FantasyApril 25, 2026...</p></details>
    Published: April 25, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Wally Wood's EC Stories Artist's Edition  
-   Link: <a href="https://www.youtube.com/watch?v=qHlCBIzeU5I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qHlCBIzeU5I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is TASCHEN&#x27;s EC Weird Science Worth It? Full Flip-Through...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qHlCBIzeU5I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qHlCBIzeU5I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is TASCHEN&#x27;s EC Weird Science Worth It? Full Flip-Through...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: 1951 ec weird science 10 cover by wally wood  
-   Link: <a href="https://www.reddit.com/r/HorrorComics/comments/1sk0udw/1951_ec_weird_science_10_cover_by_wally_wood/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HorrorComics/comments/1sk0udw/1951_ec_weird_science_10_cover_by_wally_wood/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.com1951 EC - Weird Science #10 - cover by Wally WoodApril 13, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/HorrorComics/comments/1sk0udw/1951_ec_weird_science_10_cover_by_wally_wood/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HorrorComics/comments/1sk0udw/1951_ec_weird_science_10_cover_by_wally_wood/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.com1951 EC - Weird Science #10 - cover by Wally WoodApril 13, 2026...</p></details>
    Published: April 13, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: 1953 weird science 18 cover by wally wood  
-   Link: <a href="https://www.reddit.com/r/ECFanAddictClub/comments/1tbpspo/1953_weird_science_18_cover_by_wally_wood/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ECFanAddictClub/comments/1tbpspo/1953_weird_science_18_cover_by_wally_wood/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.com1953 Weird Science #18 - cover by Wally WoodMay 13, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/ECFanAddictClub/comments/1tbpspo/1953_weird_science_18_cover_by_wally_wood/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ECFanAddictClub/comments/1tbpspo/1953_weird_science_18_cover_by_wally_wood/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.com1953 Weird Science #18 - cover by Wally WoodMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newyorker.com  
    Title: the horror  
-   Link: <a href="https://www.newyorker.com/magazine/2008/03/31/the-horror" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2008/03/31/the-horror</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Led by Senator Robert Hendrickson and featuring psychiatrist Fredric Wertham, who argued fervently against comic books, the hearings were...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2008/03/31/the-horror" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2008/03/31/the-horror</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Led by Senator Robert Hendrickson and featuring psychiatrist Fredric Wertham, who argued fervently against comic books, the hearings were...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Back to the Future & EC Comics: The Weird Science Connection  
-   Link: <a href="https://www.youtube.com/watch?v=thQsrqpGl28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=thQsrqpGl28</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch The Skies! A Brief History Of UFO Comics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=thQsrqpGl28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=thQsrqpGl28</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch The Skies! A Brief History Of UFO Comics...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Is TASCHEN's EC Weird Science Worth It? Full Flip-Through  
-   Link: <a href="https://www.youtube.com/watch?v=CYvMrYN2grQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CYvMrYN2grQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EC COMICS Sci-Fi &amp; Fantasy!!! Golden Age Comics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CYvMrYN2grQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CYvMrYN2grQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EC COMICS Sci-Fi &amp; Fantasy!!! Golden Age Comics...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fanac.org  
    Title: twilight zine 9 morris 1963 01  
-   Link: <a href="https://fanac.org/fanzines/Twilight_Zine/twilight_zine_9_morris_1963-01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fanac.org/fanzines/Twilight_Zine/twilight_zine_9_morris_1963-01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight Zine 9 Morris 1963-01.pdfApril 28, 2022...</p></details>
+   Link:<a href="https://fanac.org/fanzines/Twilight_Zine/twilight_zine_9_morris_1963-01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fanac.org/fanzines/Twilight_Zine/twilight_zine_9_morris_1963-01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twilight Zine 9 Morris 1963-01.pdfApril 28, 2022...</p></details>
    Published: April 28, 2022  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Watch The Skies! A Brief History Of UFO Comics  
-   Link: <a href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpFgPpvX2gI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpFgPpvX2gI</a>  

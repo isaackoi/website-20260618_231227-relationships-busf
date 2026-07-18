@@ -280,19 +280,19 @@ image: /assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_ua
 
 ## Introduction
 
-One reason governments and scientific agencies increasingly prefer the term “[unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena” (UAP) over “UFO” is that reporting systems only work when people are willing to use them. For decades, unusual aerial observations were culturally linked to [flying saucers]({{ 'flying-saucer/' | relative_url }}), alien visitors and science-fiction narratives. That association created a practical problem: pilots, military personnel and other witnesses often worried that reporting an unexplained sighting would invite ridicule, damage their professional reputation or lead others to assume they were making extraordinary extraterrestrial claims. As a result, some observations may never have entered official systems at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</span></span></span>
+One reason governments and scientific agencies increasingly prefer the term “[unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena” (UAP) over “UFO” is that reporting systems only work when people are willing to use them. For decades, unusual aerial observations were culturally linked to [flying saucers]({{ 'flying-saucer/' | relative_url }}), alien visitors and science-fiction narratives. That association created a practical problem: pilots, military personnel and other witnesses often worried that reporting an unexplained sighting would invite ridicule, damage their professional reputation or lead others to assume they were making extraordinary extraterrestrial claims. As a result, some observations may never have entered official systems at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-1-dark.svg" | relative_url }}" alt="Reporting Stigma illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The shift to [UAP language]({{ 'uap-language/' | relative_url }}) was therefore not merely a rebranding exercise. It was an attempt to create a reporting environment in which witnesses could describe what they observed without immediately stepping into the cultural baggage attached to UFO folklore. The goal was to improve reporting quality, increase participation and encourage investigation based on evidence rather than assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
+The shift to [UAP language]({{ 'uap-language/' | relative_url }}) was therefore not merely a rebranding exercise. It was an attempt to create a reporting environment in which witnesses could describe what they observed without immediately stepping into the cultural baggage attached to UFO folklore. The goal was to improve reporting quality, increase participation and encourage investigation based on evidence rather than assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
 ## Ridicule and Career Risk in UFO Reporting
 
 The stigma surrounding UFO reports emerged from a combination of popular culture and institutional attitudes. By the late twentieth century, the term “UFO” had become closely associated in the public imagination with extraterrestrial spacecraft. A pilot reporting an unidentified object was therefore often perceived not as reporting a safety issue but as making an extraordinary claim.
 
-This mattered because aviation and military cultures place a premium on credibility and judgement. A professional aviator who acquires a reputation for seeing “flying [saucers]({{ 'saucers/' | relative_url }})” risks having their observational reliability questioned. Even when no formal punishment exists, the possibility of social embarrassment or career consequences can discourage reporting. Congressional testimony and government discussions in recent years have repeatedly highlighted concerns that military and commercial pilots faced professional retaliation, mockery or reputational harm after discussing unusual encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</span></span></span>
+This mattered because aviation and military cultures place a premium on credibility and judgement. A professional aviator who acquires a reputation for seeing “flying [saucers]({{ 'saucers/' | relative_url }})” risks having their observational reliability questioned. Even when no formal punishment exists, the possibility of social embarrassment or career consequences can discourage reporting. Congressional testimony and government discussions in recent years have repeatedly highlighted concerns that military and commercial pilots faced professional retaliation, mockery or reputational harm after discussing unusual encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</span></span></span>
 
-The reporting gap became visible in official reviews. The U.S. intelligence community's 2021 preliminary assessment noted that many observations likely went unreported and that anecdotal accounts of unrecorded incidents were common. It also observed that most reports in the database came from recent years, after formal reporting mechanisms became better known within military aviation communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uap-archive.org">[UAP Records Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uap-archive.org</span><span class="citation-popover-title">odni 2021 preliminary assessment uap</span><span class="citation-popover-snippet">UAP Records ArchiveODNI Preliminary Assessment on UAP (2021) &#124; UAP Records Archive...</span></span></span>
+The reporting gap became visible in official reviews. The U.S. intelligence community's 2021 preliminary assessment noted that many observations likely went unreported and that anecdotal accounts of unrecorded incidents were common. It also observed that most reports in the database came from recent years, after formal reporting mechanisms became better known within military aviation communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uap-archive.org">[UAP Records Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uap-archive.org</span><span class="citation-popover-title">odni 2021 preliminary assessment uap</span><span class="citation-popover-snippet">UAP Records ArchiveODNI Preliminary Assessment on UAP (2021) &#124; UAP Records Archive...</span></span></span>
 
 The pattern suggests a feedback loop. If witnesses expect ridicule, they stay silent. If few reports are filed, organisations conclude the phenomenon is rare or unimportant. The lack of official data then reinforces the perception that reporting is unnecessary, further reducing participation.
 
@@ -307,9 +307,9 @@ A neutral label changes the framing of a report. Instead of asking whether someo
 
 This distinction is important because many reports ultimately turn out to involve ordinary [explanations]({{ 'explanations/' | relative_url }}) such as balloons, drones, atmospheric effects, sensor artefacts or misidentifications. A reporting framework works best when people feel comfortable submitting observations regardless of the eventual outcome.
 
-NASA's UAP study repeatedly emphasised the need to move discussion away from sensationalism and towards evidence-based investigation. Agency leaders argued that reducing stigma was necessary if higher-quality observations were to be collected and studied scientifically. The focus was not on validating extraordinary explanations but on improving the quantity and quality of available data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
+NASA's UAP study repeatedly emphasised the need to move discussion away from sensationalism and towards evidence-based investigation. Agency leaders argued that reducing stigma was necessary if higher-quality observations were to be collected and studied scientifically. The focus was not on validating extraordinary explanations but on improving the quantity and quality of available data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
-Official reporting structures reflect the same logic. The All-domain Anomaly Resolution Office (AARO) encourages standardised reporting through military and aviation channels. Civilian pilots are directed to report sightings through existing aviation safety mechanisms rather than through systems associated with UFO culture. This embeds unusual observations within normal reporting practice instead of treating them as a separate fringe subject. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
+Official reporting structures reflect the same logic. The All-domain Anomaly Resolution Office (AARO) encourages standardised reporting through military and aviation channels. Civilian pilots are directed to report sightings through existing aviation safety mechanisms rather than through systems associated with UFO culture. This embeds unusual observations within normal reporting practice instead of treating them as a separate fringe subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-2-dark.svg" | relative_url }}" alt="Reporting Stigma illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ For generations, films, [television]({{ 'television/' | relative_url }}) program
 
 This created a dilemma for officials. They wanted witnesses to report unusual observations, but they did not want the reporting process to imply acceptance of any specific explanation. The more closely official terminology resembled popular UFO culture, the harder it became to separate raw observations from interpretations.
 
-The adoption of UAP language can therefore be understood as an effort to create distance from those inherited science-fiction associations. Rather than asking whether witnesses encountered something from a familiar UFO narrative, officials sought terminology that described an unresolved observation and nothing more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science NASA</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA Independent...</span></span></span>
+The adoption of UAP language can therefore be understood as an effort to create distance from those inherited science-fiction associations. Rather than asking whether witnesses encountered something from a familiar UFO narrative, officials sought terminology that described an unresolved observation and nothing more.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science NASA</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA Independent...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-3-dark.svg" | relative_url }}" alt="Reporting Stigma illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_uap_language_baggage_2f68e9_uap_reporting_stigma_9ebffe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,9 +348,9 @@ The adoption of UAP language can therefore be understood as an effort to create 
 
 Changing terminology can lower barriers to reporting, but it cannot solve the deeper problem of evidence quality.
 
-NASA's independent study concluded that many UAP cases remain difficult to evaluate because observations are often brief, incomplete or recorded by sensors that lack sufficient supporting data. Better reporting may increase the number of cases available for study, but it does not automatically make those cases easier to explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science NASA</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA Independent...</span></span></span>
+NASA's independent study concluded that many UAP cases remain difficult to evaluate because observations are often brief, incomplete or recorded by sensors that lack sufficient supporting data. Better reporting may increase the number of cases available for study, but it does not automatically make those cases easier to explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science NASA</span><span class="citation-popover-snippet">UNIDENTIFIED ANOMALOUS PHENOMENA Independent...</span></span></span>
 
-Similarly, intelligence assessments have noted that many [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) remain unresolved primarily because of limited information rather than because they demonstrate extraordinary phenomena. More reports help researchers understand patterns, but scientific conclusions still depend on reliable measurements, multiple sensors and consistent documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uap-archive.org">[UAP Records Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uap-archive.org</span><span class="citation-popover-title">odni 2021 preliminary assessment uap</span><span class="citation-popover-snippet">UAP Records ArchiveODNI Preliminary Assessment on UAP (2021) &#124; UAP Records Archive...</span></span></span>
+Similarly, intelligence assessments have noted that many [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) remain unresolved primarily because of limited information rather than because they demonstrate extraordinary phenomena. More reports help researchers understand patterns, but scientific conclusions still depend on reliable measurements, multiple sensors and consistent documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uap-archive.org">[UAP Records Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uap-archive.org</span><span class="citation-popover-title">odni 2021 preliminary assessment uap</span><span class="citation-popover-snippet">UAP Records ArchiveODNI Preliminary Assessment on UAP (2021) &#124; UAP Records Archive...</span></span></span>
 
 This is why the language shift should be viewed as a reporting reform rather than a discovery in itself. Replacing “UFO” with “UAP” can encourage participation and reduce stigma, but the value of the change ultimately depends on whether it produces better observations and stronger evidence.
 
@@ -361,197 +361,197 @@ This is why the language shift should be viewed as a reporting reform rather tha
 
 The most significant effect of the UAP label may be cultural rather than technical. Reporting systems depend on witnesses feeling able to describe unusual observations without fear that they will be treated as cranks, conspiracy theorists or [believers]({{ 'believers/' | relative_url }}) in a particular explanation.
 
-By creating a more neutral vocabulary, officials hoped to make reporting compatible with professional norms in aviation, defence and science. The aim was not to decide what unexplained observations are, but to ensure that people are willing to report them in the first place. In that sense, the shift from UFO to UAP reflects a recognition that stigma can distort data collection just as surely as faulty sensors or missing records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2UAP Records Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</span></span></span>
+By creating a more neutral vocabulary, officials hoped to make reporting compatible with professional norms in aviation, defence and science. The aim was not to decide what unexplained observations are, but to ensure that people are willing to report them in the first place. In that sense, the shift from UFO to UAP reflects a recognition that stigma can distort data collection just as surely as faulty sensors or missing records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Witnesses Needed a Safer Word. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Witnesses Needed a Safer Word. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights testimony from pilots and officials, directly connecting to reporting culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights testimony from pilots and officials, directly connecting to reporting culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how social meaning and stigma shape discussion of UFO experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how social meaning and stigma shape discussion of UFO experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A1NYvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me)">Mistakes Were Made (but Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Useful for understanding reputation, judgment, and social pressures around controversial claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding reputation, judgment, and social pressures around controversial claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Intelligence+Analysis+by+Richards+Heuer%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PCImxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Intelligence+Analysis+by+Richards+Heuer%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Intelligence Analysis">The Psychology of Intelligence Analysis</a>
-        </h4>
-        <p class="fr-book-author">By Richards Heuer, Jr.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Intelligence+Analysis+by+Richards+Heuer%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Intelligence Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PCImxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Psychology of Intelligence Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Intelligence+Analysis+by+Richards+Heuer%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Intelligence Analysis">The Psychology of Intelligence Analysis</a>
+</h4>
+<p class="fr-book-author">By Richards Heuer, Jr.</p>
         
-        <p class="fr-book-desc">Addresses bias and reporting challenges relevant to evaluating unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Intelligence+Analysis+by+Richards+Heuer%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses bias and reporting challenges relevant to evaluating unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Intelligence+Analysis+by+Richards+Heuer%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="{{ '/assets/images/marketplace-covers/8d5c28ac657a599b7015.jpg' | relative_url }}" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="{{ '/assets/images/marketplace-covers/8d5c28ac657a599b7015.jpg' | relative_url }}" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="reporting-stigma-why-witnesses-needed-a-safer-word-relationships-betwee-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ By creating a more neutral vocabulary, officials hoped to make reporting compati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ By creating a more neutral vocabulary, officials hoped to make reporting compati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ By creating a more neutral vocabulary, officials hoped to make reporting compati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ By creating a more neutral vocabulary, officials hoped to make reporting compati
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ By creating a more neutral vocabulary, officials hoped to make reporting compati
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,110 +757,110 @@ By creating a more neutral vocabulary, officials hoped to make reporting compati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: NASA Didn't Find Aliens-but if You See Any UFOs, Holler  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science NASA  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA Independent...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA Independent...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: UPDATE: NASA Shares UAP Independent Study Report; Names Director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report; Names Director - NASA...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report; Names Director - NASA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP - NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/uap" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP - NASA Science...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
+   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMay 8, 2026...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</p></details>
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-lack-of-transparency-and-reporting-mechanisms-have-eroded-public-trust-on-governments-handling-of-uap-encounters%EF%BF%BC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeHearing Wrap Up: Lack of Transparency and Reporting Mechanisms Have Eroded Public Trust in Government’s Handling of UA...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uap-archive.org  
    Title: odni 2021 preliminary assessment uap  
-   Link: <a href="https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow">https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Records ArchiveODNI Preliminary Assessment on UAP (2021) | UAP Records Archive...</p></details>
+   Link:<a href="https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow">https://uap-archive.org/uap/records/odni-2021-preliminary-assessment-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Records ArchiveODNI Preliminary Assessment on UAP (2021) | UAP Records Archive...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/16imn0e" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/16imn0e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP &quot;Independent Study&quot; and this ridiculous Media Briefing from NASA was a total dumpster fire.September 14, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/16imn0e" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/16imn0e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP &quot;Independent Study&quot; and this ridiculous Media Briefing from NASA was a total dumpster fire.September 14, 2023...</p></details>
    Published: September 14, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oz0p6QXHh9E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP pilot reporting stigma congressional hearing testimony House holds hearing on UFOs, government transparency | full video CBS News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oz0p6QXHh9E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP pilot reporting stigma congressional hearing testimony House holds hearing on UFOs, government transparency | full video CBS News...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unknowncountry.com  
-   Link: <a href="https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHITLEY STRIEBER&#x27;S UNKNOWN COUNTRYSeptember 16, 2023...</p></details>
+   Link:<a href="https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://unknowncountry.com/headline-news/a-year-after-aaros-launch-theres-still-no-uap-reporting-process-available-to-the-public/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHITLEY STRIEBER&#x27;S UNKNOWN COUNTRYSeptember 16, 2023...</p></details>
    Published: September 16, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FD_AQiW15nI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD_AQiW15nI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Fighter Pilots on UFOs: Ryan Graves Reveals the Truth About UAPs | Lehto Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FD_AQiW15nI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD_AQiW15nI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Fighter Pilots on UFOs: Ryan Graves Reveals the Truth About UAPs | Lehto Files...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LPSKB6ZZQm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LPSKB6ZZQm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l6F-TWyrbyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l6F-TWyrbyU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent Study Team on Unidentified Anomalous Phenomena Media Briefing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l6F-TWyrbyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l6F-TWyrbyU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Independent Study Team on Unidentified Anomalous Phenomena Media Briefing...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zBjgALm1R8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zBjgALm1R8Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zBjgALm1R8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zBjgALm1R8Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness UFO Encounters | Ryan Graves (Ep. 334)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness UFO Encounters | Ryan Graves (Ep. 334)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: House holds hearing on UFOs, government transparency | full video  
-   Link: <a href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SNgoul4vyDM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Speak Out (Full Episode) | UFOs: Investigating the Unknown | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SNgoul4vyDM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Speak Out (Full Episode) | UFOs: Investigating the Unknown | National Geographic...</p></details>

@@ -284,15 +284,15 @@ The 1995 “alien autopsy” film became one of the most influential UFO hoaxes 
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_alien_autopsy_roswel_5494f8-Illustration-1-dark.svg" | relative_url }}" alt="Autopsy Film illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_alien_autopsy_roswel_5494f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_alien_autopsy_roswel_5494f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-As a case study in the relationship between UFO culture and science fiction, the film demonstrates how a carefully staged environment can be more persuasive than technical realism. The body itself was only one prop. The real illusion came from presenting a familiar Roswell narrative in a visual form that looked like lost government evidence. Later admissions and investigations exposed the production as a reconstruction created with fabricated bodies and studio sets, yet the imagery remained culturally powerful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Did the Government Cover Up an Alien Autopsy?</span><span class="citation-popover-snippet">Did the Government Cover Up an Alien Autopsy?June 14, 2026...</span><span class="citation-popover-meta">Published: June 14, 2026</span></span></span>
+As a case study in the relationship between UFO culture and science fiction, the film demonstrates how a carefully staged environment can be more persuasive than technical realism. The body itself was only one prop. The real illusion came from presenting a familiar Roswell narrative in a visual form that looked like lost government evidence. Later admissions and investigations exposed the production as a reconstruction created with fabricated bodies and studio sets, yet the imagery remained culturally powerful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Did the Government Cover Up an Alien Autopsy?</span><span class="citation-popover-snippet">Did the Government Cover Up an Alien Autopsy?June 14, 2026...</span><span class="citation-popover-meta">Published: June 14, 2026</span></span></span>
 
 ## The secret-lab stage set
 
 The film's creators understood that authenticity is often communicated through context rather than proof. The footage was presented as recovered military film allegedly showing the examination of a non-human body retrieved after the Roswell incident. Instead of offering dramatic special effects, the production relied on mundane details associated with institutional authority.
 
-The setting resembled a restricted medical workspace. Figures in protective clothing handled the body methodically. Equipment, trays and surgical procedures suggested professional documentation rather than entertainment. The black-and-white presentation and apparent film degradation implied age and rarity, encouraging viewers to interpret imperfections as evidence of authenticity rather than signs of fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Did the Government Cover Up an Alien Autopsy?</span><span class="citation-popover-snippet">Did the Government Cover Up an Alien Autopsy?June 14, 2026...</span><span class="citation-popover-meta">Published: June 14, 2026</span></span></span>
+The setting resembled a restricted medical workspace. Figures in protective clothing handled the body methodically. Equipment, trays and surgical procedures suggested professional documentation rather than entertainment. The black-and-white presentation and apparent film degradation implied age and rarity, encouraging viewers to interpret imperfections as evidence of authenticity rather than signs of fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Did the Government Cover Up an Alien Autopsy?</span><span class="citation-popover-snippet">Did the Government Cover Up an Alien Autopsy?June 14, 2026...</span><span class="citation-popover-meta">Published: June 14, 2026</span></span></span>
 
-Accounts from people associated with the production later described how this realism was manufactured. Reports state that the film was created in London using constructed sets and fabricated alien bodies produced by sculptor John Humphreys. According to later descriptions of the production process, the filmmakers deliberately recreated the look of an official examination rather than attempting to build a scientifically convincing extraterrestrial organism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1jttn52" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Unknown details about the Alien Autopsy Video</span><span class="citation-popover-snippet">Unknown details about the Alien Autopsy VideoApril 7, 2025...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
+Accounts from people associated with the production later described how this realism was manufactured. Reports state that the film was created in London using constructed sets and fabricated alien bodies produced by sculptor John Humphreys. According to later descriptions of the production process, the filmmakers deliberately recreated the look of an official examination rather than attempting to build a scientifically convincing extraterrestrial organism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1jttn52" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Unknown details about the Alien Autopsy Video</span><span class="citation-popover-snippet">Unknown details about the Alien Autopsy VideoApril 7, 2025...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
 
 This distinction is important. The hoax succeeded because viewers were evaluating a story world, not conducting a forensic analysis. The film asked audiences to imagine they were watching classified evidence. Once that frame was accepted, anatomical shortcomings became less important than the apparent secrecy surrounding the footage.
 
@@ -303,7 +303,7 @@ This distinction is important. The hoax succeeded because viewers were evaluatin
 
 The autopsy film appeared at a moment when Roswell had already become the central myth of modern UFO culture. Decades of books, documentaries and [television]({{ 'television/' | relative_url }}) programmes had established a familiar narrative: a crashed alien craft, recovered bodies and a government cover-up.
 
-Because the story was already widely known, the film did not need to explain its premise. Viewers supplied much of the missing context themselves. A grainy reel of supposed medical footage instantly connected to a larger cultural narrative that many people had encountered before. The film therefore functioned less as a standalone claim and more as a visual confirmation of an existing belief structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar How to watch The Alien Autopsy Scandal online</span><span class="citation-popover-snippet">The Alien Autopsy Scandal&quot; is a new documentary airing on Sky Documentaries and NOW at 9pm on Friday, June 12. It explores the infamous...</span></span></span>
+Because the story was already widely known, the film did not need to explain its premise. Viewers supplied much of the missing context themselves. A grainy reel of supposed medical footage instantly connected to a larger cultural narrative that many people had encountered before. The film therefore functioned less as a standalone claim and more as a visual confirmation of an existing belief structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar How to watch The Alien Autopsy Scandal online</span><span class="citation-popover-snippet">The Alien Autopsy Scandal&quot; is a new documentary airing on Sky Documentaries and NOW at 9pm on Friday, June 12. It explores the infamous...</span></span></span>
 
 This helps explain why the production borrowed imagery that resembled science-fiction depictions of alien recovery operations. Popular films and television had conditioned audiences to associate extraterrestrial secrets with military laboratories, anonymous officials and hidden evidence. The autopsy footage assembled those familiar elements into a format that appeared documentary rather than fictional.
 
@@ -337,13 +337,13 @@ The hoax therefore illustrates a recurring feature of UFO-related fabrications: 
 
 ## How exposure failed to erase the image
 
-The film's credibility did not survive detailed scrutiny. Investigations, admissions from participants and later statements by those involved increasingly pointed toward a staged production. Reports described reconstructed footage, fabricated bodies and special-effects techniques rather than genuine government documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually+2TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Did the Government Cover Up an Alien Autopsy?</span><span class="citation-popover-snippet">Did the Government Cover Up an Alien Autopsy?June 14, 2026...</span><span class="citation-popover-meta">Published: June 14, 2026</span></span></span>
+The film's credibility did not survive detailed scrutiny. Investigations, admissions from participants and later statements by those involved increasingly pointed toward a staged production. Reports described reconstructed footage, fabricated bodies and special-effects techniques rather than genuine government documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[factually.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Did the Government Cover Up an Alien Autopsy?</span><span class="citation-popover-snippet">Did the Government Cover Up an Alien Autopsy?June 14, 2026...</span><span class="citation-popover-meta">Published: June 14, 2026</span></span></span>
 
 Yet exposure did not eliminate the film's cultural impact. The autopsy sequence became one of the most recognisable images in UFO history. Even people who regarded it as a hoax often remembered the imagery more clearly than the later [debunking]({{ 'debunking/' | relative_url }}).
 
 Several factors explain this persistence. Visual memories are durable, especially when attached to dramatic narratives. The image of a strange body on an examination table offered a concrete representation of Roswell that books and rumours had previously lacked. Once that picture entered popular culture, it continued to circulate independently of the evidence supporting it.
 
-The film also benefited from a familiar pattern in conspiracy culture. For some [believers]({{ 'believers/' | relative_url }}), the exposure of the hoax did not completely invalidate the underlying story. Instead, claims emerged that the released footage was a reconstruction of genuine lost material or that parts of the original narrative remained true despite the fabrication. Such reinterpretations allowed the Roswell myth to absorb the debunking rather than be destroyed by it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar How to watch The Alien Autopsy Scandal online</span><span class="citation-popover-snippet">The Alien Autopsy Scandal&quot; is a new documentary airing on Sky Documentaries and NOW at 9pm on Friday, June 12. It explores the infamous...</span></span></span>
+The film also benefited from a familiar pattern in conspiracy culture. For some [believers]({{ 'believers/' | relative_url }}), the exposure of the hoax did not completely invalidate the underlying story. Instead, claims emerged that the released footage was a reconstruction of genuine lost material or that parts of the original narrative remained true despite the fabrication. Such reinterpretations allowed the Roswell myth to absorb the debunking rather than be destroyed by it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar How to watch The Alien Autopsy Scandal online</span><span class="citation-popover-snippet">The Alien Autopsy Scandal&quot; is a new documentary airing on Sky Documentaries and NOW at 9pm on Friday, June 12. It explores the infamous...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_alien_autopsy_roswel_5494f8-Illustration-3-dark.svg" | relative_url }}" alt="Autopsy Film illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_alien_autopsy_roswel_5494f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_alien_autopsy_roswel_5494f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,194 +358,194 @@ By attaching a fabricated body to the established Roswell narrative, the film tr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the alien autopsy hoax felt official. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the alien autopsy hoax felt official. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Examines how powerful UFO myths spread through media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how powerful UFO myths spread through media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Helps explain why dramatic imagery retains influence after debunking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why dramatic imagery retains influence after debunking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Central to understanding the Roswell narrative behind the autopsy hoax.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central to understanding the Roswell narrative behind the autopsy hoax.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Explores claims that inspired later alien-body stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores claims that inspired later alien-body stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="autopsy-film-why-the-alien-autopsy-hoax-felt-official-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ By attaching a fabricated body to the established Roswell narrative, the film tr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ By attaching a fabricated body to the established Roswell narrative, the film tr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ By attaching a fabricated body to the established Roswell narrative, the film tr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ By attaching a fabricated body to the established Roswell narrative, the film tr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ By attaching a fabricated body to the established Roswell narrative, the film tr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,67 +751,67 @@ By attaching a fabricated body to the established Roswell narrative, the film tr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: factually.co  
    Title: Did the Government Cover Up an Alien Autopsy?  
-   Link: <a href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Government Cover Up an Alien Autopsy?June 14, 2026...</p></details>
+   Link:<a href="https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/government-alien-autopsy-cover-up-evidence-analysis-d16e89</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did the Government Cover Up an Alien Autopsy?June 14, 2026...</p></details>
    Published: June 14, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: techradar.com  
    Title: Tech Radar How to watch The Alien Autopsy Scandal online  
-   Link: <a href="https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Alien Autopsy Scandal&quot; is a new documentary airing on Sky Documentaries and NOW at 9pm on Friday, June 12. It explores the infamous...</p></details>
+   Link:<a href="https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-alien-autopsy-scandal-online-stream-documentary-from-anywhere</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Alien Autopsy Scandal&quot; is a new documentary airing on Sky Documentaries and NOW at 9pm on Friday, June 12. It explores the infamous...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Unknown details about the Alien Autopsy Video  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1jttn52" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1jttn52</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown details about the Alien Autopsy VideoApril 7, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1jttn52" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1jttn52</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown details about the Alien Autopsy VideoApril 7, 2025...</p></details>
    Published: April 7, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1rh2bv1/alien_autopsy_footage_declared_a_hoax_by_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rh2bv1/alien_autopsy_footage_declared_a_hoax_by_its/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy Footage Declared a Hoax by Its Creator; Court Ruling in the Mindhouse–Melaris Copyright Dispute...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rh2bv1/alien_autopsy_footage_declared_a_hoax_by_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rh2bv1/alien_autopsy_footage_declared_a_hoax_by_its/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy Footage Declared a Hoax by Its Creator; Court Ruling in the Mindhouse–Melaris Copyright Dispute...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTrIGyKxMCw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy | Deal of The Century | Warner Bros. Entertainment...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VTrIGyKxMCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTrIGyKxMCw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy | Deal of The Century | Warner Bros. Entertainment...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Alien Autopsy | Deal of The Century | Warner Bros. Entertainment  
-   Link: <a href="https://www.youtube.com/watch?v=kxLrVihZQcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kxLrVihZQcY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=kxLrVihZQcY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kxLrVihZQcY</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Alien Autopsy Scandal | Sky Documentaries  
-   Link: <a href="https://www.youtube.com/watch?v=-25XMaCROrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-25XMaCROrM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It&#x27;s NOT Bullsh*t!&quot; Neil DeGrasse Tyson On UFO Files, Aliens, Wormholes And Steven Spielberg...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-25XMaCROrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-25XMaCROrM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It&#x27;s NOT Bullsh*t!&quot; Neil DeGrasse Tyson On UFO Files, Aliens, Wormholes And Steven Spielberg...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Y7OLjStp6EI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7OLjStp6EI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Autopsy That Fooled The World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y7OLjStp6EI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7OLjStp6EI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Autopsy That Fooled The World...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Alien Autopsy That Fooled The World  
-   Link: <a href="https://www.youtube.com/watch?v=GxZItnSe5gY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GxZItnSe5gY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy: Fact or Fiction? (1995) - Official Trailer | VMI Worldwide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GxZItnSe5gY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GxZItnSe5gY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Autopsy: Fact or Fiction? (1995) - Official Trailer | VMI Worldwide...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0163521/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0163521/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autopsy: (Fact or Fiction?) (TV Movie 1995) - IMDbAugust 28, 1995...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0163521/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0163521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autopsy: (Fact or Fiction?) (TV Movie 1995) - IMDbAugust 28, 1995...</p></details>
    Published: August 28, 1995  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Alien Autopsy (1995 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_Autopsy_%281995_film%29</a>  

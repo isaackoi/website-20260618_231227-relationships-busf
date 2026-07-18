@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-kenneth/
 description: Focused pages that expand on Arnold Sighting.
-date: '2026-06-18'
+date: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_kenneth_arnold_sauce_924867
 parent_title: Arnold Sighting
@@ -16,7 +16,7 @@ parent_permalink: /arnold-sighting/
 
 # Explore Topics in Arnold Sighting
 
-The following pages expand on the main **[Arnold Sighting]({{ '/arnold-sighting/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Arnold Sighting]({{ '/arnold-sighting/' | relative_url }})** page and cover its key branches in.
 
 - [Air Force Files]({{ '/air-force-files/' | relative_url }})
 - [Original Shapes]({{ '/original-shapes/' | relative_url }})

@@ -284,7 +284,7 @@ The New Jersey drone sightings of late 2024 became one of the clearest examples 
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_new_jersey_drone_sig_f98d39-Illustration-1-dark.svg" | relative_url }}" alt="NJ Drones illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_new_jersey_drone_sig_f98d39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_new_jersey_drone_sig_f98d39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The episode is significant within the history of changing UFO vocabulary because the central fear was not extraterrestrial contact but the possibility that unknown machines were operating over populated areas without explanation. As investigations progressed, officials concluded that the reports largely involved lawful drones, conventional aircraft, helicopters and even stars that had been misidentified. Yet the public reaction revealed how strongly the word “drone” shapes modern interpretations of ambiguous aerial sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
+The episode is significant within the history of changing UFO vocabulary because the central fear was not extraterrestrial contact but the possibility that unknown machines were operating over populated areas without explanation. As investigations progressed, officials concluded that the reports largely involved lawful drones, conventional aircraft, helicopters and even stars that had been misidentified. Yet the public reaction revealed how strongly the word “drone” shapes modern interpretations of ambiguous aerial sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
 
 ## When Sky Lights Became Drone Swarms
 
@@ -314,7 +314,7 @@ In this sense, the New Jersey episode showed how contemporary science-fiction th
 
 Federal agencies responded publicly after thousands of reports were submitted.
 
-On 12 December 2024, the FBI and Department of Homeland Security stated that they had found no evidence that the reported sightings represented a national security threat or had any foreign connection. They noted that many historical drone reports turn out to involve mistaken identification of conventional aircraft or other objects. Investigators also reported that available imagery frequently appeared to show lawfully operating manned aircraft rather than [unidentified]({{ 'unidentified/' | relative_url }}) drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI...</span></span></span>
+On 12 December 2024, the FBI and Department of Homeland Security stated that they had found no evidence that the reported sightings represented a national security threat or had any foreign connection. They noted that many historical drone reports turn out to involve mistaken identification of conventional aircraft or other objects. Investigators also reported that available imagery frequently appeared to show lawfully operating manned aircraft rather than [unidentified]({{ 'unidentified/' | relative_url }}) drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI...</span></span></span>
 
 A second joint statement issued on 16 December by the DHS, FBI, FAA and Department of Defense provided a more detailed assessment. The agencies said the FBI had received more than 5,000 tips and that analysis indicated a mixture of:
 
@@ -330,7 +330,7 @@ A second joint statement issued on 16 December by the DHS, FBI, FAA and Departme
 
 </div>
 
-The agencies stated that they had identified nothing anomalous and found no indication of a public-safety or national-security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI+2GovTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
+The agencies stated that they had identified nothing anomalous and found no indication of a public-safety or national-security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[fbi.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
 
 Importantly, officials did not argue that every sighting was imaginary. Rather, they argued that the collection of reports represented many different ordinary phenomena that had become grouped together under a single narrative.
 
@@ -369,11 +369,11 @@ Federal investigators repeatedly emphasised that many reports involved ordinary 
 
 </div>
 
-Officials also noted that some visual reports could not be corroborated through electronic detection systems. In other words, people genuinely reported seeing something, but investigators often could not confirm the presence of an unidentified drone through radar or other tracking methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI...</span></span></span>
+Officials also noted that some visual reports could not be corroborated through electronic detection systems. In other words, people genuinely reported seeing something, but investigators often could not confirm the presence of an unidentified drone through radar or other tracking methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI</span><span class="citation-popover-snippet">Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI...</span></span></span>
 
 The distinction is important. A sighting can be sincere while still resulting from misidentification. The New Jersey episode became a large-scale demonstration of how thousands of individual observations can accumulate into a powerful public narrative even when many of the underlying objects have ordinary explanations.
 
-Community discussions reflected this tension. Online forums devoted to the sightings frequently warned participants against assuming that every light was a drone and cautioned against dangerous responses such as directing lasers at aircraft or attempting to bring suspected drones down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NJDrones/comments/1hggzbo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Drone updates: No national security risk found after 5,000 tips, FBI and other federal agencies sayDecember 17, 2024...</span><span class="citation-popover-meta">Published: December 17, 2024</span></span></span>
+Community discussions reflected this tension. Online forums devoted to the sightings frequently warned participants against assuming that every light was a drone and cautioned against dangerous responses such as directing lasers at aircraft or attempting to bring suspected drones down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NJDrones/comments/1hggzbo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Drone updates: No national security risk found after 5,000 tips, FBI and other federal agencies sayDecember 17, 2024...</span><span class="citation-popover-meta">Published: December 17, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_new_jersey_drone_sig_f98d39-Illustration-3-dark.svg" | relative_url }}" alt="NJ Drones illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_new_jersey_drone_sig_f98d39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40_new_jersey_drone_sig_f98d39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -383,201 +383,201 @@ The lasting importance of the New Jersey sightings lies less in the objects them
 
 The event showed that contemporary sky mysteries increasingly occupy a space between UFO reports and security concerns. The dominant question was not whether aliens had arrived, but whether authorities understood what was operating in the airspace above communities. That concern helped transform scattered observations into a major public story.
 
-Within the broader evolution of UFO language, the New Jersey case marks a moment when “drone” became a powerful explanatory category alongside “orb”, “UAP” and “UFO”. The objects being reported may have been ordinary in many cases, but the fears attached to them were distinctly modern: surveillance, [secrecy]({{ 'secrecy/' | relative_url }}), technological vulnerability and uncertainty about who controls the increasingly crowded skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
+Within the broader evolution of UFO language, the New Jersey case marks a moment when “drone” became a powerful explanatory category alongside “orb”, “UAP” and “UFO”. The objects being reported may have been ordinary in many cases, but the fears attached to them were distinctly modern: surveillance, [secrecy]({{ 'secrecy/' | relative_url }}), technological vulnerability and uncertainty about who controls the increasingly crowded skies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-snippet">DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</span><span class="citation-popover-meta">Published: December 16, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4JxM0jISHw" title="Reality Check: Mysterious Drones Swarm New Jersey Skies and Military Zones | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4JxM0jISHw" target="_blank" rel="noopener noreferrer">Reality Check: Mysterious Drones Swarm New Jersey Skies and Military Zones | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4JxM0jISHw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4JxM0jISHw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Sky Lights Became Drone Swarms. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Sky Lights Became Drone Swarms. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects eyewitness reports, aviation observations and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects eyewitness reports, aviation observations and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for how advanced aircraft and aerial technologies shape public perceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how advanced aircraft and aerial technologies shape public perceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
-        </h4>
-        <p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warrior on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=27_3DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warrior" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warrior">Drone Warrior</a>
+</h4>
+<p class="fr-book-author">By Brett Velicovich, Christopher S. Stewart</p>
         
-        <p class="fr-book-desc">Helps readers understand why drones have become central to modern aerial-security discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why drones have become central to modern aerial-security discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warrior+by+Brett+Velicovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing modern drone interpretations with earlier UFO reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing modern drone interpretations with earlier UFO reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warrior</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warrior</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="nj-drones-when-sky-lights-became-drone-swarms-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-sky-lights-became-drone-swarms-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-sky-lights-became-drone-swarms-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ Within the broader evolution of UFO language, the New Jersey case marks a moment
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ Within the broader evolution of UFO language, the New Jersey case marks a moment
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ Within the broader evolution of UFO language, the New Jersey case marks a moment
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ Within the broader evolution of UFO language, the New Jersey case marks a moment
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ Within the broader evolution of UFO language, the New Jersey case marks a moment
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,94 +783,94 @@ Within the broader evolution of UFO language, the New Jersey case marks a moment
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</p></details>
+   Link:<a href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA, and DoD Joint Statement on Ongoing Response to Reported Drone Sightings — FBIDecember 16, 2024...</p></details>
    Published: December 16, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fbi.gov  
    Title: Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI  
-   Link: <a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI...</p></details>
+   Link:<a href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint DHS/FBI Statement on Reports of Drones in New Jersey — FBI...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: govtech.com  
    Title: fbi many mystery drone sightings were false alarms  
-   Link: <a href="https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms" target="_blank" rel="noopener noreferrer nofollow">https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI: Many Mystery Drone Sightings Were False Alarms...</p></details>
+   Link:<a href="https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms" target="_blank" rel="noopener noreferrer nofollow">https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI: Many Mystery Drone Sightings Were False Alarms...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NJDrones/comments/1hggzbo" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NJDrones/comments/1hggzbo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone updates: No national security risk found after 5,000 tips, FBI and other federal agencies sayDecember 17, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/NJDrones/comments/1hggzbo" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NJDrones/comments/1hggzbo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone updates: No national security risk found after 5,000 tips, FBI and other federal agencies sayDecember 17, 2024...</p></details>
    Published: December 17, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: We just don't know,' FBI says on the drone sightings in New Jersey  
-   Link: <a href="https://www.reddit.com/r/newjersey/comments/1hbh20x" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newjersey/comments/1hbh20x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We just don&#x27;t know,&#x27; FBI says on the drone sightings in New Jersey...</p></details>
+   Link:<a href="https://www.reddit.com/r/newjersey/comments/1hbh20x" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newjersey/comments/1hbh20x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We just don&#x27;t know,&#x27; FBI says on the drone sightings in New Jersey...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Governor Phil Murphy has reassured the public that investigations led by the FBI, state police, and other federal authorities have found...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/17/drones-new-jersey-fbi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governor Phil Murphy has reassured the public that investigations led by the FBI, state police, and other federal authorities have found...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: inquirer.com  
-   Link: <a href="https://www.inquirer.com/news/new-jersey/drones-east-coast-update-fbi-false-alarms-20241217.html" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirer.com/news/new-jersey/drones-east-coast-update-fbi-false-alarms-20241217.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>thousands of ‘mystery drone’ sightings in New Jersey, many were false alarms, FBI saysDecember 17, 2024...</p></details>
+   Link:<a href="https://www.inquirer.com/news/new-jersey/drones-east-coast-update-fbi-false-alarms-20241217.html" target="_blank" rel="noopener noreferrer nofollow">https://www.inquirer.com/news/new-jersey/drones-east-coast-update-fbi-false-alarms-20241217.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thousands of ‘mystery drone’ sightings in New Jersey, many were false alarms, FBI saysDecember 17, 2024...</p></details>
    Published: December 17, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: securityinfowatch.com  
-   Link: <a href="https://www.securityinfowatch.com/perimeter-security/robotics/unmanned-aerial-vehicles-drones/news/55250334/fbi-says-thousands-of-mystery-drone-sightings-are-false-alarms" target="_blank" rel="noopener noreferrer nofollow">https://www.securityinfowatch.com/perimeter-security/robotics/unmanned-aerial-vehicles-drones/news/55250334/fbi-says-thousands-of-mystery-drone-sightings-are-false-alarms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>says thousands of &#x27;mystery drone&#x27; sightings are false alarms | Security Info WatchDecember 17, 2024...</p></details>
+   Link:<a href="https://www.securityinfowatch.com/perimeter-security/robotics/unmanned-aerial-vehicles-drones/news/55250334/fbi-says-thousands-of-mystery-drone-sightings-are-false-alarms" target="_blank" rel="noopener noreferrer nofollow">https://www.securityinfowatch.com/perimeter-security/robotics/unmanned-aerial-vehicles-drones/news/55250334/fbi-says-thousands-of-mystery-drone-sightings-are-false-alarms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>says thousands of &#x27;mystery drone&#x27; sightings are false alarms | Security Info WatchDecember 17, 2024...</p></details>
    Published: December 17, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lynnwoodtimes.com  
    Title: Lynnwood Times Joint DHS/FBI statement on reports of drones in New Jersey  
-   Link: <a href="https://lynnwoodtimes.com/2024/12/14/drones-new-jersey/" target="_blank" rel="noopener noreferrer nofollow">https://lynnwoodtimes.com/2024/12/14/drones-new-jersey/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lynnwood TimesJoint DHS/FBI statement on reports of drones in New Jersey - Lynnwood Times...</p></details>
+   Link:<a href="https://lynnwoodtimes.com/2024/12/14/drones-new-jersey/" target="_blank" rel="noopener noreferrer nofollow">https://lynnwoodtimes.com/2024/12/14/drones-new-jersey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lynnwood TimesJoint DHS/FBI statement on reports of drones in New Jersey - Lynnwood Times...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: "Massive invasion of drones" NJ officials give update on drones over New Jersey  
-   Link: <a href="https://www.youtube.com/watch?v=dERXSaclFLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dERXSaclFLo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Officials raise questions about mysterious drone sightings over New Jersey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dERXSaclFLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dERXSaclFLo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Officials raise questions about mysterious drone sightings over New Jersey...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mysterious drones swarm New Jersey skies, military bases | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=sucrnlxq8CA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sucrnlxq8CA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reality Check: Mysterious Drones Swarm New Jersey Skies and Military Zones...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sucrnlxq8CA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sucrnlxq8CA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reality Check: Mysterious Drones Swarm New Jersey Skies and Military Zones...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: factcheck.org  
    Title: Fact Check.org What We Know About the Drones  
-   Link: <a href="https://www.factcheck.org/2024/12/what-we-know-about-the-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.factcheck.org/2024/12/what-we-know-about-the-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About the Drones - FactCheck.org...</p></details>
+   Link:<a href="https://www.factcheck.org/2024/12/what-we-know-about-the-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.factcheck.org/2024/12/what-we-know-about-the-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About the Drones - FactCheck.org...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Mystery drones in New Jersey explained  
-   Link: <a href="https://www.youtube.com/watch?v=4XumlPSpSBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4XumlPSpSBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Massive invasion of drones&quot; NJ officials give update on drones over New Jersey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4XumlPSpSBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4XumlPSpSBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Massive invasion of drones&quot; NJ officials give update on drones over New Jersey...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Reality Check: Mysterious Drones Swarm New Jersey Skies and Military Zones  
-   Link: <a href="https://www.youtube.com/watch?v=S4JxM0jISHw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4JxM0jISHw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones in New Jersey explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S4JxM0jISHw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S4JxM0jISHw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones in New Jersey explained...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: conspirafy.com  
    Title: nj drone sightings 2024  
-   Link: <a href="https://conspirafy.com/conspiracies/nj-drone-sightings-2024" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/nj-drone-sightings-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey Drone Sightings 2024May 12, 2026...</p></details>
+   Link:<a href="https://conspirafy.com/conspiracies/nj-drone-sightings-2024" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/nj-drone-sightings-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey Drone Sightings 2024May 12, 2026...</p></details>
    Published: May 12, 2026  

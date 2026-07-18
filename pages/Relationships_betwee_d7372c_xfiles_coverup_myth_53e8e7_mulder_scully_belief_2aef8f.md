@@ -274,15 +274,15 @@ image: /assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_mul
 
 ## Introduction
 
-At the centre of *[The X-Files]({{ 'the-x-files/' | relative_url }})* was a simple but remarkably durable idea: every UFO mystery should be examined by two people who needed each other but rarely agreed. Fox Mulder represented belief, intuition and the conviction that official [explanations]({{ 'explanations/' | relative_url }}) concealed deeper truths. Dana Scully represented scientific method, professional scepticism and the demand for evidence. Together they transformed UFO conspiracy stories from niche genre material into a debate that mainstream audiences could enter. Rather than telling viewers what to think, the series turned belief and doubt into a weekly test of trust, evidence and interpretation. That balance became one of the most influential mechanisms in modern science fiction's treatment of UFOs and cover-ups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
+At the centre of *[The X-Files]({{ 'the-x-files/' | relative_url }})* was a simple but remarkably durable idea: every UFO mystery should be examined by two people who needed each other but rarely agreed. Fox Mulder represented belief, intuition and the conviction that official [explanations]({{ 'explanations/' | relative_url }}) concealed deeper truths. Dana Scully represented scientific method, professional scepticism and the demand for evidence. Together they transformed UFO conspiracy stories from niche genre material into a debate that mainstream audiences could enter. Rather than telling viewers what to think, the series turned belief and doubt into a weekly test of trust, evidence and interpretation. That balance became one of the most influential mechanisms in modern science fiction's treatment of UFOs and cover-ups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_mulder_scully_belief_2aef8f-Illustration-1-dark.svg" | relative_url }}" alt="Belief Test illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_mulder_scully_belief_2aef8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_mulder_scully_belief_2aef8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Mulder and Scully made doubt addictive
 
-Many earlier UFO stories divided characters into [believers]({{ 'believers/' | relative_url }}) and debunkers, but *The X-Files* gave both positions emotional legitimacy. Mulder was not simply gullible. His belief emerged from the childhood disappearance of his sister and his conviction that hidden forces were suppressing the truth. Scully was not a cynical spoiler. She was a physician and scientist whose professional responsibility was to test extraordinary claims against observable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
+Many earlier UFO stories divided characters into [believers]({{ 'believers/' | relative_url }}) and debunkers, but *The X-Files* gave both positions emotional legitimacy. Mulder was not simply gullible. His belief emerged from the childhood disappearance of his sister and his conviction that hidden forces were suppressing the truth. Scully was not a cynical spoiler. She was a physician and scientist whose professional responsibility was to test extraordinary claims against observable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
 
-This structure created a recurring question for viewers: who is being more reasonable right now? In one episode Mulder's intuition might uncover a genuine mystery. In the next, Scully's caution might expose a false assumption. Because neither character was consistently rewarded or punished for their worldview, audiences were encouraged to occupy the uncertain space between them rather than settle permanently into one camp. That uncertainty became a major source of the show's appeal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/video/close-encounters-return-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIClose encounters: the return of The X-Files &#124; Sight and Sound</span><span class="citation-popover-snippet">February 5, 2016</span></span></span>
+This structure created a recurring question for viewers: who is being more reasonable right now? In one episode Mulder's intuition might uncover a genuine mystery. In the next, Scully's caution might expose a false assumption. Because neither character was consistently rewarded or punished for their worldview, audiences were encouraged to occupy the uncertain space between them rather than settle permanently into one camp. That uncertainty became a major source of the show's appeal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/video/close-encounters-return-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIClose encounters: the return of The X-Files &#124; Sight and Sound</span><span class="citation-popover-snippet">February 5, 2016</span></span></span>
 
 The result was unusual for [television]({{ 'television/' | relative_url }}) science fiction. UFO stories were no longer only about aliens or secret projects. They became arguments about how human beings decide what is true.
 
@@ -291,7 +291,7 @@ The result was unusual for [television]({{ 'television/' | relative_url }}) scie
 
 ## Mulder's search for hidden truth
 
-Mulder embodied a powerful tendency already present in UFO culture: the suspicion that official narratives leave important facts unexplained. His famous poster declaring "I Want to Believe" was not merely a statement about extraterrestrials. It expressed a broader desire for hidden patterns to exist and for mysteries to have meaningful explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAI want to believe: how UFOs conquered the X-files</span><span class="citation-popover-snippet">Sheffield Hallam University Research Archive...</span></span></span>
+Mulder embodied a powerful tendency already present in UFO culture: the suspicion that official narratives leave important facts unexplained. His famous poster declaring "I Want to Believe" was not merely a statement about extraterrestrials. It expressed a broader desire for hidden patterns to exist and for mysteries to have meaningful explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAI want to believe: how UFOs conquered the X-files</span><span class="citation-popover-snippet">Sheffield Hallam University Research Archive...</span></span></span>
 
 Several features made Mulder persuasive even when he lacked evidence:
 
@@ -301,7 +301,7 @@ Several features made Mulder persuasive even when he lacked evidence:
 * **He was an insider.** As an FBI agent, he investigated from within the institutions he distrusted.
 * **He followed anomalies.** He treated inconsistencies, missing documents and unexplained events as clues rather than errors.
 * **He linked isolated mysteries.** Separate incidents often appeared connected within a larger conspiracy framework.
-* **He was emotionally invested.** His personal history gave viewers a reason to understand his commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
+* **He was emotionally invested.** His personal history gave viewers a reason to understand his commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
 
 </div>
 
@@ -315,11 +315,11 @@ Within the broader relationship between UFOs and science fiction, Mulder helped 
 
 Scully performed an equally important role. Without her, the series could easily have become a straightforward celebration of UFO belief. Instead, she acted as a continual reminder that extraordinary claims require evidence.
 
-Her scepticism was grounded in scientific practice rather than ridicule. She collected samples, performed autopsies, analysed data and searched for natural explanations. Even when confronted with bizarre events, she usually tried to separate observation from interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
+Her scepticism was grounded in scientific practice rather than ridicule. She collected samples, performed autopsies, analysed data and searched for natural explanations. Even when confronted with bizarre events, she usually tried to separate observation from interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
 
 This distinction mattered. Scully often accepted that something unusual had happened while rejecting Mulder's preferred explanation for it. The disagreement was therefore not always about facts but about what those facts meant.
 
-The show also complicated simple stereotypes about science and belief. As the series progressed, Scully encountered events that challenged her assumptions, while Mulder occasionally became sceptical of claims that lacked sufficient support. Chris Carter even experimented with episodes in which their traditional positions temporarily reversed, demonstrating that belief and scepticism were methods rather than permanent identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slashfilm.com/542227/x-files-chris-carter-interview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-snippet">Interview: &#x27;X-Files&#x27; Creator Chris Carter On Revisiting Mulder &amp; Scully And The Evolution Of The Conspiracy TheoristJanuary 22...</span></span></span>
+The show also complicated simple stereotypes about science and belief. As the series progressed, Scully encountered events that challenged her assumptions, while Mulder occasionally became sceptical of claims that lacked sufficient support. Chris Carter even experimented with episodes in which their traditional positions temporarily reversed, demonstrating that belief and scepticism were methods rather than permanent identities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slashfilm.com/542227/x-files-chris-carter-interview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-snippet">Interview: &#x27;X-Files&#x27; Creator Chris Carter On Revisiting Mulder &amp; Scully And The Evolution Of The Conspiracy TheoristJanuary 22...</span></span></span>
 
 Because Scully was intelligent, competent and sympathetic, viewers who preferred evidence-based reasoning could remain engaged with stories involving aliens, paranormal phenomena and government conspiracies. She made the mystery accessible to audiences who might otherwise have dismissed it.
 
@@ -332,9 +332,9 @@ The real achievement of Mulder and Scully was not that one believed and the othe
 
 Mulder prevented the narrative from becoming trapped inside official explanations. He kept open the possibility that institutions could conceal important truths. Scully prevented the narrative from accepting every strange claim without scrutiny. Together they created a process rather than a conclusion.
 
-This gave UFO conspiracies a sense of procedural fairness. Viewers saw claims challenged, evidence debated and assumptions tested before reaching a judgement. Even when the series leaned toward hidden conspiracies, it often arrived there through argument rather than simple assertion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
+This gave UFO conspiracies a sense of procedural fairness. Viewers saw claims challenged, evidence debated and assumptions tested before reaching a judgement. Even when the series leaned toward hidden conspiracies, it often arrived there through argument rather than simple assertion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviews.televisionacademy.com">[Television Academy Interviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviews.televisionacademy.com</span><span class="citation-popover-title">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span><span class="citation-popover-snippet">Television Academy Interviews X-Files, The &#124; Television Academy Interviews</span></span></span>
 
-The partnership also reflected wider cultural tensions of the 1990s. Public trust in institutions had been weakened by political scandals and [secrecy]({{ 'secrecy/' | relative_url }}), yet scientific expertise still retained considerable authority. Mulder and Scully allowed audiences to experience both impulses simultaneously: suspicion of power and respect for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
+The partnership also reflected wider cultural tensions of the 1990s. Public trust in institutions had been weakened by political scandals and [secrecy]({{ 'secrecy/' | relative_url }}), yet scientific expertise still retained considerable authority. Mulder and Scully allowed audiences to experience both impulses simultaneously: suspicion of power and respect for evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianCold War hysteria sparked UFO obsession, study finds &#124; Space &#124; The GuardianMay 5, 2002...</span><span class="citation-popover-meta">Published: May 5, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_mulder_scully_belief_2aef8f-Illustration-3-dark.svg" | relative_url }}" alt="Belief Test illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_mulder_scully_belief_2aef8f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_mulder_scully_belief_2aef8f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,171 +342,203 @@ The partnership also reflected wider cultural tensions of the 1990s. Public trus
 
 Many conspiracy narratives struggle because they focus only on hidden plots. *The X-Files* succeeded because the central relationship carried emotional weight independent of any mystery.
 
-Viewers returned not only to learn whether aliens existed or whether a cover-up would be exposed. They returned to watch two intelligent people negotiate disagreement without abandoning mutual respect. The tension between belief and scepticism became personal. Each investigation tested not only a theory but also the trust between partners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/video/close-encounters-return-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIClose encounters: the return of The X-Files &#124; Sight and Sound</span><span class="citation-popover-snippet">February 5, 2016</span></span></span>
+Viewers returned not only to learn whether aliens existed or whether a cover-up would be exposed. They returned to watch two intelligent people negotiate disagreement without abandoning mutual respect. The tension between belief and scepticism became personal. Each investigation tested not only a theory but also the trust between partners.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/video/close-encounters-return-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIClose encounters: the return of The X-Files &#124; Sight and Sound</span><span class="citation-popover-snippet">February 5, 2016</span></span></span>
 
-That emotional dimension helped mainstream audiences engage with ideas that might otherwise have remained on the fringes of UFO culture. A debate about government secrecy became a conversation between friends. A dispute about evidence became a question of trust. As critics and historians of the series have noted, the Mulder–Scully partnership was ultimately the key mechanism that made the show's mythology work. The UFO conspiracy mattered, but the believer and the sceptic mattered more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/video/close-encounters-return-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI+2SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIClose encounters: the return of The X-Files &#124; Sight and Sound</span><span class="citation-popover-snippet">February 5, 2016</span></span></span>
+That emotional dimension helped mainstream audiences engage with ideas that might otherwise have remained on the fringes of UFO culture. A debate about government secrecy became a conversation between friends. A dispute about evidence became a question of trust. As critics and historians of the series have noted, the Mulder–Scully partnership was ultimately the key mechanism that made the show's mythology work. The UFO conspiracy mattered, but the believer and the sceptic mattered more.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/sight-and-sound/video/close-encounters-return-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[bfi.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIClose encounters: the return of The X-Files &#124; Sight and Sound</span><span class="citation-popover-snippet">February 5, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGSK45VMefg" title="The X-Files is better than it should be | Midnight Local" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGSK45VMefg" target="_blank" rel="noopener noreferrer">The X-Files is better than it should be | Midnight Local</a></p><p class="youtube-embed-meta">Channel: MidnightLocal</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGSK45VMefg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGSK45VMefg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Mulder and Scully made doubt addictive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Mulder and Scully made doubt addictive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The X-Files: The Official Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WxSJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The X-Files: The Official Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The X-Files: The Official Archives">The X-Files: The Official Archives</a>
-        </h4>
-        <p class="fr-book-author">By Paul Terry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The X-Files: The Official Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WxSJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The X-Files: The Official Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The X-Files: The Official Archives">The X-Files: The Official Archives</a>
+</h4>
+<p class="fr-book-author">By Paul Terry</p>
         
-        <p class="fr-book-desc">Covers major mythology characters including the Cigarette Smoking Man.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major mythology characters including the Cigarette Smoking Man.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
+</h4>
+<p class="fr-book-author">By Jesse Walker</p>
         
-        <p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines secrecy, classified programmes and archival mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines secrecy, classified programmes and archival mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rl0LAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete X-Files">The Complete X-Files</a>
-        </h4>
-        <p class="fr-book-author">By Matt Hurwitz, Chris Knowles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rl0LAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete X-Files">The Complete X-Files</a>
+</h4>
+<p class="fr-book-author">By Matt Hurwitz, Chris Knowles</p>
         
-        <p class="fr-book-desc">Explains the conspiracy mythology and recurring antagonists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the conspiracy mythology and recurring antagonists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+X+Files%3A+The+Official+Archives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The X Files: The Official Archives</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+X+Files%3A+The+Official+Archives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The X Files: The Official Archives</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for i want to believe poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: i want to believe poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for i want to believe poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: i want to believe poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=i+want+to+believe+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="i want to believe poster -book -books" data-ebay-reference="belief-test-why-mulder-and-scully-made-doubt-addictive-relationships-betwee-i-want-to-believe-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-xfiles-coverup-myth-53e8e7-mulder-scully-belief-2aef8f-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +554,7 @@ That emotional dimension helped mainstream audiences engage with ideas that migh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +574,7 @@ That emotional dimension helped mainstream audiences engage with ideas that migh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +606,7 @@ That emotional dimension helped mainstream audiences engage with ideas that migh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +658,7 @@ That emotional dimension helped mainstream audiences engage with ideas that migh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +703,7 @@ That emotional dimension helped mainstream audiences engage with ideas that migh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,103 +744,103 @@ That emotional dimension helped mainstream audiences engage with ideas that migh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bfi.org.uk  
    Title: BFIClose encounters: the return of The X-Files | Sight and Sound  
-   Link: <a href="https://www.bfi.org.uk/sight-and-sound/video/[close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/video/[close-encounters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 5, 2016...</p></details>
+   Link:<a href="https://www.bfi.org.uk/sight-and-sound/video/[close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/sight-and-sound/video/[close-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 5, 2016...</p></details>
    Published: February 5, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: slashfilm.com  
-   Link: <a href="https://www.slashfilm.com/542227/x-files-chris-carter-interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/542227/x-files-chris-carter-interview/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview: &#x27;X-Files&#x27; Creator Chris Carter On Revisiting Mulder &amp; Scully And The Evolution Of The Conspiracy TheoristJanuary 22...</p></details>
+   Link:<a href="https://www.slashfilm.com/542227/x-files-chris-carter-interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/542227/x-files-chris-carter-interview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interview: &#x27;X-Files&#x27; Creator Chris Carter On Revisiting Mulder &amp; Scully And The Evolution Of The Conspiracy TheoristJanuary 22...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: interviews.televisionacademy.com  
    Title: Television Academy Interviews X-Files, The | Television Academy Interviews  
-   Link: <a href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow">https://interviews.televisionacademy.com/shows/x-files-the</a>  
+   Link:<a href="https://interviews.televisionacademy.com/shows/x-files-the" target="_blank" rel="noopener noreferrer nofollow">https://interviews.televisionacademy.com/shows/x-files-the</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: shura.shu.ac.uk  
    Title: SHURAI want to believe: how UFOs conquered the X-files  
-   Link: <a href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sheffield Hallam University Research Archive...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sheffield Hallam University Research Archive...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2002/may/05/spaceexploration.research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianCold War hysteria sparked UFO obsession, study finds | Space | The GuardianMay 5, 2002...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2002/may/05/spaceexploration.research" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2002/may/05/spaceexploration.research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianCold War hysteria sparked UFO obsession, study finds | Space | The GuardianMay 5, 2002...</p></details>
    Published: May 5, 2002  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shura.shu.ac.uk  
    Title: I want to believe: how UFOs conquered the X-files  
-   Link: <a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2023...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2023...</p></details>
    Published: May 3, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: televisionacademy.com  
    Title: www.televisionacademy.com Reach of Trust | Television Academy  
-   Link: <a href="https://www.televisionacademy.com/features/news/mix/reach-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.televisionacademy.com/features/news/mix/reach-trust</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Trust | Television AcademyNovember 30, 2017...</p></details>
+   Link:<a href="https://www.televisionacademy.com/features/news/mix/reach-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.televisionacademy.com/features/news/mix/reach-trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Trust | Television AcademyNovember 30, 2017...</p></details>
    Published: November 30, 2017  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2008/07/q-and-a-x-fil-1" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/q-and-a-x-fil-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Both Carter and his writing partner, Frank Spotnize, completed the film&#x27;s script in November and swiftly moved into production during the...</p></details>
+   Link:<a href="https://www.wired.com/2008/07/q-and-a-x-fil-1" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/q-and-a-x-fil-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both Carter and his writing partner, Frank Spotnize, completed the film&#x27;s script in November and swiftly moved into production during the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/XFiles/comments/1u3nfi3/am_i_the_only_one_who_finds_scullys_character/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/1u3nfi3/am_i_the_only_one_who_finds_scullys_character/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I the only one who finds Scully&#x27;s character development frustrating and dissapointing?June 12, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/XFiles/comments/1u3nfi3/am_i_the_only_one_who_finds_scullys_character/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/1u3nfi3/am_i_the_only_one_who_finds_scullys_character/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I the only one who finds Scully&#x27;s character development frustrating and dissapointing?June 12, 2026...</p></details>
    Published: June 12, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uxab8XuG76g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uxab8XuG76g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files is better than it should be | Midnight Local...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uxab8XuG76g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uxab8XuG76g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files is better than it should be | Midnight Local...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: www.reddit.com Why does Scully never believe Mulder?  
-   Link: <a href="https://www.reddit.com/r/XFiles/comments/k3tm71" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/k3tm71</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>does Scully never believe Mulder?November 30, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/XFiles/comments/k3tm71" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/k3tm71</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>does Scully never believe Mulder?November 30, 2020...</p></details>
    Published: November 30, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The X-Files is better than it should be | Midnight Local  
-   Link: <a href="https://www.youtube.com/watch?v=uGSK45VMefg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uGSK45VMefg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behind Scully &amp; Mulder&#x27;s Relationship | Season 10 | THE X-FILES...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uGSK45VMefg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uGSK45VMefg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behind Scully &amp; Mulder&#x27;s Relationship | Season 10 | THE X-FILES...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newyorker.com  
    Title: too much pulp  
-   Link: <a href="https://www.newyorker.com/magazine/1997/01/06/too-much-pulp" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/01/06/too-much-pulp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The X-Files,&quot; which started as a cult favorite and exploded into a global phenomenon, is celebrated for its eerie atmosphere and the che...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/1997/01/06/too-much-pulp" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/01/06/too-much-pulp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The X-Files,&quot; which started as a cult favorite and exploded into a global phenomenon, is celebrated for its eerie atmosphere and the che...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Behind Scully & Mulder's Relationship | Season 10 | THE X-FILES  
-   Link: <a href="https://www.youtube.com/watch?v=W6JfBb4u--Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6JfBb4u--Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Revealed | The X-Files | Channel 5...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W6JfBb4u--Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6JfBb4u--Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Revealed | The X-Files | Channel 5...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: screenrant.com  
-   Link: <a href="https://screenrant.com/xfiles-conspiracy-theories-david-duchovny-response-mulder-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/xfiles-conspiracy-theories-david-duchovny-response-mulder-comparison/</a>  
+   Link:<a href="https://screenrant.com/xfiles-conspiracy-theories-david-duchovny-response-mulder-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/xfiles-conspiracy-theories-david-duchovny-response-mulder-comparison/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Truth Revealed | The X-Files | Channel 5  
-   Link: <a href="https://www.youtube.com/watch?v=FhHSMkoe9E4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FhHSMkoe9E4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scully And Mulder&#x27;s Most Memorable X-Files Moments Ranked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FhHSMkoe9E4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FhHSMkoe9E4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scully And Mulder&#x27;s Most Memorable X-Files Moments Ranked...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Scully And Mulder's Most Memorable X-Files Moments Ranked  
-   Link: <a href="https://www.youtube.com/watch?v=qyG6ZC5Tx10" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qyG6ZC5Tx10</a>  
+   Link:<a href="https://www.youtube.com/watch?v=qyG6ZC5Tx10" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qyG6ZC5Tx10</a>  

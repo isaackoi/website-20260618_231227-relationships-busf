@@ -324,7 +324,7 @@ A famous observation often attributed to Arthur C. Clarke is that sufficiently a
 
 This shift also reflects broader cultural changes. In medieval Europe, supernatural [explanations]({{ 'explanations/' | relative_url }}) fit prevailing beliefs about spirits, demons and divine intervention. In the space age, [rockets]({{ 'rockets/' | relative_url }}), satellites and scientific progress provided a different framework. Extraordinary experiences that might once have been described as encounters with fairies or spirits could now be interpreted through concepts drawn from astronomy, engineering and science fiction.
 
-Research on sleep paralysis demonstrates how cultural expectations shape interpretation. Across different societies, similar experiences of paralysis, sensed presences and vivid hallucinations have been attributed to demons, spirits, witches, ghosts or other supernatural beings. Modern Western experiencers sometimes interpret comparable experiences through alien-abduction narratives instead. The underlying experience may remain similar while the explanatory framework changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/2054270415598091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep paralysis and folklore</span><span class="citation-popover-snippet">Sage JournalsSleep paralysis and folklore - Ann M Cox, 2015July 28, 2015...</span><span class="citation-popover-meta">Published: July 28, 2015</span></span></span>
+Research on sleep paralysis demonstrates how cultural expectations shape interpretation. Across different societies, similar experiences of paralysis, sensed presences and vivid hallucinations have been attributed to demons, spirits, witches, ghosts or other supernatural beings. Modern Western experiencers sometimes interpret comparable experiences through alien-abduction narratives instead. The underlying experience may remain similar while the explanatory framework changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/2054270415598091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep paralysis and folklore</span><span class="citation-popover-snippet">Sage JournalsSleep paralysis and folklore - Ann M Cox, 2015July 28, 2015...</span><span class="citation-popover-meta">Published: July 28, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V3f9xQNaj2M" title="Aliens vs Fairies: Are They The Same Thing in Disguise? 👽🧚‍♂️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V3f9xQNaj2M" target="_blank" rel="noopener noreferrer">Aliens vs Fairies: Are They The Same Thing in Disguise? 👽🧚‍♂️</a></p><p class="youtube-embed-meta">Channel: Real Wizardry</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V3f9xQNaj2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V3f9xQNaj2M">Open on YouTube</a></p></div></div></div>
@@ -357,194 +357,194 @@ Seen from this perspective, alien technology in UFO folklore is not merely machi
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_alien_technology_mag_114566-Illustration-3-dark.svg" | relative_url }}" alt="Tech Magic illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_alien_technology_mag_114566-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_alien_technology_mag_114566-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Space Age Tech Replaced Magic. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Space Age Tech Replaced Magic. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly examines links between folklore traditions and UFO/abduction reports, matching the page&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines links between folklore traditions and UFO/abduction reports, matching the page&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Central text in the development of modern alien abduction narratives, especially bodily examination and intrusion themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central text in the development of modern alien abduction narratives, especially bodily examination and intrusion themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien Xenomorph Warrior 2013 Figure Loose Genuine Collectible Display"><img src="https://i.ebayimg.com/images/g/j8AAAeSw5wRqKvtK/s-l225.jpg" alt="Listing image for NECA Alien Xenomorph Warrior 2013 Figure Loose Genuine Collectible Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien Xenomorph Warrior 2013 Figure Loose Genuine Collectible Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="https://i.ebayimg.com/images/g/2QsAAeSwRutqIWOg/s-l225.jpg" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="{{ '/assets/images/marketplace-covers/de21d59ef368bbab6f93.jpg' | relative_url }}" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Bust Figure Display Statue Sci-Fi Horror Collectible Multi Colou"><img src="https://i.ebayimg.com/images/g/TEEAAeSwIRpqJt~a/s-l225.jpg" alt="Listing image for Alien Xenomorph Bust Figure Display Statue Sci-Fi Horror Collectible Multi Colou" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Bust Figure Display Statue Sci-Fi Horror Collectible Multi Colou</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="tech-magic-how-space-age-tech-replaced-magic-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AVP Alien Gentleman Collectible 13cm 3D Printed Statue Model Action Figure Toy"><img src="https://i.ebayimg.com/images/g/bPgAAeSwq1dqMqRU/s-l225.jpg" alt="Listing image for AVP Alien Gentleman Collectible 13cm 3D Printed Statue Model Action Figure Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">AVP Alien Gentleman Collectible 13cm 3D Printed Statue Model Action Figure Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-alien-technology-mag-114566-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ Seen from this perspective, alien technology in UFO folklore is not merely machi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ Seen from this perspective, alien technology in UFO folklore is not merely machi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ Seen from this perspective, alien technology in UFO folklore is not merely machi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ Seen from this perspective, alien technology in UFO folklore is not merely machi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ Seen from this perspective, alien technology in UFO folklore is not merely machi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,88 +750,88 @@ Seen from this perspective, alien technology in UFO folklore is not merely machi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSleep paralysis and folklore  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5167075/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5013036/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5013036/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5013036/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5013036/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Sleep paralysis and folklore  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2054270415598091" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2054270415598091</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep paralysis and folklore - Ann M Cox, 2015July 28, 2015...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2054270415598091" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2054270415598091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep paralysis and folklore - Ann M Cox, 2015July 28, 2015...</p></details>
    Published: July 28, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Sleep Paralysis, a Medical Condition with a Diverse Cultural Interpretation  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2018...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2018...</p></details>
    Published: July 1, 2018  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/r45hhe" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/r45hhe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>dont want to scare anyone, but the hitchhiker effect is linked to sleep paralysis. Are UFO&#x27;s craft to travel from the &quot;dream reality&quot; int...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/r45hhe" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/r45hhe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dont want to scare anyone, but the hitchhiker effect is linked to sleep paralysis. Are UFO&#x27;s craft to travel from the &quot;dream reality&quot; int...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/16toc1u" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16toc1u</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>likely is it that sleep paralysis demons are an intentionally manufactured myth to hide aspects of abduction?September 27, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/16toc1u" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16toc1u</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>likely is it that sleep paralysis demons are an intentionally manufactured myth to hide aspects of abduction?September 27, 2023...</p></details>
    Published: September 27, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Unexplained/comments/y996zt" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/y996zt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>have described bizarre extraterrestrial encounters that take place in a dreamlike state.October 20, 2022...</p></details>
+   Link:<a href="https://www.reddit.com/r/Unexplained/comments/y996zt" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Unexplained/comments/y996zt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>have described bizarre extraterrestrial encounters that take place in a dreamlike state.October 20, 2022...</p></details>
    Published: October 20, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1k6s73l/sleep_paralysis_a_breeding_ground_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1k6s73l/sleep_paralysis_a_breeding_ground_for/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paralysis: A Breeding Ground for Conspiracies, and the Bane of Every Skeptic&#x27;s ExistenceApril 24, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1k6s73l/sleep_paralysis_a_breeding_ground_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1k6s73l/sleep_paralysis_a_breeding_ground_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paralysis: A Breeding Ground for Conspiracies, and the Bane of Every Skeptic&#x27;s ExistenceApril 24, 2025...</p></details>
    Published: April 24, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: revistas.usp.br  
-   Link: <a href="https://revistas.usp.br/revistaec/en/article/view/210636" target="_blank" rel="noopener noreferrer nofollow">https://revistas.usp.br/revistaec/en/article/view/210636</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SLEEP PARALYSIS IN BRAZILIAN FOLKLORE AND OTHER CULTURES | Revista de Estudos CulturaisOctober 21, 2023...</p></details>
+   Link:<a href="https://revistas.usp.br/revistaec/en/article/view/210636" target="_blank" rel="noopener noreferrer nofollow">https://revistas.usp.br/revistaec/en/article/view/210636</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SLEEP PARALYSIS IN BRAZILIAN FOLKLORE AND OTHER CULTURES | Revista de Estudos CulturaisOctober 21, 2023...</p></details>
    Published: October 21, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uSDHCC5-ALM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uSDHCC5-ALM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens vs Fairies: Are They The Same Thing in Disguise? ‍♂️...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uSDHCC5-ALM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uSDHCC5-ALM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens vs Fairies: Are They The Same Thing in Disguise? ‍♂️...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1605.06706" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1605.06706</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2016...</p></details>
+   Link:<a href="https://arxiv.org/abs/1605.06706" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1605.06706</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2016...</p></details>
    Published: May 21, 2016  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
    Title: Imagining the Alien: Human Projections and Cognitive Limitations  
-   Link: <a href="https://arxiv.org/abs/2602.07284" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.07284</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 7, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.07284" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.07284</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 7, 2026...</p></details>
    Published: February 7, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Aliens vs Fairies: Are They The Same Thing in Disguise? ‍♂️  
-   Link: <a href="https://www.youtube.com/watch?v=V3f9xQNaj2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3f9xQNaj2M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of UFO Phenomena with Jacques Vallée...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V3f9xQNaj2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3f9xQNaj2M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of UFO Phenomena with Jacques Vallée...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
    Title: Sleep Paralysis: phenomenology, neurophysiology and treatment  
-   Link: <a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 7, 2017...</p></details>
    Published: April 7, 2017  

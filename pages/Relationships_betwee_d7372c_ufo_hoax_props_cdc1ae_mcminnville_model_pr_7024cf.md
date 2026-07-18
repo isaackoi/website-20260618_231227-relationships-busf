@@ -280,15 +280,15 @@ image: /assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnvi
 
 ## Introduction
 
-The McMinnville photographs remain one of the most enduring UFO image controversies because they sit directly on a simple but difficult question: are viewers looking at a distant flying object or a small model suspended close to the camera? Taken by Paul Trent near McMinnville, Oregon, in May 1950, the two photographs show a classic saucer-shaped object against the sky. Their cultural importance comes not from dramatic detail but from uncertainty. A dark disc photographed with no obvious scale reference can appear either extraordinary or ordinary depending on assumptions about distance, size and photographic perspective. That uncertainty has made the case a recurring example in debates about how UFO [hoaxes]({{ 'hoaxes/' | relative_url }}) can borrow science-fiction imagery while remaining surprisingly persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
+The McMinnville photographs remain one of the most enduring UFO image controversies because they sit directly on a simple but difficult question: are viewers looking at a distant flying object or a small model suspended close to the camera? Taken by Paul Trent near McMinnville, Oregon, in May 1950, the two photographs show a classic saucer-shaped object against the sky. Their cultural importance comes not from dramatic detail but from uncertainty. A dark disc photographed with no obvious scale reference can appear either extraordinary or ordinary depending on assumptions about distance, size and photographic perspective. That uncertainty has made the case a recurring example in debates about how UFO [hoaxes]({{ 'hoaxes/' | relative_url }}) can borrow science-fiction imagery while remaining surprisingly persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-1-dark.svg" | relative_url }}" alt="Mc Minnville illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the photographs show
 
-The images depict a disc-like object viewed from below and slightly to the side, hovering above a rural landscape. Unlike many later UFO photographs, the object is visually simple. There are no visible occupants, lights, exhaust trails or complex structures. The shape resembles the [flying-saucer]({{ 'flying-saucer/' | relative_url }}) designs already familiar in popular culture by 1950, making it immediately recognisable as a possible extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
+The images depict a disc-like object viewed from below and slightly to the side, hovering above a rural landscape. Unlike many later UFO photographs, the object is visually simple. There are no visible occupants, lights, exhaust trails or complex structures. The shape resembles the [flying-saucer]({{ 'flying-saucer/' | relative_url }}) designs already familiar in popular culture by 1950, making it immediately recognisable as a possible extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
 
-The photographs became widely known after publication in newspapers and later national magazines. Their reputation grew because investigators had access to original photographic materials and because the images appeared sharper than many alleged UFO photographs from the period. Yet the same simplicity that made the pictures memorable also created a problem: without a reliable way to determine scale, the object could be interpreted as either large and distant or small and nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedauckland.com/site/trent-farm-photos-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[Paranormal New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">Paranormal New Zealand The Trent Farm Photos</span><span class="citation-popover-snippet">Paranormal New ZealandThe Trent Farm Photos - Analysis &#124; Paranormal NZ...</span></span></span>
+The photographs became widely known after publication in newspapers and later national magazines. Their reputation grew because investigators had access to original photographic materials and because the images appeared sharper than many alleged UFO photographs from the period. Yet the same simplicity that made the pictures memorable also created a problem: without a reliable way to determine scale, the object could be interpreted as either large and distant or small and nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedauckland.com/site/trent-farm-photos-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[Paranormal New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">Paranormal New Zealand The Trent Farm Photos</span><span class="citation-popover-snippet">Paranormal New ZealandThe Trent Farm Photos - Analysis &#124; Paranormal NZ...</span></span></span>
 
 This scale ambiguity is central to understanding why the case matters in discussions of science-fiction-inspired UFO imagery. A classic saucer silhouette communicates “alien spacecraft” instantly, but the photograph itself contains little information that conclusively establishes the object's actual size.
 
@@ -297,11 +297,11 @@ This scale ambiguity is central to understanding why the case matters in discuss
 
 ## The overhead-wire model explanation
 
-The most influential sceptical explanation is the suspended-model hypothesis. Investigators noticed that power lines visible in the photographs appear near the object's position. If the object were a small model hanging from a thin wire attached to the overhead lines, it could create the illusion of a distant craft. The resulting image would require no advanced special effects—only a suitably shaped object positioned carefully relative to the camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
+The most influential sceptical explanation is the suspended-model hypothesis. Investigators noticed that power lines visible in the photographs appear near the object's position. If the object were a small model hanging from a thin wire attached to the overhead lines, it could create the illusion of a distant craft. The resulting image would require no advanced special effects—only a suitably shaped object positioned carefully relative to the camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
 
-This possibility attracted attention during the University of Colorado UFO study, commonly known as the Condon Report. The photographic analysis acknowledged that the geometry of the scene allowed for a hoax involving an object suspended from nearby wires. The case became notable because investigators found themselves weighing two very different interpretations: a mundane model close to the camera or an apparently extraordinary object at substantial distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/wp-content/uploads/1968/11/Condon-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[LUFORU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-snippet">SCIENTIFIC STUDY OF &#124;October 31, 2025...</span><span class="citation-popover-meta">Published: October 31, 2025</span></span></span>
+This possibility attracted attention during the University of Colorado UFO study, commonly known as the Condon Report. The photographic analysis acknowledged that the geometry of the scene allowed for a hoax involving an object suspended from nearby wires. The case became notable because investigators found themselves weighing two very different interpretations: a mundane model close to the camera or an apparently extraordinary object at substantial distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://luforu.org/wp-content/uploads/1968/11/Condon-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luforu.org">[LUFORU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luforu.org</span><span class="citation-popover-snippet">SCIENTIFIC STUDY OF &#124;October 31, 2025...</span><span class="citation-popover-meta">Published: October 31, 2025</span></span></span>
 
-Several sceptical researchers later argued that the suspended-model explanation solved the central puzzle. If the object were only a short distance from the camera, its apparent size, shape and brightness become easier to explain. A small handcrafted model, perhaps influenced by the era's flying-saucer imagery, could produce exactly the kind of photograph that audiences expected a UFO to resemble. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
+Several sceptical researchers later argued that the suspended-model explanation solved the central puzzle. If the object were only a short distance from the camera, its apparent size, shape and brightness become easier to explain. A small handcrafted model, perhaps influenced by the era's flying-saucer imagery, could produce exactly the kind of photograph that audiences expected a UFO to resemble.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
 
 The explanation also illustrates a recurring feature of UFO hoaxes: the most effective prop is often the simplest one. A disc hanging from a line does not need detailed engineering. It only needs to create a convincing silhouette.
 
@@ -309,9 +309,9 @@ The explanation also illustrates a recurring feature of UFO hoaxes: the most eff
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-2-dark.svg" | relative_url }}" alt="Mc Minnville illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why ambiguity kept the case alive
 
-The suspended-model explanation has never achieved universal acceptance because the photographs do not provide a definitive demonstration of the wire or model itself. Supporters of authenticity have argued that analyses of the negatives failed to reveal clear evidence of a suspending thread and have maintained that brightness and geometric measurements are more consistent with a distant object than with a nearby model. Researchers such as Bruce Maccabee revisited the photographs and concluded that the object was likely much farther away than sceptics claimed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedauckland.com/site/trent-farm-photos-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[Paranormal New Zealand+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">Paranormal New Zealand The Trent Farm Photos</span><span class="citation-popover-snippet">Paranormal New ZealandThe Trent Farm Photos - Analysis &#124; Paranormal NZ...</span></span></span>
+The suspended-model explanation has never achieved universal acceptance because the photographs do not provide a definitive demonstration of the wire or model itself. Supporters of authenticity have argued that analyses of the negatives failed to reveal clear evidence of a suspending thread and have maintained that brightness and geometric measurements are more consistent with a distant object than with a nearby model. Researchers such as Bruce Maccabee revisited the photographs and concluded that the object was likely much farther away than sceptics claimed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hauntedauckland.com/site/trent-farm-photos-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedauckland.com">[hauntedauckland.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedauckland.com</span><span class="citation-popover-title">Paranormal New Zealand The Trent Farm Photos</span><span class="citation-popover-snippet">Paranormal New ZealandThe Trent Farm Photos - Analysis &#124; Paranormal NZ...</span></span></span>
 
-What makes the case enduring is that both sides depend on inference. Advocates of the model explanation point to the plausibility of a simple hoax and the apparent relationship between the object and nearby wires. Defenders of authenticity point to analyses that they believe favour a larger, more distant object and note the absence of conclusive physical evidence of suspension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
+What makes the case enduring is that both sides depend on inference. Advocates of the model explanation point to the plausibility of a simple hoax and the apparent relationship between the object and nearby wires. Defenders of authenticity point to analyses that they believe favour a larger, more distant object and note the absence of conclusive physical evidence of suspension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
 
 As a result, the photographs occupy an unusual place in UFO history. They are not widely accepted as proof of extraterrestrial technology, yet they are also not universally regarded as a solved hoax. The debate survives because the available evidence leaves room for competing interpretations.
 
@@ -325,184 +325,184 @@ As a result, the photographs occupy an unusual place in UFO history. They are no
 
 The McMinnville photographs demonstrate how a science-fiction-style image can remain persuasive for decades when key variables are uncertain. Viewers do not merely evaluate the shape in the picture; they must also estimate distance, scale and context. Change those assumptions and the same image transforms from a small suspended model into a large [unidentified]({{ 'unidentified/' | relative_url }}) craft.
 
-That is why the case continues to be cited in discussions of UFO hoaxes and science-fiction influence. The photographs show how a familiar saucer form can gain lasting credibility when photographic evidence lacks decisive information about size and location. Whether one sees a model on a wire or an unexplained object in the sky often depends less on the visible shape itself than on how the unresolved question of scale is answered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
+That is why the case continues to be cited in discussions of UFO hoaxes and science-fiction influence. The photographs show how a familiar saucer form can gain lasting credibility when photographic evidence lacks decisive information about size and location. Whether one sees a model on a wire or an unexplained object in the sky often depends less on the visible shape itself than on how the unresolved question of scale is answered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Trent UFO Photos</span><span class="citation-popover-snippet">The Trent UFO Photos -September 10, 2014...</span><span class="citation-popover-meta">Published: September 10, 2014</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-3-dark.svg" | relative_url }}" alt="Mc Minnville illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hoax_props_cdc1ae_mcminnville_model_pr_7024cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Mc Minnville saucer still divides viewers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Mc Minnville saucer still divides viewers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how UFO evidence, claims and skepticism interact in public culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO evidence, claims and skepticism interact in public culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly examines how recurring UFO images and stories become cultural myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how recurring UFO images and stories become cultural myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing+by+Freeman+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photography and the Art of Seeing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2b0lAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Photography and the Art of Seeing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing+by+Freeman+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photography and the Art of Seeing">Photography and the Art of Seeing</a>
-        </h4>
-        <p class="fr-book-author">By Freeman Patterson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing+by+Freeman+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photography and the Art of Seeing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2b0lAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Photography and the Art of Seeing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing+by+Freeman+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photography and the Art of Seeing">Photography and the Art of Seeing</a>
+</h4>
+<p class="fr-book-author">By Freeman Patterson</p>
         
-        <p class="fr-book-desc">Explains perception, scale cues and photographic illusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing+by+Freeman+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception, scale cues and photographic illusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing+by+Freeman+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Central to understanding the Roswell narrative behind the autopsy hoax.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central to understanding the Roswell narrative behind the autopsy hoax.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Photography and the Art of Seeing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Photography+and+the+Art+of+Seeing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Photography and the Art of Seeing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="{{ '/assets/images/marketplace-covers/c414c708e06e899fa6fe.jpg' | relative_url }}" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="mc-minnville-why-the-mc-minnville-saucer-still-divides-viewers-relationships-betwee-ufo-model-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ That is why the case continues to be cited in discussions of UFO hoaxes and scie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ That is why the case continues to be cited in discussions of UFO hoaxes and scie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ That is why the case continues to be cited in discussions of UFO hoaxes and scie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ That is why the case continues to be cited in discussions of UFO hoaxes and scie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ That is why the case continues to be cited in discussions of UFO hoaxes and scie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,97 +708,97 @@ That is why the case continues to be cited in discussions of UFO hoaxes and scie
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: debunker.com  
    Title: The Trent UFO Photos  
-   Link: <a href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow">https://debunker.com/trent.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trent UFO Photos -September 10, 2014...</p></details>
+   Link:<a href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow">https://debunker.com/trent.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Trent UFO Photos -September 10, 2014...</p></details>
    Published: September 10, 2014  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: luforu.org  
-   Link: <a href="https://luforu.org/wp-content/uploads/1968/11/Condon-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://luforu.org/wp-content/uploads/1968/11/Condon-Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENTIFIC STUDY OF |October 31, 2025...</p></details>
+   Link:<a href="https://luforu.org/wp-content/uploads/1968/11/Condon-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://luforu.org/wp-content/uploads/1968/11/Condon-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENTIFIC STUDY OF |October 31, 2025...</p></details>
    Published: October 31, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Photographies de Mc Minnville  
-   Link: <a href="https://fr.wikipedia.org/wiki/Photographies_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Photographies_de_McMinnville</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Photographies_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Photographies_de_McMinnville</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: How the Mc Minnville UFO sighting inspired Oregon's famous UFO festival  
-   Link: <a href="https://www.youtube.com/watch?v=I70VGsQ6ZVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I70VGsQ6ZVw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report | NASA&#x27;s Unexplained Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I70VGsQ6ZVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I70VGsQ6ZVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report | NASA&#x27;s Unexplained Files...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Condon Report | NASA's Unexplained Files  
-   Link: <a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_W7SqS6UhE4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;evidence&#x27;: Expert says some images are better than others | Banfield...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_W7SqS6UhE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;evidence&#x27;: Expert says some images are better than others | Banfield...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hauntedauckland.com  
    Title: Paranormal New Zealand The Trent Farm Photos  
-   Link: <a href="https://hauntedauckland.com/site/trent-farm-photos-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedauckland.com/site/trent-farm-photos-analysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal New ZealandThe Trent Farm Photos - Analysis | Paranormal NZ...</p></details>
+   Link:<a href="https://hauntedauckland.com/site/trent-farm-photos-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedauckland.com/site/trent-farm-photos-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal New ZealandThe Trent Farm Photos - Analysis | Paranormal NZ...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: UFO confirmed!? The Mc Minnville Mystery | Photographiliac  
-   Link: <a href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8gUCGLjea4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO photos Trent farm analysis debate The UFO Photo That Fooled Scientists For Decades | McMinnville Mystery RED STONE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8gUCGLjea4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO photos Trent farm analysis debate The UFO Photo That Fooled Scientists For Decades | McMinnville Mystery RED STONE...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Mc Minnville UFO Photos: The Most Credible Evidence Ever Caught on Camera?  
-   Link: <a href="https://www.youtube.com/watch?v=Znz3fPm8108" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Znz3fPm8108</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1950 McMinnville UFO Sighting | Evelyn Trent’s Famous Flying Saucer Photos Analyzed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Znz3fPm8108" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Znz3fPm8108</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1950 McMinnville UFO Sighting | Evelyn Trent’s Famous Flying Saucer Photos Analyzed...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: UFO Case File: The Trent Farm Photographs  
-   Link: <a href="http://www.youtube.com/watch?v=mD3UeJkR3t4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mD3UeJkR3t4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO photos Trent analysis suspended model The UFO Photo That Fooled Scientists For Decades | McMinnville Mystery RED STONE...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mD3UeJkR3t4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mD3UeJkR3t4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO photos Trent analysis suspended model The UFO Photo That Fooled Scientists For Decades | McMinnville Mystery RED STONE...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l_5TvHC8zsE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_5TvHC8zsE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville UFO Photographs Case (Oregon, USA · 1950)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l_5TvHC8zsE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_5TvHC8zsE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville UFO Photographs Case (Oregon, USA · 1950)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8ffYJukz62A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ffYJukz62A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Most Mysterious UFO Encounters Ever Recorded...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8ffYJukz62A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ffYJukz62A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Most Mysterious UFO Encounters Ever Recorded...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The UFO Photo That Fooled Scientists For Decades | Mc Minnville Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=vpsfpg2JsaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vpsfpg2JsaY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Photos: The Most Credible Evidence Ever Caught on Camera?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vpsfpg2JsaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vpsfpg2JsaY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Photos: The Most Credible Evidence Ever Caught on Camera?...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The UFO Photo That Fooled Scientists For Decades Mc Minnville Mystery 2  
-   Link: <a href="https://www.youtube.com/watch?v=8QJXpGW4ZvM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8QJXpGW4ZvM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the McMinnville UFO sighting inspired Oregon’s famous UFO festival...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8QJXpGW4ZvM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8QJXpGW4ZvM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the McMinnville UFO sighting inspired Oregon’s famous UFO festival...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RWr2tfdewKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RWr2tfdewKY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Most Mysterious UFO Encounters Ever Recorded...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RWr2tfdewKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RWr2tfdewKY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Most Mysterious UFO Encounters Ever Recorded...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: mcminnville 1950 ufo photos the trents life  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1tf5mmz/mcminnville_1950_ufo_photos_the_trents_life/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1tf5mmz/mcminnville_1950_ufo_photos_the_trents_life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1950 UFO Photos: The Trents, Life Magazine, and the Authenticity DebateMay 16, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1tf5mmz/mcminnville_1950_ufo_photos_the_trents_life/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1tf5mmz/mcminnville_1950_ufo_photos_the_trents_life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1950 UFO Photos: The Trents, Life Magazine, and the Authenticity DebateMay 16, 2026...</p></details>
    Published: May 16, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YnUPatTj0rY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YnUPatTj0rY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Trent photos analysis The UFO Photo That Fooled Scientists For Decades | McMinnville Mystery RED STONE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YnUPatTj0rY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YnUPatTj0rY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Trent photos analysis The UFO Photo That Fooled Scientists For Decades | McMinnville Mystery RED STONE...</p></details>

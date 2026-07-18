@@ -280,18 +280,18 @@ image: /assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_sp
 
 ## Introduction
 
-Few [games]({{ 'games/' | relative_url }}) did more to define the feeling of an alien invasion than *Space Invaders*. Released by Taito in 1978, the game transformed extraterrestrial threat from a narrative idea into a physical rhythm that players experienced directly. Instead of explaining who the aliens were or why they had arrived, the game presented a simple situation: rows of hostile beings descended from above, defensive positions gradually failed, and survival depended on preventing the invaders from reaching Earth. That structure became one of the most influential ways science fiction communicated alien danger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
+Few [games]({{ 'games/' | relative_url }}) did more to define the feeling of an alien invasion than *Space Invaders*. Released by Taito in 1978, the game transformed extraterrestrial threat from a narrative idea into a physical rhythm that players experienced directly. Instead of explaining who the aliens were or why they had arrived, the game presented a simple situation: rows of hostile beings descended from above, defensive positions gradually failed, and survival depended on preventing the invaders from reaching Earth. That structure became one of the most influential ways science fiction communicated alien danger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-1-dark.svg" | relative_url }}" alt="Space Invaders illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader relationship between UFOs and science fiction, *Space Invaders* is significant because it taught players to feel invasion through mechanics rather than story. Long before modern game narratives explored abductions, government conspiracies, or complex extraterrestrial cultures, the game reduced the alien encounter to pressure, movement, and encroaching space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
+Within the broader relationship between UFOs and science fiction, *Space Invaders* is significant because it taught players to feel invasion through mechanics rather than story. Long before modern game narratives explored abductions, government conspiracies, or complex extraterrestrial cultures, the game reduced the alien encounter to pressure, movement, and encroaching space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ms3SB0QfPbE" title="Arcade Archives SPACE INVADERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ms3SB0QfPbE" target="_blank" rel="noopener noreferrer">Arcade Archives SPACE INVADERS</a></p><p class="youtube-embed-meta">Channel: HAMSTER Corporation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ms3SB0QfPbE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ms3SB0QfPbE">Open on YouTube</a></p></div></div></div>
 
 ## The fixed-shooter invasion pattern
 
-The basic design of *Space Invaders* appears simple. The player controls a laser cannon at the bottom of the screen while rows of alien attackers advance from above. Protective barriers offer temporary shelter, but every exchange of fire damages those defences. If the invaders reach the bottom of the screen, the game is lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
+The basic design of *Space Invaders* appears simple. The player controls a laser cannon at the bottom of the screen while rows of alien attackers advance from above. Protective barriers offer temporary shelter, but every exchange of fire damages those defences. If the invaders reach the bottom of the screen, the game is lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
 
 What made this structure powerful was its spatial logic. The aliens did not merely attack; they occupied territory. Every movement downward reduced the player's available space and increased the sense of urgency. The battlefield itself became a countdown.
 
@@ -303,11 +303,11 @@ Several design elements worked together to create this effect:
 * **Descending formations** turned alien invasion into a visible advance.
 * **Defensive barriers** gave players a temporary sense of safety while signalling that protection could be destroyed.
 * **Limited movement** forced players to confront the threat rather than escape it.
-* **Victory through elimination** framed the encounter as a defensive war against an overwhelming external force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
+* **Victory through elimination** framed the encounter as a defensive war against an overwhelming external force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
 
 </div>
 
-The result resembled classic science-fiction invasion stories, particularly those in which humanity faces a superior force arriving from the sky. Designer Tomohiro Nishikado has cited H. G. [Wells]({{ 'wells/' | relative_url }})'s *The War of the Worlds* as an inspiration, linking the game directly to a foundational alien-invasion tradition in science fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumofplay.org">[The Strong National Museum of Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumofplay.org</span><span class="citation-popover-title">The Strong National Museum of Play Space Invaders</span><span class="citation-popover-snippet">The Strong National Museum of PlaySpace Invaders - The Strong National Museum of Play...</span></span></span>
+The result resembled classic science-fiction invasion stories, particularly those in which humanity faces a superior force arriving from the sky. Designer Tomohiro Nishikado has cited H. G. [Wells]({{ 'wells/' | relative_url }})'s *The War of the Worlds* as an inspiration, linking the game directly to a foundational alien-invasion tradition in science fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumofplay.org">[The Strong National Museum of Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumofplay.org</span><span class="citation-popover-title">The Strong National Museum of Play Space Invaders</span><span class="citation-popover-snippet">The Strong National Museum of PlaySpace Invaders - The Strong National Museum of Play...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sx0ZcT2fY0U" title="Arcade Game: Space Invaders (1978 Midway/Taito)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sx0ZcT2fY0U" target="_blank" rel="noopener noreferrer">Arcade Game: Space Invaders (1978 Midway/Taito)</a></p><p class="youtube-embed-meta">Channel: Old Classic Retro Gaming</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sx0ZcT2fY0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sx0ZcT2fY0U">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ The aliens required no explanation because their behaviour carried the entire me
 
 This was an important shift in how science-fiction ideas were presented. Earlier UFO narratives often depended on questions: Who are they? Where did they come from? What do they want? *Space Invaders* replaced those questions with a mechanical certainty. The aliens were dangerous because they were advancing. Their intention was encoded in their movement pattern.
 
-The occasional [flying saucer]({{ 'flying-saucer/' | relative_url }}) crossing the top of the screen reinforced this idea. It echoed familiar UFO imagery from mid-twentieth-century science fiction while functioning primarily as a gameplay target. The saucer was not evidence of a mystery. It was part of a system of threats and rewards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
+The occasional [flying saucer]({{ 'flying-saucer/' | relative_url }}) crossing the top of the screen reinforced this idea. It echoed familiar UFO imagery from mid-twentieth-century science fiction while functioning primarily as a gameplay target. The saucer was not evidence of a mystery. It was part of a system of threats and rewards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
 
 By translating extraterrestrial danger into predictable behaviour, the game created a form of alien threat that was immediately readable across cultures and languages. Players did not need to know a story to understand the invasion.
 
@@ -328,7 +328,7 @@ By translating extraterrestrial danger into predictable behaviour, the game crea
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-2-dark.svg" | relative_url }}" alt="Space Invaders illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How speed turned invasion into tension
 
-One of the most memorable features of *Space Invaders* is that the alien formation accelerates as its numbers shrink. The advancing rows move faster and faster until the final moments become frantic. Britannica identifies this increasing speed as a key source of the game's tension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
+One of the most memorable features of *Space Invaders* is that the alien formation accelerates as its numbers shrink. The advancing rows move faster and faster until the final moments become frantic. Britannica identifies this increasing speed as a key source of the game's tension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
 
 This mechanic produced an unusual emotional effect. In many games, reducing enemy numbers makes the situation safer. In *Space Invaders*, the opposite often occurred. Success generated greater pressure.
 
@@ -352,7 +352,7 @@ This contributed to a broader science-fiction image of alien attack as relentles
 
 ## From arcade pressure to alien-threat shorthand
 
-The influence of *Space Invaders* extended far beyond its original arcade cabinets. The game's visual and mechanical language became a shorthand for extraterrestrial hostility throughout gaming culture. The pixelated invaders became among the most recognisable images in video games, and numerous later fixed shooters adopted similar invasion structures. The Strong National Museum of Play+2Wikipedia <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumofplay.org">[museumofplay.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumofplay.org</span><span class="citation-popover-title">The Strong National Museum of Play Space Invaders</span><span class="citation-popover-snippet">The Strong National Museum of PlaySpace Invaders - The Strong National Museum of Play...</span></span></span>
+The influence of *Space Invaders* extended far beyond its original arcade cabinets. The game's visual and mechanical language became a shorthand for extraterrestrial hostility throughout gaming culture. The pixelated invaders became among the most recognisable images in video games, and numerous later fixed shooters adopted similar invasion structures. The Strong National Museum of Play+2Wikipedia<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: museumofplay.org">[museumofplay.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">museumofplay.org</span><span class="citation-popover-title">The Strong National Museum of Play Space Invaders</span><span class="citation-popover-snippet">The Strong National Museum of PlaySpace Invaders - The Strong National Museum of Play...</span></span></span>
 
 More importantly, the game established a durable pattern for representing alien danger:
 
@@ -368,200 +368,168 @@ More importantly, the game established a durable pattern for representing alien 
 
 That pattern appeared repeatedly in later arcade shooters, console games, and popular depictions of alien attack. Even when later works added elaborate stories about extraterrestrial civilisations, abductions, secret governments, or interstellar politics, many retained the emotional template pioneered by *Space Invaders*: the feeling of an unstoppable force steadily moving closer.
 
-Within the history of UFO-related science fiction, *Space Invaders* therefore occupies a distinctive place. It did not popularise alien mystery. It popularised alien pressure. By turning invasion into a rhythm of descent, shrinking territory, and rising speed, it helped establish one of the most enduring ways audiences learned to recognise and feel extraterrestrial threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
+Within the history of UFO-related science fiction, *Space Invaders* therefore occupies a distinctive place. It did not popularise alien mystery. It popularised alien pressure. By turning invasion into a rhythm of descent, shrinking territory, and rising speed, it helped establish one of the most enduring ways audiences learned to recognise and feel extraterrestrial threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Space Invaders</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpace Invaders &#124; arcade game, shooting game, 1980s &#124; Britannica...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-3-dark.svg" | relative_url }}" alt="Space Invaders illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_space_invaders_alien_2ab30e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How descending aliens became a game grammar. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How descending aliens became a game grammar. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Replay+by+Tristan+Donovan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Replay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lrSSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Replay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Replay+by+Tristan+Donovan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Replay">Replay</a>
-        </h4>
-        <p class="fr-book-author">By Tristan Donovan, Richard Garriott</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Replay+by+Tristan+Donovan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Replay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lrSSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Replay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Replay+by+Tristan+Donovan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Replay">Replay</a>
+</h4>
+<p class="fr-book-author">By Tristan Donovan, Richard Garriott</p>
         
-        <p class="fr-book-desc">Covers arcade classics including the era of Space Invaders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Replay+by+Tristan+Donovan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers arcade classics including the era of Space Invaders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Replay+by+Tristan+Donovan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2+by+Steven+L.+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate History of Video Games, Volume 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UosOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ultimate History of Video Games, Volume 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2+by+Steven+L.+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate History of Video Games, Volume 2">The Ultimate History of Video Games, Volume 2</a>
-        </h4>
-        <p class="fr-book-author">By Steven L. Kent</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2+by+Steven+L.+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ultimate History of Video Games, Volume 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UosOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ultimate History of Video Games, Volume 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2+by+Steven+L.+Kent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ultimate History of Video Games, Volume 2">The Ultimate History of Video Games, Volume 2</a>
+</h4>
+<p class="fr-book-author">By Steven L. Kent</p>
         
-        <p class="fr-book-desc">Places Space Invaders in gaming&#x27;s broader evolution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2+by+Steven+L.+Kent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Space Invaders in gaming&#x27;s broader evolution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2+by+Steven+L.+Kent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Masters of Doom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ltQ6LYHpmQEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Masters of Doom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Masters of Doom">Masters of Doom</a>
-        </h4>
-        <p class="fr-book-author">By David Kushner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Masters of Doom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ltQ6LYHpmQEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Masters of Doom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Masters of Doom">Masters of Doom</a>
+</h4>
+<p class="fr-book-author">By David Kushner</p>
         
-        <p class="fr-book-desc">Explains how game mechanics shape player experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how game mechanics shape player experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bn0XwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H. G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bn0XwQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H. G. Wells</p>
         
-        <p class="fr-book-desc">Embodies the invasion themes Space Invaders distilled into gameplay.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Embodies the invasion themes Space Invaders distilled into gameplay.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Replay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Replay</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ultimate History of Video Games, Volume 2</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Masters+of+Doom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Masters of Doom</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Replay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Replay</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ultimate+History+of+Video+Games%2C+Volume+2&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ultimate History of Video Games, Volume 2</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Masters+of+Doom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Masters of Doom</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FRIENDS SEISHUN NO KAGAYAKI AYU JAPAN TOY KEYCHAIN SEGA CHIBI UFO GAME MERCH RAR"><img src="https://i.ebayimg.com/images/g/6e4AAOSwerFi2etd/s-l225.jpg" alt="Listing image for FRIENDS SEISHUN NO KAGAYAKI AYU JAPAN TOY KEYCHAIN SEGA CHIBI UFO GAME MERCH RAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" target="_blank" rel="sponsored noopener noreferrer">FRIENDS SEISHUN NO KAGAYAKI AYU JAPAN TOY KEYCHAIN SEGA CHIBI UFO GAME MERCH RAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo video game merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo video game merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="space-invaders-how-descending-aliens-became-a-game-grammar-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rick and Morty UFO Shirt Small Mr Nimbus Spaceship Summer Tee"><img src="https://i.ebayimg.com/images/g/WoUAAeSwJE1o9XJZ/s-l225.jpg" alt="Listing image for Rick and Morty UFO Shirt Small Mr Nimbus Spaceship Summer Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" target="_blank" rel="sponsored noopener noreferrer">Rick and Morty UFO Shirt Small Mr Nimbus Spaceship Summer Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo video game merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo video game merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+video+game+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-descending-aliens-became-a-game-grammar-ufo-video-game-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo video game merch" data-ebay-reference="how-descending-aliens-became-a-game-grammar-ufo-video-game-merch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +545,7 @@ Within the history of UFO-related science fiction, *Space Invaders* therefore oc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +565,7 @@ Within the history of UFO-related science fiction, *Space Invaders* therefore oc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +597,7 @@ Within the history of UFO-related science fiction, *Space Invaders* therefore oc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +649,7 @@ Within the history of UFO-related science fiction, *Space Invaders* therefore oc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +694,7 @@ Within the history of UFO-related science fiction, *Space Invaders* therefore oc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,66 +735,66 @@ Within the history of UFO-related science fiction, *Space Invaders* therefore oc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Space Invaders  
-   Link: <a href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Space-Invaders</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSpace Invaders | arcade game, shooting game, 1980s | Britannica...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Space-Invaders" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Space-Invaders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSpace Invaders | arcade game, shooting game, 1980s | Britannica...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Astro Invader  
-   Link: <a href="https://en.wikipedia.org/wiki/Astro_Invader" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astro_Invader</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Astro_Invader" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astro_Invader</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Space Fever  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_Fever" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Fever</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_Fever" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Fever</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Making of Space Invaders | Jordan H.J  
-   Link: <a href="https://www.youtube.com/watch?v=p3zKkZggXsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p3zKkZggXsg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Invaders - Soundtrack In its Entirety - Deconstruction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=p3zKkZggXsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p3zKkZggXsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Invaders - Soundtrack In its Entirety - Deconstruction...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Space Invaders  
-   Link: <a href="https://www.youtube.com/watch?v=-_7nfTt1CAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_7nfTt1CAw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arcade Archives SPACE INVADERS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_7nfTt1CAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_7nfTt1CAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arcade Archives SPACE INVADERS...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: museumofplay.org  
    Title: The Strong National Museum of Play Space Invaders  
-   Link: <a href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumofplay.org/games/space-invaders/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strong National Museum of PlaySpace Invaders - The Strong National Museum of Play...</p></details>
+   Link:<a href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumofplay.org/games/space-invaders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strong National Museum of PlaySpace Invaders - The Strong National Museum of Play...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mobygames.com  
    Title: space invaders  
-   Link: <a href="https://www.mobygames.com/game/623/space-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://www.mobygames.com/game/623/space-invaders/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders (1999) - MobyGamesDecember 28, 1999...</p></details>
+   Link:<a href="https://www.mobygames.com/game/623/space-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://www.mobygames.com/game/623/space-invaders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invaders (1999) - MobyGamesDecember 28, 1999...</p></details>
    Published: December 28, 1999  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: shmup.fandom.com  
    Title: Space Invaders | Shoot Em Up | Fandom  
-   Link: <a href="https://shmup.fandom.com/wiki/Space_Invaders" target="_blank" rel="noopener noreferrer nofollow">https://shmup.fandom.com/wiki/Space_Invaders</a>  
+   Link:<a href="https://shmup.fandom.com/wiki/Space_Invaders" target="_blank" rel="noopener noreferrer nofollow">https://shmup.fandom.com/wiki/Space_Invaders</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Arcade Archives SPACE INVADERS  
-   Link: <a href="https://www.youtube.com/watch?v=Ms3SB0QfPbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ms3SB0QfPbE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arcade Game: Space Invaders (1978 Midway/Taito)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ms3SB0QfPbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ms3SB0QfPbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arcade Game: Space Invaders (1978 Midway/Taito)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Space Invaders Story  
-   Link: <a href="https://www.youtube.com/watch?v=bKNcsMR7Bmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bKNcsMR7Bmc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of Space Invaders | Jordan H.J...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bKNcsMR7Bmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bKNcsMR7Bmc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Making of Space Invaders | Jordan H.J...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Sx0ZcT2fY0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sx0ZcT2fY0U</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Sx0ZcT2fY0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sx0ZcT2fY0U</a>  

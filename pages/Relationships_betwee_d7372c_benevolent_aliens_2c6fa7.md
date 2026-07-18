@@ -451,17 +451,17 @@ Not every UFO story imagines invasion. From the early 1950s onwards, a powerful 
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7-overview.webp" | relative_url }}" alt="Overview image for Friendly Aliens" loading="eager" decoding="sync" fetchpriority="high">
-That hopeful turn sits at the centre of the relationship between UFOs and science fiction. Popular culture did not simply borrow from reports of sightings; it also helped organise them into recognisable story patterns. The benevolent contact story is one of those patterns. It moved UFO belief away from pure threat and towards encounter, moral instruction and spiritual expectation, while films such as *The Day the Earth Stood Still*, *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* and later *Arrival* translated similar hopes into mainstream science-fiction drama. At the same time, official and scientific sources give an important caution: UFO or UAP reports remain culturally significant, but NASA says there are no data supporting UAP as evidence of alien technologies, and [Project Blue Book]({{ 'blue-book/' | relative_url }}) concluded that its unidentified cases did not prove extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+That hopeful turn sits at the centre of the relationship between UFOs and science fiction. Popular culture did not simply borrow from reports of sightings; it also helped organise them into recognisable story patterns. The benevolent contact story is one of those patterns. It moved UFO belief away from pure threat and towards encounter, moral instruction and spiritual expectation, while films such as *The Day the Earth Stood Still*, *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* and later *Arrival* translated similar hopes into mainstream science-fiction drama. At the same time, official and scientific sources give an important caution: UFO or UAP reports remain culturally significant, but NASA says there are no data supporting UAP as evidence of alien technologies, and [Project Blue Book]({{ 'blue-book/' | relative_url }}) concluded that its unidentified cases did not prove extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 ## From Threat to Contact
 
 The best-known early Cold War alien story is the invasion narrative: visitors arrive, humanity panics, governments mobilise, and the sky becomes another battlefield. That storyline made sense in an era shaped by atomic weapons, [rockets]({{ 'rockets/' | relative_url }}), air-defence systems and fear of hidden enemies. But it was never the only available UFO script. Alongside the saucer as threat grew another figure: the alien as messenger.
 
-The change is easiest to see in 1950s contactee culture. [Contactees]({{ 'contactees/' | relative_url }}) were people who claimed not merely to have seen strange objects, but to have met, spoken with or received messages from extraterrestrial beings. Sociologist Christopher Bader’s study of the UFO contact movement describes the early 1950s claims as strikingly different from later, darker abduction accounts: the visitors were often beautiful, morally advanced and concerned for humanity rather than predatory or indifferent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Open source on chapman.edu.</span></span></span>
+The change is easiest to see in 1950s contactee culture. [Contactees]({{ 'contactees/' | relative_url }}) were people who claimed not merely to have seen strange objects, but to have met, spoken with or received messages from extraterrestrial beings. Sociologist Christopher Bader’s study of the UFO contact movement describes the early 1950s claims as strikingly different from later, darker abduction accounts: the visitors were often beautiful, morally advanced and concerned for humanity rather than predatory or indifferent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Open source on chapman.edu.</span></span></span>
 
-George Adamski became the most famous example. In *Flying [Saucers]({{ 'saucers/' | relative_url }}) Have Landed* in 1953, Adamski and Desmond Leslie presented a desert meeting with a Venusian named Orthon. The message, as later summarised by the Critical Dictionary of Apocalyptic and Millenarian Movements, was not conquest but concern: the “Space People” were worried about nuclear weapons and radioactive fallout, and Adamski portrayed the alien’s attitude as friendly and compassionate rather than hostile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+George Adamski became the most famous example. In *Flying [Saucers]({{ 'saucers/' | relative_url }}) Have Landed* in 1953, Adamski and Desmond Leslie presented a desert meeting with a Venusian named Orthon. The message, as later summarised by the Critical Dictionary of Apocalyptic and Millenarian Movements, was not conquest but concern: the “Space People” were worried about nuclear weapons and radioactive fallout, and Adamski portrayed the alien’s attitude as friendly and compassionate rather than hostile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
-This was a decisive narrative shift. The alien visitor did not need to be a monster, soldier or coloniser. He could be an elder sibling, a cosmic neighbour, or a morally superior observer warning Earth not to destroy itself. That pattern borrowed from older spiritual and esoteric traditions as much as from science fiction. The same source notes Adamski’s pre-existing involvement with Theosophical ideas, where “Elder Brothers” or advanced masters guide humanity; in the contactee version, those spiritual helpers were reimagined as interplanetary beings arriving in flying saucers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+This was a decisive narrative shift. The alien visitor did not need to be a monster, soldier or coloniser. He could be an elder sibling, a cosmic neighbour, or a morally superior observer warning Earth not to destroy itself. That pattern borrowed from older spiritual and esoteric traditions as much as from science fiction. The same source notes Adamski’s pre-existing involvement with Theosophical ideas, where “Elder Brothers” or advanced masters guide humanity; in the contactee version, those spiritual helpers were reimagined as interplanetary beings arriving in flying saucers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
 The mechanism was simple but powerful: UFO technology made ancient salvation language look modern. The vehicle was no longer a chariot, cloud or angelic sign. It was a saucer.
 
@@ -471,11 +471,11 @@ The mechanism was simple but powerful: UFO technology made ancient salvation lan
 
 Benevolent contact stories usually give aliens one of three roles. They teach, they warn, or they rescue. These roles overlap, but each gave UFO culture a different kind of emotional appeal.
 
-**Teachers** offered humanity a wider view of itself. In contactee stories, aliens often brought lessons about peace, spiritual evolution, vegetarianism, universal brotherhood, anti-materialism or the misuse of science. The claim was not simply “they exist”; it was “they know how we should live”. The Critical Dictionary article places UFO religion within traditions where extraterrestrials act as saviours and agents of millenarian transformation, especially under Cold War pressure and the threat of nuclear weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+**Teachers** offered humanity a wider view of itself. In contactee stories, aliens often brought lessons about peace, spiritual evolution, vegetarianism, universal brotherhood, anti-materialism or the misuse of science. The claim was not simply “they exist”; it was “they know how we should live”. The Critical Dictionary article places UFO religion within traditions where extraterrestrials act as saviours and agents of millenarian transformation, especially under Cold War pressure and the threat of nuclear weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
-**Warners** made alien contact a moral alarm. The classic message was that Earth’s scientific progress had outpaced its wisdom. This is why atomic weapons recur so often in friendly-alien stories. Donald Keyhoe, an early advocate of the extraterrestrial interpretation of UFOs, argued that alien observation of Earth intensified after the first atomic bomb explosions, and Adamski’s Orthon story made nuclear danger central to the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+**Warners** made alien contact a moral alarm. The classic message was that Earth’s scientific progress had outpaced its wisdom. This is why atomic weapons recur so often in friendly-alien stories. Donald Keyhoe, an early advocate of the extraterrestrial interpretation of UFOs, argued that alien observation of Earth intensified after the first atomic bomb explosions, and Adamski’s Orthon story made nuclear danger central to the encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
-**Rescuers** turned contact into escape. Some groups believed friendly space beings would evacuate selected humans before disaster. Dorothy Martin’s 1954 prophecy is the best-known case: followers expected a catastrophic flood and rescue by flying saucer. The episode became famous through *When Prophecy Fails*, the 1956 social-psychology study of belief after failed prophecy, though recent scholarship has challenged that book’s account of what happened after the prediction failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+**Rescuers** turned contact into escape. Some groups believed friendly space beings would evacuate selected humans before disaster. Dorothy Martin’s 1954 prophecy is the best-known case: followers expected a catastrophic flood and rescue by flying saucer. The episode became famous through *When Prophecy Fails*, the 1956 social-psychology study of belief after failed prophecy, though recent scholarship has challenged that book’s account of what happened after the prediction failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This rescue pattern shows why hopeful UFO stories could be comforting and dangerous at the same time. On one level, they imagined a universe in which superior beings cared about humanity. On another, they could encourage dependence on outside salvation: if the Space Brothers were coming, human political action might feel less urgent.
 
@@ -488,7 +488,7 @@ The “Space Brother” was not just a religious image. It was also a science-fi
 
 That human-like form mattered. A grotesque alien body tends to generate fear or disgust; a beautiful humanoid visitor invites identification. The message becomes easier to receive because the messenger looks like a perfected version of ourselves. This is why benevolent contact stories so often feel less like zoology than moral allegory. The alien is not there to show biological difference. The alien is there to show what humanity might become.
 
-The same pattern appears in *The Day the Earth Stood Still* in 1951. [Klaatu]({{ 'klaatu/' | relative_url }}) arrives in a saucer, appears human, and warns Earth that its violence threatens others. Although the film includes the possibility of punishment, its central contact situation is not invasion. It is an intervention: a superior civilisation attempts to stop humanity from exporting its aggression into space. Contemporary summaries still identify the film as a Cold War story shaped by nuclear tension and a warning about the dangers of global conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Open source on ebsco.com.</span></span></span>
+The same pattern appears in *The Day the Earth Stood Still* in 1951. [Klaatu]({{ 'klaatu/' | relative_url }}) arrives in a saucer, appears human, and warns Earth that its violence threatens others. Although the film includes the possibility of punishment, its central contact situation is not invasion. It is an intervention: a superior civilisation attempts to stop humanity from exporting its aggression into space. Contemporary summaries still identify the film as a Cold War story shaped by nuclear tension and a warning about the dangers of global conflict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Open source on ebsco.com.</span></span></span>
 
 Contactee claims and science-fiction films therefore shared a moral grammar. The visitor’s advanced technology mattered, but it was not the whole point. The saucer, robot, beam or mother ship served as proof of superiority; the real drama was whether Earth would listen.
 
@@ -496,9 +496,9 @@ Contactee claims and science-fiction films therefore shared a moral grammar. The
 
 By the late 1970s, *Close Encounters of the Third Kind* gave the friendly-contact tradition one of its most influential cinematic forms. Steven Spielberg’s film did not deny fear: people are confused, abducted, misled by authorities and drawn into obsession. Yet its final movement turns UFO contact into awe, music, communication and voluntary departure rather than war.
 
-The British Film Institute describes *Close Encounters* as a story built from Spielberg’s long-standing interest in UFOs, noting that its plot connects ordinary people’s encounters with a scientific investigation and a government cover-up. Its climax at Devil’s Tower is treated not as a battle scene but as one of science-fiction cinema’s great moments of contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
+The British Film Institute describes *Close Encounters* as a story built from Spielberg’s long-standing interest in UFOs, noting that its plot connects ordinary people’s encounters with a scientific investigation and a government cover-up. Its climax at Devil’s Tower is treated not as a battle scene but as one of science-fiction cinema’s great moments of contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
 
-The film also drew directly on UFO investigation culture. Allen Hynek, the astronomer who advised the US Air Force’s Project Blue Book and later became a major figure in UFO studies, served as a technical adviser on the film. A separate BFI essay links the film to Hynek’s phrase “cosmic provincialism”: the idea that humanity may be too narrow in imagining itself as the centre or summit of intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIIs Close Encounters of the Third Kind Spielberg’s most optimistic film? &#124; BFI</span><span class="citation-popover-snippet">BFIIs Close Encounters of the Third Kind Spielberg’s most optimistic film? &#124; BFI</span></span></span>
+The film also drew directly on UFO investigation culture. Allen Hynek, the astronomer who advised the US Air Force’s Project Blue Book and later became a major figure in UFO studies, served as a technical adviser on the film. A separate BFI essay links the film to Hynek’s phrase “cosmic provincialism”: the idea that humanity may be too narrow in imagining itself as the centre or summit of intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">BFIIs Close Encounters of the Third Kind Spielberg’s most optimistic film? &#124; BFI</span><span class="citation-popover-snippet">BFIIs Close Encounters of the Third Kind Spielberg’s most optimistic film? &#124; BFI</span></span></span>
 
 That is the benevolent-contact mechanism in cinematic form. The aliens are not friendly because they hand humans gifts or solve all problems. They are friendly because they expand the human horizon. Contact becomes a cure for smallness: small politics, small imagination, small ideas of what intelligence can be.
 
@@ -510,11 +510,11 @@ Hope entered UFO belief because the flying saucer arrived at the intersection of
 
 Three historical pressures made benevolent aliens especially attractive.
 
-First, the nuclear age created a need for outside judgement. If humanity had gained the power to destroy itself, then a peaceful alien civilisation could function as a moral witness. Contactee messages about radiation and atomic war made the UFO a sign that the universe itself objected to Earth’s violence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+First, the nuclear age created a need for outside judgement. If humanity had gained the power to destroy itself, then a peaceful alien civilisation could function as a moral witness. Contactee messages about radiation and atomic war made the UFO a sign that the universe itself objected to Earth’s violence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
-Second, modern institutions often seemed untrustworthy or inadequate. UFO believers frequently suspected governments of concealment, and *Close Encounters* taps into a post-Watergate mood of distrust towards officialdom. In that setting, benevolent aliens could appear more honest than human authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
+Second, modern institutions often seemed untrustworthy or inadequate. UFO believers frequently suspected governments of concealment, and *Close Encounters* taps into a post-Watergate mood of distrust towards officialdom. In that setting, benevolent aliens could appear more honest than human authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-snippet">Open source on bfi.org.uk.</span></span></span>
 
-Third, older religious hopes adapted easily to space-age language. The Critical Dictionary article notes that UFO religions often recast biblical and apocalyptic motifs through extraterrestrial imagery: clouds, ascension, rescue and heavenly beings could all be reinterpreted through saucers and visitors from other worlds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+Third, older religious hopes adapted easily to space-age language. The Critical Dictionary article notes that UFO religions often recast biblical and apocalyptic motifs through extraterrestrial imagery: clouds, ascension, rescue and heavenly beings could all be reinterpreted through saucers and visitors from other worlds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
 This did not make every hopeful UFO story religious. Many were secular, cinematic or philosophical. But the emotional structure was often similar: humanity is endangered, ordinary politics cannot save it, and contact with a higher intelligence may reveal a path beyond violence, isolation or despair.
 
@@ -527,7 +527,7 @@ Benevolent contact stories never eliminated frightening UFO narratives. They coe
 
 That contrast helps explain why UFO culture is so durable. It can absorb opposite emotions. For sceptics, a UFO report may be a misidentified aircraft, a psychological episode, a hoax, a classified technology, or simply an unresolved observation. For believers, the same broad mythology can support dread or consolation. The alien can be invader, scientist, jailer, angel, sibling or teacher.
 
-Official investigations are important here because they separate cultural meaning from evidential proof. Project Blue Book collected 12,618 reports from 1947 to 1969, with 701 left [unidentified]({{ 'unidentified/' | relative_url }}), but the Air Force stated that it found no evidence that unidentified sightings represented extraterrestrial vehicles or technology beyond known science. NASA’s current UAP FAQ similarly says that available data do not support the idea that UAP are alien technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Official investigations are important here because they separate cultural meaning from evidential proof. Project Blue Book collected 12,618 reports from 1947 to 1969, with 701 left [unidentified]({{ 'unidentified/' | relative_url }}), but the Air Force stated that it found no evidence that unidentified sightings represented extraterrestrial vehicles or technology beyond known science. NASA’s current UAP FAQ similarly says that available data do not support the idea that UAP are alien technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 Those conclusions do not make benevolent alien stories irrelevant. They clarify what kind of evidence the stories provide. They are not reliable proof that friendly extraterrestrials are visiting Earth. They are strong evidence that people have repeatedly used UFOs to think through fear, rescue, peace, authority, spiritual transformation and the possibility of not being alone.
 
@@ -538,7 +538,7 @@ Those conclusions do not make benevolent alien stories irrelevant. They clarify 
 
 Modern science fiction often avoids the simple “Space Brother” figure, but it continues the benevolent-contact tradition in subtler forms. The alien may be incomprehensible rather than humanoid, and the gift may be communication rather than sermon.
 
-*Arrival* is a good example. Its extraterrestrials are not comforting human-like teachers, yet the story still resists the invasion template. The central problem is interpretation: are the visitors offering help, threatening humanity, or being misunderstood? Wired’s discussion of the film’s science emphasises its focus on the slow work of language learning and the danger of asking complex questions before establishing basic meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/arrival-science-fact-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">The science of Arrival: what the film got right (and wrong</span><span class="citation-popover-snippet">The science of Arrival: what the film got right (and wrong</span></span></span>
+*Arrival* is a good example. Its extraterrestrials are not comforting human-like teachers, yet the story still resists the invasion template. The central problem is interpretation: are the visitors offering help, threatening humanity, or being misunderstood? Wired’s discussion of the film’s science emphasises its focus on the slow work of language learning and the danger of asking complex questions before establishing basic meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/arrival-science-fact-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">The science of Arrival: what the film got right (and wrong</span><span class="citation-popover-snippet">The science of Arrival: what the film got right (and wrong</span></span></span>
 
 That makes *Arrival* a descendant of the benevolent-contact tradition, not a copy of the 1950s version. The aliens are not Space Brothers in shining suits. They are opaque, strange and difficult. But the hopeful mechanism remains: contact can make humanity wiser if humans resist panic long enough to understand.
 
@@ -553,194 +553,194 @@ Benevolent aliens remain compelling because they make UFOs emotionally double-ed
 That is why friendly-alien contact stories are central to UFO culture’s survival. Fear can produce a memorable spectacle, but hope produces attachment. Invasion stories ask how humanity might defend itself. Benevolent contact stories ask whether humanity might be worth saving, teaching or joining. For UFO belief and science fiction alike, that question has proved just as powerful as the fear of conquest.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFOs Stopped Meaning Invasion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFOs Stopped Meaning Invasion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for changing interpretations of UFO encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for changing interpretations of UFO encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Represents later encounter narratives that moved beyond invasion stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents later encounter narratives that moved beyond invasion stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="https://i.ebayimg.com/images/g/LOoAAeSwPqFpsr99/s-l225.jpg" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Novelty Retro 50&#x27;s B Movie Poster Style UFO Alien Invasion motif mens t-shirt"><img src="https://i.ebayimg.com/images/g/OsMAAOSwtdpa2iYC/s-l225.jpg" alt="Listing image for Novelty Retro 50&#x27;s B Movie Poster Style UFO Alien Invasion motif mens t-shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Novelty Retro 50&#x27;s B Movie Poster Style UFO Alien Invasion motif mens t-shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="https://i.ebayimg.com/images/g/lOoAAOSw~8Jk2TSU/s-l225.jpg" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="friendly-aliens-when-ufos-stopped-meaning-invasion-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="https://i.ebayimg.com/images/g/qh4AAOSwkxFk2mpT/s-l225.jpg" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufos-stopped-meaning-invasion-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="when-ufos-stopped-meaning-invasion-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ That is why friendly-alien contact stories are central to UFO culture’s surviv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ That is why friendly-alien contact stories are central to UFO culture’s surviv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ That is why friendly-alien contact stories are central to UFO culture’s surviv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ That is why friendly-alien contact stories are central to UFO culture’s surviv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ That is why friendly-alien contact stories are central to UFO culture’s surviv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,204 +946,204 @@ That is why friendly-alien contact stories are central to UFO culture’s surviv
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/day-earth-stood-still-film</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/film/day-earth-stood-still-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/day-earth-stood-still-film</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bfi.org.uk  
-   Link: <a href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind</a>  
+   Link:<a href="https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/why-i-love-close-encounters-third-kind</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bfi.org.uk  
    Title: BFIIs Close Encounters of the Third Kind Spielberg’s most optimistic film? | BFI  
-   Link: <a href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind</a>  
+   Link:<a href="https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/features/spielberg-goes-sublime-close-encounters-third-kind</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: The science of Arrival: what the film got right (and wrong)  
-   Link: <a href="https://www.wired.com/story/arrival-science-fact-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/arrival-science-fact-fiction</a>  
+   Link:<a href="https://www.wired.com/story/arrival-science-fact-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/arrival-science-fact-fiction</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Space Brothers (myth)  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_Brothers_%28myth%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Brothers_%28myth%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_Brothers_%28myth%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Brothers_%28myth%29</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Space Brothers  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_Brothers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Brothers</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_Brothers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Brothers</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Potential cultural impact of extraterrestrial contact  
-   Link: <a href="https://en.wikipedia.org/wiki/Potential_cultural_impact_of_extraterrestrial_contact" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Potential_cultural_impact_of_extraterrestrial_contact</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Potential_cultural_impact_of_extraterrestrial_contact" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Potential_cultural_impact_of_extraterrestrial_contact</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: The Day the Earth Stood Still  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Arrival (film)  
-   Link: <a href="https://en.wikipedia.org/wiki/Arrival_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Arrival_%28film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Arrival_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Arrival_%28film%29</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Post detection policy  
-   Link: <a href="https://en.wikipedia.org/wiki/Post-detection_policy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post-detection_policy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Post-detection_policy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post-detection_policy</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: digitalcommons.chapman.edu  
    Title: sociology articles  
-   Link: <a href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/sociology_articles/3/</a>  
+   Link:<a href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/sociology_articles/3/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Best Films About UFOs & Alien Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=bcxpgMW01g4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bcxpgMW01g4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benevolent Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bcxpgMW01g4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bcxpgMW01g4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benevolent Aliens...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Benevolent Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=xWcEXBikPgw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xWcEXBikPgw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reinhold O. Schmidt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xWcEXBikPgw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xWcEXBikPgw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reinhold O. Schmidt...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/324897304599197/posts/2349302128825361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/324897304599197/posts/2349302128825361/</a>  
+   Link:<a href="https://www.facebook.com/groups/324897304599197/posts/2349302128825361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/324897304599197/posts/2349302128825361/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/800711166/adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711166/adamski</a>  
+   Link:<a href="https://www.scribd.com/document/800711166/adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711166/adamski</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: science.howstuffworks.com  
    Title: george adamski  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: davescorneroftheuniverse.wordpress.com  
    Title: george adamski  
-   Link: <a href="https://davescorneroftheuniverse.wordpress.com/tag/george-adamski/" target="_blank" rel="noopener noreferrer nofollow">https://davescorneroftheuniverse.wordpress.com/tag/george-adamski/</a>  
+   Link:<a href="https://davescorneroftheuniverse.wordpress.com/tag/george-adamski/" target="_blank" rel="noopener noreferrer nofollow">https://davescorneroftheuniverse.wordpress.com/tag/george-adamski/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Reinhold O. Schmidt  
-   Link: <a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zjF52HHXw9Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The second video, Benevolent Aliens, explores how science fiction works handle the concept of genuinely friendly or compassionate extrate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zjF52HHXw9Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The second video, Benevolent Aliens, explores how science fiction works handle the concept of genuinely friendly or compassionate extrate...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/</a>  
+   Link:<a href="https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cinephiliabeyond.org  
-   Link: <a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
+   Link:<a href="https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/" target="_blank" rel="noopener noreferrer nofollow">https://cinephiliabeyond.org/close-encounters-of-the-third-kind-steven-spielbergs-gamble-that-paid-off-generously/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2</a>  
+   Link:<a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972</a>  
+   Link:<a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Otherworldpod/comments/1ew9557/another_alien_warning_about_the_environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Otherworldpod/comments/1ew9557/another_alien_warning_about_the_environment/</a>  
+   Link:<a href="https://www.reddit.com/r/Otherworldpod/comments/1ew9557/another_alien_warning_about_the_environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Otherworldpod/comments/1ew9557/another_alien_warning_about_the_environment/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: joe.ie  
-   Link: <a href="https://www.joe.ie/movies-tv/disclosure-day-ending-explained-aliens-ufo-real-steven-spielberg-firelight-873868" target="_blank" rel="noopener noreferrer nofollow">https://www.joe.ie/movies-tv/disclosure-day-ending-explained-aliens-ufo-real-steven-spielberg-firelight-873868</a>  
+   Link:<a href="https://www.joe.ie/movies-tv/disclosure-day-ending-explained-aliens-ufo-real-steven-spielberg-firelight-873868" target="_blank" rel="noopener noreferrer nofollow">https://www.joe.ie/movies-tv/disclosure-day-ending-explained-aliens-ufo-real-steven-spielberg-firelight-873868</a>  

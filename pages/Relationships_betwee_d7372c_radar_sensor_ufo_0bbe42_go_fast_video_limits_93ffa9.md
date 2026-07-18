@@ -284,13 +284,13 @@ The Go Fast video became one of the most famous pieces of modern military UFO fo
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_radar_sensor_ufo_0bbe42_go_fast_video_limits_93ffa9-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_radar_sensor_ufo_0bbe42_go_fast_video_limits_93ffa9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_radar_sensor_ufo_0bbe42_go_fast_video_limits_93ffa9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates about UFOs and science fiction, Go Fast is significant because it looks like the kind of impossible aerial pursuit long familiar from fiction. The public video seems to show an object outrunning ordinary expectations. However, subsequent technical analysis focused less on what the clip appeared to show and more on what could actually be measured from the available evidence. That distinction reveals why public footage alone often cannot settle extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">UNCLASSIFIEDMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+Within debates about UFOs and science fiction, Go Fast is significant because it looks like the kind of impossible aerial pursuit long familiar from fiction. The public video seems to show an object outrunning ordinary expectations. However, subsequent technical analysis focused less on what the clip appeared to show and more on what could actually be measured from the available evidence. That distinction reveals why public footage alone often cannot settle extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">UNCLASSIFIEDMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 ## What the public video appeared to show
 
 The publicly released footage shows an infrared targeting display tracking a small object over the ocean. To many viewers, the most striking feature is the apparent speed. The object seems to skim close to the water while crossing the field of view rapidly enough to suggest advanced propulsion or unusual manoeuvrability.
 
-Part of the video's cultural impact came from its military origin. Unlike many UFO videos circulating online, Go Fast came from a sophisticated military sensor system aboard a combat aircraft. The display overlays, pilot reactions and official release by the US Department of Defense gave the footage an aura of technical credibility that distinguished it from amateur recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whdh.com">[WHDH 7News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whdh.com</span><span class="citation-popover-title">7News Pentagon releases 3 ‘unidentified aerial phenomena’ videos</span><span class="citation-popover-snippet">WHDH 7NewsPentagon releases 3 ‘unidentified aerial phenomena’ videos - Boston News, Weather, Sports &#124; WHDH 7NewsApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
+Part of the video's cultural impact came from its military origin. Unlike many UFO videos circulating online, Go Fast came from a sophisticated military sensor system aboard a combat aircraft. The display overlays, pilot reactions and official release by the US Department of Defense gave the footage an aura of technical credibility that distinguished it from amateur recordings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whdh.com">[WHDH 7News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whdh.com</span><span class="citation-popover-title">7News Pentagon releases 3 ‘unidentified aerial phenomena’ videos</span><span class="citation-popover-snippet">WHDH 7NewsPentagon releases 3 ‘unidentified aerial phenomena’ videos - Boston News, Weather, Sports &#124; WHDH 7NewsApril 27, 2020...</span><span class="citation-popover-meta">Published: April 27, 2020</span></span></span>
 
 For audiences already familiar with science-fiction imagery of mysterious craft, the clip appeared to provide something more concrete than eyewitness testimony. The object seemed to be captured by a machine rather than merely observed by a person. Yet the public video was never the complete dataset. It was a compressed extract from a much larger chain of sensor observations and aircraft information.
 
@@ -299,7 +299,7 @@ For audiences already familiar with science-fiction imagery of mysterious craft,
 
 ## What AARO said was missing from the evidence
 
-A central issue in later analysis was that the publicly available footage lacked much of the information needed for precise reconstruction. The Pentagon's All-domain Anomaly Resolution Office (AARO) stated that high-confidence determination of the object's exact position was not possible because analysts lacked sufficiently precise positional information from the observing aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Mission Brief</span><span class="citation-popover-snippet">AARO Mission Brief...</span></span></span>
+A central issue in later analysis was that the publicly available footage lacked much of the information needed for precise reconstruction. The Pentagon's All-domain Anomaly Resolution Office (AARO) stated that high-confidence determination of the object's exact position was not possible because analysts lacked sufficiently precise positional information from the observing aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Mission Brief</span><span class="citation-popover-snippet">AARO Mission Brief...</span></span></span>
 
 This limitation matters because apparent motion in a video depends on far more than the object's own movement. Analysts need detailed information about:
 
@@ -314,7 +314,7 @@ This limitation matters because apparent motion in a video depends on far more t
 
 </div>
 
-Without those elements, observers can estimate possibilities but cannot fully reconstruct the geometry of the encounter. AARO's assessment emphasised that missing positional information constrained what could be determined with certainty even while supporting broader conclusions about the object's likely behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Mission Brief</span><span class="citation-popover-snippet">AARO Mission Brief...</span></span></span>
+Without those elements, observers can estimate possibilities but cannot fully reconstruct the geometry of the encounter. AARO's assessment emphasised that missing positional information constrained what could be determined with certainty even while supporting broader conclusions about the object's likely behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Mission Brief</span><span class="citation-popover-snippet">AARO Mission Brief...</span></span></span>
 
 The gap between public footage and complete sensor records is a recurring problem in UFO investigations. Viewers often assume they are seeing the entire evidential record when in reality they are seeing a selected visual product detached from much of the technical context that originally accompanied it.
 
@@ -326,7 +326,7 @@ The gap between public footage and complete sensor records is a recurring proble
 
 The most important technical concept in the Go Fast debate is motion parallax. Motion parallax occurs when an observer moves rapidly relative to a distant object. Under some viewing geometries, a stationary or slow-moving object can appear to sweep across the background at remarkable speed.
 
-AARO's analysis concluded that the object's apparently dramatic motion could be explained by this effect. According to its assessment, the object's actual speed was consistent with movement comparable to prevailing winds at altitude rather than with extraordinary performance. The office estimated possible speeds roughly between 5 and 92 miles per hour and concluded that the object did not exhibit anomalous flight characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">UNCLASSIFIEDMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+AARO's analysis concluded that the object's apparently dramatic motion could be explained by this effect. According to its assessment, the object's actual speed was consistent with movement comparable to prevailing winds at altitude rather than with extraordinary performance. The office estimated possible speeds roughly between 5 and 92 miles per hour and concluded that the object did not exhibit anomalous flight characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">UNCLASSIFIEDMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 The key point is that a two-dimensional video frame does not directly reveal three-dimensional motion. Viewers naturally interpret movement across the screen as movement through space, but the relationship between those two things depends on distance, angle and observer motion.
 
@@ -335,9 +335,9 @@ The key point is that a two-dimensional video frame does not directly reveal thr
 
 ### Why compressed public footage has limits
 
-The public version of Go Fast was never intended as a scientific dataset. It was a distributable video clip. Compression removes information to reduce file size, and any public release may omit technical details that analysts would ideally want to examine. More generally, video researchers note that compression and processing can introduce artefacts or obscure fine details that would otherwise aid analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.08859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed Videos</span><span class="citation-popover-snippet">BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed VideosDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+The public version of Go Fast was never intended as a scientific dataset. It was a distributable video clip. Compression removes information to reduce file size, and any public release may omit technical details that analysts would ideally want to examine. More generally, video researchers note that compression and processing can introduce artefacts or obscure fine details that would otherwise aid analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.08859" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed Videos</span><span class="citation-popover-snippet">BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed VideosDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
-Metadata is equally important. In many forms of technical and forensic analysis, provenance information helps establish how a recording was created, what equipment produced it and what contextual information accompanies it. When viewers have access only to a public clip, much of that evidential framework is absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aivideodetector.com/blog/what-do-ai-detectors-look-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aivideodetector.com">[AIVideoDetector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aivideodetector.com</span><span class="citation-popover-snippet">What Do AI Detectors Look For to Spot Deepfakes &#124; AI Video DetectorMarch 9, 2026...</span><span class="citation-popover-meta">Published: March 9, 2026</span></span></span>
+Metadata is equally important. In many forms of technical and forensic analysis, provenance information helps establish how a recording was created, what equipment produced it and what contextual information accompanies it. When viewers have access only to a public clip, much of that evidential framework is absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aivideodetector.com/blog/what-do-ai-detectors-look-for" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aivideodetector.com">[AIVideoDetector]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aivideodetector.com</span><span class="citation-popover-snippet">What Do AI Detectors Look For to Spot Deepfakes &#124; AI Video DetectorMarch 9, 2026...</span><span class="citation-popover-meta">Published: March 9, 2026</span></span></span>
 
 For the Go Fast case, this meant that public debate often centred on visual impressions, while professional analysis depended on additional information about aircraft systems, environmental conditions and sensor geometry.
 
@@ -349,201 +349,201 @@ Go Fast demonstrates that sensor footage is neither simple proof nor simple illu
 
 This is precisely where UFO discussions intersect with science fiction. Popular culture often imagines advanced sensors as devices that reveal reality with perfect clarity. The Go Fast case suggests a more complicated reality. Sensors extend human perception, but they also create new layers of interpretation. A video can look astonishing while remaining difficult to measure rigorously.
 
-The enduring importance of Go Fast is therefore not that it conclusively proved or disproved an extraordinary object. Its value lies in showing how a widely circulated clip can become a symbol of mystery while simultaneously demonstrating the limits of public footage. The closer analysts looked at the available evidence, the more the debate turned away from what seemed obvious on screen and toward the missing data needed to understand what the screen actually showed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">UNCLASSIFIEDMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+The enduring importance of Go Fast is therefore not that it conclusively proved or disproved an extraordinary object. Its value lies in showing how a widely circulated clip can become a symbol of mystery while simultaneously demonstrating the limits of public footage. The closer analysts looked at the available evidence, the more the debate turned away from what seemed obvious on screen and toward the missing data needed to understand what the screen actually showed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">UNCLASSIFIEDMay 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MftWg1BVGP8" title="The Best UFO Footage Ever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MftWg1BVGP8" target="_blank" rel="noopener noreferrer">The Best UFO Footage Ever</a></p><p class="youtube-embed-meta">Channel: Mindlab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MftWg1BVGP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MftWg1BVGP8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Go Fast UFO video misled viewers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Go Fast UFO video misled viewers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how ambiguous evidence should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how ambiguous evidence should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers military encounters and evidence debates relevant to Go Fast.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military encounters and evidence debates relevant to Go Fast.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Useful for understanding limits of publicly available data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding limits of publicly available data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Highlights the need for complete data before extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the need for complete data before extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm"><img src="{{ '/assets/images/marketplace-covers/bce7e59e976a632258ff.jpg' | relative_url }}" alt="Listing image for UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series -Gerry Anderson - Metal Wall Sign - Size 30cm x 20cm x 1 mm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall sign" data-ebay-reference="go-fast-why-the-go-fast-ufo-video-misled-viewers-relationships-betwee-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-go-fast-ufo-video-misled-viewers-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ The enduring importance of Go Fast is therefore not that it conclusively proved 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ The enduring importance of Go Fast is therefore not that it conclusively proved 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ The enduring importance of Go Fast is therefore not that it conclusively proved 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ The enduring importance of Go Fast is therefore not that it conclusively proved 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ The enduring importance of Go Fast is therefore not that it conclusively proved 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,72 +749,72 @@ The enduring importance of Go Fast is therefore not that it conclusively proved 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNCLASSIFIEDMay 10, 2026...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf?ver=qXvjrruO_0MgtnTsfYnCEQ%3D%3D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNCLASSIFIEDMay 10, 2026...</p></details>
    Published: May 10, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Mission Brief  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Mission Brief...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Mission Brief...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: whdh.com  
    Title: 7News Pentagon releases 3 ‘[unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) aerial phenomena’ videos  
-   Link: <a href="https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/" target="_blank" rel="noopener noreferrer nofollow">https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHDH 7NewsPentagon releases 3 ‘unidentified aerial phenomena’ videos - Boston News, Weather, Sports | WHDH 7NewsApril 27, 2020...</p></details>
+   Link:<a href="https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/" target="_blank" rel="noopener noreferrer nofollow">https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHDH 7NewsPentagon releases 3 ‘unidentified aerial phenomena’ videos - Boston News, Weather, Sports | WHDH 7NewsApril 27, 2020...</p></details>
    Published: April 27, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed Videos  
-   Link: <a href="https://arxiv.org/abs/2312.08859" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.08859</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed VideosDecember 14, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2312.08859" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.08859</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BVI-Artefact: An Artefact Detection Benchmark Dataset for Streamed VideosDecember 14, 2023...</p></details>
    Published: December 14, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aivideodetector.com  
-   Link: <a href="https://www.aivideodetector.com/blog/what-do-ai-detectors-look-for" target="_blank" rel="noopener noreferrer nofollow">https://www.aivideodetector.com/blog/what-do-ai-detectors-look-for</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Do AI Detectors Look For to Spot Deepfakes | AI Video DetectorMarch 9, 2026...</p></details>
+   Link:<a href="https://www.aivideodetector.com/blog/what-do-ai-detectors-look-for" target="_blank" rel="noopener noreferrer nofollow">https://www.aivideodetector.com/blog/what-do-ai-detectors-look-for</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Do AI Detectors Look For to Spot Deepfakes | AI Video DetectorMarch 9, 2026...</p></details>
    Published: March 9, 2026  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GoFast UFO Was “Debunked”—Until You Look at the Data...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GoFast UFO Was “Debunked”—Until You Look at the Data...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: redactor.com  
    Title: How Courts Determine if Audio or Video is Authentic  
-   Link: <a href="https://www.redactor.com/blog/how-courts-determine-audio-video-evidence-authenticity" target="_blank" rel="noopener noreferrer nofollow">https://www.redactor.com/blog/how-courts-determine-audio-video-evidence-authenticity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Courts Determine if Audio or Video is Authentic...</p></details>
+   Link:<a href="https://www.redactor.com/blog/how-courts-determine-audio-video-evidence-authenticity" target="_blank" rel="noopener noreferrer nofollow">https://www.redactor.com/blog/how-courts-determine-audio-video-evidence-authenticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Courts Determine if Audio or Video is Authentic...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Go Fast UFO Was “Debunked”—Until You Look at the Data  
-   Link: <a href="http://www.youtube.com/watch?v=TDKMNqg2BO8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TDKMNqg2BO8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Tic Tac&quot; UFO | Are They Real? |David Fravor&#x27;s Testimony...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TDKMNqg2BO8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TDKMNqg2BO8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Tic Tac&quot; UFO | Are They Real? |David Fravor&#x27;s Testimony...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Elon Musk  
-   Link: <a href="http://www.youtube.com/watch?v=n084vs6NuIs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=n084vs6NuIs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Go Fast UAP video technical analysis parallax The Best UFO Footage Ever Mindlab...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=n084vs6NuIs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=n084vs6NuIs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Go Fast UAP video technical analysis parallax The Best UFO Footage Ever Mindlab...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: "Tic Tac" UFO | Are They Real? |David Fravor's Testimony  
-   Link: <a href="http://www.youtube.com/watch?v=xWczM1_RPsU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xWczM1_RPsU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best UFO Footage Ever...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=xWczM1_RPsU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xWczM1_RPsU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best UFO Footage Ever...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Best UFO Footage Ever  
-   Link: <a href="http://www.youtube.com/watch?v=MftWg1BVGP8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MftWg1BVGP8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk - Tic Tac UFO counter...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=MftWg1BVGP8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MftWg1BVGP8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk - Tic Tac UFO counter...</p></details>

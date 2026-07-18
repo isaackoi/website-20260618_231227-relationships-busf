@@ -274,7 +274,7 @@ image: /assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_avroca
 
 ## Introduction
 
-The Avrocar mattered because it transformed the [flying saucer]({{ 'flying-saucer/' | relative_url }}) from a purely fictional image into a visible military engineering project. During the Cold War, many people already feared that [secret aircraft]({{ 'secret-aircraft/' | relative_url }}), missiles and advanced weapons were being developed behind closed doors. When a real disc-shaped aircraft was unveiled and tested with military funding, the idea of a saucer-shaped combat vehicle no longer seemed confined to science fiction. Even though the aircraft failed, its existence helped blur the boundary between speculative fiction, UFO rumours and genuine aerospace research. For a public already accustomed to stories of mysterious discs in the sky, the Avrocar provided tangible proof that engineers were at least trying to build something that looked remarkably like a flying saucer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
+The Avrocar mattered because it transformed the [flying saucer]({{ 'flying-saucer/' | relative_url }}) from a purely fictional image into a visible military engineering project. During the Cold War, many people already feared that [secret aircraft]({{ 'secret-aircraft/' | relative_url }}), missiles and advanced weapons were being developed behind closed doors. When a real disc-shaped aircraft was unveiled and tested with military funding, the idea of a saucer-shaped combat vehicle no longer seemed confined to science fiction. Even though the aircraft failed, its existence helped blur the boundary between speculative fiction, UFO rumours and genuine aerospace research. For a public already accustomed to stories of mysterious discs in the sky, the Avrocar provided tangible proof that engineers were at least trying to build something that looked remarkably like a flying saucer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_avrocar_saucer_weapo_697bea-Illustration-1-dark.svg" | relative_url }}" alt="Avrocar illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_avrocar_saucer_weapo_697bea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_avrocar_saucer_weapo_697bea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,22 +282,22 @@ The Avrocar mattered because it transformed the [flying saucer]({{ 'flying-sauce
 
 ### The vertical-take-off fighter-bomber idea
 
-The Avro Canada VZ-9 Avrocar was conceived as far more than an experimental curiosity. Early concepts envisioned a high-speed vertical-take-off-and-landing (VTOL) aircraft that could operate without conventional runways and potentially perform military missions that included interception, reconnaissance and strike roles. Contemporary descriptions portrayed it as a revolutionary Cold War weapon capable of combining jet performance with the ability to rise vertically from dispersed locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
+The Avro Canada VZ-9 Avrocar was conceived as far more than an experimental curiosity. Early concepts envisioned a high-speed vertical-take-off-and-landing (VTOL) aircraft that could operate without conventional runways and potentially perform military missions that included interception, reconnaissance and strike roles. Contemporary descriptions portrayed it as a revolutionary Cold War weapon capable of combining jet performance with the ability to rise vertically from dispersed locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
 
-What made the project especially significant for public perceptions was its shape. Unlike many secret aircraft whose appearance remained unknown, the Avrocar was literally disc-shaped. Its circular body, central lift system and unusual flight concept resembled the popular image of a flying saucer that had spread through newspapers, UFO reports and science-fiction magazines since the late 1940s. The resemblance was so striking that media accounts routinely described it as a “flying saucer”, reinforcing the impression that military technology was catching up with speculative fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
+What made the project especially significant for public perceptions was its shape. Unlike many secret aircraft whose appearance remained unknown, the Avrocar was literally disc-shaped. Its circular body, central lift system and unusual flight concept resembled the popular image of a flying saucer that had spread through newspapers, UFO reports and science-fiction magazines since the late 1940s. The resemblance was so striking that media accounts routinely described it as a “flying saucer”, reinforcing the impression that military technology was catching up with speculative fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
 
-For readers of science fiction and followers of UFO stories, this was an important psychological shift. A saucer-shaped craft was no longer only something imagined by artists or reported by witnesses. It existed as a funded aerospace programme supported by American military agencies and developed by professional engineers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
+For readers of science fiction and followers of UFO stories, this was an important psychological shift. A saucer-shaped craft was no longer only something imagined by artists or reported by witnesses. It existed as a funded aerospace programme supported by American military agencies and developed by professional engineers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qt8J88zNrN8" title="Avrocar Flying Saucer: A Secret US Military Project of the Cold War Era" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qt8J88zNrN8" target="_blank" rel="noopener noreferrer">Avrocar Flying Saucer: A Secret US Military Project of the Cold War Era</a></p><p class="youtube-embed-meta">Channel: Vector 1945</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qt8J88zNrN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qt8J88zNrN8">Open on YouTube</a></p></div></div></div>
 
 ## Why the project failed to match the dream
 
-The Avrocar's influence on public imagination came less from its success than from the fact that it existed at all. In practice, the aircraft struggled with severe stability problems. Engineers discovered that once it rose beyond a small height above the ground, it became difficult to control. Test pilots experienced violent oscillations in pitch and roll, a phenomenon nicknamed “hubcapping”. The aircraft never achieved the high-speed, high-altitude performance originally envisioned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+The Avrocar's influence on public imagination came less from its success than from the fact that it existed at all. In practice, the aircraft struggled with severe stability problems. Engineers discovered that once it rose beyond a small height above the ground, it became difficult to control. Test pilots experienced violent oscillations in pitch and roll, a phenomenon nicknamed “hubcapping”. The aircraft never achieved the high-speed, high-altitude performance originally envisioned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-Flight testing eventually demonstrated that the concept could not fulfil its ambitious military goals. The Avrocar remained limited to low-altitude operation and modest speeds before the programme was cancelled in 1961. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum+2Store norske leksikon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+Flight testing eventually demonstrated that the concept could not fulfil its ambitious military goals. The Avrocar remained limited to low-altitude operation and modest speeds before the programme was cancelled in 1961.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-Yet failure did not erase the broader cultural impact. Most members of the public were not aerospace specialists analysing technical reports. What they saw was evidence that governments were experimenting with vehicles that looked astonishingly similar to the [saucers]({{ 'saucers/' | relative_url }}) appearing in popular culture. The mere existence of such projects made claims about advanced disc-shaped aircraft seem less absurd than they would otherwise have appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
+Yet failure did not erase the broader cultural impact. Most members of the public were not aerospace specialists analysing technical reports. What they saw was evidence that governments were experimenting with vehicles that looked astonishingly similar to the [saucers]({{ 'saucers/' | relative_url }}) appearing in popular culture. The mere existence of such projects made claims about advanced disc-shaped aircraft seem less absurd than they would otherwise have appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JeHY_c13gVA" title="That Time Canada Built a Flying Saucer; the story of the Avro Canada VZ-9 Avrocar (No AI)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JeHY_c13gVA" target="_blank" rel="noopener noreferrer">That Time Canada Built a Flying Saucer; the story of the Avro Canada VZ-9 Avrocar (No AI)</a></p><p class="youtube-embed-meta">Channel: Polyus</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JeHY_c13gVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JeHY_c13gVA">Open on YouTube</a></p></div></div></div>
@@ -308,205 +308,205 @@ Yet failure did not erase the broader cultural impact. Most members of the publi
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_avrocar_saucer_weapo_697bea-Illustration-2-dark.svg" | relative_url }}" alt="Avrocar illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_avrocar_saucer_weapo_697bea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_avrocar_saucer_weapo_697bea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How prototypes blurred fiction and realism
 
-The Avrocar emerged during a period when science fiction, military [secrecy]({{ 'secrecy/' | relative_url }}) and UFO reports were constantly influencing one another. Newspapers reported flying saucer sightings, science-fiction films depicted advanced alien craft, and governments simultaneously funded unconventional aerospace projects. In that environment, a real flying saucer prototype became a powerful symbol. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Media The Cold War and UFOs &#124; The National Archives</span><span class="citation-popover-snippet">National Archives Media The Cold War and UFOs &#124; The National Archives</span></span></span>
+The Avrocar emerged during a period when science fiction, military [secrecy]({{ 'secrecy/' | relative_url }}) and UFO reports were constantly influencing one another. Newspapers reported flying saucer sightings, science-fiction films depicted advanced alien craft, and governments simultaneously funded unconventional aerospace projects. In that environment, a real flying saucer prototype became a powerful symbol.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.nationalarchives.gov.uk/index.php/cold-war-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">National Archives Media The Cold War and UFOs &#124; The National Archives</span><span class="citation-popover-snippet">National Archives Media The Cold War and UFOs &#124; The National Archives</span></span></span>
 
-The project demonstrated that engineers were willing to investigate designs that previously seemed fantastical. Even though the aircraft was not extraterrestrial and never became an operational weapon, it showed that disc-shaped flight was considered a legitimate engineering question rather than a purely fictional concept. That distinction mattered because many Cold War UFO theories relied on the assumption that extraordinary aircraft might already exist in secret programmes. The Avrocar offered a concrete example of how unusual military experiments could resemble the imagery found in both UFO reports and science-fiction stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
+The project demonstrated that engineers were willing to investigate designs that previously seemed fantastical. Even though the aircraft was not extraterrestrial and never became an operational weapon, it showed that disc-shaped flight was considered a legitimate engineering question rather than a purely fictional concept. That distinction mattered because many Cold War UFO theories relied on the assumption that extraordinary aircraft might already exist in secret programmes. The Avrocar offered a concrete example of how unusual military experiments could resemble the imagery found in both UFO reports and science-fiction stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
 
-The result was a feedback loop. Science fiction helped familiarise audiences with flying saucers. The Avrocar then provided a real-world counterpart that appeared to validate the possibility of saucer-shaped technology. Although the aircraft itself never fulfilled its promise, its public visibility strengthened the belief that futuristic disc-shaped weapons might be technologically achievable. Within the wider relationship between UFOs and science fiction, the Avrocar stands as one of the clearest examples of a real military project making an iconic fictional image seem physically plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Store norske leksikon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
+The result was a feedback loop. Science fiction helped familiarise audiences with flying saucers. The Avrocar then provided a real-world counterpart that appeared to validate the possibility of saucer-shaped technology. Although the aircraft itself never fulfilled its promise, its public visibility strengthened the belief that futuristic disc-shaped weapons might be technologically achievable. Within the wider relationship between UFOs and science fiction, the Avrocar stands as one of the clearest examples of a real military project making an iconic fictional image seem physically plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">A Saucer From Mars?</span><span class="citation-popover-snippet">Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</span><span class="citation-popover-meta">Published: July 5, 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGwfCKsRC2A" title="The Canadian Flying Saucer | The Avro Canada VZ-9 Avrocar | History in the Dark" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGwfCKsRC2A" target="_blank" rel="noopener noreferrer">The Canadian Flying Saucer | The Avro Canada VZ-9 Avrocar | History in the Dark</a></p><p class="youtube-embed-meta">Channel: History in the Dark</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGwfCKsRC2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGwfCKsRC2A">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Real Flying Saucer the Military Tried. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Real Flying Saucer the Military Tried. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly connects secret aircraft programs, Area 51 testing, Cold War secrecy, and UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects secret aircraft programs, Area 51 testing, Cold War secrecy, and UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Directly explains how Cold War politics, military technology, and public fears shaped the flying saucer craze.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how Cold War politics, military technology, and public fears shaped the flying saucer craze.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains the culture and development of secret reconnaissance aircraft that often fueled UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the culture and development of secret reconnaissance aircraft that often fueled UFO speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Science+Fiction+and+the+Cold+War+by+David+Seed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Science Fiction and the Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1THfAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Science Fiction and the Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Science+Fiction+and+the+Cold+War+by+David+Seed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Science Fiction and the Cold War">American Science Fiction and the Cold War</a>
-        </h4>
-        <p class="fr-book-author">By David Seed</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Science+Fiction+and+the+Cold+War+by+David+Seed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Science Fiction and the Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1THfAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Science Fiction and the Cold War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Science+Fiction+and+the+Cold+War+by+David+Seed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Science Fiction and the Cold War">American Science Fiction and the Cold War</a>
+</h4>
+<p class="fr-book-author">By David Seed</p>
         
-        <p class="fr-book-desc">Directly examines Cold War themes across science fiction literature and film, including invasion narratives and cultural anxieties.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Science+Fiction+and+the+Cold+War+by+David+Seed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Cold War themes across science fiction literature and film, including invasion narratives and cultural anxieties.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Science+Fiction+and+the+Cold+War+by+David+Seed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art - EE Lightning &amp; TU-95 Bear &#x27;Cold War Intercept&#x27; Keith Aspinall"><img src="https://i.ebayimg.com/images/g/LeEAAOSwsHhfxqub/s-l225.jpg" alt="Listing image for Aviation Art - EE Lightning &amp; TU-95 Bear &#x27;Cold War Intercept&#x27; Keith Aspinall" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art - EE Lightning &amp; TU-95 Bear &#x27;Cold War Intercept&#x27; Keith Aspinall</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print - BAC Lightning &amp; TU-95 Bear &#x27;Cold War Intercept&#x27; K.Aspinall"><img src="https://i.ebayimg.com/images/g/LeEAAOSwsHhfxqub/s-l225.jpg" alt="Listing image for Aviation Art Print - BAC Lightning &amp; TU-95 Bear &#x27;Cold War Intercept&#x27; K.Aspinall" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print - BAC Lightning &amp; TU-95 Bear &#x27;Cold War Intercept&#x27; K.Aspinall</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Russian Aircraft — Hugo Hooftman — 1965 1st Ed- HC/DJ — Cold War Soviet Aviation"><img src="https://i.ebayimg.com/images/g/z6gAAeSwRAhpb5qc/s-l225.jpg" alt="Listing image for Russian Aircraft — Hugo Hooftman — 1965 1st Ed- HC/DJ — Cold War Soviet Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Russian Aircraft — Hugo Hooftman — 1965 1st Ed- HC/DJ — Cold War Soviet Aviation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="avrocar-the-real-flying-saucer-the-military-tried-relationships-betwee-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot"><img src="https://i.ebayimg.com/images/g/UbAAAeSwHJ5qLFRb/s-l225.jpg" alt="Listing image for Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="relationships-betwee-d7372c-cold-war-saucers-7490a4-avrocar-saucer-weapo-697bea-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ The result was a feedback loop. Science fiction helped familiarise audiences wit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ The result was a feedback loop. Science fiction helped familiarise audiences wit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ The result was a feedback loop. Science fiction helped familiarise audiences wit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ The result was a feedback loop. Science fiction helped familiarise audiences wit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ The result was a feedback loop. Science fiction helped familiarise audiences wit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,81 +712,81 @@ The result was a feedback loop. Science fiction helped familiarise audiences wit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: A Saucer From Mars?  
-   Link: <a href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</p></details>
+   Link:<a href="https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/07/a-saucer-from-mars-nope-canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nope, CanadaJuly 5, 2001 — The Avrocar, a top-secret flying saucer designed during the Cold War, was a joint Canadian-U.S. project spearh...</p></details>
    Published: July 5, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: Avro Canada VZ-9 Avrocar "flying saucer" prototype trials  
-   Link: <a href="https://www.reddit.com/r/WeirdWings/comments/18lhhap" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/18lhhap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Avro Canada VZ-9 Avrocar &quot;flying saucer&quot; prototype trials...</p></details>
+   Link:<a href="https://www.reddit.com/r/WeirdWings/comments/18lhhap" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/18lhhap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avro Canada VZ-9 Avrocar &quot;flying saucer&quot; prototype trials...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: The Real Flying Saucer  
-   Link: <a href="https://www.youtube.com/watch?v=85aFTVijEc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85aFTVijEc8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1794 - The US Military&#x27;s VZ-9 Avrocar Flying Saucer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=85aFTVijEc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85aFTVijEc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1794 - The US Military&#x27;s VZ-9 Avrocar Flying Saucer...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalmuseum.af.mil  
-   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/</a>  
+   Link:<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/AFmuseum/avro-canada-vz-9av-avrocar/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: snl.no  
    Title: Store norske leksikon Avrocar – Store norske leksikon  
-   Link: <a href="https://snl.no/Avrocar" target="_blank" rel="noopener noreferrer nofollow">https://snl.no/Avrocar</a>  
+   Link:<a href="https://snl.no/Avrocar" target="_blank" rel="noopener noreferrer nofollow">https://snl.no/Avrocar</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: media.nationalarchives.gov.uk  
    Title: National Archives Media The Cold War and UFOs | The National Archives  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/[cold-war-ufos" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/[cold-war-ufos</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/[cold-war-ufos" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/[cold-war-ufos</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Canadian Flying Saucer | The Avro Canada VZ-9 Avrocar | History in the Dark  
-   Link: <a href="https://www.youtube.com/watch?v=JGwfCKsRC2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGwfCKsRC2A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Flying Saucer provides an in-depth look at how the military attempted to use advanced fluid physics to turn a staple design of s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JGwfCKsRC2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGwfCKsRC2A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Flying Saucer provides an in-depth look at how the military attempted to use advanced fluid physics to turn a staple design of s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JeHY_c13gVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JeHY_c13gVA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Avrocar Flying Saucer: A Secret US Military Project of the Cold War Era...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JeHY_c13gVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JeHY_c13gVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avrocar Flying Saucer: A Secret US Military Project of the Cold War Era...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Avrocar Flying Saucer: A Secret US Military Project of the Cold War Era  
-   Link: <a href="https://www.youtube.com/watch?v=qt8J88zNrN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qt8J88zNrN8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Flying Saucer | The Avro Canada VZ-9 Avrocar | History in the Dark...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qt8J88zNrN8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qt8J88zNrN8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Canadian Flying Saucer | The Avro Canada VZ-9 Avrocar | History in the Dark...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: trendydigests.com  
-   Link: <a href="https://trendydigests.com/2024/03/14/the-vz-9-avrocar-the-cold-war-eras-vtol-dream-that-never-took-flight/" target="_blank" rel="noopener noreferrer nofollow">https://trendydigests.com/2024/03/14/the-vz-9-avrocar-the-cold-war-eras-vtol-dream-that-never-took-flight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 14, 2024...</p></details>
+   Link:<a href="https://trendydigests.com/2024/03/14/the-vz-9-avrocar-the-cold-war-eras-vtol-dream-that-never-took-flight/" target="_blank" rel="noopener noreferrer nofollow">https://trendydigests.com/2024/03/14/the-vz-9-avrocar-the-cold-war-eras-vtol-dream-that-never-took-flight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 14, 2024...</p></details>
    Published: March 14, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uapfiles.app  
    Title: cold war ufo files  
-   Link: <a href="https://uapfiles.app/cold-war-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://uapfiles.app/cold-war-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War Flying-Saucer Files (1940s–1960s) · Umbra...</p></details>
+   Link:<a href="https://uapfiles.app/cold-war-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://uapfiles.app/cold-war-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War Flying-Saucer Files (1940s–1960s) · Umbra...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: catalog.loc.gov  
    Title: Library of Congress Catalog | Library of Congress  
-   Link: <a href="https://catalog.loc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://catalog.loc.gov/</a>  
+   Link:<a href="https://catalog.loc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://catalog.loc.gov/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fiddlersgreen.net  
    Title: Fiddler's Green Flying Saucer | Aircraft  
-   Link: <a href="https://www.fiddlersgreen.net/models/aircraft/Avro-Avrocar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fiddlersgreen.net/models/aircraft/Avro-Avrocar.html</a>  
+   Link:<a href="https://www.fiddlersgreen.net/models/aircraft/Avro-Avrocar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fiddlersgreen.net/models/aircraft/Avro-Avrocar.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Flying Saucers from Outer Space  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space</a>  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-index/
 description: Focused pages that expand on Relationships betwee.
-date: '2026-06-18'
+date: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c
 parent_title: Relationships betwee
@@ -16,7 +16,7 @@ parent_permalink: /relationships-betwee/
 
 # Explore Topics in Relationships betwee
 
-The following pages expand on the main **[Relationships betwee]({{ '/relationships-betwee/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Relationships betwee]({{ '/relationships-betwee/' | relative_url }})** page and cover its key branches in.
 
 - [Abductions]({{ '/abductions/' | relative_url }})
 - [Believers]({{ '/believers/' | relative_url }})

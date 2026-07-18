@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-cold-war/
 description: Focused pages that expand on Cold War UFOs.
-date: '2026-06-18'
+date: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_cold_war_saucers_7490a4
 parent_title: Cold War UFOs
@@ -16,7 +16,7 @@ parent_permalink: /cold-war-ufos/
 
 # Explore Topics in Cold War UFOs
 
-The following pages expand on the main **[Cold War UFOs]({{ '/cold-war-ufos/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Cold War UFOs]({{ '/cold-war-ufos/' | relative_url }})** page and cover its key branches in.
 
 - [Avrocar]({{ '/avrocar/' | relative_url }})
 - [Radar Scares]({{ '/radar-scares/' | relative_url }})

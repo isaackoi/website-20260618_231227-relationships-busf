@@ -278,7 +278,7 @@ Some UFO beliefs do more than explain mysterious lights in the sky. They provide
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_ufo_religion_tech_an_7a7f1f-Illustration-1-dark.svg" | relative_url }}" alt="UFO Religion illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_ufo_religion_tech_an_7a7f1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_ufo_religion_tech_an_7a7f1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This blending of religious longing with science-fiction imagery became especially visible after the Second World War, when [rockets]({{ 'rockets/' | relative_url }}), nuclear weapons and space exploration transformed public ideas about the future. UFO religions recast ancient themes of revelation, judgment and redemption in technological terms, creating what scholars have described as a vision of the alien as a “technological angel” rather than a supernatural being. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.lancaster-university.uk">[Lancaster University research directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.lancaster-university.uk</span><span class="citation-popover-snippet">Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</span></span></span>
+This blending of religious longing with science-fiction imagery became especially visible after the Second World War, when [rockets]({{ 'rockets/' | relative_url }}), nuclear weapons and space exploration transformed public ideas about the future. UFO religions recast ancient themes of revelation, judgment and redemption in technological terms, creating what scholars have described as a vision of the alien as a “technological angel” rather than a supernatural being.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.lancaster-university.uk">[Lancaster University research directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.lancaster-university.uk</span><span class="citation-popover-snippet">Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</span></span></span>
 
 ## Extraterrestrials as Saviours and Teachers
 
@@ -286,12 +286,12 @@ One of the most distinctive features of UFO religion is the portrayal of advance
 
 This pattern appeared prominently in the 1950s contactee movement. Individuals such as George Adamski claimed encounters with wise “Space Brothers” who warned about nuclear weapons and urged spiritual development. The aliens were not merely visitors; they functioned as cosmic teachers delivering ethical instruction. Their authority came from superior knowledge and technology rather than divine status.
 
-Religious studies scholar Christopher Partridge argues that early UFO spirituality often sacralised extraterrestrials as benevolent, messianic figures. He describes this image as that of a “technological angel”, combining traditional religious expectations with modern assumptions about scientific advancement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.lancaster-university.uk">[Lancaster University research directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.lancaster-university.uk</span><span class="citation-popover-snippet">Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</span></span></span>
+Religious studies scholar Christopher Partridge argues that early UFO spirituality often sacralised extraterrestrials as benevolent, messianic figures. He describes this image as that of a “technological angel”, combining traditional religious expectations with modern assumptions about scientific advancement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.lancaster-university.uk">[Lancaster University research directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.lancaster-university.uk</span><span class="citation-popover-snippet">Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</span></span></span>
 
 Several organised movements developed these ideas further:
 
 * The Aetherius Society, founded by George King in the 1950s, taught that spiritually advanced cosmic intelligences communicate guidance to humanity.
-* The Raëlian Movement teaches that humanity was created through advanced science by extraterrestrials known as the Elohim, transforming the biblical creator into a technologically sophisticated alien civilisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media CentreFactsheet: the Raëlian movement - Religion Media CentreJanuary 7, 2022...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
+* The Raëlian Movement teaches that humanity was created through advanced science by extraterrestrials known as the Elohim, transforming the biblical creator into a technologically sophisticated alien civilisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media CentreFactsheet: the Raëlian movement - Religion Media CentreJanuary 7, 2022...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
 * Other groups, including various channelled “Ashtar Command” traditions, describe extraterrestrial fleets overseeing humanity's spiritual evolution.
 
 In each case, the alien fulfils a familiar religious role: guardian, revealer, teacher or redeemer. The language is futuristic, but the underlying narrative structure is ancient.
@@ -305,9 +305,9 @@ Traditional religions often centre on revelation: hidden truths disclosed by div
 
 Believers anticipate a future moment when governments, scientists or the extraterrestrials themselves will reveal humanity's true place in the cosmos. This expectation resembles religious anticipation of prophecy being fulfilled. Instead of waiting for angels to appear, followers await official confirmation of alien contact.
 
-The Raëlian Movement provides a clear example. Its teachings anticipate the return of the Elohim and promote the construction of an embassy where humanity can formally receive extraterrestrial visitors and their knowledge. The expected event is presented as both scientific and salvific: a revelation that would transform civilisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media CentreFactsheet: the Raëlian movement - Religion Media CentreJanuary 7, 2022...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
+The Raëlian Movement provides a clear example. Its teachings anticipate the return of the Elohim and promote the construction of an embassy where humanity can formally receive extraterrestrial visitors and their knowledge. The expected event is presented as both scientific and salvific: a revelation that would transform civilisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: the Raëlian movement</span><span class="citation-popover-snippet">Religion Media CentreFactsheet: the Raëlian movement - Religion Media CentreJanuary 7, 2022...</span><span class="citation-popover-meta">Published: January 7, 2022</span></span></span>
 
-Scholars of religion increasingly note that UFO belief systems often create communities organised around revelation narratives. Diana Walsh Pasulka argues that UFO culture can provide cosmological meaning, shared interpretations of extraordinary experiences and frameworks for understanding humanity's place in the universe—functions historically associated with religion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vox.com/culture/491587/disclosure-day-steven-spielberg-movie-aliens-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">Disclosure Day pits aliens against religion</span><span class="citation-popover-snippet">But faith leaders are ready to believe.June 11, 2026 — Steven Spielberg’s 2026 film &quot;Disclosure Day&quot; explores the intersection of belief...</span><span class="citation-popover-meta">Published: June 11, 2026</span></span></span>
+Scholars of religion increasingly note that UFO belief systems often create communities organised around revelation narratives. Diana Walsh Pasulka argues that UFO culture can provide cosmological meaning, shared interpretations of extraordinary experiences and frameworks for understanding humanity's place in the universe—functions historically associated with religion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vox.com/culture/491587/disclosure-day-steven-spielberg-movie-aliens-ufo-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">Disclosure Day pits aliens against religion</span><span class="citation-popover-snippet">But faith leaders are ready to believe.June 11, 2026 — Steven Spielberg’s 2026 film &quot;Disclosure Day&quot; explores the intersection of belief...</span><span class="citation-popover-meta">Published: June 11, 2026</span></span></span>
 
 The concept of disclosure therefore serves a dual purpose. It is presented as the uncovering of factual information, yet it also carries emotional and spiritual expectations about transformation, enlightenment and collective awakening.
 
@@ -323,7 +323,7 @@ Traditional religious themeUFO religious equivalentAngels descending from heaven
 
 The appeal of this substitution reflects broader cultural change. In societies shaped by science and technology, spacecraft may appear more plausible than winged messengers. Yet the emotional function remains strikingly similar. People still seek reassurance that humanity is not alone, that higher intelligences care about human destiny, and that history possesses a larger purpose.
 
-Researchers have traced many UFO religious ideas to earlier esoteric traditions such as Theosophy, which already emphasised hidden masters guiding human evolution. UFO movements often translated these invisible spiritual masters into technologically advanced extraterrestrials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.lancaster-university.uk">[Lancaster University research directory+2ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.lancaster-university.uk</span><span class="citation-popover-snippet">Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</span></span></span>
+Researchers have traced many UFO religious ideas to earlier esoteric traditions such as Theosophy, which already emphasised hidden masters guiding human evolution. UFO movements often translated these invisible spiritual masters into technologically advanced extraterrestrials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.lancaster-university.uk">[lancaster-university.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.lancaster-university.uk</span><span class="citation-popover-snippet">Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pKlrHqJkt38" title="Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer">Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs</a></p><p class="youtube-embed-meta">Channel: Mighty Pursuit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pKlrHqJkt38">Open on YouTube</a></p></div></div></div>
@@ -332,9 +332,9 @@ Researchers have traced many UFO religious ideas to earlier esoteric traditions 
 
 Not every version of the technological angel is benevolent or reassuring. Some UFO religions developed apocalyptic expectations that carried severe consequences.
 
-The most famous example is Heaven's Gate, founded by Marshall Applewhite and Bonnie Nettles. The group combined Christian apocalyptic themes with beliefs about extraterrestrial evolution. Members came to believe that humanity could ascend to a higher level of existence associated with advanced extraterrestrial beings. In 1997, thirty-nine followers died in a mass suicide, convinced that they would leave their earthly bodies and join a spacecraft associated with the Hale–Bopp comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven&#x27;s Gate Cult Was As American as Apple Pie</span><span class="citation-popover-snippet">This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</span></span></span>
+The most famous example is Heaven's Gate, founded by Marshall Applewhite and Bonnie Nettles. The group combined Christian apocalyptic themes with beliefs about extraterrestrial evolution. Members came to believe that humanity could ascend to a higher level of existence associated with advanced extraterrestrial beings. In 1997, thirty-nine followers died in a mass suicide, convinced that they would leave their earthly bodies and join a spacecraft associated with the Hale–Bopp comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven&#x27;s Gate Cult Was As American as Apple Pie</span><span class="citation-popover-snippet">This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</span></span></span>
 
-Heaven's Gate illustrates how science-fiction imagery can absorb older religious concepts rather than replace them. Scholars note that the movement drew heavily from Christian ideas about transformation, salvation and the end times, even while expressing those ideas through UFO narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven&#x27;s Gate Cult Was As American as Apple Pie</span><span class="citation-popover-snippet">This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</span></span></span>
+Heaven's Gate illustrates how science-fiction imagery can absorb older religious concepts rather than replace them. Scholars note that the movement drew heavily from Christian ideas about transformation, salvation and the end times, even while expressing those ideas through UFO narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven&#x27;s Gate Cult Was As American as Apple Pie</span><span class="citation-popover-snippet">This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</span></span></span>
 
 The case also highlights an important tension within UFO religion. The same hopes that inspire visions of cosmic rescue can, under particular conditions, become expectations of imminent transcendence or escape from the ordinary world.
 
@@ -348,7 +348,7 @@ The atomic age demonstrated humanity's technological power while simultaneously 
 
 For many believers, extraterrestrials offered a way to reconcile spiritual longing with modern assumptions about science. Advanced aliens could perform functions once attributed to gods while remaining theoretically compatible with a technologically oriented worldview.
 
-This helps explain why UFO religions often flourish during periods of uncertainty. They promise hidden knowledge, membership in a meaningful community and the possibility that humanity's problems can be understood from a higher cosmic perspective. As one scholar notes, UFO religions are not simply fantasies about outer space; they are modern mythologies that answer enduring existential questions using the symbols of science and technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eap-iea.org/index.php/eap/article/view/793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eap-iea.org">[EAP IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eap-iea.org</span><span class="citation-popover-snippet">thropology...</span></span></span>
+This helps explain why UFO religions often flourish during periods of uncertainty. They promise hidden knowledge, membership in a meaningful community and the possibility that humanity's problems can be understood from a higher cosmic perspective. As one scholar notes, UFO religions are not simply fantasies about outer space; they are modern mythologies that answer enduring existential questions using the symbols of science and technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eap-iea.org/index.php/eap/article/view/793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eap-iea.org">[EAP IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eap-iea.org</span><span class="citation-popover-snippet">thropology...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ocUyYkUTQ4" title="Why UFO Religions Are On The Rise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ocUyYkUTQ4" target="_blank" rel="noopener noreferrer">Why UFO Religions Are On The Rise</a></p><p class="youtube-embed-meta">Channel: hochelaga</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ocUyYkUTQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ocUyYkUTQ4">Open on YouTube</a></p></div></div></div>
@@ -362,194 +362,194 @@ What makes these movements historically significant is not whether their extrate
 The result is one of the most revealing intersections between UFO culture and science fiction: the transformation of extraterrestrials into technological angels, carrying ancient religious expectations into a futuristic cosmos.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Aliens Became Technological Angels. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Aliens Became Technological Angels. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores UFO belief as a form of contemporary religion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UFO belief as a form of contemporary religion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Links UFO experiences with older angelic and folkloric traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links UFO experiences with older angelic and folkloric traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
-        </h4>
-        <p class="fr-book-author">By Carl G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
+</h4>
+<p class="fr-book-author">By Carl G. Jung</p>
         
-        <p class="fr-book-desc">Helps explain symbolic and spiritual interpretations of aliens.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain symbolic and spiritual interpretations of aliens.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+Gate+by+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NIQTCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Heaven&#x27;s Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate+by+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s Gate">Heaven&#x27;s Gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+Gate+by+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NIQTCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Heaven&#x27;s Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+Gate+by+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s Gate">Heaven&#x27;s Gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">Examines extraterrestrials as spiritual authorities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate+by+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines extraterrestrials as spiritual authorities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+Gate+by+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign"><img src="{{ '/assets/images/marketplace-covers/8b6940efc9406071c305.jpg' | relative_url }}" alt="Listing image for UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Interceptor From Gerry Anderson&#x27;s UFO Printed on Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="ufo-religion-when-aliens-became-technological-angels-relationships-betwee-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aliens-became-technological-angels-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-aliens-became-technological-angels-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ The result is one of the most revealing intersections between UFO culture and sc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ The result is one of the most revealing intersections between UFO culture and sc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ The result is one of the most revealing intersections between UFO culture and sc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ The result is one of the most revealing intersections between UFO culture and sc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ The result is one of the most revealing intersections between UFO culture and sc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,100 +755,100 @@ The result is one of the most revealing intersections between UFO culture and sc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: research.lancaster-university.uk  
-   Link: <a href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow">https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</p></details>
+   Link:<a href="https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/" target="_blank" rel="noopener noreferrer nofollow">https://research.lancaster-university.uk/en/publications/alien-demonology-the-christian-roots-of-the-malevolent-extraterre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lancaster University research directoryAlien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abdu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0048721X04000570" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0048721X04000570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abduction spiritualities - Sci...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0048721X04000570" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0048721X04000570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien demonology: the Christian roots of the malevolent extraterrestrial in UFO religions and abduction spiritualities - Sci...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vox.com  
    Title: Disclosure Day pits aliens against religion  
-   Link: <a href="https://www.vox.com/culture/491587/disclosure-day-steven-spielberg-movie-aliens-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/culture/491587/disclosure-day-steven-spielberg-movie-aliens-ufo-files</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>But faith leaders are ready to believe.June 11, 2026 — Steven Spielberg’s 2026 film &quot;Disclosure Day&quot; explores the intersection of belief...</p></details>
+   Link:<a href="https://www.vox.com/culture/491587/disclosure-day-steven-spielberg-movie-aliens-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/culture/491587/disclosure-day-steven-spielberg-movie-aliens-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But faith leaders are ready to believe.June 11, 2026 — Steven Spielberg’s 2026 film &quot;Disclosure Day&quot; explores the intersection of belief...</p></details>
    Published: June 11, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eap-iea.org  
-   Link: <a href="https://www.eap-iea.org/index.php/eap/article/view/793" target="_blank" rel="noopener noreferrer nofollow">https://www.eap-iea.org/index.php/eap/article/view/793</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>thropology...</p></details>
+   Link:<a href="https://www.eap-iea.org/index.php/eap/article/view/793" target="_blank" rel="noopener noreferrer nofollow">https://www.eap-iea.org/index.php/eap/article/view/793</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thropology...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0048721X0500028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0048721X0500028X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconceptualising the human body: Heaven&#x27;s Gate and the quest for divine transformation - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0048721X0500028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0048721X0500028X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconceptualising the human body: Heaven&#x27;s Gate and the quest for divine transformation - ScienceDirect...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: religionmediacentre.org.uk  
    Title: Religion Media Centre Factsheet: the Raëlian movement  
-   Link: <a href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953" target="_blank" rel="noopener noreferrer nofollow">https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Religion Media CentreFactsheet: the Raëlian movement - Religion Media CentreJanuary 7, 2022...</p></details>
+   Link:<a href="https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953" target="_blank" rel="noopener noreferrer nofollow">https://religionmediacentre.org.uk/factsheets/factsheet-the-raelian-movement/?nocache=1689608953</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Religion Media CentreFactsheet: the Raëlian movement - Religion Media CentreJanuary 7, 2022...</p></details>
    Published: January 7, 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vanityfair.com  
    Title: Vanity Fair The Heaven's Gate Cult Was As American as Apple Pie  
-   Link: <a href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1016/j.religion.2004.04.014" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1016/j.religion.2004.04.014</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>demonology: The Christian roots of the malevolent extraterrestrial in UFO religions and abduction spiritualities: Religion: Vol 34, No 3F...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1016/j.religion.2004.04.014" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1016/j.religion.2004.04.014</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>demonology: The Christian roots of the malevolent extraterrestrial in UFO religions and abduction spiritualities: Religion: Vol 34, No 3F...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/opinions/2026/05/15/ufo-files-nod-growing-belief-aliens-mistrust-institutions/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/2026/05/15/ufo-files-nod-growing-belief-aliens-mistrust-institutions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostOpinion | UFO files nod to growing belief in aliens and mistrust in institutions - The Washington Post...</p></details>
+   Link:<a href="https://www.washingtonpost.com/opinions/2026/05/15/ufo-files-nod-growing-belief-aliens-mistrust-institutions/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/2026/05/15/ufo-files-nod-growing-belief-aliens-mistrust-institutions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostOpinion | UFO files nod to growing belief in aliens and mistrust in institutions - The Washington Post...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Diana Pasulka  
-   Link: <a href="https://www.youtube.com/watch?v=UGbgsKrDZVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UGbgsKrDZVI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This curated collection directly explores how modern UFO belief systems and techno-religions integrate science fiction narratives, refram...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UGbgsKrDZVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UGbgsKrDZVI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This curated collection directly explores how modern UFO belief systems and techno-religions integrate science fiction narratives, refram...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1l05e5m" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l05e5m</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.comI’ve realized that modern ufology has basically turned into a New Age religionMay 31, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1l05e5m" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l05e5m</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.comI’ve realized that modern ufology has basically turned into a New Age religionMay 31, 2025...</p></details>
    Published: May 31, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: equip.org  
-   Link: <a href="https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Descending Masters: A History of the Raelian Movement | Christian Research Institute...</p></details>
+   Link:<a href="https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Descending Masters: A History of the Raelian Movement | Christian Research Institute...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wired.com  
    Title: www.wired.com Some Sex With Your Clone Perhaps?  
-   Link: <a href="https://www.wired.com/2005/08/some-sex-with-your-clone-perhaps" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/08/some-sex-with-your-clone-perhaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Raelians, who previously made controversial claims about human cloning, are accused of using sex to attract new members. The document...</p></details>
+   Link:<a href="https://www.wired.com/2005/08/some-sex-with-your-clone-perhaps" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/08/some-sex-with-your-clone-perhaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Raelians, who previously made controversial claims about human cloning, are accused of using sex to attract new members. The document...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: www.reddit.com UF O Religions: Extraterrestrial Salvation and Modern Mythmaking  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1s8k2a4/ufo_religions_extraterrestrial_salvation_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1s8k2a4/ufo_religions_extraterrestrial_salvation_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Religions: Extraterrestrial Salvation and Modern MythmakingMarch 31, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1s8k2a4/ufo_religions_extraterrestrial_salvation_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1s8k2a4/ufo_religions_extraterrestrial_salvation_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Religions: Extraterrestrial Salvation and Modern MythmakingMarch 31, 2026...</p></details>
    Published: March 31, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pKlrHqJkt38</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diana Pasulka - Religious History, UFO Phenomena and the Ancient Mysteries of Purgatory | SRS #166...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pKlrHqJkt38</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diana Pasulka - Religious History, UFO Phenomena and the Ancient Mysteries of Purgatory | SRS #166...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Last Prophet: The Religion Preparing for First Contact  
-   Link: <a href="https://www.youtube.com/watch?v=NNylyT0sX4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NNylyT0sX4k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NNylyT0sX4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NNylyT0sX4k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: openlibrary.org  
-   Link: <a href="https://openlibrary.org/books/OL22761177M/UFO_RELIGION_INSIDE_FLYING_SAUCER_CULTS_AND_CULTURE" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/books/OL22761177M/UFO_RELIGION_INSIDE_FLYING_SAUCER_CULTS_AND_CULTURE</a>  
+   Link:<a href="https://openlibrary.org/books/OL22761177M/UFO_RELIGION_INSIDE_FLYING_SAUCER_CULTS_AND_CULTURE" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/books/OL22761177M/UFO_RELIGION_INSIDE_FLYING_SAUCER_CULTS_AND_CULTURE</a>  

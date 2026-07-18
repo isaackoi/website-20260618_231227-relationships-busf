@@ -457,7 +457,7 @@ This matters for understanding the relationship between UFOs and science fiction
 
 Long before “[flying saucers]({{ 'flying-saucer/' | relative_url }})” entered popular language in 1947, people already had story frameworks for interpreting strange presences from above, outside or elsewhere. Angels, demons, fairies, spirits, hidden peoples, prophetic signs and miraculous lights all offered ways to describe encounters that seemed to break normal rules. The details varied by religion, region and period, but the underlying narrative problem was similar: something appears from beyond ordinary social life, interacts with a human witness, and leaves behind fear, [wonder]({{ 'wonder/' | relative_url }}), confusion or revelation.
 
-Folklorists are interested in this because UFO accounts often behave like living tradition rather than like fixed doctrine. They circulate through testimony, rumours, press reports, drawings, interviews, local memory, popular books, [television]({{ 'television/' | relative_url }}) and online forums. The Library of Congress explicitly treats UFOs and flying saucers as part of American folk culture, noting that such stories appear not only in media but also in ethnographic collections of ordinary people’s accounts. One example it highlights is a West Virginia hunting story in which a witness described an unexplained light and then cautiously framed it as something that could be called a UFO. The important point is not that the sighting was “really” alien; it is that the witness reached for a culturally available category to make sense of an ambiguous experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
+Folklorists are interested in this because UFO accounts often behave like living tradition rather than like fixed doctrine. They circulate through testimony, rumours, press reports, drawings, interviews, local memory, popular books, [television]({{ 'television/' | relative_url }}) and online forums. The Library of Congress explicitly treats UFOs and flying saucers as part of American folk culture, noting that such stories appear not only in media but also in ethnographic collections of ordinary people’s accounts. One example it highlights is a West Virginia hunting story in which a witness described an unexplained light and then cautiously framed it as something that could be called a UFO. The important point is not that the sighting was “really” alien; it is that the witness reached for a culturally available category to make sense of an ambiguous experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
 
 Older fairy and spirit traditions offer especially close comparisons with alien encounter narratives. Folklore about fairies often includes sudden appearances, luminous beings, missing time, bodily marks, strange music, altered states, abduction to another realm, warnings not to reveal what happened, and uncertainty about whether the event was physical, visionary or dreamlike. UFO abduction stories often contain comparable structures: an ordinary person is taken from a familiar place, enters an uncanny space, meets non-human beings, undergoes examination or instruction, and returns changed, confused or unable to account for elapsed time.
 
@@ -469,13 +469,13 @@ The comparison is not that fairies “were aliens” or aliens “are fairies”
 
 The strongest folklore link is not a one-to-one match between fairies and aliens. It is the way modern encounter stories translate old motifs into technological form. The “otherworld” becomes outer space. The enchanted vehicle becomes a craft. The wand, charm or spell becomes a ray, scanner, implant or medical instrument. The supernatural command becomes telepathic communication. The hidden realm beneath hills, across water or beyond the sky becomes an interstellar base, mothership or secret installation.
 
-This technological translation is especially clear in alien abduction narratives. Research on UFO-abduction stories has noted that they are largely a late twentieth-century and early twenty-first-century phenomenon shaped by the growing presence of sophisticated technology in everyday life. Kimberly Ball’s study of UFO-abduction narratives argues that these stories imagine a hyper-technological future entering intimate spaces: the home, the body and even the mind. In that sense, the abducting alien functions not only as a visitor from space but as a figure for anxieties about machines, medical intervention, reproductive technology and loss of bodily control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocf.berkeley.edu">[ocf.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocf.berkeley.edu</span><span class="citation-popover-snippet">Open source on berkeley.edu.</span></span></span>
+This technological translation is especially clear in alien abduction narratives. Research on UFO-abduction stories has noted that they are largely a late twentieth-century and early twenty-first-century phenomenon shaped by the growing presence of sophisticated technology in everyday life. Kimberly Ball’s study of UFO-abduction narratives argues that these stories imagine a hyper-technological future entering intimate spaces: the home, the body and even the mind. In that sense, the abducting alien functions not only as a visitor from space but as a figure for anxieties about machines, medical intervention, reproductive technology and loss of bodily control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocf.berkeley.edu">[ocf.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocf.berkeley.edu</span><span class="citation-popover-snippet">Open source on berkeley.edu.</span></span></span>
 
-This is where science fiction becomes central. Science fiction provides the images that make the technological skin plausible: laboratories, spacecraft interiors, emotionless intelligences, biological engineering, hybrid beings, artificial reproduction and communication without speech. Ball’s analysis notes that aliens in abduction narratives are often imagined as emotionally cold or machine-like, with the familiar “grey” alien sometimes discussed as robotic, cloned or engineered. That quality connects the alien not just to older demons or fairies, but to modern fears about dehumanising technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocf.berkeley.edu">[ocf.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocf.berkeley.edu</span><span class="citation-popover-snippet">Open source on berkeley.edu.</span></span></span>
+This is where science fiction becomes central. Science fiction provides the images that make the technological skin plausible: laboratories, spacecraft interiors, emotionless intelligences, biological engineering, hybrid beings, artificial reproduction and communication without speech. Ball’s analysis notes that aliens in abduction narratives are often imagined as emotionally cold or machine-like, with the familiar “grey” alien sometimes discussed as robotic, cloned or engineered. That quality connects the alien not just to older demons or fairies, but to modern fears about dehumanising technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ocf.berkeley.edu">[ocf.berkeley.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ocf.berkeley.edu</span><span class="citation-popover-snippet">Open source on berkeley.edu.</span></span></span>
 
-The UK National Archives’ UFO files show how flexible this modern mythic language can be. Its material on reported alien encounters includes correspondence about crashed craft, claims of being brought to Earth against one’s will, sketches of alien abductors, Men in Black encounters, peaceful telepathic aliens and reports in which time appeared to stand still. These examples show UFO lore as a mixed narrative field: part bureaucratic file, part science-fiction imagery, part personal testimony, and part contemporary legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+The UK National Archives’ UFO files show how flexible this modern mythic language can be. Its material on reported alien encounters includes correspondence about crashed craft, claims of being brought to Earth against one’s will, sketches of alien abductors, Men in Black encounters, peaceful telepathic aliens and reports in which time appeared to stand still. These examples show UFO lore as a mixed narrative field: part bureaucratic file, part science-fiction imagery, part personal testimony, and part contemporary legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-That flexibility also explains why UFO stories travelled so easily across national cultures. The Folklore Society’s description of David Clarke and Andrew Robinson’s work on British flying saucer belief notes that saucer-related beliefs began in the United States in 1947, reached Europe from around 1950, and then acquired a distinctly British flavour through newspapers, magazines, television, clubs, photographs and witness drawings. “[Contactees]({{ 'contactees/' | relative_url }})” in Britain emulated American stories about people who met and communicated with space people, but the imported myth became embedded in local beliefs and media habits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[folklore-society.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Flying Saucery: How UFOs Landed in the British Isles</span></span></span>
+That flexibility also explains why UFO stories travelled so easily across national cultures. The Folklore Society’s description of David Clarke and Andrew Robinson’s work on British flying saucer belief notes that saucer-related beliefs began in the United States in 1947, reached Europe from around 1950, and then acquired a distinctly British flavour through newspapers, magazines, television, clubs, photographs and witness drawings. “[Contactees]({{ 'contactees/' | relative_url }})” in Britain emulated American stories about people who met and communicated with space people, but the imported myth became embedded in local beliefs and media habits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[folklore-society.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Flying Saucery: How UFOs Landed in the British Isles</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B5Y3CvPUIF8" title="The Basement: Joshua Cutchin | Fairies, Bigfoot, and the Connection Nobody Saw Coming" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B5Y3CvPUIF8" target="_blank" rel="noopener noreferrer">The Basement: Joshua Cutchin | Fairies, Bigfoot, and the Connection Nobody Saw Coming</a></p><p class="youtube-embed-meta">Channel: The Why Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B5Y3CvPUIF8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B5Y3CvPUIF8">Open on YouTube</a></p></div></div></div>
@@ -484,9 +484,9 @@ That flexibility also explains why UFO stories travelled so easily across nation
 
 Some alien abduction stories are most plausibly read through a second folklore pathway: sleep paralysis and nightmare tradition. Sleep paralysis occurs when a person becomes conscious while the body remains temporarily immobilised during a sleep-wake transition. It can involve fear, a sensed presence, pressure on the chest, buzzing or humming, lights, bodily vibrations and vivid hallucinations. Those features have been interpreted in many cultural settings as attacks by witches, hags, demons, spirits or other night visitors.
 
-Susan Blackmore’s discussion of alien abduction and sleep paralysis sets out the overlap directly. She describes typical sleep paralysis episodes as involving paralysis, fear, a sensed presence, buzzing or humming noises, strange lights and sometimes an entity that appears to sit on, shake, strangle or prod the sleeper. She then notes that sleep paralysis has been linked with older traditions such as the Old Hag of Newfoundland and hag-riding in England, before asking whether alien abduction may be a modern sleep paralysis myth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.susanblackmore.uk/wp-content/uploads/2017/05/Abduction-by-Aliens-or-Sleep-Paralysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: susanblackmore.uk">[Dr Susan Blackmore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">susanblackmore.uk</span><span class="citation-popover-title">Dr Susan Blackmore Microsoft Word</span><span class="citation-popover-snippet">Dr Susan Blackmore Microsoft Word</span></span></span>
+Susan Blackmore’s discussion of alien abduction and sleep paralysis sets out the overlap directly. She describes typical sleep paralysis episodes as involving paralysis, fear, a sensed presence, buzzing or humming noises, strange lights and sometimes an entity that appears to sit on, shake, strangle or prod the sleeper. She then notes that sleep paralysis has been linked with older traditions such as the Old Hag of Newfoundland and hag-riding in England, before asking whether alien abduction may be a modern sleep paralysis myth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.susanblackmore.uk/wp-content/uploads/2017/05/Abduction-by-Aliens-or-Sleep-Paralysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: susanblackmore.uk">[Dr Susan Blackmore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">susanblackmore.uk</span><span class="citation-popover-title">Dr Susan Blackmore Microsoft Word</span><span class="citation-popover-snippet">Dr Susan Blackmore Microsoft Word</span></span></span>
 
-Harvard Gazette coverage of research by Susan Clancy, Richard McNally and others makes a similar point in more psychological terms. It summarises abduction stories in which people wake paralysed, see flashing lights, hear buzzing, feel bodily sensations, encounter grey or green beings, and later interpret the experience as alien intrusion. The same article explains sleep paralysis as a normal disruption between dreaming and waking, and reports that about a quarter of people worldwide have experienced it, with a smaller proportion experiencing the full combination of visual, auditory and tactile hallucinations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims explained — Harvard Gazette</span><span class="citation-popover-snippet">Gazette Alien abduction claims explained — Harvard Gazette</span></span></span>
+Harvard Gazette coverage of research by Susan Clancy, Richard McNally and others makes a similar point in more psychological terms. It summarises abduction stories in which people wake paralysed, see flashing lights, hear buzzing, feel bodily sensations, encounter grey or green beings, and later interpret the experience as alien intrusion. The same article explains sleep paralysis as a normal disruption between dreaming and waking, and reports that about a quarter of people worldwide have experienced it, with a smaller proportion experiencing the full combination of visual, auditory and tactile hallucinations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims explained — Harvard Gazette</span><span class="citation-popover-snippet">Gazette Alien abduction claims explained — Harvard Gazette</span></span></span>
 
 Folklore comparison is useful here because it does not require every account to be dismissed as “just a dream”. Instead, it shows how raw experiences are interpreted. A terrifying night episode may be neurologically similar across cultures, but the story attached to it changes. In one setting the intruder may be a witch, demon, ghost or hag. In another, especially after decades of alien-abduction media, the same sensations may be organised into a story of greys, beams, paralysis and medical procedures.
 
@@ -498,9 +498,9 @@ This mechanism also helps explain why abduction stories often feel intimate rath
 
 Folklore comparison helps most when it explains patterns rather than proves origins. It can show why certain motifs keep recurring, why ambiguous experiences become culturally recognisable stories, and why UFO narratives often blend wonder, fear, revelation and bodily vulnerability. It also helps separate two different questions that are often confused: whether a sighting has an identifiable physical cause, and how people narrate the experience afterwards.
 
-The Library of Congress makes this distinction in practice by treating UFO stories as part of twentieth-century American meaning-making, not merely as claims awaiting technical verification. Its discussion places flying saucers alongside media, Cold War fear, folk testimony and sceptical scientific assessment, showing that UFOs became culturally important even when their physical interpretation remained uncertain or contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
+The Library of Congress makes this distinction in practice by treating UFO stories as part of twentieth-century American meaning-making, not merely as claims awaiting technical verification. Its discussion places flying saucers alongside media, Cold War fear, folk testimony and sceptical scientific assessment, showing that UFOs became culturally important even when their physical interpretation remained uncertain or contested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
 
-Folklore also helps explain why UFOs blend so easily with religion and apocalypse. In a Library of Congress folklife interview from the 1970s, one speaker discussed ghosts, flying saucers, government knowledge, the end of time, outer space, the heavens and angels in the same conversational field. That kind of mixing is not sloppy thinking; it is how vernacular belief often works. People draw from several explanatory traditions at once when ordinary categories fail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
+Folklore also helps explain why UFOs blend so easily with religion and apocalypse. In a Library of Congress folklife interview from the 1970s, one speaker discussed ghosts, flying saucers, government knowledge, the end of time, outer space, the heavens and angels in the same conversational field. That kind of mixing is not sloppy thinking; it is how vernacular belief often works. People draw from several explanatory traditions at once when ordinary categories fail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
 
 The danger is overreach. Similarity is not identity. A modern alien abduction story may resemble fairy abduction, demonic visitation or sleep paralysis folklore, but resemblance alone does not prove that all such stories have the same cause. Some UFO reports concern lights, aircraft, balloons, atmospheric effects or classified technology rather than beings. Some are jokes, [hoaxes]({{ 'hoaxes/' | relative_url }}) or media inventions. Some are sincere but mistaken. Some remain unresolved because the evidence is too poor, not because they are mythic survivals.
 
@@ -513,7 +513,7 @@ It is also misleading to treat folklore as a synonym for falsehood. Folklore is 
 
 The folklore roots of alien encounters become especially visible once science fiction enters the loop. Older traditions provide deep structures: descent from above, otherworldly visitors, chosen witnesses, hidden knowledge, bodily transformation and journeys beyond ordinary time. Science fiction supplies the modern furniture: saucers, rockets, stars, laboratories, telepathy, mutation, hybrids, implants and government secrecy.
 
-David Clarke’s work on UFO legends and The X-Files shows how this feedback loop operates in popular culture. His study notes that the early seasons of the series drew on contemporary UFO legends including alien abduction, missing time, nasal implants, human-alien hybrids, cover-ups and alien autopsy stories. The show did not invent those motifs, but it broadcast them to an international audience and made them easier for later witnesses, fans and sceptics to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
+David Clarke’s work on UFO legends and The X-Files shows how this feedback loop operates in popular culture. His study notes that the early seasons of the series drew on contemporary UFO legends including alien abduction, missing time, nasal implants, human-alien hybrids, cover-ups and alien autopsy stories. The show did not invent those motifs, but it broadcast them to an international audience and made them easier for later witnesses, fans and sceptics to recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
 
 This means UFO encounter stories are not simply downstream from fiction. They are part of a circulating culture in which testimony, folklore, official secrecy, journalism, films, television and books continually reshape one another. A reported encounter may inspire a magazine article; the article may influence a film; the film may give later witnesses a vocabulary; later testimony may then be cited as “documented accounts” for new fiction.
 
@@ -532,194 +532,194 @@ That layered view preserves the strangeness of the stories without making them a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are UFO Encounters Old Myths in New Clothes?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are UFO Encounters Old Myths in New Clothes?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Examines parallels between UFO reports, folklore, religious visions, and recurring encounter traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines parallels between UFO reports, folklore, religious visions, and recurring encounter traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WbEwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
-        </h4>
-        <p class="fr-book-author">By Brenda Denzler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WbEwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
+</h4>
+<p class="fr-book-author">By Brenda Denzler</p>
         
-        <p class="fr-book-desc">Places UFO belief and encounter stories within broader cultural, religious, and myth-making frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places UFO belief and encounter stories within broader cultural, religious, and myth-making frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Trojan+Horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Trojan Horse</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="folklore-links-are-ufo-encounters-old-myths-in-new-clothes-relationships-betwee-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-ufo-encounters-old-myths-in-new-clothes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ That layered view preserves the strangeness of the stories without making them a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ That layered view preserves the strangeness of the stories without making them a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ That layered view preserves the strangeness of the stories without making them a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ That layered view preserves the strangeness of the stories without making them a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ That layered view preserves the strangeness of the stories without making them a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,134 +925,134 @@ That layered view preserves the strangeness of the stories without making them a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: loc.gov  
    Title: The Library of Congress  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</p></details>
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ocf.berkeley.edu  
-   Link: <a href="https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf</a>  
+   Link:<a href="https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ocf.berkeley.edu/~culturalanalysis/volume9/pdf/ball.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: folklore-society.com  
    Title: Flying Saucery: How UFOs Landed in the British Isles  
-   Link: <a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
+   Link:<a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.harvard.edu  
    Title: Gazette Alien abduction claims explained — Harvard Gazette  
-   Link: <a href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/</a>  
+   Link:<a href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
    Title: science dr jung the saucers  
-   Link: <a href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6888244/science-dr-jung-the-saucers/</a>  
+   Link:<a href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6888244/science-dr-jung-the-saucers/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: susanblackmore.uk  
    Title: Dr Susan Blackmore Microsoft Word  
-   Link: <a href="https://www.susanblackmore.uk/wp-content/uploads/2017/05/Abduction-by-Aliens-or-Sleep-Paralysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.susanblackmore.uk/wp-content/uploads/2017/05/Abduction-by-Aliens-or-Sleep-Paralysis.pdf</a>  
+   Link:<a href="https://www.susanblackmore.uk/wp-content/uploads/2017/05/Abduction-by-Aliens-or-Sleep-Paralysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.susanblackmore.uk/wp-content/uploads/2017/05/Abduction-by-Aliens-or-Sleep-Paralysis.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blogs.loc.gov  
-   Link: <a href="https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/</a>  
+   Link:<a href="https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: blogs.loc.gov  
    Title: hy brasil the supernatural island  
-   Link: <a href="https://blogs.loc.gov/maps/2020/06/hy-brasil-the-supernatural-island/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/maps/2020/06/hy-brasil-the-supernatural-island/</a>  
+   Link:<a href="https://blogs.loc.gov/maps/2020/06/hy-brasil-the-supernatural-island/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/maps/2020/06/hy-brasil-the-supernatural-island/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ask.loc.gov  
-   Link: <a href="https://ask.loc.gov/science/faq/409587" target="_blank" rel="noopener noreferrer nofollow">https://ask.loc.gov/science/faq/409587</a>  
+   Link:<a href="https://ask.loc.gov/science/faq/409587" target="_blank" rel="noopener noreferrer nofollow">https://ask.loc.gov/science/faq/409587</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: contemporarylegend.co.uk  
-   Link: <a href="https://contemporarylegend.co.uk/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/tag/aliens/</a>  
+   Link:<a href="https://contemporarylegend.co.uk/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/tag/aliens/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/9397/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/9397/</a>  
+   Link:<a href="https://shura.shu.ac.uk/9397/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/9397/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Tewksbury Public Library: The Legends of Changelings & Evil Faeries  
-   Link: <a href="https://www.youtube.com/watch?v=ccX2RL--VqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ccX2RL--VqI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Basement: Joshua Cutchin | Fairies, Bigfoot, and the Connection Nobody Saw Coming...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ccX2RL--VqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ccX2RL--VqI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Basement: Joshua Cutchin | Fairies, Bigfoot, and the Connection Nobody Saw Coming...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Passport to [Magonia](&#123;&#123; 'magonia/' | relative_url &#125;&#125;): UFOs, Folklore, and Parallel Worlds -- Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=0l8oBAM3s54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0l8oBAM3s54</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tewksbury Public Library: The Legends of Changelings &amp; Evil Faeries...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0l8oBAM3s54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0l8oBAM3s54</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tewksbury Public Library: The Legends of Changelings &amp; Evil Faeries...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B5Y3CvPUIF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B5Y3CvPUIF8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairies and Aliens: The Missing Link...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B5Y3CvPUIF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B5Y3CvPUIF8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fairies and Aliens: The Missing Link...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
+   Link:<a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dreamstudies.org  
-   Link: <a href="https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/</a>  
+   Link:<a href="https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://dreamstudies.org/abduction-encounters-sleep-paralysis-and-the-extraordinary/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: indigogroup.co.uk  
-   Link: <a href="https://www.indigogroup.co.uk/edge/fairies.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.indigogroup.co.uk/edge/fairies.htm</a>  
+   Link:<a href="https://www.indigogroup.co.uk/edge/fairies.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.indigogroup.co.uk/edge/fairies.htm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mythology/comments/1tlqdyk/can_ufo_lore_and_related_stuff_be_considered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mythology/comments/1tlqdyk/can_ufo_lore_and_related_stuff_be_considered/</a>  
+   Link:<a href="https://www.reddit.com/r/mythology/comments/1tlqdyk/can_ufo_lore_and_related_stuff_be_considered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mythology/comments/1tlqdyk/can_ufo_lore_and_related_stuff_be_considered/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: waterstones.com  
-   Link: <a href="https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379</a>  
+   Link:<a href="https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/9780710086969/Flying-Saucers-Modern-Myth-Things-0710086962/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780710086969/Flying-Saucers-Modern-Myth-Things-0710086962/plp</a>  
+   Link:<a href="https://www.abebooks.co.uk/9780710086969/Flying-Saucers-Modern-Myth-Things-0710086962/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780710086969/Flying-Saucers-Modern-Myth-Things-0710086962/plp</a>  

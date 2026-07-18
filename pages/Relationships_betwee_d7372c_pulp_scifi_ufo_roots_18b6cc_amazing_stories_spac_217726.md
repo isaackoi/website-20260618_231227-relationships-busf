@@ -280,37 +280,37 @@ image: /assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_am
 
 ## Introduction
 
-Before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became headline news in 1947, many readers had already spent years imagining journeys beyond Earth. A major reason was *Amazing Stories*, launched by Hugo Gernsback in 1926 as the first magazine devoted entirely to science fiction, or what he called “scientifiction”. Unlike earlier novels that readers encountered occasionally, *Amazing Stories* appeared on newsstands month after month, turning [rockets]({{ 'rockets/' | relative_url }}), alien worlds and interplanetary travel into a regular part of popular entertainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/topic/Amazing-Stories)
+Before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became headline news in 1947, many readers had already spent years imagining journeys beyond Earth. A major reason was *Amazing Stories*, launched by Hugo Gernsback in 1926 as the first magazine devoted entirely to science fiction, or what he called “scientifiction”. Unlike earlier novels that readers encountered occasionally, *Amazing Stories* appeared on newsstands month after month, turning [rockets]({{ 'rockets/' | relative_url }}), alien worlds and interplanetary travel into a regular part of popular entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/topic/Amazing-Stories)
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-1-dark.svg" | relative_url }}" alt="Amazing Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This routine mattered. The magazine did more than publish stories about space. It created a habit of expecting new visions of future technology every month. In the decades before the modern UFO era, that steady exposure helped familiarise readers with the idea that the skies might contain engineered craft, unknown civilisations and technologies beyond current human capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction)
+This routine mattered. The magazine did more than publish stories about space. It created a habit of expecting new visions of future technology every month. In the decades before the modern UFO era, that steady exposure helped familiarise readers with the idea that the skies might contain engineered craft, unknown civilisations and technologies beyond current human capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction)
 
 ## Why a monthly science fiction magazine mattered
 
-Science-fiction stories existed long before 1926. Readers could find them in books by Jules Verne or H. G. [Wells]({{ 'wells/' | relative_url }}), and occasional examples appeared in general-interest magazines. What changed with *Amazing Stories* was concentration and repetition. Gernsback gathered stories about scientific possibilities into a dedicated publication that arrived regularly on newsstands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
+Science-fiction stories existed long before 1926. Readers could find them in books by Jules Verne or H. G. [Wells]({{ 'wells/' | relative_url }}), and occasional examples appeared in general-interest magazines. What changed with *Amazing Stories* was concentration and repetition. Gernsback gathered stories about scientific possibilities into a dedicated publication that arrived regularly on newsstands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
 
 That seemingly simple publishing decision had important cultural consequences.
 
 * Readers no longer encountered speculative space travel as an occasional literary curiosity.
 * Newsstands presented futuristic technology as a recurring category of entertainment.
 * Young readers could follow a continuing stream of stories about rockets, distant planets and advanced inventions.
-* A community of fans began to form around shared expectations about humanity's future in space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction)
+* A community of fans began to form around shared expectations about humanity's future in space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction)
 
-The magazine's influence extended beyond fiction. Histories of the science-fiction field repeatedly note that *Amazing Stories* helped transform scattered works into a recognisable genre with its own readership, writers and visual identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Amazing-Stories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Amazing Stories &#124; American magazine &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Amazing Stories &#124; American magazine &#124; Britannica</span></span></span>
+The magazine's influence extended beyond fiction. Histories of the science-fiction field repeatedly note that *Amazing Stories* helped transform scattered works into a recognisable genre with its own readership, writers and visual identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Amazing-Stories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Amazing Stories &#124; American magazine &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Amazing Stories &#124; American magazine &#124; Britannica</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2CnS-ZNvRDs" title="Hugo Gernsback - Pulp! Amazing Stories - Extra Sci Fi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2CnS-ZNvRDs" target="_blank" rel="noopener noreferrer">Hugo Gernsback - Pulp! Amazing Stories - Extra Sci Fi</a></p><p class="youtube-embed-meta">Channel: Extra History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2CnS-ZNvRDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2CnS-ZNvRDs">Open on YouTube</a></p></div></div></div>
 
 ## Scientifiction, rockets and journeys beyond Earth
 
-Gernsback promoted scientifiction as entertainment linked to scientific possibility. In his editorials, he argued that imaginative stories could educate readers about science while encouraging them to think about future technologies and exploration beyond Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
+Gernsback promoted scientifiction as entertainment linked to scientific possibility. In his editorials, he argued that imaginative stories could educate readers about science while encouraging them to think about future technologies and exploration beyond Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
 
-The contents of *Amazing Stories* reflected that ambition. Early issues mixed classic scientific romances with newer tales of Martians, distant worlds, invisible technologies and future inventions. Readers repeatedly encountered narratives built around travel through space rather than remaining confined to Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Stories](https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/)
+The contents of *Amazing Stories* reflected that ambition. Early issues mixed classic scientific romances with newer tales of Martians, distant worlds, invisible technologies and future inventions. Readers repeatedly encountered narratives built around travel through space rather than remaining confined to Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Stories](https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/)
 
-This was significant because real [spaceflight]({{ 'spaceflight/' | relative_url }}) did not yet exist. The first issue appeared more than three decades before Yuri Gagarin's orbital flight. For readers in the 1920s and 1930s, journeys to other planets belonged entirely to imagination. Yet the magazine presented such journeys so frequently that they became familiar rather than extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
+This was significant because real [spaceflight]({{ 'spaceflight/' | relative_url }}) did not yet exist. The first issue appeared more than three decades before Yuri Gagarin's orbital flight. For readers in the 1920s and 1930s, journeys to other planets belonged entirely to imagination. Yet the magazine presented such journeys so frequently that they became familiar rather than extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
 
-The effect can be seen in the magazine's long-term influence. The British Interplanetary Society notes that *Amazing Stories* inspired readers who later became involved in serious discussions of rocketry and spaceflight. The publication acted not merely as entertainment but as a bridge between imagination and technological aspiration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span>
+The effect can be seen in the magazine's long-term influence. The British Interplanetary Society notes that *Amazing Stories* inspired readers who later became involved in serious discussions of rocketry and spaceflight. The publication acted not merely as entertainment but as a bridge between imagination and technological aspiration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-2-dark.svg" | relative_url }}" alt="Amazing Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,11 +318,11 @@ The effect can be seen in the magazine's long-term influence. The British Interp
 
 Words alone did not create this sense of familiarity. The artwork of Frank R. Paul was equally important.
 
-Paul's covers and illustrations filled issues of *Amazing Stories* with giant spacecraft, alien landscapes, futuristic cities and technological marvels. His images gave visual form to concepts that had never been seen in reality. Readers did not have to imagine every detail for themselves; month after month they could see spaceships travelling between worlds and machines operating in unfamiliar environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> of Illustrators](https://societyillustrators.org/award-winners/frankrpaul/)
+Paul's covers and illustrations filled issues of *Amazing Stories* with giant spacecraft, alien landscapes, futuristic cities and technological marvels. His images gave visual form to concepts that had never been seen in reality. Readers did not have to imagine every detail for themselves; month after month they could see spaceships travelling between worlds and machines operating in unfamiliar environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> of Illustrators](https://societyillustrators.org/award-winners/frankrpaul/)
 
-The Society of Illustrators describes Paul as a pioneering artist who helped define the visual language of science fiction. His work established many of the images that later generations associated with space travel and advanced technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
+The Society of Illustrators describes Paul as a pioneering artist who helped define the visual language of science fiction. His work established many of the images that later generations associated with space travel and advanced technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: societyillustrators.org">[Society of Illustrators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">societyillustrators.org</span><span class="citation-popover-snippet">Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</span></span></span>
 
-For future UFO culture, this visual training was important. Readers became accustomed to the idea that strange craft could exist above Earth, even if the exact shapes differed from the flying [saucers]({{ 'saucers/' | relative_url }}) that would later dominate popular imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> of Illustrators](https://societyillustrators.org/award-winners/frankrpaul/)
+For future UFO culture, this visual training was important. Readers became accustomed to the idea that strange craft could exist above Earth, even if the exact shapes differed from the flying [saucers]({{ 'saucers/' | relative_url }}) that would later dominate popular imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> of Illustrators](https://societyillustrators.org/award-winners/frankrpaul/)
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OOnhl23FBpw" title="Frank R Paul: Father of Science Fiction Art" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer">Frank R Paul: Father of Science Fiction Art</a></p><p class="youtube-embed-meta">Channel: Rave Sensation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OOnhl23FBpw">Open on YouTube</a></p></div></div></div>
@@ -331,17 +331,17 @@ For future UFO culture, this visual training was important. Readers became accus
 
 The most important contribution of *Amazing Stories* was not a single famous story or illustration. It was repetition.
 
-Every issue reinforced the same broad message: the universe was larger than Earth, technology would continue advancing, and travel between worlds could eventually become possible. Over time, these ideas became familiar cultural assumptions rather than isolated fantasies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
+Every issue reinforced the same broad message: the universe was larger than Earth, technology would continue advancing, and travel between worlds could eventually become possible. Over time, these ideas became familiar cultural assumptions rather than isolated fantasies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
 
 This process worked in several ways:
 
-**Normalising technological [wonder]({{ 'wonder/' | relative_url }}).** Readers repeatedly encountered inventions that exceeded current engineering, making radical technological possibilities seem worth considering rather than dismissing outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/topic/Amazing-Stories)
+**Normalising technological [wonder]({{ 'wonder/' | relative_url }}).** Readers repeatedly encountered inventions that exceeded current engineering, making radical technological possibilities seem worth considering rather than dismissing outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/topic/Amazing-Stories)
 
-**Making space a destination.** Other planets appeared not as distant astronomical objects but as places characters could visit, explore and inhabit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Stories](https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/)
+**Making space a destination.** Other planets appeared not as distant astronomical objects but as places characters could visit, explore and inhabit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Stories](https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/)
 
-**Creating expectations about discovery.** Stories frequently suggested that humanity's knowledge remained incomplete and that remarkable things might still be found beyond familiar horizons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
+**Creating expectations about discovery.** Stories frequently suggested that humanity's knowledge remained incomplete and that remarkable things might still be found beyond familiar horizons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/:" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">Open source on bis-space.com.</span></span></span> The Public's Radio](https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/)
 
-**Providing a vocabulary for the unknown.** By the time reports of mysterious aerial phenomena entered public debate in the late 1940s, many readers already possessed a repertoire of imagined spacecraft, alien visitors and advanced technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> of Illustrators](https://societyillustrators.org/award-winners/frankrpaul/)
+**Providing a vocabulary for the unknown.** By the time reports of mysterious aerial phenomena entered public debate in the late 1940s, many readers already possessed a repertoire of imagined spacecraft, alien visitors and advanced technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> of Illustrators](https://societyillustrators.org/award-winners/frankrpaul/)
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-3-dark.svg" | relative_url }}" alt="Amazing Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_amazing_stories_spac_217726-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -349,203 +349,203 @@ This process worked in several ways:
 
 The relationship between *Amazing Stories* and later UFO culture was indirect rather than causal. The magazine did not predict flying saucers, nor did it provide evidence that UFO reports were real. Instead, it helped shape the cultural environment in which such reports would be interpreted.
 
-When newspapers began discussing strange objects in the sky after 1947, the idea of extraterrestrial craft was not entirely new to many readers. For two decades, pulp magazines had been presenting space travel as a recurring subject of entertainment and speculation. The unknown sky had already been populated with machines, explorers and distant worlds in the public imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span>
+When newspapers began discussing strange objects in the sky after 1947, the idea of extraterrestrial craft was not entirely new to many readers. For two decades, pulp magazines had been presenting space travel as a recurring subject of entertainment and speculation. The unknown sky had already been populated with machines, explorers and distant worlds in the public imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span>
 
-That is why *Amazing Stories* occupies a distinctive place in the history linking science fiction and UFO culture. Its greatest achievement was not inventing space travel as a fictional theme. It was turning space travel into a monthly habit, making extraordinary journeys beyond Earth feel familiar long before anyone claimed to see a flying saucer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/topic/Amazing-Stories)
+That is why *Amazing Stories* occupies a distinctive place in the history linking science fiction and UFO culture. Its greatest achievement was not inventing space travel as a fictional theme. It was turning space travel into a monthly habit, making extraordinary journeys beyond Earth feel familiar long before anyone claimed to see a flying saucer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bis-space.com">[The British Interplanetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bis-space.com</span><span class="citation-popover-snippet">The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</span></span></span> Britannica](https://www.britannica.com/topic/Amazing-Stories)
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6GnFUgqIHsM" title="Frank R. Paul 1920s Cover Art" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer">Frank R. Paul 1920s Cover Art</a></p><p class="youtube-embed-meta">Channel: The1920sChannel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6GnFUgqIHsM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Amazing Stories trained readers for UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Amazing Stories trained readers for UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tYpPvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H. G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tYpPvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H. G. Wells</p>
         
-        <p class="fr-book-desc">Established many alien roles later echoed in pulp fiction and UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Established many alien roles later echoed in pulp fiction and UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
-        </h4>
-        <p class="fr-book-author">By Mike Ashley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
+</h4>
+<p class="fr-book-author">By Mike Ashley</p>
         
-        <p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fighting+the+Future+War+by+Frederic+Krome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fighting the Future War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xG6pAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fighting the Future War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fighting+the+Future+War+by+Frederic+Krome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fighting the Future War">Fighting the Future War</a>
-        </h4>
-        <p class="fr-book-author">By Frederic Krome</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fighting+the+Future+War+by+Frederic+Krome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fighting the Future War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xG6pAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fighting the Future War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fighting+the+Future+War+by+Frederic+Krome&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fighting the Future War">Fighting the Future War</a>
+</h4>
+<p class="fr-book-author">By Frederic Krome</p>
         
-        <p class="fr-book-desc">Collects and contextualises classic future-war stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fighting+the+Future+War+by+Frederic+Krome&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Collects and contextualises classic future-war stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fighting+the+Future+War+by+Frederic+Krome&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astounding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F_j6vQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Astounding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astounding">Astounding</a>
-        </h4>
-        <p class="fr-book-author">By Alec Nevala-Lee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astounding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F_j6vQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Astounding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astounding">Astounding</a>
+</h4>
+<p class="fr-book-author">By Alec Nevala-Lee</p>
         
-        <p class="fr-book-desc">Explores how speculative technologies entered popular thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how speculative technologies entered popular thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fighting+the+Future+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fighting the Future War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fighting+the+Future+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fighting the Future War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="amazing-stories-how-amazing-stories-trained-readers-for-ufos-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-amazing-stories-spac-217726-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ That is why *Amazing Stories* occupies a distinctive place in the history linkin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ That is why *Amazing Stories* occupies a distinctive place in the history linkin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ That is why *Amazing Stories* occupies a distinctive place in the history linkin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ That is why *Amazing Stories* occupies a distinctive place in the history linkin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ That is why *Amazing Stories* occupies a distinctive place in the history linkin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,123 +751,123 @@ That is why *Amazing Stories* occupies a distinctive place in the history linkin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Amazing Stories | American magazine | Britannica  
-   Link: <a href="https://www.britannica.com/topic/Amazing-Stories" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Amazing-Stories</a>  
+   Link:<a href="https://www.britannica.com/topic/Amazing-Stories" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Amazing-Stories</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Science fiction  
-   Link: <a href="https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaScience fiction - Futuristic, Imagination, Technology | BritannicaMarch 1, 2026...</p></details>
+   Link:<a href="https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/science-fiction/Mass-markets-and-juvenile-science-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaScience fiction - Futuristic, Imagination, Technology | BritannicaMarch 1, 2026...</p></details>
    Published: March 1, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: encyclopedia.com  
    Title: www.encyclopedia.com Astounding Science Fiction | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/astounding-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/astounding-science-fiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction | Encyclopedia.comMay 14, 2026...</p></details>
+   Link:<a href="https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/astounding-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/astounding-science-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction | Encyclopedia.comMay 14, 2026...</p></details>
    Published: May 14, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Hugo Gernsback  
-   Link: <a href="http://www.youtube.com/watch?v=2CnS-ZNvRDs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2CnS-ZNvRDs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank R. Paul 1920s Cover Art...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=2CnS-ZNvRDs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2CnS-ZNvRDs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frank R. Paul 1920s Cover Art...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: [Frank R Paul](&#123;&#123; 'frank-r-paul/' | relative_url &#125;&#125;): Father of Science Fiction Art  
-   Link: <a href="http://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OOnhl23FBpw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AMAZING STORIES - WikiVidi Documentary...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OOnhl23FBpw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMAZING STORIES - WikiVidi Documentary...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: AMAZING STORIES  
-   Link: <a href="http://www.youtube.com/watch?v=n27svLRW_ms" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=n27svLRW_ms</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>magazine history Hugo Gernsback Hugo Gernsback - Pulp! Amazing Stories - Extra Sci Fi Extra History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=n27svLRW_ms" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=n27svLRW_ms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>magazine history Hugo Gernsback Hugo Gernsback - Pulp! Amazing Stories - Extra Sci Fi Extra History...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bis-space.com  
-   Link: <a href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow">https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</p></details>
+   Link:<a href="https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/" target="_blank" rel="noopener noreferrer nofollow">https://www.bis-space.com/from-amazing-stories-to-the-bis-100-years-of-scientifiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The British Interplanetary SocietyFrom Amazing Stories to the BIS: 100 Years of “Scientifiction” - The British Interplanetary SocietyMarc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thepublicsradio.org  
-   Link: <a href="https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/" target="_blank" rel="noopener noreferrer nofollow">https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TPR: The Public&#x27;s RadioBefore sci-fi was everywhere, this pioneering magazine championed &#x27;scientifiction&#x27; - TPR: The Public&#x27;s RadioApril...</p></details>
+   Link:<a href="https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/" target="_blank" rel="noopener noreferrer nofollow">https://thepublicsradio.org/npr/before-sci-fi-was-everywhere-this-pioneering-magazine-championed-scientifiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TPR: The Public&#x27;s RadioBefore sci-fi was everywhere, this pioneering magazine championed &#x27;scientifiction&#x27; - TPR: The Public&#x27;s RadioApril...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: amazingstories.com  
    Title: amazing histories april 1926 dawn scientifiction  
-   Link: <a href="https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/" target="_blank" rel="noopener noreferrer nofollow">https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing StoriesAmazing Histories, April 1926: The Dawn of Scientifiction - Amazing StoriesJanuary 16, 2017...</p></details>
+   Link:<a href="https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/" target="_blank" rel="noopener noreferrer nofollow">https://amazingstories.com/2017/01/amazing-histories-april-1926-dawn-scientifiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing StoriesAmazing Histories, April 1926: The Dawn of Scientifiction - Amazing StoriesJanuary 16, 2017...</p></details>
    Published: april 1926  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: societyillustrators.org  
-   Link: <a href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow">https://societyillustrators.org/award-winners/frankrpaul/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</p></details>
+   Link:<a href="https://societyillustrators.org/award-winners/frankrpaul/" target="_blank" rel="noopener noreferrer nofollow">https://societyillustrators.org/award-winners/frankrpaul/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society of IllustratorsFrank R. Paul – Hall of Fame 2025 - Society of Illustrators...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/masseffect/comments/1693fnl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/masseffect/comments/1693fnl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Hugo Gernsback&quot; was the founder of the earliest sci-fi periodical in the US, *Amazing Stories*.September 3, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/masseffect/comments/1693fnl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/masseffect/comments/1693fnl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Hugo Gernsback&quot; was the founder of the earliest sci-fi periodical in the US, *Amazing Stories*.September 3, 2023...</p></details>
    Published: September 3, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: artshelp.com  
    Title: www.artshelp.com The Art And History Of Science Fiction Book Covers  
-   Link: <a href="https://www.artshelp.com/the-art-and-history-of-science-fiction-book-covers/" target="_blank" rel="noopener noreferrer nofollow">https://www.artshelp.com/the-art-and-history-of-science-fiction-book-covers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art And History Of Science Fiction Book Covers...</p></details>
+   Link:<a href="https://www.artshelp.com/the-art-and-history-of-science-fiction-book-covers/" target="_blank" rel="noopener noreferrer nofollow">https://www.artshelp.com/the-art-and-history-of-science-fiction-book-covers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Art And History Of Science Fiction Book Covers...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: worldradiohistory.com  
    Title: www.worldradiohistory.com AMAZIN G STORIES: Gernsback's Si Fi magazine  
-   Link: <a href="https://www.worldradiohistory.com/Amazing-Stories.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Amazing-Stories.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STORIES: Gernsback&#x27;s SiFi magazine...</p></details>
+   Link:<a href="https://www.worldradiohistory.com/Amazing-Stories.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Amazing-Stories.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STORIES: Gernsback&#x27;s SiFi magazine...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/sciencefiction/comments/m23jz1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sciencefiction/comments/m23jz1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stories sci fi magazine released its first issue today, back in 1926, with April date.March 10, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/sciencefiction/comments/m23jz1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sciencefiction/comments/m23jz1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stories sci fi magazine released its first issue today, back in 1926, with April date.March 10, 2021...</p></details>
    Published: March 10, 2021  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/sciencefiction/comments/cz5f8p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sciencefiction/comments/cz5f8p</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>first issue of Amazing Stories Magazine (April 1926) Cover art by Frank R. PaulSeptember 3, 2019...</p></details>
+   Link:<a href="https://www.reddit.com/r/sciencefiction/comments/cz5f8p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sciencefiction/comments/cz5f8p</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>first issue of Amazing Stories Magazine (April 1926) Cover art by Frank R. PaulSeptember 3, 2019...</p></details>
    Published: September 3, 2019  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sites.lib.jmu.edu  
    Title: From the Collection: Astounding Stories – Pulp Magazines  
-   Link: <a href="https://sites.lib.jmu.edu/pulpmagazines/2015/07/15/from-the-collection-astounding-stories/" target="_blank" rel="noopener noreferrer nofollow">https://sites.lib.jmu.edu/pulpmagazines/2015/07/15/from-the-collection-astounding-stories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 15, 2015...</p></details>
+   Link:<a href="https://sites.lib.jmu.edu/pulpmagazines/2015/07/15/from-the-collection-astounding-stories/" target="_blank" rel="noopener noreferrer nofollow">https://sites.lib.jmu.edu/pulpmagazines/2015/07/15/from-the-collection-astounding-stories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 15, 2015...</p></details>
    Published: July 15, 2015  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=YYkcfCO-KRY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YYkcfCO-KRY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank R Paul: Father of Science Fiction Art...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YYkcfCO-KRY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YYkcfCO-KRY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frank R Paul: Father of Science Fiction Art...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sf-encyclopedia.com  
    Title: SF E: Amazing Stories  
-   Link: <a href="https://sf-encyclopedia.com/entry/amazing" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/amazing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SFE: Amazing StoriesMarch 9, 2026...</p></details>
+   Link:<a href="https://sf-encyclopedia.com/entry/amazing" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/amazing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SFE: Amazing StoriesMarch 9, 2026...</p></details>
    Published: March 9, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/sciencefiction/comments/o9ra6p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sciencefiction/comments/o9ra6p</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STORIES PULP SCI FI MAGAZINE COVERSJune 28, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/sciencefiction/comments/o9ra6p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sciencefiction/comments/o9ra6p</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STORIES PULP SCI FI MAGAZINE COVERSJune 28, 2021...</p></details>
    Published: June 28, 2021  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6GnFUgqIHsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pulp Magazines in the 1920s...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6GnFUgqIHsM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6GnFUgqIHsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pulp Magazines in the 1920s...</p></details>

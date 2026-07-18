@@ -274,15 +274,15 @@ image: /assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_ba
 
 ## Introduction
 
-Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became a dominant image of extraterrestrial life, Edgar Rice Burroughs transformed Mars into one of the most influential adventure settings in popular fiction. Beginning with *A Princess of Mars* in 1912, he took the contemporary idea of a canal-crossed, ageing Mars and turned it into Barsoom: a world of warrior cultures, lost cities, political rivalries, perilous journeys and ancient mysteries. Rather than presenting Mars primarily as a threat to Earth, Burroughs treated it as a place where stories could happen. The result was a version of the Red Planet that helped establish the “planetary romance” genre and expanded the imaginative possibilities of Martian civilisation beyond invasion narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
+Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became a dominant image of extraterrestrial life, Edgar Rice Burroughs transformed Mars into one of the most influential adventure settings in popular fiction. Beginning with *A Princess of Mars* in 1912, he took the contemporary idea of a canal-crossed, ageing Mars and turned it into Barsoom: a world of warrior cultures, lost cities, political rivalries, perilous journeys and ancient mysteries. Rather than presenting Mars primarily as a threat to Earth, Burroughs treated it as a place where stories could happen. The result was a version of the Red Planet that helped establish the “planetary romance” genre and expanded the imaginative possibilities of Martian civilisation beyond invasion narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-1-dark.svg" | relative_url }}" alt="Barsoom illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Canals as World-Building Machinery
 
-Burroughs inherited a Mars already shaped by the canal theories popularised by Percival [Lowell]({{ 'lowell/' | relative_url }}). In Lowell’s vision, a dying civilisation had constructed vast waterways to distribute scarce water from the polar regions across an increasingly arid world. Burroughs accepted the basic premise but used it as a storytelling engine rather than an astronomical argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Warlord of Mars</span><span class="citation-popover-snippet">The Warlord of Mars</span></span></span>
+Burroughs inherited a Mars already shaped by the canal theories popularised by Percival [Lowell]({{ 'lowell/' | relative_url }}). In Lowell’s vision, a dying civilisation had constructed vast waterways to distribute scarce water from the polar regions across an increasingly arid world. Burroughs accepted the basic premise but used it as a storytelling engine rather than an astronomical argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Warlord of Mars</span><span class="citation-popover-snippet">The Warlord of Mars</span></span></span>
 
-In Barsoom, the canals were not merely scenery. They explained where people lived, how cities survived and why conflicts emerged. Settlements clustered around irrigated corridors, making the canal system the planet’s economic and political backbone. Farms lined the waterways, and access to water became a matter of survival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://barsoom.fandom.com/wiki/Canals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barsoom.fandom.com">[Barsoomia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barsoom.fandom.com</span><span class="citation-popover-title">Barsoomia Canals &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span><span class="citation-popover-snippet">Barsoomia Canals &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span></span></span>
+In Barsoom, the canals were not merely scenery. They explained where people lived, how cities survived and why conflicts emerged. Settlements clustered around irrigated corridors, making the canal system the planet’s economic and political backbone. Farms lined the waterways, and access to water became a matter of survival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://barsoom.fandom.com/wiki/Canals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barsoom.fandom.com">[Barsoomia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barsoom.fandom.com</span><span class="citation-popover-title">Barsoomia Canals &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span><span class="citation-popover-snippet">Barsoomia Canals &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span></span></span>
 
 This gave Mars a sense of lived reality. Instead of presenting isolated wonders, Burroughs connected geography, society and adventure:
 
@@ -303,13 +303,13 @@ The canals therefore functioned as world-building machinery. They provided a bel
 
 ## Ancient Races and Environmental Decline
 
-A second ingredient in Barsoom’s appeal was the idea that Mars was old. Burroughs portrayed a planet that had passed its peak and was struggling against environmental decline. The drying world created a constant sense of fragility beneath the swashbuckling action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Warlord of Mars</span><span class="citation-popover-snippet">The Warlord of Mars</span></span></span>
+A second ingredient in Barsoom’s appeal was the idea that Mars was old. Burroughs portrayed a planet that had passed its peak and was struggling against environmental decline. The drying world created a constant sense of fragility beneath the swashbuckling action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Warlord of Mars</span><span class="citation-popover-snippet">The Warlord of Mars</span></span></span>
 
-Unlike many later science-fiction settings built around technological progress, Barsoom was full of remnants. Ancient cities, forgotten peoples and vanished powers suggested a deep history stretching back beyond the events of the novels. The surviving societies lived among the remains of earlier eras, giving exploration an archaeological flavour as well as an adventurous one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jfsculpts.com">[JFsculpts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jfsculpts.com</span><span class="citation-popover-title">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculpts</span><span class="citation-popover-snippet">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculptsFebruary 11, 2019...</span><span class="citation-popover-meta">Published: February 11, 2019</span></span></span>
+Unlike many later science-fiction settings built around technological progress, Barsoom was full of remnants. Ancient cities, forgotten peoples and vanished powers suggested a deep history stretching back beyond the events of the novels. The surviving societies lived among the remains of earlier eras, giving exploration an archaeological flavour as well as an adventurous one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jfsculpts.com">[JFsculpts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jfsculpts.com</span><span class="citation-popover-title">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculpts</span><span class="citation-popover-snippet">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculptsFebruary 11, 2019...</span><span class="citation-popover-meta">Published: February 11, 2019</span></span></span>
 
-Burroughs populated this landscape with multiple Martian peoples rather than a single planetary civilisation. Rival cultures occupied different regions, maintained different traditions and often viewed one another with suspicion. This diversity helped make Mars feel comparable to a historical world with competing kingdoms and ethnic groups rather than a simple extraterrestrial backdrop. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jfsculpts.com">[JFsculpts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jfsculpts.com</span><span class="citation-popover-title">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculpts</span><span class="citation-popover-snippet">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculptsFebruary 11, 2019...</span><span class="citation-popover-meta">Published: February 11, 2019</span></span></span>
+Burroughs populated this landscape with multiple Martian peoples rather than a single planetary civilisation. Rival cultures occupied different regions, maintained different traditions and often viewed one another with suspicion. This diversity helped make Mars feel comparable to a historical world with competing kingdoms and ethnic groups rather than a simple extraterrestrial backdrop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jfsculpts.com">[JFsculpts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jfsculpts.com</span><span class="citation-popover-title">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculpts</span><span class="citation-popover-snippet">JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM &#124; JFsculptsFebruary 11, 2019...</span><span class="citation-popover-meta">Published: February 11, 2019</span></span></span>
 
-Environmental decline also generated narrative stakes. Water systems required maintenance, habitable land was limited and survival could not be taken for granted. Even spectacular hidden regions such as the subterranean Omean Sea were connected to larger systems of water management and resource control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://barsoom.fandom.com/wiki/Omean_Sea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barsoom.fandom.com">[Barsoomia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barsoom.fandom.com</span><span class="citation-popover-title">Barsoomia Omean Sea &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span><span class="citation-popover-snippet">Barsoomia Omean Sea &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span></span></span>
+Environmental decline also generated narrative stakes. Water systems required maintenance, habitable land was limited and survival could not be taken for granted. Even spectacular hidden regions such as the subterranean Omean Sea were connected to larger systems of water management and resource control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://barsoom.fandom.com/wiki/Omean_Sea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: barsoom.fandom.com">[Barsoomia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">barsoom.fandom.com</span><span class="citation-popover-title">Barsoomia Omean Sea &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span><span class="citation-popover-snippet">Barsoomia Omean Sea &#124; Encyclopedia Barsoomia Wiki &#124; Fandom</span></span></span>
 
 The result was a setting where adventure emerged naturally from ecological pressure. Characters fought not only for honour, love or power, but often within a civilisation attempting to endure on a fading planet.
 
@@ -317,9 +317,9 @@ The result was a setting where adventure emerged naturally from ecological press
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-2-dark.svg" | relative_url }}" alt="Barsoom illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Adventure Mars Versus Invasion Mars
 
-Burroughs’ Mars differed sharply from the invasion-focused vision that had become famous through earlier Martian fiction. In invasion stories, Mars primarily mattered because it threatened Earth. In Barsoom, Mars mattered in its own right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
+Burroughs’ Mars differed sharply from the invasion-focused vision that had become famous through earlier Martian fiction. In invasion stories, Mars primarily mattered because it threatened Earth. In Barsoom, Mars mattered in its own right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
 
-The typical Barsoom story follows a traveller moving through an exotic world, encountering strange cultures, rescuing allies, uncovering secrets and navigating political conflicts. The planet itself becomes the main attraction. Readers are invited to explore rather than defend against it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
+The typical Barsoom story follows a traveller moving through an exotic world, encountering strange cultures, rescuing allies, uncovering secrets and navigating political conflicts. The planet itself becomes the main attraction. Readers are invited to explore rather than defend against it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
 
 Several features distinguish this adventure-oriented approach:
 
@@ -335,202 +335,202 @@ This shift was important for the broader relationship between science fiction an
 
 ## Why Barsoom Endured
 
-Barsoom’s lasting influence came from the way Burroughs transformed a speculative astronomical idea into a complete narrative environment. The canal hypothesis supplied a framework, but the novels added social diversity, environmental pressures, ancient history and continual movement across a vividly imagined landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Warlord of Mars</span><span class="citation-popover-snippet">The Warlord of Mars</span></span></span>
+Barsoom’s lasting influence came from the way Burroughs transformed a speculative astronomical idea into a complete narrative environment. The canal hypothesis supplied a framework, but the novels added social diversity, environmental pressures, ancient history and continual movement across a vividly imagined landscape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Warlord of Mars</span><span class="citation-popover-snippet">The Warlord of Mars</span></span></span>
 
-In doing so, Burroughs helped establish a powerful model for planetary fiction: a world that feels old, inhabited and worth exploring. Within the wider history of imagined Martian civilisations, Barsoom stands as the moment when canal Mars became not just a scientific curiosity or a potential enemy, but an adventure world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
+In doing so, Burroughs helped establish a powerful model for planetary fiction: a world that feels old, inhabited and worth exploring. Within the wider history of imagined Martian civilisations, Barsoom stands as the moment when canal Mars became not just a scientific curiosity or a potential enemy, but an adventure world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepulp.net">[ThePulp.Net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepulp.net</span><span class="citation-popover-title">The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan</span><span class="citation-popover-snippet">The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</span><span class="citation-popover-meta">Published: November 25, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-3-dark.svg" | relative_url }}" alt="Barsoom illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_barsoom_canal_advent_f825e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Adventure Mars Built From Canals. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Adventure Mars Built From Canals. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oelOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Path Between the Seas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
-        </h4>
-        <p class="fr-book-author">By David G. McCullough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oelOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Path Between the Seas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
+</h4>
+<p class="fr-book-author">By David G. McCullough</p>
         
-        <p class="fr-book-desc">Provides essential context for why canal-building seemed plausible on Mars.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for why canal-building seemed plausible on Mars.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mars and Its Canals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yeDCtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mars and Its Canals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mars and Its Canals">Mars and Its Canals</a>
-        </h4>
-        <p class="fr-book-author">By Percival Lowell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mars and Its Canals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yeDCtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mars and Its Canals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mars and Its Canals">Mars and Its Canals</a>
+</h4>
+<p class="fr-book-author">By Percival Lowell</p>
         
-        <p class="fr-book-desc">Directly examines the canal interpretations that grew from the canali translation issue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the canal interpretations that grew from the canali translation issue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H.G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H.G. Wells</p>
         
-        <p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Bridge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOM93rb22YEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Bridge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Bridge">The Great Bridge</a>
-        </h4>
-        <p class="fr-book-author">By David McCullough</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Captures the era&#x27;s faith in monumental engineering achievements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Bridge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOM93rb22YEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Bridge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Bridge">The Great Bridge</a>
+</h4>
+<p class="fr-book-author">By David McCullough</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Captures the era&#x27;s faith in monumental engineering achievements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mars+and+Its+Canals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mars and Its Canals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mars+and+Its+Canals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mars and Its Canals</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science fiction planets Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d7f24dd647c6d76496.jpg' | relative_url }}" alt="Listing image for Science fiction planets Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science fiction planets Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science fiction planets Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91d7f24dd647c6d76496.jpg' | relative_url }}" alt="Listing image for Science fiction planets Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science fiction planets Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Fiction Landscape Desert Space Ship Rocket Plane Mars Framed A3 Wall Art"><img src="{{ '/assets/images/marketplace-covers/fe3e63d60e69ca8b4af4.jpg' | relative_url }}" alt="Listing image for Science Fiction Landscape Desert Space Ship Rocket Plane Mars Framed A3 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Fiction Landscape Desert Space Ship Rocket Plane Mars Framed A3 Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Fiction Landscape Desert Space Ship Rocket Plane Mars Framed A3 Wall Art"><img src="{{ '/assets/images/marketplace-covers/fe3e63d60e69ca8b4af4.jpg' | relative_url }}" alt="Listing image for Science Fiction Landscape Desert Space Ship Rocket Plane Mars Framed A3 Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Fiction Landscape Desert Space Ship Rocket Plane Mars Framed A3 Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SciFi Planet Pixel Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2c09801e59b552e7b53e.jpg' | relative_url }}" alt="Listing image for SciFi Planet Pixel Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">SciFi Planet Pixel Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SciFi Planet Pixel Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2c09801e59b552e7b53e.jpg' | relative_url }}" alt="Listing image for SciFi Planet Pixel Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">SciFi Planet Pixel Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ART PRINT Tardis inspired Quote, Dr Who, Science Fiction, Wall Art, Gift"><img src="{{ '/assets/images/marketplace-covers/ddceb6ce2960c5a969c4.jpg' | relative_url }}" alt="Listing image for ART PRINT Tardis inspired Quote, Dr Who, Science Fiction, Wall Art, Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">ART PRINT Tardis inspired Quote, Dr Who, Science Fiction, Wall Art, Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ART PRINT Tardis inspired Quote, Dr Who, Science Fiction, Wall Art, Gift"><img src="{{ '/assets/images/marketplace-covers/ddceb6ce2960c5a969c4.jpg' | relative_url }}" alt="Listing image for ART PRINT Tardis inspired Quote, Dr Who, Science Fiction, Wall Art, Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">ART PRINT Tardis inspired Quote, Dr Who, Science Fiction, Wall Art, Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction wall art" data-ebay-reference="barsoom-the-adventure-mars-built-from-canals-relationships-betwee-science-fiction-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ In doing so, Burroughs helped establish a powerful model for planetary fiction: 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ In doing so, Burroughs helped establish a powerful model for planetary fiction: 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ In doing so, Burroughs helped establish a powerful model for planetary fiction: 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ In doing so, Burroughs helped establish a powerful model for planetary fiction: 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ In doing so, Burroughs helped establish a powerful model for planetary fiction: 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,85 +736,85 @@ In doing so, Burroughs helped establish a powerful model for planetary fiction: 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: thepulp.net  
    Title: The Pulp.Net The pulp worlds of Edgar Rice Burroughs – The Pulp Super-Fan  
-   Link: <a href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow">https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</p></details>
+   Link:<a href="https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/" target="_blank" rel="noopener noreferrer nofollow">https://thepulp.net/pulpsuperfan/2013/11/25/the-pulp-worlds-of-edgar-rice-burroughs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The pulp worlds of Edgar Rice Burroughs – The Pulp Super-FanNovember 25, 2013...</p></details>
    Published: November 25, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Warlord of Mars  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Warlord_of_Mars</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Warlord_of_Mars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Warlord_of_Mars</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jfsculpts.com  
    Title: JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM | JFsculpts  
-   Link: <a href="https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/" target="_blank" rel="noopener noreferrer nofollow">https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM | JFsculptsFebruary 11, 2019...</p></details>
+   Link:<a href="https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/" target="_blank" rel="noopener noreferrer nofollow">https://jfsculpts.com/2019/02/11/john-carter-dejah-thoris-and-woola-of-barsoom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JOHN CARTER, DEJAH THORIS, and WOOLA of BARSOOM | JFsculptsFebruary 11, 2019...</p></details>
    Published: February 11, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Llana of Gathol  
-   Link: <a href="https://en.wikipedia.org/wiki/Llana_of_Gathol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Llana_of_Gathol</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Llana_of_Gathol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Llana_of_Gathol</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Barsoom novels of Edgar Rice Burroughs  
-   Link: <a href="https://www.youtube.com/watch?v=IVbFduBEq9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IVbFduBEq9A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A PRINCESS OF MARS - FULL AudioBook | by Edgar Rice Burroughs V3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IVbFduBEq9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IVbFduBEq9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A PRINCESS OF MARS - FULL AudioBook | by Edgar Rice Burroughs V3...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: A PRINCESS OF MARS  
-   Link: <a href="https://www.youtube.com/watch?v=A2CnftqxvDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2CnftqxvDk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Edgar Rice Burroughs | John Carter of Mars / Audiobook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A2CnftqxvDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A2CnftqxvDk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Edgar Rice Burroughs | John Carter of Mars / Audiobook...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: barsoom.fandom.com  
    Title: Barsoomia Canals | Encyclopedia Barsoomia Wiki | Fandom  
-   Link: <a href="https://barsoom.fandom.com/wiki/Canals" target="_blank" rel="noopener noreferrer nofollow">https://barsoom.fandom.com/wiki/Canals</a>  
+   Link:<a href="https://barsoom.fandom.com/wiki/Canals" target="_blank" rel="noopener noreferrer nofollow">https://barsoom.fandom.com/wiki/Canals</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: barsoom.fandom.com  
    Title: Barsoomia Omean Sea | Encyclopedia Barsoomia Wiki | Fandom  
-   Link: <a href="https://barsoom.fandom.com/wiki/Omean_Sea" target="_blank" rel="noopener noreferrer nofollow">https://barsoom.fandom.com/wiki/Omean_Sea</a>  
+   Link:<a href="https://barsoom.fandom.com/wiki/Omean_Sea" target="_blank" rel="noopener noreferrer nofollow">https://barsoom.fandom.com/wiki/Omean_Sea</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/en/book/show/17377791-the-land-that-time-forgot" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/17377791-the-land-that-time-forgot</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Land That Time Forgot (Caspak, #1) by Edgar Rice Burroughs | GoodreadsJanuary 1, 1918...</p></details>
+   Link:<a href="https://www.goodreads.com/en/book/show/17377791-the-land-that-time-forgot" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/17377791-the-land-that-time-forgot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Land That Time Forgot (Caspak, #1) by Edgar Rice Burroughs | GoodreadsJanuary 1, 1918...</p></details>
    Published: January 1, 1918  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: www.reddit.com The task of creating an advanced yet adventure-filled world  
-   Link: <a href="https://www.reddit.com/r/worldbuilding/comments/hxkfia" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldbuilding/comments/hxkfia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>task of creating an advanced yet adventure-filled worldJuly 25, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/worldbuilding/comments/hxkfia" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldbuilding/comments/hxkfia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>task of creating an advanced yet adventure-filled worldJuly 25, 2020...</p></details>
    Published: July 25, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: A Princess of Mars by Edgar Rice Burroughs | John Carter of Mars / Audiobook  
-   Link: <a href="https://www.youtube.com/watch?v=XNycrylJlG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XNycrylJlG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plot summary, “A Princess of Mars” by Edgar Rice Burroughs in 5 Minutes - Book Review...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XNycrylJlG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XNycrylJlG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plot summary, “A Princess of Mars” by Edgar Rice Burroughs in 5 Minutes - Book Review...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0jKYPH6rN6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jKYPH6rN6E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Barsoom novels of Edgar Rice Burroughs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0jKYPH6rN6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jKYPH6rN6E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Barsoom novels of Edgar Rice Burroughs...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: books.apple.com  
    Title: ‎A Princess of Mars by Edgar Rice Burroughs & Junot Díaz on Apple Books  
-   Link: <a href="https://books.apple.com/gb/book/a-princess-of-mars/id968779067" target="_blank" rel="noopener noreferrer nofollow">https://books.apple.com/gb/book/a-princess-of-mars/id968779067</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 12, 2012...</p></details>
+   Link:<a href="https://books.apple.com/gb/book/a-princess-of-mars/id968779067" target="_blank" rel="noopener noreferrer nofollow">https://books.apple.com/gb/book/a-princess-of-mars/id968779067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 12, 2012...</p></details>
    Published: April 12, 2012  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DvCFpb4ENWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvCFpb4ENWo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DvCFpb4ENWo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvCFpb4ENWo</a>  

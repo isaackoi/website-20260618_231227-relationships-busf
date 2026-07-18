@@ -451,18 +451,18 @@ Cold War [flying saucer]({{ 'flying-saucer/' | relative_url }}) stories became p
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4-overview.webp" | relative_url }}" alt="Overview image for Cold War UFOs" loading="eager" decoding="sync" fetchpriority="high">
-This matters for the relationship between UFOs and science fiction because mid-century saucer stories were not simply borrowed from fantasy. They grew from real security conditions, then fiction reshaped them into invasion plots, hidden bases, alien surveillance and government [cover-ups]({{ 'cover-ups/' | relative_url }}). The result was a feedback loop: military secrecy made UFO stories credible, public fear made them memorable, and science fiction gave those fears a dramatic form. The Library of Congress notes that 1940s and 1950s flying saucer reports became raw material for Hollywood’s visions of threat, while the National Archives records that the US Air Force investigated 12,618 sightings through [Project Blue Book]({{ 'blue-book/' | relative_url }}) between 1947 and 1969. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers&quot; became an American cultural phenomena. Sightings of strange objects in the sky became...</span></span></span>
+This matters for the relationship between UFOs and science fiction because mid-century saucer stories were not simply borrowed from fantasy. They grew from real security conditions, then fiction reshaped them into invasion plots, hidden bases, alien surveillance and government [cover-ups]({{ 'cover-ups/' | relative_url }}). The result was a feedback loop: military secrecy made UFO stories credible, public fear made them memorable, and science fiction gave those fears a dramatic form. The Library of Congress notes that 1940s and 1950s flying saucer reports became raw material for Hollywood’s visions of threat, while the National Archives records that the US Air Force investigated 12,618 sightings through [Project Blue Book]({{ 'blue-book/' | relative_url }}) between 1947 and 1969.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers&quot; became an American cultural phenomena. Sightings of strange objects in the sky became...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eNDecHVH6jo" title="CIA says at least HALF of all UFO sightings in the 1950&#x27;s and 60&#x27;s were spy planes, not aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eNDecHVH6jo" target="_blank" rel="noopener noreferrer">CIA says at least HALF of all UFO sightings in the 1950&#x27;s and 60&#x27;s were spy planes, not aliens</a></p><p class="youtube-embed-meta">Channel: The Red Phoenix</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eNDecHVH6jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eNDecHVH6jo">Open on YouTube</a></p></div></div></div>
 
 ## Rockets, Radar and Atomic Anxiety
 
-The modern flying saucer era began in the immediate aftermath of the Second World War, when new military technologies had already changed what ordinary people thought the sky could contain. Kenneth Arnold’s June 1947 report near Mount Rainier arrived only two years after Hiroshima and Nagasaki, at a time when rockets, jet aircraft and high-altitude research were moving from wartime novelty into Cold War strategy. The Smithsonian’s National Air and Space Museum identifies 1947 as the “year of the flying saucer”, and Arnold’s report helped popularise the phrase even though the later standard saucer image simplified what witnesses and newspapers actually described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
+The modern flying saucer era began in the immediate aftermath of the Second World War, when new military technologies had already changed what ordinary people thought the sky could contain. Kenneth Arnold’s June 1947 report near Mount Rainier arrived only two years after Hiroshima and Nagasaki, at a time when rockets, jet aircraft and high-altitude research were moving from wartime novelty into Cold War strategy. The Smithsonian’s National Air and Space Museum identifies 1947 as the “year of the flying saucer”, and Arnold’s report helped popularise the phrase even though the later standard saucer image simplified what witnesses and newspapers actually described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
 What made the early [saucer wave]({{ 'saucer-wave/' | relative_url }}) distinctive was not just the claim that something odd had been seen. It was the sense that the objects might belong to the next stage of warfare. A bright, fast, silent object did not have to be imagined as magic. It could be a rocket, a guided missile, an advanced jet, a Soviet device or an American project too secret to admit. This was a historically new mental environment. Earlier sky mysteries had often been framed through religion, weather, astronomy or folklore; after 1945, they could be framed through aerospace engineering and nuclear strategy.
 
-Radar intensified that change. During the Second World War, radar had become a symbol of modern defence. In the early Cold War, it became part of a public language of warning, interception and vulnerability. When UFO reports involved radar traces, they seemed to cross from rumour into the world of instruments and command centres. The famous 1952 Washington, DC, sightings, which involved [radar reports]({{ 'radar-reports/' | relative_url }}) and visual claims near the US capital, helped push UFOs into the realm of national security concern. The CIA-sponsored Robertson Panel was convened in January 1953 after widespread reports, especially around Washington, and concluded that UFOs were not a direct threat but could become an indirect danger if reports overwhelmed military communication and air-defence systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+Radar intensified that change. During the Second World War, radar had become a symbol of modern defence. In the early Cold War, it became part of a public language of warning, interception and vulnerability. When UFO reports involved radar traces, they seemed to cross from rumour into the world of instruments and command centres. The famous 1952 Washington, DC, sightings, which involved [radar reports]({{ 'radar-reports/' | relative_url }}) and visual claims near the US capital, helped push UFOs into the realm of national security concern. The CIA-sponsored Robertson Panel was convened in January 1953 after widespread reports, especially around Washington, and concluded that UFOs were not a direct threat but could become an indirect danger if reports overwhelmed military communication and air-defence systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 That conclusion is crucial. The fear was not only “aliens might invade”. Officials also worried that public fascination with saucers could create noise in the warning system. A flood of UFO calls might obscure a real bomber, missile or reconnaissance intrusion. In other words, flying saucer anxiety was tied to the practical problem of distinguishing harmless misidentifications from hostile aircraft in a period when a mistake could have nuclear consequences.
 
@@ -474,15 +474,15 @@ Atomic fear gave saucer stories an additional moral charge. In many early UFO bo
 
 Cold War secrecy did not merely surround UFO culture; it helped produce some of its most durable patterns. The public was repeatedly told little, late or indirectly about real programmes in the sky. That created a gap between what people saw and what officials could admit. Into that gap stepped speculation.
 
-The Roswell story is the clearest example. In 1947, debris found near Roswell, New Mexico, was first linked in headlines to a “flying disc” and then officially described as a weather balloon. Decades later, the US Air Force’s 1994 report concluded that the debris was from Project Mogul, a balloon-borne research project. The Air Force summary states that the Army Air Forces recovered debris from a project code-named MOGUL, while Smithsonian coverage explains that the classified programme was intended to monitor Soviet nuclear tests using high-altitude balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">The Roswell Report</span></span></span>
+The Roswell story is the clearest example. In 1947, debris found near Roswell, New Mexico, was first linked in headlines to a “flying disc” and then officially described as a weather balloon. Decades later, the US Air Force’s 1994 report concluded that the debris was from Project Mogul, a balloon-borne research project. The Air Force summary states that the Army Air Forces recovered debris from a project code-named MOGUL, while Smithsonian coverage explains that the classified programme was intended to monitor Soviet nuclear tests using high-altitude balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">The Roswell Report</span></span></span>
 
 That explanation shows why Cold War UFO stories were so resilient. Roswell was not simply “nothing”. There really was a secret military programme; the cover story really was incomplete; and the purpose really was tied to nuclear fear. The unsupported leap was from classified balloon to alien spacecraft. But secrecy gave that leap a runway. When official explanations changed, many people took the change itself as evidence of concealment rather than as evidence of a mundane classified project.
 
-The U-2 spy plane later created a similar dynamic. CIA historical material on “U-2s, UFOs, and Operation Blue Book” describes how high-altitude U-2 testing generated UFO reports because civilian pilots and observers were not used to seeing aircraft operating at such altitudes. A declassified history of overhead reconnaissance likewise notes that U-2 flights above 60,000 feet led air-traffic controllers to receive increasing numbers of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+The U-2 spy plane later created a similar dynamic. CIA historical material on “U-2s, UFOs, and Operation Blue Book” describes how high-altitude U-2 testing generated UFO reports because civilian pilots and observers were not used to seeing aircraft operating at such altitudes. A declassified history of overhead reconnaissance likewise notes that U-2 flights above 60,000 feet led air-traffic controllers to receive increasing numbers of UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 This did not mean every UFO report was a secret aircraft. It meant the Cold War created conditions in which secret aircraft were a reasonable suspicion. If governments were building machines they could not describe, and if those machines sometimes looked strange from below, then the public’s distrust was not irrational in its basic shape. What science fiction added was a larger narrative: hidden hangars, recovered craft, reverse-engineered technology, suppressed truth.
 
-The Avrocar made that overlap almost literal. The National Museum of the US Air Force describes the Avro Canada VZ-9AV Avrocar as the result of a Canadian effort to develop a supersonic vertical-take-off fighter-bomber in the early 1950s. The project never became the high-performance saucer-like craft its designers hoped for, but it proved that military planners really did experiment with disc-shaped aircraft during the period when saucer stories were flourishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
+The Avrocar made that overlap almost literal. The National Museum of the US Air Force describes the Avro Canada VZ-9AV Avrocar as the result of a Canadian effort to develop a supersonic vertical-take-off fighter-bomber in the early 1950s. The project never became the high-performance saucer-like craft its designers hoped for, but it proved that military planners really did experiment with disc-shaped aircraft during the period when saucer stories were flourishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
 The important point is not that the Avrocar “explains” flying saucers. It does not. Its value is comparative. It shows why audiences could imagine a saucer as a secret weapon without abandoning realism. The Cold War had made yesterday’s fantasy into tomorrow’s prototype often enough that a disc in the sky could sit halfway between engineering speculation and science-fiction image.
 
@@ -493,7 +493,7 @@ The important point is not that the Avrocar “explains” flying saucers. It do
 
 Science fiction turned Cold War saucer fear into plots that audiences could immediately understand: invasion, infiltration, ultimatum, contamination, surveillance and last-minute defence. These were not random fantasies. They translated the age’s political fears into visible drama.
 
-The British Film Institute summarises the 1950s American science-fiction cycle as one shaped by Cold War paranoia and fear of imminent destruction, producing a wave of alien invasion films and apocalyptic space adventures. The Library of Congress similarly links 1940s and 1950s saucer reports with Hollywood images of potential threat, including films such as *Earth vs. the Flying Saucers*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/lists/10-great-american-sci-fi-films-1950s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">10 great american sci fi films 1950s</span><span class="citation-popover-snippet">10 great american sci fi films 1950s</span></span></span>
+The British Film Institute summarises the 1950s American science-fiction cycle as one shaped by Cold War paranoia and fear of imminent destruction, producing a wave of alien invasion films and apocalyptic space adventures. The Library of Congress similarly links 1940s and 1950s saucer reports with Hollywood images of potential threat, including films such as *Earth vs. the Flying Saucers*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bfi.org.uk/lists/10-great-american-sci-fi-films-1950s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.org.uk">[BFI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.org.uk</span><span class="citation-popover-title">10 great american sci fi films 1950s</span><span class="citation-popover-snippet">10 great american sci fi films 1950s</span></span></span>
 
 The invasion plot worked because it compressed several [Cold War fears]({{ 'cold-war-fear/' | relative_url }}) into one story:
 
@@ -510,7 +510,7 @@ The invasion plot worked because it compressed several [Cold War fears]({{ 'cold
 
 This is why saucer films often seem both futuristic and bureaucratic. They are full of scientists, generals, warning rooms, laboratories, radar stations and emergency meetings. The alien craft is fantastical, but the setting is recognisably Cold War: institutions trying to interpret an unknown object before panic or war breaks out.
 
-The 1953 film version of *The War of the Worlds* is a useful comparison. H. G. Wells’s original invasion story came from 1898, but the film moved the threat into a twentieth-century American setting. Its Martian attack belonged to a postwar screen culture in which civilisation could be overwhelmed by superior technology from above. The story’s older imperial anxieties were refitted for an atomic age of civil defence, scientific mobilisation and sudden destruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">The War of the Worlds (1953 film</span></span></span>
+The 1953 film version of *The War of the Worlds* is a useful comparison. H. G. Wells’s original invasion story came from 1898, but the film moved the threat into a twentieth-century American setting. Its Martian attack belonged to a postwar screen culture in which civilisation could be overwhelmed by superior technology from above. The story’s older imperial anxieties were refitted for an atomic age of civil defence, scientific mobilisation and sudden destruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The War of the Worlds (1953 film</span><span class="citation-popover-snippet">The War of the Worlds (1953 film</span></span></span>
 
 Not all 1950s science fiction presented aliens as simple stand-ins for the Soviet Union. Some films used extraterrestrials to criticise militarism, warn against nuclear escalation or imagine a wiser outside observer. But even peaceful visitors depended on the same Cold War structure: the arrival from the sky forced humanity to confront its weapons, divisions and secrecy. That is why saucer fiction could be frightening, hopeful and accusatory at the same time.
 
@@ -520,9 +520,9 @@ Not all 1950s science fiction presented aliens as simple stand-ins for the Sovie
 
 The most enduring Cold War contribution to UFO mythology was the cover-up motif. It became a standard science-fiction device: officials deny the truth, witnesses are dismissed, files are sealed, and the public learns that reality is larger than the authorised version. That pattern did not emerge from fiction alone. It drew strength from real classification, real intelligence programmes and real official concern about public reaction.
 
-Project Blue Book is central here. The National Archives states that from 1947 to 1969 the US Air Force collected 12,618 sightings, with 701 remaining “unidentified” when the project ended. The Air Force’s termination did not mean every case was solved, but it did mark the end of the main official investigation. For believers, the existence of unresolved cases kept suspicion alive; for sceptics, the large number of explained or insufficiently evidenced cases showed how ordinary misidentification, atmospheric effects and classified aviation could accumulate into a myth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Of these 701 remain &quot;Unidentified.&quot; The project was headquartered at Wright</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</span></span></span>
+Project Blue Book is central here. The National Archives states that from 1947 to 1969 the US Air Force collected 12,618 sightings, with 701 remaining “unidentified” when the project ended. The Air Force’s termination did not mean every case was solved, but it did mark the end of the main official investigation. For believers, the existence of unresolved cases kept suspicion alive; for sceptics, the large number of explained or insufficiently evidenced cases showed how ordinary misidentification, atmospheric effects and classified aviation could accumulate into a myth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Of these 701 remain &quot;Unidentified.&quot; The project was headquartered at Wright</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</span></span></span>
 
-The Robertson Panel deepened the problem. Its recommendations included reducing public interest in UFOs to prevent air-defence systems being swamped at critical moments. From an official security perspective, that was a Cold War risk-management proposal. From a public-trust perspective, it looked like managed perception. Even when the goal was not to hide aliens, it encouraged the suspicion that authorities were shaping what citizens were allowed to take seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The Robertson Panel deepened the problem. Its recommendations included reducing public interest in UFOs to prevent air-defence systems being swamped at critical moments. From an official security perspective, that was a Cold War risk-management proposal. From a public-trust perspective, it looked like managed perception. Even when the goal was not to hide aliens, it encouraged the suspicion that authorities were shaping what citizens were allowed to take seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 This is where UFOs and science fiction became especially hard to separate. Fictional cover-ups mirrored public suspicion, while public suspicion borrowed the language of fiction. Once audiences had seen stories about hidden wreckage, secret laboratories and military suppression, later real-world secrecy could be read through those images. At the same time, real declassifications about U-2 flights, Project Mogul and experimental aircraft confirmed that governments had indeed hidden major aerospace activities. The confirmation did not prove alien visitation, but it strengthened the cultural assumption that official denial might conceal something important.
 
@@ -555,194 +555,194 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4-Illustration-3-dark.svg" | relative_url }}" alt="Cold War UFOs illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cold War Skies Filled With Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Cold War Skies Filled With Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Directly explains how Cold War politics, military technology, and public fears shaped the flying saucer craze.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how Cold War politics, military technology, and public fears shaped the flying saucer craze.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects government investigations, unexplained sightings, and the cultural environment that made UFO stories influential.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects government investigations, unexplained sightings, and the cultural environment that made UFO stories influential.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GVuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad. Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GVuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad. Steiger</p>
         
-        <p class="fr-book-desc">Focuses on the Air Force investigations that became central to Cold War UFO narratives and public suspicion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the Air Force investigations that became central to Cold War UFO narratives and public suspicion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad.+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a firsthand account of official UFO investigations during the height of Cold War saucer reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a firsthand account of official UFO investigations during the height of Cold War saucer reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/2afe6688fa98fb23636a.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/2afe6688fa98fb23636a.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)"><img src="{{ '/assets/images/marketplace-covers/a4b6a9ca3177ee91de41.jpg' | relative_url }}" alt="Listing image for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)"><img src="{{ '/assets/images/marketplace-covers/a4b6a9ca3177ee91de41.jpg' | relative_url }}" alt="Listing image for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/29f1394255230eeff403.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/29f1394255230eeff403.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="cold-war-ufos-why-cold-war-skies-filled-with-saucers-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -758,7 +758,7 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -778,7 +778,7 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -810,7 +810,7 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -862,7 +862,7 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -907,7 +907,7 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -948,205 +948,205 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: Of these 701 remain "Unidentified." The project was headquartered at Wright  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C., UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: The War of the Worlds (1953 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281953_film%29</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Avro Canada VZ 9 Avrocar  
-   Link: <a href="https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Earth vs. the Flying Saucers  
-   Link: <a href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: avrocar the u s militarys flying saucer  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/04/03/avrocar-the-u-s-militarys-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/04/03/avrocar-the-u-s-militarys-flying-saucer/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2014/04/03/avrocar-the-u-s-militarys-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/04/03/avrocar-the-u-s-militarys-flying-saucer/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: 28256 ufo sightings cia u2 aircraft  
-   Link: <a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
+   Link:<a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1940s and 50s reports of &quot;flying saucers&quot; became an American cultural phenomena. Sightings of strange objects in the sky became...</p></details>
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1940s and 50s reports of &quot;flying saucers&quot; became an American cultural phenomena. Sightings of strange objects in the sky became...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalmuseum.af.mil  
-   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/</a>  
+   Link:<a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195801/avro-canada-vz-9av-avrocar/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: bfi.org.uk  
    Title: 10 great american sci fi films 1950s  
-   Link: <a href="https://www.bfi.org.uk/lists/10-great-american-sci-fi-films-1950s" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/lists/10-great-american-sci-fi-films-1950s</a>  
+   Link:<a href="https://www.bfi.org.uk/lists/10-great-american-sci-fi-films-1950s" target="_blank" rel="noopener noreferrer nofollow">https://www.bfi.org.uk/lists/10-great-american-sci-fi-films-1950s</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html</a>  
+   Link:<a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: blogs.loc.gov  
    Title: and a fire come out at night ufos space exploration and folklife  
-   Link: <a href="https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/</a>  
+   Link:<a href="https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/folklife/2024/07/and-a-fire-come-out-at-night-ufos-space-exploration-and-folklife/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: blogs.loc.gov  
    Title: reading the film registry [close encounters](&#123;&#123; 'close-encounters/' | relative_url &#125;&#125;) of the third kind 1977  
-   Link: <a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
+   Link:<a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: blogs.loc.gov  
    Title: of note eleanor roosevelt alien investigator  
-   Link: <a href="https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/</a>  
+   Link:<a href="https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aw1x.wordpress.com  
    Title: alien invasion  
-   Link: <a href="https://aw1x.wordpress.com/tag/alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://aw1x.wordpress.com/tag/alien-invasion/</a>  
+   Link:<a href="https://aw1x.wordpress.com/tag/alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://aw1x.wordpress.com/tag/alien-invasion/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 roswell incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs | Origins...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs | Origins...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947</a>  
+   Link:<a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/435820846445944/posts/9839250992769502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/435820846445944/posts/9839250992769502/</a>  
+   Link:<a href="https://www.facebook.com/groups/435820846445944/posts/9839250992769502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/435820846445944/posts/9839250992769502/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: forum.kerbalspaceprogram.com  
-   Link: <a href="https://forum.kerbalspaceprogram.com/topic/95195-cia-says-half-of-all-ufo-sightings-in-the-50s-and-60s-were-actually-the-u-2-spy-plane/" target="_blank" rel="noopener noreferrer nofollow">https://forum.kerbalspaceprogram.com/topic/95195-cia-says-half-of-all-ufo-sightings-in-the-50s-and-60s-were-actually-the-u-2-spy-plane/</a>  
+   Link:<a href="https://forum.kerbalspaceprogram.com/topic/95195-cia-says-half-of-all-ufo-sightings-in-the-50s-and-60s-were-actually-the-u-2-spy-plane/" target="_blank" rel="noopener noreferrer nofollow">https://forum.kerbalspaceprogram.com/topic/95195-cia-says-half-of-all-ufo-sightings-in-the-50s-and-60s-were-actually-the-u-2-spy-plane/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253550249143357/posts/1273762340455471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1273762340455471/</a>  
+   Link:<a href="https://www.facebook.com/groups/253550249143357/posts/1273762340455471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1273762340455471/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: humanities.org  
-   Link: <a href="https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/</a>  
+   Link:<a href="https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.org/spark/movie-critic-robert-horton-discusses-sci-fi-films-the-cold-war-and-today/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/57lylo/project_mogul/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/57lylo/project_mogul/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/57lylo/project_mogul/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/57lylo/project_mogul/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
+   Link:<a href="https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CombatCatalog/posts/the-roswell-ufo-crash-was-a-classified-balloon-program-designed-to-spy-on-soviet/122230753928307620/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOOToESE4eH/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOOToESE4eH/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DOOToESE4eH/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOOToESE4eH/?hl=en-gb</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  

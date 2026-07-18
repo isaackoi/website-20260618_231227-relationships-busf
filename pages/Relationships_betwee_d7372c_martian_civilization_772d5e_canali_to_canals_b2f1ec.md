@@ -280,30 +280,30 @@ image: /assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_ca
 
 ## Introduction
 
-One of the most influential misunderstandings in the history of extraterrestrial life began with a single word. In 1877, the Italian astronomer Giovanni Schiaparelli mapped faint linear markings on Mars and described them using the Italian term *canali*, meaning channels or natural passages. Yet in English-language discussions the word was widely rendered as “canals”, a translation that suggested deliberate construction. That shift transformed uncertain telescope observations into apparent evidence of planetary engineering and helped convince many readers that Mars might host an advanced civilisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/History_of_Mars_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">History of Mars observation</span><span class="citation-popover-snippet">History of Mars observation</span></span></span>
+One of the most influential misunderstandings in the history of extraterrestrial life began with a single word. In 1877, the Italian astronomer Giovanni Schiaparelli mapped faint linear markings on Mars and described them using the Italian term *canali*, meaning channels or natural passages. Yet in English-language discussions the word was widely rendered as “canals”, a translation that suggested deliberate construction. That shift transformed uncertain telescope observations into apparent evidence of planetary engineering and helped convince many readers that Mars might host an advanced civilisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/History_of_Mars_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">History of Mars observation</span><span class="citation-popover-snippet">History of Mars observation</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-1-dark.svg" | relative_url }}" alt="Canali illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within a few decades, the idea of Martian canals became one of the most famous examples of how observation, language and imagination can reinforce one another. Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) entered popular culture, the canal story helped establish a template for thinking about intelligent aliens as technological beings whose works might be visible from Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Within a few decades, the idea of Martian canals became one of the most famous examples of how observation, language and imagination can reinforce one another. Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) entered popular culture, the canal story helped establish a template for thinking about intelligent aliens as technological beings whose works might be visible from Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 ## What Schiaparelli Actually Reported
 
-During the favourable opposition of Mars in 1877, Schiaparelli produced some of the most detailed maps yet made of the planet. Among the dark and light regions he recorded were long, narrow linear features that appeared to connect larger surface markings. He called these features *canali*, a neutral Italian term best translated as “channels”. At the time, he was describing what he believed he saw through a telescope, not proposing evidence of Martian engineers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/list/10-important-dates-in-mars-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica10 Important Dates in Mars History &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica10 Important Dates in Mars History &#124; Britannica</span></span></span>
+During the favourable opposition of Mars in 1877, Schiaparelli produced some of the most detailed maps yet made of the planet. Among the dark and light regions he recorded were long, narrow linear features that appeared to connect larger surface markings. He called these features *canali*, a neutral Italian term best translated as “channels”. At the time, he was describing what he believed he saw through a telescope, not proposing evidence of Martian engineers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/list/10-important-dates-in-mars-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica10 Important Dates in Mars History &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica10 Important Dates in Mars History &#124; Britannica</span></span></span>
 
-This distinction matters because Schiaparelli's original reports were cautious. The word did not imply artificial construction. In ordinary Italian usage, *canali* could refer to natural channels as well as waterways. Contemporary accounts note that Schiaparelli did not claim the features had been built by intelligent beings. His observations identified a pattern; they did not provide an explanation for its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
+This distinction matters because Schiaparelli's original reports were cautious. The word did not imply artificial construction. In ordinary Italian usage, *canali* could refer to natural channels as well as waterways. Contemporary accounts note that Schiaparelli did not claim the features had been built by intelligent beings. His observations identified a pattern; they did not provide an explanation for its origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
 
-The features themselves were difficult to observe. Mars appeared as a small disc viewed through nineteenth-century telescopes and Earth's turbulent atmosphere. Many of the markings lay near the limits of what observers could reliably distinguish. This uncertainty left considerable room for interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The features themselves were difficult to observe. Mars appeared as a small disc viewed through nineteenth-century telescopes and Earth's turbulent atmosphere. Many of the markings lay near the limits of what observers could reliably distinguish. This uncertainty left considerable room for interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yFVzWLYhpk" title="The Biggest Hoax in Astronomy Started With One Italian Astronomer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yFVzWLYhpk" target="_blank" rel="noopener noreferrer">The Biggest Hoax in Astronomy Started With One Italian Astronomer</a></p><p class="youtube-embed-meta">Channel: One Word</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yFVzWLYhpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yFVzWLYhpk">Open on YouTube</a></p></div></div></div>
 
 ## Why English Readers Heard Artificial Canals
 
-The crucial change occurred when *canali* entered English-language astronomy and popular reporting. Instead of “channels”, the term was commonly rendered as “canals”. In English, a canal strongly suggested a human-made structure such as the Suez Canal, completed only a few years earlier and widely celebrated as an engineering triumph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica11.org">[Encyclopædia Britannica, 11th Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica11.org</span><span class="citation-popover-snippet">Open source on britannica11.org.</span></span></span>
+The crucial change occurred when *canali* entered English-language astronomy and popular reporting. Instead of “channels”, the term was commonly rendered as “canals”. In English, a canal strongly suggested a human-made structure such as the Suez Canal, completed only a few years earlier and widely celebrated as an engineering triumph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica11.org">[Encyclopædia Britannica, 11th Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica11.org</span><span class="citation-popover-snippet">Open source on britannica11.org.</span></span></span>
 
-The translation did not automatically prove intelligent life on Mars, but it changed the question readers asked. A “channel” could be a natural geological feature. A “canal” implied planning, labour and purpose. Once the markings were described in those terms, the possibility of intelligent builders became far easier to imagine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica11.org">[Encyclopædia Britannica, 11th Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica11.org</span><span class="citation-popover-snippet">Open source on britannica11.org.</span></span></span>
+The translation did not automatically prove intelligent life on Mars, but it changed the question readers asked. A “channel” could be a natural geological feature. A “canal” implied planning, labour and purpose. Once the markings were described in those terms, the possibility of intelligent builders became far easier to imagine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica11.org">[Encyclopædia Britannica, 11th Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica11.org</span><span class="citation-popover-snippet">Open source on britannica11.org.</span></span></span>
 
-The timing amplified the effect. The late nineteenth century was an era fascinated by grand infrastructure projects. Newspapers regularly discussed large-scale engineering works, and industrial societies increasingly viewed technological solutions as the answer to environmental challenges. A planet covered by immense canals seemed less like fantasy than it would have in an earlier age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Seeing Things On Mars: A History of Martian Illusions &#124; Space</span><span class="citation-popover-snippet">Seeing Things On Mars: A History of Martian Illusions &#124; Space...</span></span></span>
+The timing amplified the effect. The late nineteenth century was an era fascinated by grand infrastructure projects. Newspapers regularly discussed large-scale engineering works, and industrial societies increasingly viewed technological solutions as the answer to environmental challenges. A planet covered by immense canals seemed less like fantasy than it would have in an earlier age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Seeing Things On Mars: A History of Martian Illusions &#124; Space</span><span class="citation-popover-snippet">Seeing Things On Mars: A History of Martian Illusions &#124; Space...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-2-dark.svg" | relative_url }}" alt="Canali illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,213 +323,213 @@ Once the markings were understood as canals, several assumptions followed natura
 
 </div>
 
-Those steps were speculative, but each seemed plausible if the previous one were accepted. The result was a shift from asking “What are these markings?” to asking “Who built them?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Those steps were speculative, but each seemed plausible if the previous one were accepted. The result was a shift from asking “What are these markings?” to asking “Who built them?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-This was precisely the opening that later advocates of inhabited Mars exploited. The translation transformed a problem of planetary geography into a question about extraterrestrial civilisation. The debate no longer centred solely on surface features; it became a discussion about the nature and capabilities of alien beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
+This was precisely the opening that later advocates of inhabited Mars exploited. The translation transformed a problem of planetary geography into a question about extraterrestrial civilisation. The debate no longer centred solely on surface features; it became a discussion about the nature and capabilities of alien beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n--9w6zt9MM" title="10 Years On Mars: The Full Journey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n--9w6zt9MM" target="_blank" rel="noopener noreferrer">10 Years On Mars: The Full Journey</a></p><p class="youtube-embed-meta">Channel: ElderFox Documentaries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n--9w6zt9MM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n--9w6zt9MM">Open on YouTube</a></p></div></div></div>
 
 ## From Channels to a Civilisation
 
-No figure benefited more from this linguistic shift than the American astronomer Percival [Lowell]({{ 'lowell/' | relative_url }}). Inspired by reports of the canals, Lowell developed an elaborate theory in which an ageing Martian civilisation had constructed a planet-wide irrigation system to transport water from the polar regions across an increasingly dry world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
+No figure benefited more from this linguistic shift than the American astronomer Percival [Lowell]({{ 'lowell/' | relative_url }}). Inspired by reports of the canals, Lowell developed an elaborate theory in which an ageing Martian civilisation had constructed a planet-wide irrigation system to transport water from the polar regions across an increasingly dry world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
 
-Lowell's interpretation went far beyond Schiaparelli's original observations. He produced maps showing extensive networks, described intersections as “oases”, and argued that only intelligent beings could have created such geometric regularity. Through widely read books and public lectures, he popularised an image of Mars as a technologically sophisticated world struggling against environmental decline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
+Lowell's interpretation went far beyond Schiaparelli's original observations. He produced maps showing extensive networks, described intersections as “oases”, and argued that only intelligent beings could have created such geometric regularity. Through widely read books and public lectures, he popularised an image of Mars as a technologically sophisticated world struggling against environmental decline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space</span><span class="citation-popover-snippet">Tracing the Canals of Mars: An Astronomer&#x27;s Obsession &#124; Space...</span></span></span>
 
-What made the idea powerful was not merely the claim that life existed on Mars. Rather, it presented aliens as engineers solving planetary-scale problems. This image resonated strongly with readers living through an age of industrial expansion and ambitious public works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Seeing Things On Mars: A History of Martian Illusions &#124; Space</span><span class="citation-popover-snippet">Seeing Things On Mars: A History of Martian Illusions &#124; Space...</span></span></span>
+What made the idea powerful was not merely the claim that life existed on Mars. Rather, it presented aliens as engineers solving planetary-scale problems. This image resonated strongly with readers living through an age of industrial expansion and ambitious public works.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Seeing Things On Mars: A History of Martian Illusions &#124; Space</span><span class="citation-popover-snippet">Seeing Things On Mars: A History of Martian Illusions &#124; Space...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-3-dark.svg" | relative_url }}" alt="Canali illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_canali_to_canals_b2f1ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Reality Behind the Canals
 
-Even while the canal theory gained public attention, many astronomers remained sceptical. Some observers could not see the canals at all. Others reported that the supposed lines appeared irregular, fragmented or inconsistent from one observation to another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/History_of_Mars_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">History of Mars observation</span><span class="citation-popover-snippet">History of Mars observation</span></span></span>
+Even while the canal theory gained public attention, many astronomers remained sceptical. Some observers could not see the canals at all. Others reported that the supposed lines appeared irregular, fragmented or inconsistent from one observation to another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/History_of_Mars_observation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">History of Mars observation</span><span class="citation-popover-snippet">History of Mars observation</span></span></span>
 
-As observational techniques improved, researchers increasingly concluded that the canal networks were not real structures. Experiments suggested that the human visual system could connect scattered details into apparently straight lines when viewing faint objects near the limits of resolution. The canals were therefore likely a combination of optical effects, observational conditions and pattern recognition by the observer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+As observational techniques improved, researchers increasingly concluded that the canal networks were not real structures. Experiments suggested that the human visual system could connect scattered details into apparently straight lines when viewing faint objects near the limits of resolution. The canals were therefore likely a combination of optical effects, observational conditions and pattern recognition by the observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-The issue was settled only in the space age. Close-up photographs returned by spacecraft such as [Mariner]({{ 'mariner/' | relative_url }}) 4 in 1965 and later missions revealed craters, valleys and varied terrain but no global network of straight channels or artificial waterways. The famous canals vanished when Mars could finally be seen directly rather than inferred through distant telescopic glimpses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The issue was settled only in the space age. Close-up photographs returned by spacecraft such as [Mariner]({{ 'mariner/' | relative_url }}) 4 in 1965 and later missions revealed craters, valleys and varied terrain but no global network of straight channels or artificial waterways. The famous canals vanished when Mars could finally be seen directly rather than inferred through distant telescopic glimpses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cStCiyOrJNA" title="The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer">The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell</a></p><p class="youtube-embed-meta">Channel: Illustrated Thoughts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cStCiyOrJNA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Translation Still Matters
 
-The story of *canali* becoming “canals” remains important because it illustrates how scientific ideas can be shaped by language as much as by observation. Schiaparelli's original description did not assert the existence of alien engineers. Yet a translation carrying stronger cultural associations encouraged readers to interpret uncertain evidence in technological terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica11.org">[Encyclopædia Britannica, 11th Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica11.org</span><span class="citation-popover-snippet">Open source on britannica11.org.</span></span></span>
+The story of *canali* becoming “canals” remains important because it illustrates how scientific ideas can be shaped by language as much as by observation. Schiaparelli's original description did not assert the existence of alien engineers. Yet a translation carrying stronger cultural associations encouraged readers to interpret uncertain evidence in technological terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica11.org">[Encyclopædia Britannica, 11th Edition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica11.org</span><span class="citation-popover-snippet">Open source on britannica11.org.</span></span></span>
 
-Within the broader history of imagined Martian civilisations, this was a pivotal mechanism. A single linguistic choice helped transform faint markings on a distant planet into one of the most enduring visions of extraterrestrial intelligence. Long before the age of UFO reports, it offered a model for how ambiguous observations could become stories about advanced [alien technology]({{ 'tech-magic/' | relative_url }})—a pattern that would reappear repeatedly in later discussions of mysterious phenomena beyond Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Within the broader history of imagined Martian civilisations, this was a pivotal mechanism. A single linguistic choice helped transform faint markings on a distant planet into one of the most enduring visions of extraterrestrial intelligence. Long before the age of UFO reports, it offered a model for how ambiguous observations could become stories about advanced [alien technology]({{ 'tech-magic/' | relative_url }})—a pattern that would reappear repeatedly in later discussions of mysterious phenomena beyond Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Channels Became Alien Canals. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Channels Became Alien Canals. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H.G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H.G. Wells</p>
         
-        <p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oelOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Path Between the Seas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
-        </h4>
-        <p class="fr-book-author">By David G. McCullough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oelOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Path Between the Seas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
+</h4>
+<p class="fr-book-author">By David G. McCullough</p>
         
-        <p class="fr-book-desc">Provides essential context for why canal-building seemed plausible on Mars.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for why canal-building seemed plausible on Mars.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Bridge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOM93rb22YEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Bridge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Bridge">The Great Bridge</a>
-        </h4>
-        <p class="fr-book-author">By David McCullough</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Captures the era&#x27;s faith in monumental engineering achievements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Bridge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOM93rb22YEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Bridge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Bridge">The Great Bridge</a>
+</h4>
+<p class="fr-book-author">By David McCullough</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Captures the era&#x27;s faith in monumental engineering achievements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explores astronomy, extraterrestrial life, and how scientific ideas influence culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores astronomy, extraterrestrial life, and how scientific ideas influence culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Bridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Bridge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Bridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Bridge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/bc2ef6c3d67198ff693b.jpg' | relative_url }}" alt="Listing image for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/bc2ef6c3d67198ff693b.jpg' | relative_url }}" alt="Listing image for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/60d93ce88f23fee0c0d4.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/60d93ce88f23fee0c0d4.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/eefe1a24f03345369793.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/eefe1a24f03345369793.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Nostromo, HT03, 1:960 Scale Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="canali-how-channels-became-alien-canals-relationships-betwee-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ Within the broader history of imagined Martian civilisations, this was a pivotal
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ Within the broader history of imagined Martian civilisations, this was a pivotal
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ Within the broader history of imagined Martian civilisations, this was a pivotal
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ Within the broader history of imagined Martian civilisations, this was a pivotal
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ Within the broader history of imagined Martian civilisations, this was a pivotal
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,96 +735,96 @@ Within the broader history of imagined Martian civilisations, this was a pivotal
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: History of Mars observation  
-   Link: <a href="https://en.wikipedia.org/wiki/History_of_Mars_observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_Mars_observation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/History_of_Mars_observation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_Mars_observation</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/canals-of-Mars</a>  
+   Link:<a href="https://www.britannica.com/place/canals-of-Mars" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/canals-of-Mars</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: Seeing Things On Mars: A History of Martian Illusions | Space  
-   Link: <a href="https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing Things On Mars: A History of Martian Illusions | Space...</p></details>
+   Link:<a href="https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/11907-mars-history-martian-illusions-human-delusions.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing Things On Mars: A History of Martian Illusions | Space...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: Tracing the Canals of Mars: An Astronomer's Obsession | Space  
-   Link: <a href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13197-mars-canals-water-history-lowell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracing the Canals of Mars: An Astronomer&#x27;s Obsession | Space...</p></details>
+   Link:<a href="https://www.space.com/13197-mars-canals-water-history-lowell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13197-mars-canals-water-history-lowell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracing the Canals of Mars: An Astronomer&#x27;s Obsession | Space...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica10 Important Dates in Mars History | Britannica  
-   Link: <a href="https://www.britannica.com/list/10-important-dates-in-mars-history" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-important-dates-in-mars-history</a>  
+   Link:<a href="https://www.britannica.com/list/10-important-dates-in-mars-history" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-important-dates-in-mars-history</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica11.org  
-   Link: <a href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow">https://britannica11.org/article/17-0778-s2/mars</a>  
+   Link:<a href="https://britannica11.org/article/17-0778-s2/mars" target="_blank" rel="noopener noreferrer nofollow">https://britannica11.org/article/17-0778-s2/mars</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: encyclopedia.com  
    Title: martian canals | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/martian-canals" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/martian-canals</a>  
+   Link:<a href="https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/martian-canals" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/martian-canals</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: in 1877 italian astronomer giovanni schiaparelli  
-   Link: <a href="https://www.reddit.com/r/wikipedia/comments/1ru8x8y/in_1877_italian_astronomer_giovanni_schiaparelli/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/1ru8x8y/in_1877_italian_astronomer_giovanni_schiaparelli/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When translated to English, the word &quot;canali&quot; was mistranslated as &quot;canals&quot;, which was seen as evidence of life on Mars.March 15, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/wikipedia/comments/1ru8x8y/in_1877_italian_astronomer_giovanni_schiaparelli/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/1ru8x8y/in_1877_italian_astronomer_giovanni_schiaparelli/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When translated to English, the word &quot;canali&quot; was mistranslated as &quot;canals&quot;, which was seen as evidence of life on Mars.March 15, 2026...</p></details>
    Published: March 15, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cStCiyOrJNA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Hoax in Astronomy Started With One Italian Astronomer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cStCiyOrJNA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Hoax in Astronomy Started With One Italian Astronomer...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: This Typo Terrified the World!  
-   Link: <a href="https://www.youtube.com/watch?v=DLPWCYM-Fis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DLPWCYM-Fis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schiaparelli canali Mars canals mistranslation The Biggest Hoax in Astronomy Started With One Italian Astronomer One Word...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DLPWCYM-Fis" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DLPWCYM-Fis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schiaparelli canali Mars canals mistranslation The Biggest Hoax in Astronomy Started With One Italian Astronomer One Word...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The canals of Mars  
-   Link: <a href="https://www.youtube.com/watch?v=ChJKQMiNC2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ChJKQMiNC2c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ChJKQMiNC2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ChJKQMiNC2c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/From_canals_to_craters" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/From_canals_to_craters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - From canals to craters...</p></details>
+   Link:<a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/From_canals_to_craters" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/From_canals_to_craters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - From canals to craters...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Elder Fox Documentaries  
-   Link: <a href="https://www.youtube.com/watch?v=n--9w6zt9MM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n--9w6zt9MM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most TERRIFYING Space Photo #space #nasa #science AstroKobi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=n--9w6zt9MM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n--9w6zt9MM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most TERRIFYING Space Photo #space #nasa #science AstroKobi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Biggest Hoax in Astronomy Started With One Italian Astronomer  
-   Link: <a href="https://www.youtube.com/watch?v=3yFVzWLYhpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yFVzWLYhpk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Typo Terrified the World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3yFVzWLYhpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3yFVzWLYhpk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Typo Terrified the World...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: raicultura.it  
    Title: RAI Cultura Giovanni Schiaparelli | Scienza | Rai Cultura  
-   Link: <a href="https://www.raicultura.it/scienza/articoli/2019/06/Schiaparelli-e-i-canali-di-Marte-cfdb47bc-889c-4146-90bf-2841a1a3e5da.html" target="_blank" rel="noopener noreferrer nofollow">https://www.raicultura.it/scienza/articoli/2019/06/Schiaparelli-e-i-canali-di-Marte-cfdb47bc-889c-4146-90bf-2841a1a3e5da.html</a>  
+   Link:<a href="https://www.raicultura.it/scienza/articoli/2019/06/Schiaparelli-e-i-canali-di-Marte-cfdb47bc-889c-4146-90bf-2841a1a3e5da.html" target="_blank" rel="noopener noreferrer nofollow">https://www.raicultura.it/scienza/articoli/2019/06/Schiaparelli-e-i-canali-di-Marte-cfdb47bc-889c-4146-90bf-2841a1a3e5da.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: chemeurope.com  
    Title: www.chemeurope.com Martian_canal  
-   Link: <a href="https://www.chemeurope.com/en/encyclopedia/Martian_canal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chemeurope.com/en/encyclopedia/Martian_canal.html</a>  
+   Link:<a href="https://www.chemeurope.com/en/encyclopedia/Martian_canal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chemeurope.com/en/encyclopedia/Martian_canal.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gpedia.com  
    Title: www.gpedia.com Martian canals  
-   Link: <a href="https://www.gpedia.com/en/Martian_canals" target="_blank" rel="noopener noreferrer nofollow">https://www.gpedia.com/en/Martian_canals</a>  
+   Link:<a href="https://www.gpedia.com/en/Martian_canals" target="_blank" rel="noopener noreferrer nofollow">https://www.gpedia.com/en/Martian_canals</a>  

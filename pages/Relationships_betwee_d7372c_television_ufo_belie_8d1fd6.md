@@ -447,7 +447,7 @@ image: /assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6-ov
 
 ## Introduction
 
-Television normalised UFO belief by making the mystery domestic, repeated and emotionally credible. Earlier newspaper reports and cinema science fiction could make [flying saucers]({{ 'flying-saucer/' | relative_url }}) spectacular; television made them familiar. From official-looking news specials and documentaries to weekly dramas, reenactments and serial conspiracies, UFOs entered the living room as a recurring question rather than a one-off marvel. The important shift was not that television proved alien visitation. Official US Air Force records from [Project Blue Book]({{ 'blue-book/' | relative_url }}) still state that no investigated UFO case showed evidence of extraterrestrial vehicles, and 701 of 12,618 reports remained unidentified rather than solved as alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Television normalised UFO belief by making the mystery domestic, repeated and emotionally credible. Earlier newspaper reports and cinema science fiction could make [flying saucers]({{ 'flying-saucer/' | relative_url }}) spectacular; television made them familiar. From official-looking news specials and documentaries to weekly dramas, reenactments and serial conspiracies, UFOs entered the living room as a recurring question rather than a one-off marvel. The important shift was not that television proved alien visitation. Official US Air Force records from [Project Blue Book]({{ 'blue-book/' | relative_url }}) still state that no investigated UFO case showed evidence of extraterrestrial vehicles, and 701 of 12,618 reports remained unidentified rather than solved as alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6-overview.webp" | relative_url }}" alt="Overview image for Television" loading="eager" decoding="sync" fetchpriority="high">
@@ -459,11 +459,11 @@ Within the wider relationship between UFOs and science fiction, television becam
 
 Television gave UFOs a special kind of legitimacy because it could stage uncertainty as public evidence. A newspaper could report that witnesses saw lights; television could show the witness’s face, the landscape, the official denial, the sceptical scientist and the dramatic reconstruction in one sitting. That combination mattered. It did not require viewers to accept every claim. It only required them to accept that UFOs were a reasonable topic for serious broadcast attention.
 
-The 1966 Michigan “[swamp gas]({{ 'swamp-gas/' | relative_url }})” episode shows how television turned a local UFO flap into a national credibility drama. After widespread sightings in southern Michigan, Air Force consultant J. Allen Hynek suggested that some reports might have involved swamp gas, a phrase that became a public joke and a symbol of official evasiveness. The case drew political attention from Congressman Gerald Ford and helped keep UFOs in the national news cycle. CBS later aired *UFO: Friend, Foe or Fantasy?* with Walter Cronkite, bringing the dispute into the familiar format of sober network investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
+The 1966 Michigan “[swamp gas]({{ 'swamp-gas/' | relative_url }})” episode shows how television turned a local UFO flap into a national credibility drama. After widespread sightings in southern Michigan, Air Force consultant J. Allen Hynek suggested that some reports might have involved swamp gas, a phrase that became a public joke and a symbol of official evasiveness. The case drew political attention from Congressman Gerald Ford and helped keep UFOs in the national news cycle. CBS later aired *UFO: Friend, Foe or Fantasy?* with Walter Cronkite, bringing the dispute into the familiar format of sober network investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-That pattern became central to UFO television: a broadcast could appear sceptical, but still strengthen the sense that there was “something” to investigate. Project Blue Book itself had a similar double effect. The Air Force intended the programme to collect, evaluate and often explain reports; the National Archives notes that Blue Book ran from 1952 until its termination in 1969, after earlier projects Sign and Grudge. Yet the very existence of official forms, files and investigations helped make UFO sightings feel like a recognised category of modern experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
+That pattern became central to UFO television: a broadcast could appear sceptical, but still strengthen the sense that there was “something” to investigate. Project Blue Book itself had a similar double effect. The Air Force intended the programme to collect, evaluate and often explain reports; the National Archives notes that Blue Book ran from 1952 until its termination in 1969, after earlier projects Sign and Grudge. Yet the very existence of official forms, files and investigations helped make UFO sightings feel like a recognised category of modern experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
 
-Television amplified this institutional ambiguity. When viewers saw officials, witnesses and scientists arguing on screen, UFO belief no longer looked only like fringe enthusiasm. It could appear as a civic question: what did the government know, why were [explanations]({{ 'explanations/' | relative_url }}) contested, and why did ordinary citizens keep reporting strange things? The National Archives’ history of Blue Book notes that officials often believed reports were misidentified known objects, yet the lack of complete certainty led some members of the public to interpret UFOs as signs of extraterrestrial life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
+Television amplified this institutional ambiguity. When viewers saw officials, witnesses and scientists arguing on screen, UFO belief no longer looked only like fringe enthusiasm. It could appear as a civic question: what did the government know, why were [explanations]({{ 'explanations/' | relative_url }}) contested, and why did ordinary citizens keep reporting strange things? The National Archives’ history of Blue Book notes that officials often believed reports were misidentified known objects, yet the lack of complete certainty led some members of the public to interpret UFOs as signs of extraterrestrial life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
 
 Documentary and magazine-style programmes also benefited from a recurring production formula. A UFO segment could begin with a witness narrative, move to a map or photograph, introduce an expert, and end without full [closure]({{ 'closure/' | relative_url }}). That lack of closure was not a flaw for television; it was a format. The unresolved ending made UFOs ideal for repeat programming, because each case could feel self-contained while also feeding a larger atmosphere of [secrecy]({{ 'secrecy/' | relative_url }}) and possibility.
 
@@ -473,15 +473,15 @@ Documentary and magazine-style programmes also benefited from a recurring produc
 
 Fictional television changed UFO belief in a different way: it trained audiences to inhabit UFO mystery over time. A film offered a two-hour encounter; a series made the mystery part of a weekly rhythm. That repetition mattered because UFO mythology is not only about sightings. It is about accumulating hints: a file, a witness, a missing memory, a secret base, a reluctant official, a sceptic who sees too much, a believer who may be right for the wrong reasons.
 
-Late-1970s and early-1980s television created a bridge between case-file realism and science-fiction suspense. *Project U.F.O.*, broadcast on NBC from 1978 to 1979, was loosely based on the real Project Blue Book and presented UFO investigation through a procedural format associated with Jack Webb’s style of documentary-like policing drama. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O</span></span></span> *In Search of...*, hosted by Leonard Nimoy, placed UFOs alongside Bigfoot, lost civilisations and other mysteries, using interviews, reenactments and voiceover to make speculation feel exploratory rather than purely fictional. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/In_Search_of..._%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Late-1970s and early-1980s television created a bridge between case-file realism and science-fiction suspense. *Project U.F.O.*, broadcast on NBC from 1978 to 1979, was loosely based on the real Project Blue Book and presented UFO investigation through a procedural format associated with Jack Webb’s style of documentary-like policing drama.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project U.F.O</span><span class="citation-popover-snippet">Project U.F.O</span></span></span> *In Search of...*, hosted by Leonard Nimoy, placed UFOs alongside Bigfoot, lost civilisations and other mysteries, using interviews, reenactments and voiceover to make speculation feel exploratory rather than purely fictional.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/In_Search_of..._%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This was an important shift in genre. UFO television did not always ask viewers to choose between fact and fiction. Instead, it offered a spectrum: official case drama, speculative documentary, paranormal magazine show, science-fiction thriller. The same living room could receive a network news segment, a dramatised government file and a fictional alien conspiracy within the same broader media diet. Each format reinforced the others by making UFO vocabulary ordinary.
 
-*The X-Files* became the clearest example of that feedback loop in the 1990s. It did not invent UFO lore, but it gathered abduction narratives, implants, hybrids, secret experiments, cover-ups and alien autopsy rumours into a stylish weekly structure. David Clarke’s study of the series argues that from 1993 onwards it became a conduit through which international audiences encountered the legends, rumours and personal-experience narratives of UFO subculture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
+*The X-Files* became the clearest example of that feedback loop in the 1990s. It did not invent UFO lore, but it gathered abduction narratives, implants, hybrids, secret experiments, cover-ups and alien autopsy rumours into a stylish weekly structure. David Clarke’s study of the series argues that from 1993 onwards it became a conduit through which international audiences encountered the legends, rumours and personal-experience narratives of UFO subculture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">Open source on shu.ac.uk.</span></span></span>
 
-The show’s slogans mattered almost as much as its plots. “The Truth Is Out There” and “Trust No One” turned UFO belief into a mood: sceptical of institutions, open to hidden evidence, and emotionally invested in unresolved truth. Britannica summarises *The X-Files* as a science-fiction series that aired on Fox from 1993 to 2002, with revivals in 2016 and 2018, attracted a large cult following and won three Golden Globes for best drama. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-X-Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica The X-Files &#124; History, Premise, Cast, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica The X-Files &#124; History, Premise, Cast, &amp; Facts</span></span></span> Its reach meant that UFO motifs moved from specialist subculture into mainstream television conversation.
+The show’s slogans mattered almost as much as its plots. “The Truth Is Out There” and “Trust No One” turned UFO belief into a mood: sceptical of institutions, open to hidden evidence, and emotionally invested in unresolved truth. Britannica summarises *The X-Files* as a science-fiction series that aired on Fox from 1993 to 2002, with revivals in 2016 and 2018, attracted a large cult following and won three Golden Globes for best drama.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-X-Files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica The X-Files &#124; History, Premise, Cast, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia Britannica The X-Files &#124; History, Premise, Cast, &amp; Facts</span></span></span> Its reach meant that UFO motifs moved from specialist subculture into mainstream television conversation.
 
-The 1990s also show how fiction, news and public attention could spike together. Media analyst Matthew Nisbet found that cultural fascination with UFOs, measured through *New York Times* and *Washington Post* coverage of terms such as UFO, alien abduction and extraterrestrial, reached a historic peak in 1996 and remained high in 1997, boosted by the Roswell anniversary and entertainment products including *Independence Day* and *The X-Files*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/cultural-indicators-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Cultural Indicators of the Paranormal &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Cultural Indicators of the Paranormal &#124; Skeptical Inquirer</span></span></span> Television did not act alone, but it gave the era its serial language.
+The 1990s also show how fiction, news and public attention could spike together. Media analyst Matthew Nisbet found that cultural fascination with UFOs, measured through *New York Times* and *Washington Post* coverage of terms such as UFO, alien abduction and extraterrestrial, reached a historic peak in 1996 and remained high in 1997, boosted by the Roswell anniversary and entertainment products including *Independence Day* and *The X-Files*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/exclusive/cultural-indicators-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Cultural Indicators of the Paranormal &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Cultural Indicators of the Paranormal &#124; Skeptical Inquirer</span></span></span> Television did not act alone, but it gave the era its serial language.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hhJb_vlmnaM" title="The 1960s Conspiracy That Inspired Spielberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer">The 1960s Conspiracy That Inspired Spielberg</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 289.8K &middot; Uploaded: August 2012 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hhJb_vlmnaM">Open on YouTube</a></p></div></div></div>
@@ -498,9 +498,9 @@ Three mechanisms were especially important.
 
 **Third, television rewarded unresolved endings.** A scientific investigation seeks closure where possible; television mystery often benefits from ambiguity. Programmes could include a sceptical explanation and still leave viewers with the emotional impression that the case was not fully settled. That structure is well suited to UFO belief, which often grows in the gap between “not identified” and “therefore possibly alien”.
 
-Research on media effects supports the idea that paranormal television can shape belief, though not in a simple one-way fashion. Purdue University reported on work by Glenn Sparks and Will Miller in which the strongest predictor of paranormal belief, after accounting for demographic variables, was whether people watched television programmes regularly featuring paranormal themes. Sparks cautioned that correlation alone cannot prove that such shows cause belief, but also noted that laboratory experiments on exposure to paranormal depictions were consistent with media influence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.purdue.edu/uns/html4ever/0105.Sparks.paranormal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdue.edu">[Purdue University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdue.edu</span><span class="citation-popover-title">University Media messages may encourage paranormal belief</span><span class="citation-popover-snippet">University Media messages may encourage paranormal belief</span></span></span>
+Research on media effects supports the idea that paranormal television can shape belief, though not in a simple one-way fashion. Purdue University reported on work by Glenn Sparks and Will Miller in which the strongest predictor of paranormal belief, after accounting for demographic variables, was whether people watched television programmes regularly featuring paranormal themes. Sparks cautioned that correlation alone cannot prove that such shows cause belief, but also noted that laboratory experiments on exposure to paranormal depictions were consistent with media influence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.purdue.edu/uns/html4ever/0105.Sparks.paranormal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdue.edu">[Purdue University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdue.edu</span><span class="citation-popover-title">University Media messages may encourage paranormal belief</span><span class="citation-popover-snippet">University Media messages may encourage paranormal belief</span></span></span>
 
-More focused research on UFO news presentation suggests that framing matters. An experimental study on television news about UFOs found that viewers’ subsequent UFO beliefs were affected by the way the story was presented, including whether scientific authority was used to support or challenge UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.ics.purdue.edu/~sparks/Quarterly.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.ics.purdue.edu">[Purdue University ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.ics.purdue.edu</span><span class="citation-popover-title">University ICSDOES TV NEWS AFFECT UFO BELIEFS?</span><span class="citation-popover-snippet">University ICSDOES TV NEWS AFFECT UFO BELIEFS?</span></span></span> This helps explain why documentary tone was so consequential: the same topic could become more credible or less credible depending on how experts, witnesses and doubts were arranged.
+More focused research on UFO news presentation suggests that framing matters. An experimental study on television news about UFOs found that viewers’ subsequent UFO beliefs were affected by the way the story was presented, including whether scientific authority was used to support or challenge UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://web.ics.purdue.edu/~sparks/Quarterly.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.ics.purdue.edu">[Purdue University ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.ics.purdue.edu</span><span class="citation-popover-title">University ICSDOES TV NEWS AFFECT UFO BELIEFS?</span><span class="citation-popover-snippet">University ICSDOES TV NEWS AFFECT UFO BELIEFS?</span></span></span> This helps explain why documentary tone was so consequential: the same topic could become more credible or less credible depending on how experts, witnesses and doubts were arranged.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="Project Blue Book: Declassified – The True Story of the Lubbock Lights | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Lubbock Lights | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 45.0K &middot; Uploaded: February 2019 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIhGAev0ZU4">Open on YouTube</a></p></div></div></div>
@@ -511,7 +511,7 @@ More focused research on UFO news presentation suggests that framing matters. An
 
 Television’s role is often misunderstood. Normalising UFO belief does not mean proving UFO claims, and it does not mean every viewer became a believer. It means television made UFO belief culturally available, emotionally legible and socially discussable. A person could reject alien visitation while still knowing the scripts: the hidden file, the unreliable official explanation, the brave witness, the investigator who “wants to believe”, the scientist torn between scepticism and [wonder]({{ 'wonder/' | relative_url }}).
 
-That distinction matters because official and scientific sources repeatedly separate unidentified reports from extraterrestrial conclusions. The Air Force’s Project Blue Book fact sheet, preserved by the National Archives, concluded that no evaluated UFO had shown evidence of a national-security threat, technology beyond modern scientific knowledge, or extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The Library of Congress frames Carl Sagan’s position as a useful contrast: imaginative speculation about life elsewhere can coexist with rigorous scepticism about claims of alien visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
+That distinction matters because official and scientific sources repeatedly separate unidentified reports from extraterrestrial conclusions. The Air Force’s Project Blue Book fact sheet, preserved by the National Archives, concluded that no evaluated UFO had shown evidence of a national-security threat, technology beyond modern scientific knowledge, or extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> The Library of Congress frames Carl Sagan’s position as a useful contrast: imaginative speculation about life elsewhere can coexist with rigorous scepticism about claims of alien visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
 
 Television blurred that careful distinction because “unidentified” is dramatically stronger than “explained”. In science, an unidentified object may simply mean insufficient data. In television, it can become the opening scene of a larger story. Science fiction supplied the larger story: hidden visitors, superior technology, cosmic threat, or contact suppressed by earthly authorities.
 
@@ -522,194 +522,194 @@ The most durable effect was therefore not a single belief but a habit of interpr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Television Made UFOs Everyday Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Television Made UFOs Everyday Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO reports entered mainstream culture and public discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO reports entered mainstream culture and public discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Mark O&#x27;Connell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Mark O&#x27;Connell</p>
         
-        <p class="fr-book-desc">Covers J. Allen Hynek and the evolution of UFO belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers J. Allen Hynek and the evolution of UFO belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how media and authority shape UFO credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how media and authority shape UFO credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2WeeBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Encyclopedia of Extraterrestrial Encounters">The Mammoth Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Documents the growth of UFO narratives in popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the growth of UFO narratives in popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="https://i.ebayimg.com/images/g/soMAAeSwza9qGsr-/s-l225.jpg" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia"><img src="https://i.ebayimg.com/images/g/6VwAAOSwgKJkO4bi/s-l225.jpg" alt="Listing image for UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Hooper Colorado Watchtower Button Pin - Colorado Souvenir, Alien memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="https://i.ebayimg.com/images/g/9LgAAeSwDCxph84d/s-l225.jpg" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="television-how-television-made-ufos-everyday-mystery-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="https://i.ebayimg.com/images/g/KgkAAeSw-UlqHUV2/s-l225.jpg" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television+-book+-books+-gerry+-anderson+-programme+-concert+-tour+-band&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television -book -books -gerry -anderson -programme -concert -tour -band" data-ebay-reference="how-television-made-ufos-everyday-mystery-ufo-memorabilia-series-television-book-books-gerry-anderson-programme-concert" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -725,7 +725,7 @@ The most durable effect was therefore not a single belief but a habit of interpr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -745,7 +745,7 @@ The most durable effect was therefore not a single belief but a habit of interpr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -777,7 +777,7 @@ The most durable effect was therefore not a single belief but a habit of interpr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -829,7 +829,7 @@ The most durable effect was therefore not a single belief but a habit of interpr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -874,7 +874,7 @@ The most durable effect was therefore not a single belief but a habit of interpr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -915,252 +915,252 @@ The most durable effect was therefore not a single belief but a habit of interpr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Michigan "swamp gas" UFO reports  
-   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project U.F.O  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_U.F.O</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_U.F.O" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_U.F.O</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/In_Search_of..._%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/In_Search_of..._%28TV_series%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/In_Search_of..._%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/In_Search_of..._%28TV_series%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica The X-Files | History, Premise, Cast, & Facts  
-   Link: <a href="https://www.britannica.com/topic/The-X-Files" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-X-Files</a>  
+   Link:<a href="https://www.britannica.com/topic/The-X-Files" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-X-Files</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: purdue.edu  
    Title: University Media messages may encourage paranormal belief  
-   Link: <a href="https://www.purdue.edu/uns/html4ever/0105.Sparks.paranormal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.purdue.edu/uns/html4ever/0105.Sparks.paranormal.html</a>  
+   Link:<a href="https://www.purdue.edu/uns/html4ever/0105.Sparks.paranormal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.purdue.edu/uns/html4ever/0105.Sparks.paranormal.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: web.ics.purdue.edu  
    Title: University ICSDOES TV NEWS AFFECT UFO BELIEFS?  
-   Link: <a href="https://web.ics.purdue.edu/~sparks/Quarterly.PDF" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~sparks/Quarterly.PDF</a>  
+   Link:<a href="https://web.ics.purdue.edu/~sparks/Quarterly.PDF" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~sparks/Quarterly.PDF</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: loc.gov  
    Title: The Library of Congress  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</p></details>
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: federal theater in los angeles and across america  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/24/federal-theater-in-los-angeles-and-across-america/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/24/federal-theater-in-los-angeles-and-across-america/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/10/24/federal-theater-in-los-angeles-and-across-america/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/24/federal-theater-in-los-angeles-and-across-america/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/jfk/select-committee-report/part-1c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk/select-committee-report/part-1c.html</a>  
+   Link:<a href="https://www.archives.gov/research/jfk/select-committee-report/part-1c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/jfk/select-committee-report/part-1c.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: 1977 annual report  
-   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
+   Link:<a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
    Title: 1976 annual report  
-   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1976-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1976-annual-report.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/about/history/sources/reports/1976-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1976-annual-report.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Ancient Aliens  
-   Link: <a href="https://en.wikipedia.org/wiki/Ancient_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ancient_Aliens</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ancient_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ancient_Aliens</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: The X Files  
-   Link: <a href="https://en.wikipedia.org/wiki/The_X-Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_X-Files</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_X-Files" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_X-Files</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: time.com  
    Title: ufo aliens book garrett graff interview  
-   Link: <a href="https://time.com/6328511/ufo-aliens-book-garrett-graff-interview/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6328511/ufo-aliens-book-garrett-graff-interview/</a>  
+   Link:<a href="https://time.com/6328511/ufo-aliens-book-garrett-graff-interview/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6328511/ufo-aliens-book-garrett-graff-interview/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: CBS Reports: UFO: Friend, Foe or Fantasy (  
-   Link: <a href="https://www.youtube.com/watch?v=0ZAtXM_Dd5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0ZAtXM_Dd5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0ZAtXM_Dd5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0ZAtXM_Dd5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
    Published: May 10, 1966  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BlDLDRT-whU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlDLDRT-whU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O. - Opening Credits (Jack Webb Series, 1978-1979)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BlDLDRT-whU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BlDLDRT-whU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O. - Opening Credits (Jack Webb Series, 1978-1979)...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Project U.F.O  
-   Link: <a href="https://www.youtube.com/watch?v=EAGRBGYBgXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EAGRBGYBgXA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=EAGRBGYBgXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EAGRBGYBgXA</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series - YouTube...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcOCIabFnLE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcOCIabFnLE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hhJb_vlmnaM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hhJb_vlmnaM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Cultural Indicators of the Paranormal | Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/exclusive/cultural-indicators-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/cultural-indicators-of-the-paranormal/</a>  
+   Link:<a href="https://skepticalinquirer.org/exclusive/cultural-indicators-of-the-paranormal/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/cultural-indicators-of-the-paranormal/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/</a>  
+   Link:<a href="https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/the" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/the</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/the" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/the</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/the" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/the</a>  
+   Link:<a href="https://en.wiktionary.org/wiki/the" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/the</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: authorcarlara.com  
    Title: The X-Files  
-   Link: <a href="https://www.authorcarlara.com/post/the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.authorcarlara.com/post/the-x-files</a>  
+   Link:<a href="https://www.authorcarlara.com/post/the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.authorcarlara.com/post/the-x-files</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: <a href="http://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Friend Foe or Fantasy Walter Cronkite CBS CBS Reports with Walter Cronkite; UFO Friend. Foe or Fantasy,May 10, 1966.mp4 magnant521...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Friend Foe or Fantasy Walter Cronkite CBS CBS Reports with Walter Cronkite; UFO Friend. Foe or Fantasy,May 10, 1966.mp4 magnant521...</p></details>
    Published: May 10, 1966  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Science Fiction's Influence on UFO Pop Culture  
-   Link: <a href="http://www.youtube.com/watch?v=cGtPAOJSTEo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cGtPAOJSTEo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Walter Cronkite&quot; UFO friend foe fantasy UFO Friend, Foe, or Fantasy - 1966 Documentary ZxrAlienWarrior...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=cGtPAOJSTEo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cGtPAOJSTEo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Walter Cronkite&quot; UFO friend foe fantasy UFO Friend, Foe, or Fantasy - 1966 Documentary ZxrAlienWarrior...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=UWpUC-VLSXc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UWpUC-VLSXc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of the Lubbock Lights | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UWpUC-VLSXc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UWpUC-VLSXc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of the Lubbock Lights | History...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: 'Project Blue Book' Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series  
-   Link: <a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W89jh2C2Ry8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W89jh2C2Ry8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs - YouTube...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: CBS Reports with Walter Cronkite; UFO Friend. Foe or Fantasy,  
-   Link: <a href="http://www.youtube.com/watch?v=rKMFj5m774I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rKMFj5m774I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction&#x27;s Influence on UFO Pop Culture - Offworld Episode 29...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rKMFj5m774I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rKMFj5m774I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction&#x27;s Influence on UFO Pop Culture - Offworld Episode 29...</p></details>
    Published: May 10, 1966  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Lubbock Lights | History  
-   Link: <a href="http://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CIhGAev0ZU4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs History in TV, Movies, and Pop Culture Explained...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CIhGAev0ZU4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs History in TV, Movies, and Pop Culture Explained...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Pop Culture's Impact On UFO's Ahead Of US Intelligence Report  
-   Link: <a href="http://www.youtube.com/watch?v=mx6qhoJ1XLc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mx6qhoJ1XLc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular Science Fiction and the Genesis of Paranormal Claims (Thomas Holtz)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mx6qhoJ1XLc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mx6qhoJ1XLc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular Science Fiction and the Genesis of Paranormal Claims (Thomas Holtz)...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Dr. J. Allen Hynek Michigan UFO Sightings Press Conference (  
-   Link: <a href="https://www.youtube.com/watch?v=0I47_FAUhGE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0I47_FAUhGE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Seeing Is Believing (2005) - ABC News Special...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0I47_FAUhGE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0I47_FAUhGE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Seeing Is Believing (2005) - ABC News Special...</p></details>
    Published: March 25, 1966  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar. 25, 1966 | Dr. J. Allen Hynek Addresses Michigan UFO Sightings - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar. 25, 1966 | Dr. J. Allen Hynek Addresses Michigan UFO Sightings - YouTube...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Popular Science Fiction and the Genesis of Paranormal Claims (Thomas Holtz)  
-   Link: <a href="http://www.youtube.com/watch?v=KMv4E8TCL9A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KMv4E8TCL9A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives Museum...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KMv4E8TCL9A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KMv4E8TCL9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives Museum...</p></details>

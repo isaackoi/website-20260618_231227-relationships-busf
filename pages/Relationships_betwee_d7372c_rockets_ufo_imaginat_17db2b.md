@@ -455,11 +455,11 @@ This matters for the relationship between UFOs and science fiction because the p
 
 ## Wartime weapons and public shock
 
-The German V-2 was the key psychological break. The Smithsonian National Air and Space Museum describes it as the world’s first large-scale liquid-propellant rocket vehicle, the first modern long-range ballistic missile and the ancestor of later large liquid-fuel rockets and launch vehicles. It was not a rumour, pulp-magazine illustration or laboratory curiosity. It was a working weapon that crossed borders at high speed, arrived with little warning and made the upper atmosphere feel militarily reachable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-surface-surface-v-2-4/nasm_A19600342000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumV-2 MissileThe German V-2 rocket was the world&#x27;s first large-scale liquid-propellant rocket vehicle, the fir...</span></span></span>
+The German V-2 was the key psychological break. The Smithsonian National Air and Space Museum describes it as the world’s first large-scale liquid-propellant rocket vehicle, the first modern long-range ballistic missile and the ancestor of later large liquid-fuel rockets and launch vehicles. It was not a rumour, pulp-magazine illustration or laboratory curiosity. It was a working weapon that crossed borders at high speed, arrived with little warning and made the upper atmosphere feel militarily reachable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/collection-objects/missile-surface-surface-v-2-4/nasm_A19600342000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space MuseumV-2 MissileThe German V-2 rocket was the world&#x27;s first large-scale liquid-propellant rocket vehicle, the fir...</span></span></span>
 
 That changed how post-war observers could interpret the sky. If an object was fast, silent, luminous, high-flying or strangely shaped, the question no longer had to jump directly from “natural phenomenon” to “impossible”. A third category had become vivid: secret technology. The V-2 showed that governments could possess machines more advanced than the public expected, and that wartime research could remain partly hidden. In UFO culture, that idea became crucial. Many reports could be discussed as possible enemy devices, captured German weapons, experimental aircraft, or technologies beyond ordinary aviation.
 
-The “[ghost rockets]({{ 'ghost-rockets/' | relative_url }})” reported over Scandinavia in 1946 show this mechanism clearly. Before the American [flying-saucer]({{ 'flying-saucer/' | relative_url }}) wave of 1947, witnesses in Sweden, Finland and nearby regions reported rocket-like or missile-like objects. Contemporary speculation often centred on whether the Soviet Union was testing captured German V-1 or V-2 technology. A declassified Central Intelligence Group memorandum from August 1946 treated the reports as a security matter and discussed the possibility of missiles linked to Peenemünde, the German rocket centre, rather than treating the sightings mainly as folklore or entertainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+The “[ghost rockets]({{ 'ghost-rockets/' | relative_url }})” reported over Scandinavia in 1946 show this mechanism clearly. Before the American [flying-saucer]({{ 'flying-saucer/' | relative_url }}) wave of 1947, witnesses in Sweden, Finland and nearby regions reported rocket-like or missile-like objects. Contemporary speculation often centred on whether the Soviet Union was testing captured German V-1 or V-2 technology. A declassified Central Intelligence Group memorandum from August 1946 treated the reports as a security matter and discussed the possibility of missiles linked to Peenemünde, the German rocket centre, rather than treating the sightings mainly as folklore or entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 The important point is not that the ghost rockets were proven to be Soviet missiles. They were not. Many reports were vague, some may have involved meteors or other ordinary causes, and no decisive wreckage established a single technological explanation. The important point is that “rocket” had become the natural interpretive frame. A generation earlier, an odd light might have been fitted into airship rumours or celestial mystery. In 1946, it could be understood through captured weapons, ballistic tests and geopolitical [secrecy]({{ 'secrecy/' | relative_url }}).
 
@@ -469,13 +469,13 @@ This is one of the cleanest examples of real technology shaping UFO imagination 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_rockets_ufo_imaginat_17db2b-Illustration-1-dark.svg" | relative_url }}" alt="Rockets illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_rockets_ufo_imaginat_17db2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_rockets_ufo_imaginat_17db2b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spaceflight as a believable future
 
-The V-2 also made spaceflight seem less remote. The same technology that had terrorised cities became a foundation for post-war rocketry and the Space Age. The Science Museum in London describes the V-2 as a harbinger of the Cold War missile age and connects it to the later space race, while the Smithsonian’s museum display history treats the V-2 as an object that bridges wartime violence and later public narratives of living in the Space Age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/54/77/2020715477/2020715477.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
+The V-2 also made spaceflight seem less remote. The same technology that had terrorised cities became a foundation for post-war rocketry and the Space Age. The Science Museum in London describes the V-2 as a harbinger of the Cold War missile age and connects it to the later space race, while the Smithsonian’s museum display history treats the V-2 as an object that bridges wartime violence and later public narratives of living in the Space Age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/54/77/2020715477/2020715477.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span>
 
 This double identity mattered for UFO stories. Rockets were frightening because they were weapons, but they were also exciting because they pointed upwards. They made the idea of travelling beyond Earth feel nearer. A civilisation that had built long-range rockets might soon build spacecraft; a civilisation elsewhere might already have done so. Science fiction had imagined interplanetary travel long before 1945, but post-war rockets gave those imaginings a harder technological edge.
 
 By the late 1940s and 1950s, UFOs could therefore sit between two believable futures. One was military: secret missiles, spy aircraft, enemy tests and superweapons. The other was cosmic: spacecraft, alien visitors and interplanetary travel. The same visible object could slide between these [explanations]({{ 'explanations/' | relative_url }}) depending on the witness, the newspaper, the official response and the popular fiction surrounding it.
 
-This helps explain why “flying saucer” culture took off in a period already saturated with technological acceleration. Science fiction magazines, films and popular science were not operating in isolation. The war had brought rockets, radar, atomic bombs and early computers into public awareness, and the late 1940s brought the flying-saucer craze into that same mental world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://classicsofsciencefiction.com/2022/05/13/the-1953-sff-magazine-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classicsofsciencefiction.com">[Classics of Science Fiction]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classicsofsciencefiction.com</span><span class="citation-popover-title">the 1953 sff magazine boom</span><span class="citation-popover-snippet">the 1953 sff magazine boom</span></span></span>
+This helps explain why “flying saucer” culture took off in a period already saturated with technological acceleration. Science fiction magazines, films and popular science were not operating in isolation. The war had brought rockets, radar, atomic bombs and early computers into public awareness, and the late 1940s brought the flying-saucer craze into that same mental world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://classicsofsciencefiction.com/2022/05/13/the-1953-sff-magazine-boom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classicsofsciencefiction.com">[Classics of Science Fiction]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classicsofsciencefiction.com</span><span class="citation-popover-title">the 1953 sff magazine boom</span><span class="citation-popover-snippet">the 1953 sff magazine boom</span></span></span>
 
 The result was a new kind of plausibility. A UFO did not have to obey the familiar look of an aeroplane. Audiences had already been taught that advanced machines might have new shapes. They had also been taught that the most important machines might be secret until suddenly revealed. Science fiction could now borrow from real engineering, while UFO interpretation borrowed from science fiction’s habit of imagining the next machine just beyond the known one.
 
@@ -488,11 +488,11 @@ The blurring happened because post-war technology changed the boundary between �
 
 **First, speed became credible.** Rockets made extreme velocity part of public reality. Reports of objects moving too fast for ordinary aircraft no longer sounded automatically supernatural. They sounded like they might belong to a hidden weapons programme, a foreign power or a breakthrough in propulsion.
 
-**Second, secrecy became credible.** The Second World War and Cold War normalised the idea that major technologies could be developed in restricted programmes. Later official histories of U-2 and OXCART reconnaissance aircraft show how classified aviation programmes really did produce aircraft whose performance and operating altitude were unfamiliar to many observers. A US Navy history page notes that U-2 and later OXCART flights accounted for more than half of UFO reports during the late 1950s and much of the 1960s, a striking example of real secret technology generating UFO-like observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">u2s ufos and operation blue book</span><span class="citation-popover-snippet">u2s ufos and operation blue book</span></span></span>
+**Second, secrecy became credible.** The Second World War and Cold War normalised the idea that major technologies could be developed in restricted programmes. Later official histories of U-2 and OXCART reconnaissance aircraft show how classified aviation programmes really did produce aircraft whose performance and operating altitude were unfamiliar to many observers. A US Navy history page notes that U-2 and later OXCART flights accounted for more than half of UFO reports during the late 1950s and much of the 1960s, a striking example of real secret technology generating UFO-like observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-title">u2s ufos and operation blue book</span><span class="citation-popover-snippet">u2s ufos and operation blue book</span></span></span>
 
 **Third, shape became flexible.** Earlier aviation had taught the public to expect wings, propellers and familiar silhouettes. Rockets, jets, swept wings, flying-wing experiments and later high-altitude reconnaissance aircraft made unfamiliar shapes less absurd. A bright object without obvious wings could be framed as advanced engineering, not merely as a mistake.
 
-**Fourth, the sky became a strategic frontier.** Radar, missiles and nuclear deterrence transformed the atmosphere and near-space into military territory. UFO reports therefore mattered not only as curiosities but as possible warnings. This is why official investigations often asked whether sightings represented a threat, foreign technology, misidentified aircraft, astronomical phenomena or insufficiently documented events. The National Archives summarises [Project Blue Book]({{ 'blue-book/' | relative_url }}) as a declassified Air Force investigation into UFO reports that ran until 1969, while NASA’s later UAP report stresses the problem of limited high-quality observations rather than jumping to extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+**Fourth, the sky became a strategic frontier.** Radar, missiles and nuclear deterrence transformed the atmosphere and near-space into military territory. UFO reports therefore mattered not only as curiosities but as possible warnings. This is why official investigations often asked whether sightings represented a threat, foreign technology, misidentified aircraft, astronomical phenomena or insufficiently documented events. The National Archives summarises [Project Blue Book]({{ 'blue-book/' | relative_url }}) as a declassified Air Force investigation into UFO reports that ran until 1969, while NASA’s later UAP report stresses the problem of limited high-quality observations rather than jumping to extraordinary conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 These mechanisms gave UFO stories their distinctive post-war tension. A UFO could be treated as evidence of alien life, but it could also be treated as a clue to terrestrial secrets. That ambiguity is a major reason the subject became so durable. Science fiction could imagine extraterrestrial visitors; real rocket and aircraft programmes kept open the possibility that the truth might instead be hidden in military technology.
 
@@ -515,11 +515,11 @@ This distinction also shaped science fiction. Stories about rockets often emphas
 
 The relationship between real technology and UFO imagination did not end with the 1940s. In the Cold War, classified aircraft repeatedly reinforced the idea that strange sightings might be human-made machines hidden behind official silence. The U-2, A-12 and OXCART programmes are especially important because they show the pattern in documented form: a real secret aircraft flies at unusual altitudes or with unusual performance; observers report something strange; investigators may know more than they can publicly say.
 
-The National Security Archive’s account of the U-2 and Area 51 highlights how declassified CIA histories later confirmed details about secret reconnaissance programmes, including Groom Lake references and U-2 operations. Those revelations matter culturally because they validated part of the UFO imagination without validating the extraterrestrial claim: yes, governments really did hide exotic-looking aerospace projects; no, that did not mean the objects were alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
+The National Security Archive’s account of the U-2 and Area 51 highlights how declassified CIA histories later confirmed details about secret reconnaissance programmes, including Groom Lake references and U-2 operations. Those revelations matter culturally because they validated part of the UFO imagination without validating the extraterrestrial claim: yes, governments really did hide exotic-looking aerospace projects; no, that did not mean the objects were alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
 This pattern also helps explain why sceptical and believer interpretations often talk past each other. A sceptic may point out that many sightings have conventional or classified explanations. A believer may answer that secrecy itself is part of the pattern. Both responses draw energy from the same post-war fact: advanced aerospace technology has often been unevenly visible. Some people knew; most people did not; the sky occasionally revealed hints before official disclosure caught up.
 
-The Pentagon’s All-domain Anomaly Resolution Office made a similar distinction in its 2024 historical report, assessing that alleged hidden alien reverse-engineering programmes were either unsupported, misidentified sensitive national-security programmes, or otherwise not evidence of extraterrestrial technology. That finding does not remove the cultural link between secrecy and UFOs. It underlines it: real classified programmes can be mistaken for more extraordinary things. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+The Pentagon’s All-domain Anomaly Resolution Office made a similar distinction in its 2024 historical report, assessing that alleged hidden alien reverse-engineering programmes were either unsupported, misidentified sensitive national-security programmes, or otherwise not evidence of extraterrestrial technology. That finding does not remove the cultural link between secrecy and UFOs. It underlines it: real classified programmes can be mistaken for more extraordinary things.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_rockets_ufo_imaginat_17db2b-Illustration-3-dark.svg" | relative_url }}" alt="Rockets illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_rockets_ufo_imaginat_17db2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_rockets_ufo_imaginat_17db2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -529,7 +529,7 @@ Rockets and real aircraft did not replace imagination; they upgraded it. UFO sto
 
 This mattered for science fiction too. Writers and filmmakers could now build stories around recognisable technological anxieties: missiles arriving without warning, radar screens detecting unknown objects, saucers defeating jets, aliens observing nuclear tests, or governments hiding captured craft in military facilities. The plausibility did not come from proof. It came from resemblance. The fictional unknown resembled the real unknowns created by rapid technological change.
 
-The same resemblance also affected witness interpretation. A light, shape or movement was not experienced in a cultural vacuum. If people knew about rockets, jet aircraft, satellites, missiles or secret test ranges, those ideas became part of the mental toolkit for describing the unexplained. NASA’s 2023 UAP report makes the modern version of this problem clear: observations that cannot immediately be identified as balloons, aircraft or known natural phenomena may remain unresolved when the data are poor, but unresolved does not automatically mean extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The same resemblance also affected witness interpretation. A light, shape or movement was not experienced in a cultural vacuum. If people knew about rockets, jet aircraft, satellites, missiles or secret test ranges, those ideas became part of the mental toolkit for describing the unexplained. NASA’s 2023 UAP report makes the modern version of this problem clear: observations that cannot immediately be identified as balloons, aircraft or known natural phenomena may remain unresolved when the data are poor, but unresolved does not automatically mean extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 That point is central to the science-fiction relationship. Fiction thrives in the gap between what is seen and what is known. Real technology widened that gap. The public could see enough to believe that astonishing machines existed, but not always enough to identify them. UFO imagination grew in that space.
 
@@ -545,194 +545,194 @@ Rockets taught the public that yesterday’s science fiction could become today�
 That is why rockets belong at the centre of this subtopic. They made science-fictional UFO stories feel newly possible not because they proved alien visitation, but because they changed the public sense of technological limits. After the V-2, the jet age, classified reconnaissance aircraft and the coming Space Age, a strange object in the sky could plausibly be read as a machine ahead of ordinary knowledge. UFO culture and science fiction both grew from that altered horizon.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Real Rockets Changed UFO Imagination. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Real Rockets Changed UFO Imagination. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Places UFO interpretations in the postwar technological era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places UFO interpretations in the postwar technological era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpMfCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
-        </h4>
-        <p class="fr-book-author">By John Drury Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ignition! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpMfCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ignition!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ignition!">Ignition!</a>
+</h4>
+<p class="fr-book-author">By John Drury Clark</p>
         
-        <p class="fr-book-desc">Provides context for how real rocket technology changed public imagination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how real rocket technology changed public imagination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ignition%21+by+John+Drury+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nKorDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
-        </h4>
-        <p class="fr-book-author">By Robert Kurson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nKorDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
+</h4>
+<p class="fr-book-author">By Robert Kurson</p>
         
-        <p class="fr-book-desc">Shows how spaceflight became a believable technological reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how spaceflight became a believable technological reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocket+Men+by+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Captures the cultural impact of advanced aerospace technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Captures the cultural impact of advanced aerospace technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ignition%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ignition!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ignition%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ignition!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocket Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed"><img src="{{ '/assets/images/marketplace-covers/dd0901642ceb5d38e826.jpg' | relative_url }}" alt="Listing image for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed"><img src="{{ '/assets/images/marketplace-covers/dd0901642ceb5d38e826.jpg' | relative_url }}" alt="Listing image for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="rockets-how-real-rockets-changed-ufo-imagination-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -748,7 +748,7 @@ That is why rockets belong at the centre of this subtopic. They made science-fic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -768,7 +768,7 @@ That is why rockets belong at the centre of this subtopic. They made science-fic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -800,7 +800,7 @@ That is why rockets belong at the centre of this subtopic. They made science-fic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -852,7 +852,7 @@ That is why rockets belong at the centre of this subtopic. They made science-fic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -897,7 +897,7 @@ That is why rockets belong at the centre of this subtopic. They made science-fic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -938,178 +938,178 @@ That is why rockets belong at the centre of this subtopic. They made science-fic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/1946-08-23.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/1946-08-23.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: of UFOs  
-   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
+   Link:<a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: DOW UAP D077 Unresolved Case Analysis Update Western United States Event  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/collection-objects/missile-surface-surface-v-2-4/nasm_A19600342000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/missile-surface-surface-v-2-4/nasm_A19600342000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumV-2 MissileThe German V-2 rocket was the world&#x27;s first large-scale liquid-propellant rocket vehicle, the fir...</p></details>
+   Link:<a href="https://airandspace.si.edu/collection-objects/missile-surface-surface-v-2-4/nasm_A19600342000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/missile-surface-surface-v-2-4/nasm_A19600342000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumV-2 MissileThe German V-2 rocket was the world&#x27;s first large-scale liquid-propellant rocket vehicle, the fir...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Ghost rockets  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/54/77/2020715477/2020715477.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/54/77/2020715477/2020715477.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/54/77/2020715477/2020715477.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/54/77/2020715477/2020715477.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: airandspace.si.edu  
    Title: restoring museums v 2 missile  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/restoring-museums-v-2-missile" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/restoring-museums-v-2-missile</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/restoring-museums-v-2-missile" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/restoring-museums-v-2-missile</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: classicsofsciencefiction.com  
    Title: the 1953 sff magazine boom  
-   Link: <a href="https://classicsofsciencefiction.com/2022/05/13/the-1953-sff-magazine-boom/" target="_blank" rel="noopener noreferrer nofollow">https://classicsofsciencefiction.com/2022/05/13/the-1953-sff-magazine-boom/</a>  
+   Link:<a href="https://classicsofsciencefiction.com/2022/05/13/the-1953-sff-magazine-boom/" target="_blank" rel="noopener noreferrer nofollow">https://classicsofsciencefiction.com/2022/05/13/the-1953-sff-magazine-boom/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   Link:<a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: airandspace.si.edu  
    Title: military rockets launched space age  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/military-rockets-launched-space-age</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/airandspace/posts/one-of-the-icons-of-the-museum-was-the-black-and-white-german-v-2-ballistic-miss/693306022832809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airandspace/posts/one-of-the-icons-of-the-museum-was-the-black-and-white-german-v-2-ballistic-miss/693306022832809/</a>  
+   Link:<a href="https://www.facebook.com/airandspace/posts/one-of-the-icons-of-the-museum-was-the-black-and-white-german-v-2-ballistic-miss/693306022832809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airandspace/posts/one-of-the-icons-of-the-museum-was-the-black-and-white-german-v-2-ballistic-miss/693306022832809/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dbrl.bibliocommons.com  
-   Link: <a href="https://dbrl.bibliocommons.com/v2/list/display/70717366/72282639" target="_blank" rel="noopener noreferrer nofollow">https://dbrl.bibliocommons.com/v2/list/display/70717366/72282639</a>  
+   Link:<a href="https://dbrl.bibliocommons.com/v2/list/display/70717366/72282639" target="_blank" rel="noopener noreferrer nofollow">https://dbrl.bibliocommons.com/v2/list/display/70717366/72282639</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
+   Link:<a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0PcRWdWO3Os" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0PcRWdWO3Os</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0PcRWdWO3Os" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0PcRWdWO3Os</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: How did the V2 rocket launch the Space Age?  
-   Link: <a href="https://www.youtube.com/watch?v=vr1A5Ta4rD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vr1A5Ta4rD8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret WWII Rocket Program That Birthed the Space Age. Forging the Frontiers of Flight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vr1A5Ta4rD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vr1A5Ta4rD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret WWII Rocket Program That Birthed the Space Age. Forging the Frontiers of Flight...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/</a>  
+   Link:<a href="https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947</a>  
+   Link:<a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sfu.ca  
-   Link: <a href="https://www.sfu.ca/~andrewf/books/An_End_to_History_Science_Fiction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/~andrewf/books/An_End_to_History_Science_Fiction.pdf</a>  
+   Link:<a href="https://www.sfu.ca/~andrewf/books/An_End_to_History_Science_Fiction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/~andrewf/books/An_End_to_History_Science_Fiction.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Estimate-Situation-[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Estimate-Situation-[Unidentified</a>  
+   Link:<a href="https://www.amazon.co.uk/Estimate-Situation-[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Estimate-Situation-[Unidentified</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/golden-age-american-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/golden-age-american-science-fiction</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/history/golden-age-american-science-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/golden-age-american-science-fiction</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/area51/comments/1ollc9r/help_needed_on_u2_research/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/area51/comments/1ollc9r/help_needed_on_u2_research/</a>  
+   Link:<a href="https://www.reddit.com/r/area51/comments/1ollc9r/help_needed_on_u2_research/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/area51/comments/1ollc9r/help_needed_on_u2_research/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  

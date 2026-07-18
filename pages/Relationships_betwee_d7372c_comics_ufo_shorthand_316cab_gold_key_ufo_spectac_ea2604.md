@@ -280,17 +280,17 @@ image: /assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_go
 
 ## Introduction
 
-Gold Key’s *UFO [Flying Saucers]({{ 'flying-saucer/' | relative_url }})* was one of the clearest examples of a comic book trying to look like a case file while still behaving like popular science fiction. Launched in 1968 by Western Publishing’s Gold Key line, the series presented UFO sightings, alleged encounters, mysterious lights and extraterrestrial visitors through a format that borrowed the language of investigation and eyewitness testimony. Yet its pages remained unmistakably comic-book spectacles, filled with dramatic saucer imagery, frightened witnesses, looming aliens and moments of apparent contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</span><span class="citation-popover-meta">Published: July 7, 1968</span></span></span>
+Gold Key’s *UFO [Flying Saucers]({{ 'flying-saucer/' | relative_url }})* was one of the clearest examples of a comic book trying to look like a case file while still behaving like popular science fiction. Launched in 1968 by Western Publishing’s Gold Key line, the series presented UFO sightings, alleged encounters, mysterious lights and extraterrestrial visitors through a format that borrowed the language of investigation and eyewitness testimony. Yet its pages remained unmistakably comic-book spectacles, filled with dramatic saucer imagery, frightened witnesses, looming aliens and moments of apparent contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</span><span class="citation-popover-meta">Published: July 7, 1968</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_gold_key_ufo_spectac_ea2604-Illustration-1-dark.svg" | relative_url }}" alt="Gold Key UFO illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_gold_key_ufo_spectac_ea2604-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_gold_key_ufo_spectac_ea2604-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result was an unusual hybrid. Rather than asking readers to enter a wholly fictional universe, *UFO Flying [Saucers]({{ 'saucers/' | relative_url }})* often implied that its stories were drawn from reports, mysteries and real-world claims. In doing so, it occupied a distinctive position in the relationship between UFO culture and science fiction: it transformed the appearance of evidence into visual entertainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
+The result was an unusual hybrid. Rather than asking readers to enter a wholly fictional universe, *UFO Flying [Saucers]({{ 'saucers/' | relative_url }})* often implied that its stories were drawn from reports, mysteries and real-world claims. In doing so, it occupied a distinctive position in the relationship between UFO culture and science fiction: it transformed the appearance of evidence into visual entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
 
 ## The 1968 Series and Its Documentary Posture
 
-From its first issue, *UFO Flying Saucers* adopted a tone closer to a dossier than a conventional adventure comic. The series included text features about UFOs alongside comic stories, creating the impression that readers were examining a collection of reports rather than simply reading fiction. The debut issue even opened with an explanatory text article, “What Is a UFO?”, before moving into illustrated narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</span><span class="citation-popover-meta">Published: July 7, 1968</span></span></span>
+From its first issue, *UFO Flying Saucers* adopted a tone closer to a dossier than a conventional adventure comic. The series included text features about UFOs alongside comic stories, creating the impression that readers were examining a collection of reports rather than simply reading fiction. The debut issue even opened with an explanatory text article, “What Is a UFO?”, before moving into illustrated narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</span><span class="citation-popover-meta">Published: July 7, 1968</span></span></span>
 
-This approach reflected a broader UFO publishing culture of the 1950s and 1960s. Books such as *The Coming of the Saucers* described themselves as “documentary” reports and mixed testimony, interpretation and speculation into a single narrative form. Gold Key adapted a similar strategy for [comics]({{ 'comics/' | relative_url }}). Instead of presenting a superhero battling invaders from space, it framed many stories as mysteries that witnesses claimed had already happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Coming of the Saucers</span><span class="citation-popover-snippet">The Coming of the Saucers</span></span></span>
+This approach reflected a broader UFO publishing culture of the 1950s and 1960s. Books such as *The Coming of the Saucers* described themselves as “documentary” reports and mixed testimony, interpretation and speculation into a single narrative form. Gold Key adapted a similar strategy for [comics]({{ 'comics/' | relative_url }}). Instead of presenting a superhero battling invaders from space, it framed many stories as mysteries that witnesses claimed had already happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Coming of the Saucers</span><span class="citation-popover-snippet">The Coming of the Saucers</span></span></span>
 
 The documentary posture was important because it changed how readers interpreted familiar science-fiction imagery. A flying saucer hovering above a farmhouse was not merely an adventure-comic setting. Within the logic of *UFO Flying Saucers*, it could be read as visualised evidence—an artist’s reconstruction of an alleged event.
 
@@ -301,7 +301,7 @@ The documentary posture was important because it changed how readers interpreted
 
 The series constantly balanced two competing goals. One was to appear factual. The other was to remain exciting enough to sell comic books.
 
-Publishers and later descriptions of the series emphasised that stories often highlighted corroborating witnesses, respectable observers and supposedly credible testimony. The comic repeatedly drew attention to the reliability of those reporting unusual events, a technique common in UFO literature of the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
+Publishers and later descriptions of the series emphasised that stories often highlighted corroborating witnesses, respectable observers and supposedly credible testimony. The comic repeatedly drew attention to the reliability of those reporting unusual events, a technique common in UFO literature of the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
 
 At the same time, the artwork amplified every element of drama:
 
@@ -352,213 +352,213 @@ The tension between investigation and invasion was central to the comic's appeal
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_gold_key_ufo_spectac_ea2604-Illustration-3-dark.svg" | relative_url }}" alt="Gold Key UFO illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_gold_key_ufo_spectac_ea2604-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_gold_key_ufo_spectac_ea2604-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Eyewitness Evidence
 
-Perhaps the most distinctive keyword was evidence itself. The series frequently framed events through witnesses, testimony and reported observation. Later descriptions note that stories often stressed corroboration and the credibility of observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
+Perhaps the most distinctive keyword was evidence itself. The series frequently framed events through witnesses, testimony and reported observation. Later descriptions note that stories often stressed corroboration and the credibility of observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
 
 Yet [eyewitness evidence]({{ 'witness-limits/' | relative_url }}) in the comic was never merely verbal. It was transformed into images. A witness account became a panel showing exactly what was supposedly seen. That transformation gave visual certainty to experiences that were often uncertain in reality.
 
-A story such as “The Mississippi Mystery,” for example, combined UFO motifs with themes of alien presence and abduction, demonstrating how witness-centred mystery narratives could be converted into vivid comic-book scenes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/255552/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #4 [Gold Key]August 8, 1974...</span><span class="citation-popover-meta">Published: August 8, 1974</span></span></span>
+A story such as “The Mississippi Mystery,” for example, combined UFO motifs with themes of alien presence and abduction, demonstrating how witness-centred mystery narratives could be converted into vivid comic-book scenes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/255552/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #4 [Gold Key]August 8, 1974...</span><span class="citation-popover-meta">Published: August 8, 1974</span></span></span>
 
 ## What Gold Key's UFO Comic Contributed to UFO Visual Culture
 
 The lasting significance of *UFO Flying Saucers* lies less in any individual case than in its method. The series treated UFO reports as raw material for visual reconstruction. Rather than choosing between journalism and science fiction, it occupied the space between them.
 
-That position helped reinforce several enduring UFO images: the metallic disc, the close encounter, the mysterious witness and the extraterrestrial visitor. Readers encountered these not as openly fictional inventions but as illustrations attached to claims of observation and evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</span><span class="citation-popover-meta">Published: July 7, 1968</span></span></span>
+That position helped reinforce several enduring UFO images: the metallic disc, the close encounter, the mysterious witness and the extraterrestrial visitor. Readers encountered these not as openly fictional inventions but as illustrations attached to claims of observation and evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</span><span class="citation-popover-meta">Published: July 7, 1968</span></span></span>
 
-Within the broader relationship between UFOs and science fiction, Gold Key’s comic demonstrates how popular media could make extraordinary claims feel tangible. The series adopted the posture of investigation while relying on the visual grammar of adventure comics, creating a documentary spectacle in which evidence and imagination became difficult to separate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
+Within the broader relationship between UFOs and science fiction, Gold Key’s comic demonstrates how popular media could make extraordinary claims feel tangible. The series adopted the posture of investigation while relying on the visual grammar of adventure comics, creating a documentary spectacle in which evidence and imagination became difficult to separate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atomicavenue.com">[Atomic Avenue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atomicavenue.com</span><span class="citation-popover-title">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span><span class="citation-popover-snippet">Atomic Avenue UFO Flying Saucers comic books from Gold Key</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zQMJGjL0DrU" title="Gold Key Sci-Fi Comics - part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zQMJGjL0DrU" target="_blank" rel="noopener noreferrer">Gold Key Sci-Fi Comics - part 1</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Zone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zQMJGjL0DrU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zQMJGjL0DrU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Comics Pretended to Be Case Files. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Comics Pretended to Be Case Files. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Represents the investigative tone imitated by documentary-style comics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the investigative tone imitated by documentary-style comics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCloud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
+</h4>
+<p class="fr-book-author">By Scott McCloud</p>
         
-        <p class="fr-book-desc">Helps explain how comics turn evidence-like material into visual narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how comics turn evidence-like material into visual narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides context for the cases and claims echoed by UFO comics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the cases and claims echoed by UFO comics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming of the Saucers">The Coming of the Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth Arnold, Ray Palmer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming of the Saucers">The Coming of the Saucers</a>
+</h4>
+<p class="fr-book-author">By Kenneth Arnold, Ray Palmer</p>
         
-        <p class="fr-book-desc">Reflects the documentary style later echoed in comics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the documentary style later echoed in comics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coming+of+the+Saucers+by+Kenneth+Arnold&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Comics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Comics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Encyclopedia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files - 3D Shop Display Collection Sign Collectors Display"><img src="{{ '/assets/images/marketplace-covers/ed2f7e16c7b0bf9d073f.jpg' | relative_url }}" alt="Listing image for The X Files - 3D Shop Display Collection Sign Collectors Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X Files - 3D Shop Display Collection Sign Collectors Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files - 3D Shop Display Collection Sign Collectors Display"><img src="{{ '/assets/images/marketplace-covers/ed2f7e16c7b0bf9d073f.jpg' | relative_url }}" alt="Listing image for The X Files - 3D Shop Display Collection Sign Collectors Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X Files - 3D Shop Display Collection Sign Collectors Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS"><img src="{{ '/assets/images/marketplace-covers/bd1463350491d3de6ce1.jpg' | relative_url }}" alt="Listing image for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS"><img src="{{ '/assets/images/marketplace-covers/bd1463350491d3de6ce1.jpg' | relative_url }}" alt="Listing image for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Memorabilia A4 Vintage Magazine Poster"><img src="{{ '/assets/images/marketplace-covers/b47b2607f628cfda94f4.jpg' | relative_url }}" alt="Listing image for The X-Files Memorabilia A4 Vintage Magazine Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Memorabilia A4 Vintage Magazine Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Memorabilia A4 Vintage Magazine Poster"><img src="{{ '/assets/images/marketplace-covers/b47b2607f628cfda94f4.jpg' | relative_url }}" alt="Listing image for The X-Files Memorabilia A4 Vintage Magazine Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Memorabilia A4 Vintage Magazine Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1"><img src="{{ '/assets/images/marketplace-covers/ff8d557e5edfa8b036e0.jpg' | relative_url }}" alt="Listing image for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1"><img src="{{ '/assets/images/marketplace-covers/ff8d557e5edfa8b036e0.jpg' | relative_url }}" alt="Listing image for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="gold-key-ufo-when-ufo-comics-pretended-to-be-case-files-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ Within the broader relationship between UFOs and science fiction, Gold Key’s c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ Within the broader relationship between UFOs and science fiction, Gold Key’s c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ Within the broader relationship between UFOs and science fiction, Gold Key’s c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ Within the broader relationship between UFOs and science fiction, Gold Key’s c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ Within the broader relationship between UFOs and science fiction, Gold Key’s c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,93 +764,93 @@ Within the broader relationship between UFOs and science fiction, Gold Key’s c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/22239/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</p></details>
+   Link:<a href="https://www.comics.org/issue/22239/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/22239/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #1July 7, 1968...</p></details>
    Published: July 7, 1968  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Coming of the Saucers  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255552/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255552/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #4 [Gold Key]August 8, 1974...</p></details>
+   Link:<a href="https://www.comics.org/issue/255552/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Comics DatabaseGCD:: Issue:: UFO Flying Saucers (Western, 1968 series) #4 [Gold Key]August 8, 1974...</p></details>
    Published: August 8, 1974  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255557/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Flying Saucers (Western, 1968 series) #9 [Gold Key]October 30, 1975...</p></details>
+   Link:<a href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255557/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Flying Saucers (Western, 1968 series) #9 [Gold Key]October 30, 1975...</p></details>
    Published: October 30, 1975  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Flying Saucers from Outer Space  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: atomicavenue.com  
    Title: Atomic Avenue UFO Flying Saucers comic books from Gold Key  
-   Link: <a href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow">https://atomicavenue.com/atomic/series/8158/Book/Caterpillars</a>  
+   Link:<a href="https://atomicavenue.com/atomic/series/8158/Book/Caterpillars" target="_blank" rel="noopener noreferrer nofollow">https://atomicavenue.com/atomic/series/8158/Book/Caterpillars</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z0KgVSG11Jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0KgVSG11Jk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z0KgVSG11Jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0KgVSG11Jk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nicap.org  
    Title: www.nicap.org Proceedings of the UFO History Workshop  
-   Link: <a href="https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of the UFO History WorkshopNovember 3, 2025...</p></details>
+   Link:<a href="https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/Proceedings-of-SHG-UFO-History-Workshop.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the UFO History WorkshopNovember 3, 2025...</p></details>
    Published: November 3, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: comics.ha.com  
-   Link: <a href="https://comics.ha.com/comic-issue-index/ufo-flying-saucers.s?id=255559" target="_blank" rel="noopener noreferrer nofollow">https://comics.ha.com/comic-issue-index/ufo-flying-saucers.s?id=255559</a>  
+   Link:<a href="https://comics.ha.com/comic-issue-index/ufo-flying-saucers.s?id=255559" target="_blank" rel="noopener noreferrer nofollow">https://comics.ha.com/comic-issue-index/ufo-flying-saucers.s?id=255559</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Gold Key Sci-Fi Comics  
-   Link: <a href="https://www.youtube.com/watch?v=zQMJGjL0DrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQMJGjL0DrU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Silver Age of Comics (1956–1970s) — When Everything Changed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zQMJGjL0DrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQMJGjL0DrU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Silver Age of Comics (1956–1970s) — When Everything Changed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: documents.theblackvault.com  
    Title: This document is made available through the declassification efforts  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/CondonReport-Full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CondonReport-Full.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 2026...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/CondonReport-Full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CondonReport-Full.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 2026...</p></details>
    Published: February 11, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Watch The Skies! A Brief History Of UFO Comics  
-   Link: <a href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpFgPpvX2gI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gold Key Sci-Fi Comics - part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lpFgPpvX2gI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpFgPpvX2gI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gold Key Sci-Fi Comics - part 1...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BfLSclIe9Zg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BfLSclIe9Zg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=BfLSclIe9Zg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BfLSclIe9Zg</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Layout 1September 10, 2009...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Layout 1September 10, 2009...</p></details>
    Published: September 10, 2009  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/pdf/pilotsightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/pilotsightings.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AERIAL PHENOMENAOctober 31, 2025...</p></details>
+   Link:<a href="https://www.ufocasebook.com/pdf/pilotsightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/pilotsightings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AERIAL PHENOMENAOctober 31, 2025...</p></details>
    Published: October 31, 2025  

@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_glowi
 
 ## Introduction
 
-Glowing orb reports occupy a special place in UFO culture because they are unusually flexible. A distant planet near the horizon, an aircraft light, a flare, a drone, an atmospheric effect, or an unresolved bright object can all appear as a luminous sphere when viewed from far away or under poor conditions. At the same time, science fiction and paranormal traditions have supplied a powerful competing image: the idea of a craft that is not a machine in the ordinary sense but a concentrated ball of energy, plasma, or intelligent light. The result is one of the most adaptable UFO templates in witness testimony. Reports of glowing orbs can absorb both ordinary [explanations]({{ 'explanations/' | relative_url }}) and extraordinary interpretations without requiring a visible structure, wings, or clear mechanical features. This adaptability helps explain why orb sightings remain common across different eras and media environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
+Glowing orb reports occupy a special place in UFO culture because they are unusually flexible. A distant planet near the horizon, an aircraft light, a flare, a drone, an atmospheric effect, or an unresolved bright object can all appear as a luminous sphere when viewed from far away or under poor conditions. At the same time, science fiction and paranormal traditions have supplied a powerful competing image: the idea of a craft that is not a machine in the ordinary sense but a concentrated ball of energy, plasma, or intelligent light. The result is one of the most adaptable UFO templates in witness testimony. Reports of glowing orbs can absorb both ordinary [explanations]({{ 'explanations/' | relative_url }}) and extraordinary interpretations without requiring a visible structure, wings, or clear mechanical features. This adaptability helps explain why orb sightings remain common across different eras and media environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_glowing_orb_reports_6228b2-Illustration-1-dark.svg" | relative_url }}" alt="Orbs illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_glowing_orb_reports_6228b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_glowing_orb_reports_6228b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ Glowing orb reports occupy a special place in UFO culture because they are unusu
 
 One reason orb reports persist is that many different stimuli can collapse into the same visual impression. At night, human observers often have little information about distance, size, speed, or shape. A bright light viewed against a dark sky may appear as a glowing sphere even when the underlying object is something entirely different.
 
-Astronomical objects have long contributed to UFO reports. Bright planets, particularly Venus, can seem unusually large, colourful, or mobile when seen through haze, atmospheric turbulence, or shifting clouds. Optical effects and atmospheric conditions can also alter the apparent appearance of stars and planets, producing impressions of hovering or manoeuvring lights. Investigations of UFO reports have repeatedly identified astronomical and atmospheric causes among the most common explanations for unexplained lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
+Astronomical objects have long contributed to UFO reports. Bright planets, particularly Venus, can seem unusually large, colourful, or mobile when seen through haze, atmospheric turbulence, or shifting clouds. Optical effects and atmospheric conditions can also alter the apparent appearance of stars and planets, producing impressions of hovering or manoeuvring lights. Investigations of UFO reports have repeatedly identified astronomical and atmospheric causes among the most common explanations for unexplained lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
 
-Modern technology has added new sources. Consumer drones equipped with LEDs can appear as silent glowing spheres at a distance, especially when observers cannot judge range. Military and civilian flares can produce bright hovering lights that seem mysterious when their source is unknown. Smartphone cameras introduce another layer of ambiguity because distant point sources often become circular glowing blobs when out of focus or digitally enlarged. Several scientific and technical discussions of orb sightings note that low-light imaging frequently transforms distant lights into apparently spherical objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
+Modern technology has added new sources. Consumer drones equipped with LEDs can appear as silent glowing spheres at a distance, especially when observers cannot judge range. Military and civilian flares can produce bright hovering lights that seem mysterious when their source is unknown. Smartphone cameras introduce another layer of ambiguity because distant point sources often become circular glowing blobs when out of focus or digitally enlarged. Several scientific and technical discussions of orb sightings note that low-light imaging frequently transforms distant lights into apparently spherical objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
 
 The key point is not that every orb has a conventional explanation. Rather, the orb image survives because so many unrelated phenomena naturally converge on the same visual form when viewed under uncertain conditions.
 
@@ -301,7 +301,7 @@ The key point is not that every orb has a conventional explanation. Rather, the 
 
 Unlike a classic [flying saucer]({{ 'flying-saucer/' | relative_url }}) or triangular craft, an orb has no obvious structure. Witnesses frequently report a bright sphere without visible windows, wings, engines, or surface details. That absence of mechanical features creates a descriptive vacuum.
 
-To fill that vacuum, observers often reach for energy-based language. Reports describe objects as glowing, pulsing, shimmering, plasma-like, radiant, or surrounded by a halo. Contemporary UFO files, witness statements, and media coverage regularly contain descriptions of luminous spheres with bright cores, changing colours, or appearances resembling plasma. Recent declassified reports discussed by journalists include witness accounts of glowing red and white orbs described in explicitly plasma-like terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
+To fill that vacuum, observers often reach for energy-based language. Reports describe objects as glowing, pulsing, shimmering, plasma-like, radiant, or surrounded by a halo. Contemporary UFO files, witness statements, and media coverage regularly contain descriptions of luminous spheres with bright cores, changing colours, or appearances resembling plasma. Recent declassified reports discussed by journalists include witness accounts of glowing red and white orbs described in explicitly plasma-like terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">New Pentagon UFO file reveals glowing orbs in US Northeast</span><span class="citation-popover-snippet">This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on unidentified anomalous phen...</span></span></span>
 
 This language mirrors a long-standing science-fiction idea: advanced technology so sophisticated that it no longer resembles conventional machinery. Instead of rivets, wings, and engines, the object appears as pure energy. Mid- and late-twentieth-century science fiction increasingly portrayed advanced spacecraft, force fields, energy beings, and luminous intelligences. Such imagery provided witnesses with a vocabulary for describing unusual lights that did not resemble aircraft.
 
@@ -311,7 +311,7 @@ The attraction of the energy-craft concept is that it explains away missing deta
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_glowing_orb_reports_6228b2-Illustration-2-dark.svg" | relative_url }}" alt="Orbs illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_glowing_orb_reports_6228b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_glowing_orb_reports_6228b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Spheres Make Strong Witness Templates
 
-Among all geometric forms, the sphere is one of the easiest to perceive and describe. When observers lack detail, the human visual system tends to simplify ambiguous objects into basic shapes. A bright unresolved light often becomes “a glowing ball” in memory and [retelling]({{ 'retelling/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
+Among all geometric forms, the sphere is one of the easiest to perceive and describe. When observers lack detail, the human visual system tends to simplify ambiguous objects into basic shapes. A bright unresolved light often becomes “a glowing ball” in memory and [retelling]({{ 'retelling/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
 
 This makes spheres unusually effective [witness templates]({{ 'witness-images/' | relative_url }}):
 
@@ -329,7 +329,7 @@ Because the template is so broad, orb reports can survive changes in popular UFO
 
 The cultural meaning of orbs has gradually shifted. Early UFO eras often emphasised structured craft: discs, cigars, rockets, and machines. Orb reports existed, but they were frequently interpreted as unusual lights associated with larger craft.
 
-In more recent decades, glowing spheres have increasingly become the central phenomenon rather than a secondary feature. Some witnesses describe them as intelligent, responsive, or apparently aware of observation. Others frame them as manifestations of energy rather than vehicles. Similar themes appear not only in UFO culture but also in paranormal and supernatural traditions, where luminous spheres are interpreted as spirits, consciousness, or non-human entities. Researchers of paranormal photography have documented how orb imagery became widespread partly because circular light anomalies were repeatedly interpreted as energetic presences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open-data.spr.ac.uk/articles/orbs-light-anomalies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open-data.spr.ac.uk">[open-data.spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open-data.spr.ac.uk</span><span class="citation-popover-title">Orbs (Light Anomalies) &#124; Psi Encyclopedia</span><span class="citation-popover-snippet">Orbs (Light Anomalies) &#124; Psi Encyclopedia</span></span></span>
+In more recent decades, glowing spheres have increasingly become the central phenomenon rather than a secondary feature. Some witnesses describe them as intelligent, responsive, or apparently aware of observation. Others frame them as manifestations of energy rather than vehicles. Similar themes appear not only in UFO culture but also in paranormal and supernatural traditions, where luminous spheres are interpreted as spirits, consciousness, or non-human entities. Researchers of paranormal photography have documented how orb imagery became widespread partly because circular light anomalies were repeatedly interpreted as energetic presences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open-data.spr.ac.uk/articles/orbs-light-anomalies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open-data.spr.ac.uk">[open-data.spr.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open-data.spr.ac.uk</span><span class="citation-popover-title">Orbs (Light Anomalies) &#124; Psi Encyclopedia</span><span class="citation-popover-snippet">Orbs (Light Anomalies) &#124; Psi Encyclopedia</span></span></span>
 
 This evolution demonstrates the influence of cultural narratives. The same visual stimulus—a distant glowing sphere—can be interpreted as a machine in one era and as a form of intelligent energy in another. The underlying observation may remain similar, but the available story changes.
 
@@ -339,201 +339,201 @@ This evolution demonstrates the influence of cultural narratives. The same visua
 
 Orb sightings are significant not because they prove a particular explanation but because they show how UFO testimony develops around ambiguous visual experiences. The glowing sphere is one of the most durable UFO images precisely because it occupies a middle ground between the known and the unknown.
 
-Ordinary lights can appear orb-like. Cameras can record orb-like images from distant sources. Atmospheric effects can produce luminous spherical appearances. Yet the same visual form also aligns closely with science-fiction ideas of energy-based craft and non-mechanical intelligence. As a result, orb reports become a meeting point between observation and imagination. They demonstrate how witnesses use familiar cultural templates to describe uncertain experiences, and why the image of a glowing sphere remains one of the most persistent symbols in modern UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
+Ordinary lights can appear orb-like. Cameras can record orb-like images from distant sources. Atmospheric effects can produce luminous spherical appearances. Yet the same visual form also aligns closely with science-fiction ideas of energy-based craft and non-mechanical intelligence. As a result, orb reports become a meeting point between observation and imagination. They demonstrate how witnesses use familiar cultural templates to describe uncertain experiences, and why the image of a glowing sphere remains one of the most persistent symbols in modern UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrophyzix.com">[astrophyzix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrophyzix.com</span><span class="citation-popover-snippet">Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nHiFIDyFe5k" title="What Exactly Are UAPs (UFOs)?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nHiFIDyFe5k" target="_blank" rel="noopener noreferrer">What Exactly Are UAPs (UFOs)?</a></p><p class="youtube-embed-meta">Channel: History of Simple Things &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nHiFIDyFe5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nHiFIDyFe5k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Glowing Orbs Fit So Many UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Glowing Orbs Fit So Many UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness classifications and reporting language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness classifications and reporting language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the flying-saucer era and how terminology shaped reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the flying-saucer era and how terminology shaped reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for UFO witness reports and how testimony is evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UFO witness reports and how testimony is evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains perception, evidence, belief, and how people interpret ambiguous experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception, evidence, belief, and how people interpret ambiguous experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift"><img src="{{ '/assets/images/marketplace-covers/9d2e078b71d572691f24.jpg' | relative_url }}" alt="Listing image for UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Model Venusian Craft - UAP Model / Aliens / Retro / Sci Fi / Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting"><img src="{{ '/assets/images/marketplace-covers/b962bd3da6424d670f7d.jpg' | relative_url }}" alt="Listing image for SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">SHADO UFO Moon Mobile (Half Size) - 3D Printed In White and Ready for Painting</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="orbs-cd1f28-why-glowing-orbs-fit-so-many-ufo-stories-relationships-betwee-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ Ordinary lights can appear orb-like. Cameras can record orb-like images from dis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ Ordinary lights can appear orb-like. Cameras can record orb-like images from dis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ Ordinary lights can appear orb-like. Cameras can record orb-like images from dis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ Ordinary lights can appear orb-like. Cameras can record orb-like images from dis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ Ordinary lights can appear orb-like. Cameras can record orb-like images from dis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,96 +739,96 @@ Ordinary lights can appear orb-like. Cameras can record orb-like images from dis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: astrophyzix.com  
-   Link: <a href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</p></details>
+   Link:<a href="https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astrophyzix.com/2026/02/ufo-uap-orbs-explained-by-science.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophyzix Observatory - Latest PHA Asteroid News, Live Tracking, Official Reports - NASA API&#x27;S: Orb UAP Sightings Explained: The Scien...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Possible interpretations of UFO reports  
-   Link: <a href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: New Pentagon UFO file reveals glowing orbs in US Northeast  
-   Link: <a href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phen...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: open-data.spr.ac.uk  
    Title: Orbs (Light Anomalies) | Psi Encyclopedia  
-   Link: <a href="https://open-data.spr.ac.uk/articles/orbs-light-anomalies" target="_blank" rel="noopener noreferrer nofollow">https://open-data.spr.ac.uk/articles/orbs-light-anomalies</a>  
+   Link:<a href="https://open-data.spr.ac.uk/articles/orbs-light-anomalies" target="_blank" rel="noopener noreferrer nofollow">https://open-data.spr.ac.uk/articles/orbs-light-anomalies</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UF O sightings in outer space  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
+   Link:<a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government documents, released by the Pentagon as part of its pledge for transparency on unidentified aerial phenomena (UAP), includes va...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government documents, released by the Pentagon as part of its pledge for transparency on unidentified aerial phenomena (UAP), includes va...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: www.reddit.com Mysterious glowing orbs have been reported for centuries  
-   Link: <a href="https://www.reddit.com/r/InterdimensionalNHI/comments/1ikmjpv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InterdimensionalNHI/comments/1ikmjpv</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is a compilation of encounters where people witnessed angelic beings emerging from orbs of light. Were they UFOs or angels? You be t...</p></details>
+   Link:<a href="https://www.reddit.com/r/InterdimensionalNHI/comments/1ikmjpv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InterdimensionalNHI/comments/1ikmjpv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here is a compilation of encounters where people witnessed angelic beings emerging from orbs of light. Were they UFOs or angels? You be t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufotransparency.com  
    Title: decade 2020s aaro senate sasc briefing april 2023 dod 109584445  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-senate-sasc-briefing-april-2023-dod-109584445" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-senate-sasc-briefing-april-2023-dod-109584445</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Metallic Orb, MQ-9 Footage, All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense · 2023 · UFO Transparency...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-senate-sasc-briefing-april-2023-dod-109584445" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-senate-sasc-briefing-april-2023-dod-109584445</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Metallic Orb, MQ-9 Footage, All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense · 2023 · UFO Transparency...</p></details>
    Published: april 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: www.nasa.gov NAS A Provides Coverage of Unidentified Anomalous Phenomena Meeting  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</p></details>
    Published: May 12, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: are there any ufoencounter literature featuring  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/1ta7uhi/are_there_any_ufoencounter_literature_featuring/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1ta7uhi/are_there_any_ufoencounter_literature_featuring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>there any UFO-encounter literature featuring spherical orb UFOs prior to 2000&#x27;s?May 11, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UAP/comments/1ta7uhi/are_there_any_ufoencounter_literature_featuring/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1ta7uhi/are_there_any_ufoencounter_literature_featuring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>there any UFO-encounter literature featuring spherical orb UFOs prior to 2000&#x27;s?May 11, 2026...</p></details>
    Published: May 11, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: www.ufoinsight.com The UFO Home Invasion Incident And Bizarre Plasma UFO Orbs  
-   Link: <a href="https://www.ufoinsight.com/ufos/[close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/[close-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Home Invasion Incident And Bizarre Plasma UFO Orbs - UFO InsightNovember 8, 2019...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/[close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/[close-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Home Invasion Incident And Bizarre Plasma UFO Orbs - UFO InsightNovember 8, 2019...</p></details>
    Published: November 8, 2019  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Orbs: Natural Phenomena or Something More?  
-   Link: <a href="https://www.youtube.com/watch?v=Ybd_ktYY6Ak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ybd_ktYY6Ak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files describe spinning discs, glowing orbs, potato-shaped object...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ybd_ktYY6Ak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ybd_ktYY6Ak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files describe spinning discs, glowing orbs, potato-shaped object...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How scientists use math to help explain UFO videos  
-   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Residents Report Sighting Of Silent &#x27;Orange Orb&#x27; UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Residents Report Sighting Of Silent &#x27;Orange Orb&#x27; UFO...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: Hubble Detects Ghostly Glow Surrounding Our Solar System  
-   Link: <a href="https://science.nasa.gov/missions/hubble/hubble-detects-ghostly-glow-surrounding-our-solar-system" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/missions/hubble/hubble-detects-ghostly-glow-surrounding-our-solar-system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceDecember 8, 2022...</p></details>
+   Link:<a href="https://science.nasa.gov/missions/hubble/hubble-detects-ghostly-glow-surrounding-our-solar-system" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/missions/hubble/hubble-detects-ghostly-glow-surrounding-our-solar-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceDecember 8, 2022...</p></details>
    Published: December 8, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencefocus.com  
-   Link: <a href="https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain</a>  
+   Link:<a href="https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain</a>  

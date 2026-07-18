@@ -447,7 +447,7 @@ image: /assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7-ove
 
 ## Introduction
 
-*The X-Files* changed UFO culture because it made the cover-up feel like the natural habitat of the UFO story. Earlier science fiction had often imagined alien visitors as invaders, explorers or cosmic warnings. Chris Carter’s series placed the greater mystery inside institutions: the FBI basement, military archives, classified laboratories, anonymous informants, sealed files and men in rooms where official truth was quietly manufactured. The show did not invent UFO conspiracy thinking, but it gave it a durable [television]({{ 'television/' | relative_url }}) grammar: “The Truth Is Out There,” “Trust No One,” “Deny Everything,” the “I Want to Believe” poster, and the believer-sceptic pairing of Fox Mulder and Dana Scully. The Smithsonian’s acquisition of *X-Files* material in 2008 recognised those phrases and props as part of American popular culture, not merely television memorabilia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution Smithsonian Wants to Believe!</span><span class="citation-popover-snippet">National Museum of...16 Jul 2008 — The “X-Files” main characters and key phrases, including “The Truth Is Out There,” “Trust No One” and...</span></span></span>
+*The X-Files* changed UFO culture because it made the cover-up feel like the natural habitat of the UFO story. Earlier science fiction had often imagined alien visitors as invaders, explorers or cosmic warnings. Chris Carter’s series placed the greater mystery inside institutions: the FBI basement, military archives, classified laboratories, anonymous informants, sealed files and men in rooms where official truth was quietly manufactured. The show did not invent UFO conspiracy thinking, but it gave it a durable [television]({{ 'television/' | relative_url }}) grammar: “The Truth Is Out There,” “Trust No One,” “Deny Everything,” the “I Want to Believe” poster, and the believer-sceptic pairing of Fox Mulder and Dana Scully. The Smithsonian’s acquisition of *X-Files* material in 2008 recognised those phrases and props as part of American popular culture, not merely television memorabilia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution Smithsonian Wants to Believe!</span><span class="citation-popover-snippet">National Museum of...16 Jul 2008 — The “X-Files” main characters and key phrases, including “The Truth Is Out There,” “Trust No One” and...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7-overview.webp" | relative_url }}" alt="Overview image for The X Files" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,7 +457,7 @@ Its significance within the relationship between UFOs and science fiction is the
 
 The basic design of *The X-Files* was unusually well suited to modern UFO mythology. Mulder was not just a man who believed in aliens; he was a federal agent inside the system, convinced that the system was lying. Scully was not just a sceptic; she was a medical doctor and scientist assigned to test, challenge and contain his claims. That structure let the show dramatise the central tension in late twentieth-century UFO culture: the desire to believe and the demand for evidence. The viewer was not asked to choose between a pure crank and a pure rationalist. Instead, the drama came from watching both positions become unstable.
 
-The show’s long-running “mythology” episodes built an alien-government conspiracy across decades of fictional history. In that story world, alien existence, human experimentation, hybridisation, military secrecy and bureaucratic denial were not separate rumours but parts of one hidden architecture. This mattered because much real-world UFO culture had also become accumulative: [Roswell]({{ 'roswell/' | relative_url }}), abduction narratives, cattle mutilation claims, Majestic 12 documents, Area 51 rumours and alleged whistle-blowers were repeatedly drawn into one large interpretive frame. David Clarke’s chapter “I want to believe: how UFOs conquered the X-files” places the show directly inside that traffic between UFO folklore and television storytelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURA I want to believe: how UFOs conquered the X-files</span><span class="citation-popover-snippet">SHURA I want to believe: how UFOs conquered the X-files</span></span></span>
+The show’s long-running “mythology” episodes built an alien-government conspiracy across decades of fictional history. In that story world, alien existence, human experimentation, hybridisation, military secrecy and bureaucratic denial were not separate rumours but parts of one hidden architecture. This mattered because much real-world UFO culture had also become accumulative: [Roswell]({{ 'roswell/' | relative_url }}), abduction narratives, cattle mutilation claims, Majestic 12 documents, Area 51 rumours and alleged whistle-blowers were repeatedly drawn into one large interpretive frame. David Clarke’s chapter “I want to believe: how UFOs conquered the X-files” places the show directly inside that traffic between UFO folklore and television storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURA I want to believe: how UFOs conquered the X-files</span><span class="citation-popover-snippet">SHURA I want to believe: how UFOs conquered the X-files</span></span></span>
 
 The result was a form of science fiction in which the alien was often less important than the file. A UFO was exciting, but a missing file, a redacted document, an unnamed source or an official denial could be just as dramatic. The monster of the week might be biological, paranormal or technological, but the deeper monster was secrecy itself. This is why *The X-Files* became more than a show about aliens. It became a show about knowledge under conditions of mistrust.
 
@@ -467,7 +467,7 @@ The result was a form of science fiction in which the alien was often less impor
 
 The series made conspiracy pleasurable without making it simple. Its appeal lay partly in pattern recognition: a small clue in one episode might connect to a larger plot several seasons later; a background official might turn out to be part of a hidden network; a fragment of testimony might matter more than it first appeared. This rewarded viewers for thinking like investigators. The audience was trained to search for hidden links, to remember unexplained details and to suspect that the official explanation was incomplete.
 
-That was effective television, but it also echoed a broader “popular culture of conspiracy”. Sociologists David Bell and Lee-Jane Bennion-Nixon treated *The X-Files* as part of a wider turn in which conspiracy became a key popular-culture motif, not merely a fringe political style. Their article’s bibliography places the show alongside work on Jodi Dean’s *Aliens in America*, Mark Fenster’s *Conspiracy Theories: Secrecy and Power in American Culture*, Peter Knight’s work on paranoia, and earlier *X-Files* criticism such as *Deny All Knowledge*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2000.tb03524.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
+That was effective television, but it also echoed a broader “popular culture of conspiracy”. Sociologists David Bell and Lee-Jane Bennion-Nixon treated *The X-Files* as part of a wider turn in which conspiracy became a key popular-culture motif, not merely a fringe political style. Their article’s bibliography places the show alongside work on Jodi Dean’s *Aliens in America*, Mark Fenster’s *Conspiracy Theories: Secrecy and Power in American Culture*, Peter Knight’s work on paranoia, and earlier *X-Files* criticism such as *Deny All Knowledge*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2000.tb03524.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Open source on sagepub.com.</span></span></span>
 
 The show also softened conspiracy through character. Mulder could be obsessive, reckless and wrong in particulars, but he was emotionally legible: his belief was tied to the childhood disappearance of his sister Samantha. Scully’s scepticism was not contempt; it was discipline, professional duty and often moral courage. Their trust in each other gave the conspiracy plot a human centre. A viewer could enjoy paranoid structures without feeling that the show had abandoned emotional realism.
 
@@ -480,11 +480,11 @@ That is one reason the formula became so durable. The conspiracy did not need to
 
 *The X-Files* worked because it understood secrecy as a machine that produces stories. A direct alien encounter can be dramatic once; a cover-up can generate endless episodes. Every denial, destroyed record, dead witness or compromised superior becomes another turn of the engine. The show’s recurring [Cigarette Smoking]({{ 'smoking-man/' | relative_url }}) Man embodied this logic: not a monster from space, but a human official whose power came from access, concealment and plausible deniability.
 
-This reflected a real tension in UFO history. Official investigations have often concluded that they found no evidence of extraterrestrial vehicles, while still leaving a residue of [unresolved cases]({{ 'unresolved-cases/' | relative_url }}). The US Air Force’s [Project Blue Book]({{ 'blue-book/' | relative_url }}), for example, concluded that no investigated UFO showed a threat to national security, no submitted evidence demonstrated technology beyond known science, and no “unidentified” sightings were shown to be extraterrestrial vehicles. Its records were later transferred to the US National Archives for public review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+This reflected a real tension in UFO history. Official investigations have often concluded that they found no evidence of extraterrestrial vehicles, while still leaving a residue of [unresolved cases]({{ 'unresolved-cases/' | relative_url }}). The US Air Force’s [Project Blue Book]({{ 'blue-book/' | relative_url }}), for example, concluded that no investigated UFO showed a threat to national security, no submitted evidence demonstrated technology beyond known science, and no “unidentified” sightings were shown to be extraterrestrial vehicles. Its records were later transferred to the US National Archives for public review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 For sceptics, that kind of conclusion is a reason to lower confidence in alien claims. For cover-up mythology, however, it can be read differently: if records exist, if names are redacted, if some cases remain unidentified, then perhaps the truth has been hidden elsewhere. *The X-Files* dramatised that interpretive fork. It repeatedly turned institutional gaps into narrative fuel.
 
-The same tension persists in newer UAP discussions. NASA’s public FAQ states that there are no data supporting UAP as evidence of alien technologies, while also stressing that most sightings involve limited data and are difficult to explain scientifically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> This careful scientific position — “unexplained does not mean extraterrestrial” — is difficult to dramatise. *The X-Files* chose the more dramatic path: unexplained phenomena usually pointed towards a deeper human secret.
+The same tension persists in newer UAP discussions. NASA’s public FAQ states that there are no data supporting UAP as evidence of alien technologies, while also stressing that most sightings involve limited data and are difficult to explain scientifically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> This careful scientific position — “unexplained does not mean extraterrestrial” — is difficult to dramatise. *The X-Files* chose the more dramatic path: unexplained phenomena usually pointed towards a deeper human secret.
 
 That choice made the show compelling, but it also reveals its cultural risk. In scientific inquiry, missing evidence is a problem to be solved by better observation. In cover-up fiction, missing evidence is often a clue that someone removed it. The two habits of thought can look similar at first — both ask questions, both distrust easy answers — but they lead in different directions.
 
@@ -494,7 +494,7 @@ That choice made the show compelling, but it also reveals its cultural risk. In 
 
 The show’s cover-up myth felt believable because it was built from recognisable materials rather than pure fantasy. Viewers did not need to believe in alien colonists to recognise the reality of classified programmes, Cold War secrecy, intelligence abuses, medical scandals, military testing, corporate influence and political lying. *The X-Files* fused extraordinary UFO claims with ordinary institutional mistrust.
 
-Mark Fenster’s work is useful here because it resists treating all conspiracy theory as merely pathological. His account argues that conspiracy theory is also a cultural practice: a way of narrating politics, power and secrecy, sometimes with democratic or populist impulses and sometimes with dangerous, racist or anti-democratic effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1119378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span> *The X-Files* sat exactly in that ambiguous zone. It made suspicion of concentrated power feel morally serious, while also making suspicion itself addictive.
+Mark Fenster’s work is useful here because it resists treating all conspiracy theory as merely pathological. His account argues that conspiracy theory is also a cultural practice: a way of narrating politics, power and secrecy, sometimes with democratic or populist impulses and sometimes with dangerous, racist or anti-democratic effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1119378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span> *The X-Files* sat exactly in that ambiguous zone. It made suspicion of concentrated power feel morally serious, while also making suspicion itself addictive.
 
 Three features made the show’s UFO conspiracy especially persuasive as fiction:
 
@@ -504,7 +504,7 @@ Three features made the show’s UFO conspiracy especially persuasive as fiction
 
 **It used partial revelation.** The conspiracy was never simply exposed. It unfolded through fragments, reversals and betrayals. That made the audience’s knowledge feel hard-won, but it also meant the mythology could continually defer proof. In UFO culture, this resembles the way each new alleged document, testimony or disclosure can promise a final revelation that never quite arrives.
 
-The danger is not that viewers automatically become conspiracists after watching. The evidence for a simple one-step persuasion effect is weak. A 2018 peer-reviewed study titled “‘These Are Just Stories, Mulder’” exposed participants to *The X-Files* material and found no positive persuasive effect on endorsement of conspiracy theories; across two studies, the authors found no evidence that viewing directly increased conspiracy belief, though people with stronger conspiracy mentality tended to enjoy the material more and find it more plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3A64b07192-fe13-41e4-8723-f44a46563870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Open source on ox.ac.uk.</span></span></span>
+The danger is not that viewers automatically become conspiracists after watching. The evidence for a simple one-step persuasion effect is weak. A 2018 peer-reviewed study titled “‘These Are Just Stories, Mulder’” exposed participants to *The X-Files* material and found no positive persuasive effect on endorsement of conspiracy theories; across two studies, the authors found no evidence that viewing directly increased conspiracy belief, though people with stronger conspiracy mentality tended to enjoy the material more and find it more plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3A64b07192-fe13-41e4-8723-f44a46563870" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Open source on ox.ac.uk.</span></span></span>
 
 That finding matters. The cultural effect of *The X-Files* is better understood as normalisation, vocabulary and emotional rehearsal, not simple brainwashing. The show offered a stylish language for suspicion. People already inclined towards distrust could recognise themselves in Mulder. People inclined towards scepticism could recognise themselves in Scully. The programme’s genius was that both could watch the same episode and feel addressed.
 
@@ -515,7 +515,7 @@ That finding matters. The cultural effect of *The X-Files* is better understood 
 
 The most memorable slogans of *The X-Files* were deliberately provocative. “The Truth Is Out There” expresses hope: reality exists, and it may be discoverable. “I Want to Believe” is more vulnerable: belief is not certainty, but desire. “Trust No One” is darker. It turns inquiry into permanent suspicion.
 
-Chris Carter has himself reflected on the change in atmosphere around those slogans. In response to the 2021 US UAP report, Vanity Fair summarised Carter’s New York Times argument as a warning against reading too much into inconclusive UFO material in an era of proliferating conspiracy theories. The article notes Carter’s own contrast between the 1990s, when he thought there was still a more shared reality, and the present, where catchphrases such as “Trust No One” feel less playful and more socially consequential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Open source on vanityfair.com.</span></span></span>
+Chris Carter has himself reflected on the change in atmosphere around those slogans. In response to the 2021 US UAP report, Vanity Fair summarised Carter’s New York Times argument as a warning against reading too much into inconclusive UFO material in an era of proliferating conspiracy theories. The article notes Carter’s own contrast between the 1990s, when he thought there was still a more shared reality, and the present, where catchphrases such as “Trust No One” feel less playful and more socially consequential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Open source on vanityfair.com.</span></span></span>
 
 That is the key critique-risk of the show’s legacy. In the 1990s, the series could treat distrust as cool, lonely, romantic and rebellious. In a later media environment shaped by algorithmic feeds, political disinformation, anti-vaccine movements, QAnon and deep institutional polarisation, the same posture can become more corrosive. The problem is not asking whether governments lie; they sometimes do. The problem is turning suspicion into a total worldview in which every correction is propaganda, every absence is concealment, and every expert is either naive or compromised.
 
@@ -527,11 +527,11 @@ That is the key critique-risk of the show’s legacy. In the 1990s, the series c
 
 The show helped shift the centre of popular UFO imagination from sightings to systems. Earlier UFO stories often asked, “What did the witness see?” *The X-Files* made the follow-up question feel just as important: “Who already knows, and why are they hiding it?” That change aligned perfectly with a late twentieth-century UFO culture increasingly built around documents, whistle-blowers, military bases, alleged black projects and hidden archives.
 
-This did not happen in isolation. UFO conspiracy theories were already circulating through books, newsletters, radio, conventions and early internet communities. But *The X-Files* gave them mainstream style. It placed ideas once associated with fringe subcultures into prime-time television, wrapped in high production values, emotional chemistry and prestige genre storytelling. The Smithsonian’s recognition of the show’s catchphrases and props reflects how thoroughly that imagery entered public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution Smithsonian Wants to Believe!</span><span class="citation-popover-snippet">National Museum of...16 Jul 2008 — The “X-Files” main characters and key phrases, including “The Truth Is Out There,” “Trust No One” and...</span></span></span>
+This did not happen in isolation. UFO conspiracy theories were already circulating through books, newsletters, radio, conventions and early internet communities. But *The X-Files* gave them mainstream style. It placed ideas once associated with fringe subcultures into prime-time television, wrapped in high production values, emotional chemistry and prestige genre storytelling. The Smithsonian’s recognition of the show’s catchphrases and props reflects how thoroughly that imagery entered public memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.edu">[Smithsonian Institution]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.edu</span><span class="citation-popover-title">Smithsonian Institution Smithsonian Wants to Believe!</span><span class="citation-popover-snippet">National Museum of...16 Jul 2008 — The “X-Files” main characters and key phrases, including “The Truth Is Out There,” “Trust No One” and...</span></span></span>
 
 The show also changed how later fiction handled mystery. Its influence can be seen in the prestige “mytharc” structure: clues, hidden organisations, internal mythology, coded symbols and season-spanning revelations. In UFO-related storytelling, the alien encounter became less a single event than a gateway into institutions. The crash site, the hangar, the file cabinet, the medical lab and the compromised agency became as iconic as the [flying saucer]({{ 'flying-saucer/' | relative_url }}).
 
-For real UFO discourse, the effect is more complicated. *The X-Files* helped keep public interest alive, but it also made the cover-up frame feel almost automatic. When official bodies now discuss UAP in cautious terms — limited data, unresolved cases, no confirmed alien technology — many listeners receive that language through decades of fiction in which cautious official language was exactly how concealment sounded. NASA’s emphasis on better data and scientific tools therefore competes not only with poor evidence, but with a highly successful cultural script. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+For real UFO discourse, the effect is more complicated. *The X-Files* helped keep public interest alive, but it also made the cover-up frame feel almost automatic. When official bodies now discuss UAP in cautious terms — limited data, unresolved cases, no confirmed alien technology — many listeners receive that language through decades of fiction in which cautious official language was exactly how concealment sounded. NASA’s emphasis on better data and scientific tools therefore competes not only with poor evidence, but with a highly successful cultural script.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4JsP84Kzz3k" title="Chris Carter and David Duchovny Reflect on The X-Files and More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4JsP84Kzz3k" target="_blank" rel="noopener noreferrer">Chris Carter and David Duchovny Reflect on The X-Files and More</a></p><p class="youtube-embed-meta">Channel: Fail Better with David Duchovny</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4JsP84Kzz3k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4JsP84Kzz3k">Open on YouTube</a></p></div></div></div>
@@ -542,199 +542,199 @@ The modern cover-up myth endures because it offers three things at once: mystery
 
 Its best defence is that it never presented belief as simple. The Mulder-Scully partnership kept faith and scepticism in conversation. The “I Want to Believe” poster is not the same as “I Know”. It is an image of longing, not proof. That ambiguity is why the show remains richer than many of the conspiracy narratives it helped popularise.
 
-Its sharpest criticism is that longing can outrun evidence. The show’s fictional world rewarded the conviction that secret truth lies behind official reality. In the real world, some secrets are real, some institutions do lie, and some official explanations are incomplete. But that does not make every UFO gap a suppressed revelation. The strongest scientific and archival sources continue to distinguish unresolved observations from evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Its sharpest criticism is that longing can outrun evidence. The show’s fictional world rewarded the conviction that secret truth lies behind official reality. In the real world, some secrets are real, some institutions do lie, and some official explanations are incomplete. But that does not make every UFO gap a suppressed revelation. The strongest scientific and archival sources continue to distinguish unresolved observations from evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The lasting importance of *The X-Files* is therefore not that it proved anything about UFOs. It showed how UFO belief could become a modern mythology of secrecy: emotionally compelling, endlessly expandable, institutionally suspicious and perfectly adapted to an age of files, leaks, archives and screens. In the long feedback loop between UFOs and science fiction, *The X-Files* was the moment when the cover-up became the story.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Cover Up Fiction Changed UFO Culture. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Cover Up Fiction Changed UFO Culture. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO beliefs enter modern culture and institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO beliefs enter modern culture and institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
+</h4>
+<p class="fr-book-author">By Jesse Walker</p>
         
-        <p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QapJgNWilDoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Culture">Conspiracy Culture</a>
-        </h4>
-        <p class="fr-book-author">By Dr Peter Knight, Peter Knight</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QapJgNWilDoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Culture">Conspiracy Culture</a>
+</h4>
+<p class="fr-book-author">By Dr Peter Knight, Peter Knight</p>
         
-        <p class="fr-book-desc">Directly connects modern conspiracy thinking with The X-Files era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects modern conspiracy thinking with The X-Files era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical context for how UFO narratives evolve into modern myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how UFO narratives evolve into modern myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Culture</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Culture</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-x-files-how-cover-up-fiction-changed-ufo-culture-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -750,7 +750,7 @@ The lasting importance of *The X-Files* is therefore not that it proved anything
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -770,7 +770,7 @@ The lasting importance of *The X-Files* is therefore not that it proved anything
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -802,7 +802,7 @@ The lasting importance of *The X-Files* is therefore not that it proved anything
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -854,7 +854,7 @@ The lasting importance of *The X-Files* is therefore not that it proved anything
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -899,7 +899,7 @@ The lasting importance of *The X-Files* is therefore not that it proved anything
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -940,178 +940,178 @@ The lasting importance of *The X-Files* is therefore not that it proved anything
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1119378" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1119378</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1119378" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1119378</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fox.com  
-   Link: <a href="https://www.fox.com/watch-sitemap-1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.fox.com/watch-sitemap-1.xml</a>  
+   Link:<a href="https://www.fox.com/watch-sitemap-1.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.fox.com/watch-sitemap-1.xml</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ia800109.us.archive.org  
-   Link: <a href="https://ia800109.us.archive.org/24/items/conspiracy-theories-michael-butter-peter-knight-routledge-handbook-of-conspiracy/%28Conspiracy%20Theories%29%20Michael%20Butter%2C%20Peter%20Knight%20-%20Routledge%20Handbook%20Of%20Conspiracy%20Theories-Routledge_Taylor%20%26%20Francis%20Group%20%282020%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800109.us.archive.org/24/items/conspiracy-theories-michael-butter-peter-knight-routledge-handbook-of-conspiracy/%28Conspiracy%20Theories%29%20Michael%20Butter%2C%20Peter%20Knight%20-%20Routledge%20Handbook%20Of%20Conspiracy%20Theories-Routledge_Taylor%20%26%20Francis%20Group%20%282020%29.pdf</a>  
+   Link:<a href="https://ia800109.us.archive.org/24/items/conspiracy-theories-michael-butter-peter-knight-routledge-handbook-of-conspiracy/%28Conspiracy%20Theories%29%20Michael%20Butter%2C%20Peter%20Knight%20-%20Routledge%20Handbook%20Of%20Conspiracy%20Theories-Routledge_Taylor%20%26%20Francis%20Group%20%282020%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800109.us.archive.org/24/items/conspiracy-theories-michael-butter-peter-knight-routledge-handbook-of-conspiracy/%28Conspiracy%20Theories%29%20Michael%20Butter%2C%20Peter%20Knight%20-%20Routledge%20Handbook%20Of%20Conspiracy%20Theories-Routledge_Taylor%20%26%20Francis%20Group%20%282020%29.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: si.edu  
    Title: Smithsonian Institution Smithsonian Wants to Believe!  
-   Link: <a href="https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Museum of...16 Jul 2008 — The “X-Files” main characters and key phrases, including “The Truth Is Out There,” “Trust No One” and...</p></details>
+   Link:<a href="https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/newsdesk/releases/smithsonian-wants-believe-national-museum-american-history-acquires-x-files-collection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Museum of...16 Jul 2008 — The “X-Files” main characters and key phrases, including “The Truth Is Out There,” “Trust No One” and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: shura.shu.ac.uk  
    Title: SHURA I want to believe: how UFOs conquered the X-files  
-   Link: <a href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/</a>  
+   Link:<a href="https://shura.shu.ac.uk/31823/" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2000.tb03524.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2000.tb03524.x</a>  
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2000.tb03524.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2000.tb03524.x</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3A64b07192-fe13-41e4-8723-f44a46563870" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A64b07192-fe13-41e4-8723-f44a46563870</a>  
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3A64b07192-fe13-41e4-8723-f44a46563870" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A64b07192-fe13-41e4-8723-f44a46563870</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Dana Scully  
-   Link: <a href="https://en.wikipedia.org/wiki/Dana_Scully" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dana_Scully</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dana_Scully" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dana_Scully</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Fox Mulder  
-   Link: <a href="https://en.wikipedia.org/wiki/Fox_Mulder" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fox_Mulder</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fox_Mulder" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fox_Mulder</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: shura.shu.ac.uk  
    Title: Clarke Want To Believe(AM)  
-   Link: <a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: si.edu  
    Title: will real uncle sam please stand  
-   Link: <a href="https://www.si.edu/sidedoor/will-real-uncle-sam-please-stand" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/sidedoor/will-real-uncle-sam-please-stand</a>  
+   Link:<a href="https://www.si.edu/sidedoor/will-real-uncle-sam-please-stand" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/sidedoor/will-real-uncle-sam-please-stand</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1527476417742974" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1527476417742974</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1527476417742974" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1527476417742974</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aph.gov.au  
    Title: Preliminary Assessment UAP 20210625  
-   Link: <a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: x-files.fandom.com  
    Title: Fox Mulder  
-   Link: <a href="https://x-files.fandom.com/wiki/Fox_Mulder" target="_blank" rel="noopener noreferrer nofollow">https://x-files.fandom.com/wiki/Fox_Mulder</a>  
+   Link:<a href="https://x-files.fandom.com/wiki/Fox_Mulder" target="_blank" rel="noopener noreferrer nofollow">https://x-files.fandom.com/wiki/Fox_Mulder</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vanityfair.com  
    Title: x files creator wants you to chill out on the conspiracy theories  
-   Link: <a href="https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories?srsltid=AfmBOoqJfZd2BCdRk1p942wScHLdDaW3p3h-Ysimwn2gx4uoJP72ehVc" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories?srsltid=AfmBOoqJfZd2BCdRk1p942wScHLdDaW3p3h-Ysimwn2gx4uoJP72ehVc</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories?srsltid=AfmBOoqJfZd2BCdRk1p942wScHLdDaW3p3h-Ysimwn2gx4uoJP72ehVc" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/06/x-files-creator-wants-you-to-chill-out-on-the-conspiracy-theories?srsltid=AfmBOoqJfZd2BCdRk1p942wScHLdDaW3p3h-Ysimwn2gx4uoJP72ehVc</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: skyatnightmagazine.com  
    Title: area 51  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/area-51</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/area-51</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: authorcarlara.com  
    Title: The X-Files  
-   Link: <a href="https://www.authorcarlara.com/post/the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.authorcarlara.com/post/the-x-files</a>  
+   Link:<a href="https://www.authorcarlara.com/post/the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.authorcarlara.com/post/the-x-files</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/s/syndrome%2Bfosters%2Bconspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/syndrome%2Bfosters%2Bconspiracy</a>  
+   Link:<a href="https://www.science.gov/topicpages/s/syndrome%2Bfosters%2Bconspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/syndrome%2Bfosters%2Bconspiracy</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The X-Files Mythology All Makes Perfect Sense, Actually  
-   Link: <a href="https://www.youtube.com/watch?v=LYQ0Um9VlhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LYQ0Um9VlhM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Carter and David Duchovny Reflect on The X-Files and More...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LYQ0Um9VlhM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LYQ0Um9VlhM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Carter and David Duchovny Reflect on The X-Files and More...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Chris Carter and David Duchovny Reflect on The X-Files and More  
-   Link: <a href="https://www.youtube.com/watch?v=4JsP84Kzz3k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4JsP84Kzz3k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files: Implanted Memories (Documentary)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4JsP84Kzz3k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4JsP84Kzz3k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files: Implanted Memories (Documentary)...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fSCo8bh77P0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fSCo8bh77P0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files: The Lone Gunmen (Documentary)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fSCo8bh77P0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fSCo8bh77P0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files: The Lone Gunmen (Documentary)...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: The X-Files: Implanted Memories (Documentary)  
-   Link: <a href="https://www.youtube.com/watch?v=V-SA61fWg3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V-SA61fWg3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Carter interview on X-Files and The Lone Gunmen (2001)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V-SA61fWg3c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V-SA61fWg3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Carter interview on X-Files and The Lone Gunmen (2001)...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/dans-media-digest/the-x-files-re-examined-1x1-pilot-fc59acba5562" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/dans-media-digest/the-x-files-re-examined-1x1-pilot-fc59acba5562</a>  
+   Link:<a href="https://medium.com/dans-media-digest/the-x-files-re-examined-1x1-pilot-fc59acba5562" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/dans-media-digest/the-x-files-re-examined-1x1-pilot-fc59acba5562</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  

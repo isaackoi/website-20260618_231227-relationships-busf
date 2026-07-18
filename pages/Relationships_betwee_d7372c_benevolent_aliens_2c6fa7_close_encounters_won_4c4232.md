@@ -278,7 +278,7 @@ By the late 1970s, one of the most influential changes in UFO-related science fi
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_close_encounters_won_4c4232-Illustration-1-dark.svg" | relative_url }}" alt="Wonder illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_close_encounters_won_4c4232-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_close_encounters_won_4c4232-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The film did not eliminate fear. [Strange lights]({{ 'strange-lights/' | relative_url }}), unexplained experiences and [government secrecy]({{ 'secrecy/' | relative_url }}) remain central to its plot. Yet these elements function less as signs of danger than as stages in a journey towards understanding. The result was a powerful reimagining of what an encounter with extraterrestrial intelligence might feel like: not conquest, but connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
+The film did not eliminate fear. [Strange lights]({{ 'strange-lights/' | relative_url }}), unexplained experiences and [government secrecy]({{ 'secrecy/' | relative_url }}) remain central to its plot. Yet these elements function less as signs of danger than as stages in a journey towards understanding. The result was a powerful reimagining of what an encounter with extraterrestrial intelligence might feel like: not conquest, but connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
 
 ## Fear Before the Final Encounter
 
@@ -286,7 +286,7 @@ Earlier science-fiction cinema often linked alien arrival with invasion, paranoi
 
 What makes the film distinctive is that it steadily redirects those emotions. The mystery grows larger, but the threat does not. As Roy and others become obsessed with the recurring vision of Devil's Tower, the audience is encouraged to see the phenomenon as a call rather than an attack. The unknown remains frightening, yet curiosity increasingly replaces terror.
 
-This narrative choice reflected a broader creative decision during the film's development. Accounts of the production indicate that Spielberg and collaborators gradually moved away from conspiracy-centred UFO stories and towards the idea of a spiritual or transformative encounter with something larger than humanity. The aliens were conceived as visitors to be met rather than enemies to be defeated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
+This narrative choice reflected a broader creative decision during the film's development. Accounts of the production indicate that Spielberg and collaborators gradually moved away from conspiracy-centred UFO stories and towards the idea of a spiritual or transformative encounter with something larger than humanity. The aliens were conceived as visitors to be met rather than enemies to be defeated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
 
 The emotional effect was significant. The climax does not ask whether humanity can survive alien contact. It asks whether humanity can understand it.
 
@@ -297,15 +297,15 @@ The emotional effect was significant. The climax does not ask whether humanity c
 
 The film's most famous innovation is its treatment of communication. Instead of military confrontation, the climax centres on an attempt to establish dialogue.
 
-At the landing site near Devil's Tower, scientists use a sequence of five musical notes and corresponding light patterns to communicate with the arriving craft. The exchange resembles a conversation. Messages are sent, responses are received, and the encounter becomes a process of mutual recognition rather than domination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.filmsite.org/closeencounters.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmsite.org">[filmsite.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmsite.org</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)...</span></span></span>
+At the landing site near Devil's Tower, scientists use a sequence of five musical notes and corresponding light patterns to communicate with the arriving craft. The exchange resembles a conversation. Messages are sent, responses are received, and the encounter becomes a process of mutual recognition rather than domination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.filmsite.org/closeencounters.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: filmsite.org">[filmsite.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">filmsite.org</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (1977)...</span></span></span>
 
 ### Why music mattered
 
 The choice of music was not merely a dramatic device. It solved a fundamental storytelling problem: how can two intelligent species communicate before sharing a language?
 
-John Williams's famous five-note motif became the answer. The sequence functions as a universal pattern rather than a human language. Numbers, tones and rhythms become a bridge between species. Williams reportedly created hundreds of variations before the final motif was selected, underlining how central the idea was to the film's conception of contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro-boy-productions.fandom.com">[astro-boy-productions.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro-boy-productions.fandom.com</span><span class="citation-popover-title">Close Encounters of the Third Kind &#124; Astro Boy Productions Wiki &#124; Fandom</span><span class="citation-popover-snippet">Close Encounters of the Third Kind &#124; Astro Boy Productions Wiki &#124; Fandom</span></span></span>
+John Williams's famous five-note motif became the answer. The sequence functions as a universal pattern rather than a human language. Numbers, tones and rhythms become a bridge between species. Williams reportedly created hundreds of variations before the final motif was selected, underlining how central the idea was to the film's conception of contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro-boy-productions.fandom.com">[astro-boy-productions.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro-boy-productions.fandom.com</span><span class="citation-popover-title">Close Encounters of the Third Kind &#124; Astro Boy Productions Wiki &#124; Fandom</span><span class="citation-popover-snippet">Close Encounters of the Third Kind &#124; Astro Boy Productions Wiki &#124; Fandom</span></span></span>
 
-The scene also transforms the visual language of UFO cinema. Instead of weapons fire, audiences see coloured lights, musical exchanges and choreographed movement. The arriving craft appears majestic rather than monstrous. The encounter is staged almost like a concert, encouraging awe instead of panic. Contemporary commentary on the film's finale has often highlighted how carefully Spielberg and his team worked to make this musical conversation feel convincing and emotionally engaging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theastromech.com/2023/05/diegetic-music-in-finale-of-close-encounters-third-kind.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theastromech.com">[The Astromech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theastromech.com</span><span class="citation-popover-snippet">The AstromechThe Diegetic Music in the Finale of &quot;Close Encounters of the Third Kind&quot; &#124; The AstromechMay 6, 2023...</span><span class="citation-popover-meta">Published: May 6, 2023</span></span></span>
+The scene also transforms the visual language of UFO cinema. Instead of weapons fire, audiences see coloured lights, musical exchanges and choreographed movement. The arriving craft appears majestic rather than monstrous. The encounter is staged almost like a concert, encouraging awe instead of panic. Contemporary commentary on the film's finale has often highlighted how carefully Spielberg and his team worked to make this musical conversation feel convincing and emotionally engaging.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theastromech.com/2023/05/diegetic-music-in-finale-of-close-encounters-third-kind.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theastromech.com">[The Astromech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theastromech.com</span><span class="citation-popover-snippet">The AstromechThe Diegetic Music in the Finale of &quot;Close Encounters of the Third Kind&quot; &#124; The AstromechMay 6, 2023...</span><span class="citation-popover-meta">Published: May 6, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_close_encounters_won_4c4232-Illustration-2-dark.svg" | relative_url }}" alt="Wonder illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_close_encounters_won_4c4232-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_close_encounters_won_4c4232-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,11 +322,11 @@ This approach helped redefine UFO contact stories in popular culture. Later film
 
 ## Hynek and the Language of Contact
 
-The film's connection to UFO culture was strengthened by the involvement of astronomer J. Allen Hynek. Hynek had served as a scientific consultant to the United States Air Force's [Project Blue Book]({{ 'blue-book/' | relative_url }}) investigations and later became one of the most prominent researchers of UFO reports. He also developed the classification system that introduced the phrase "close encounter of the third kind". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
+The film's connection to UFO culture was strengthened by the involvement of astronomer J. Allen Hynek. Hynek had served as a scientific consultant to the United States Air Force's [Project Blue Book]({{ 'blue-book/' | relative_url }}) investigations and later became one of the most prominent researchers of UFO reports. He also developed the classification system that introduced the phrase "close encounter of the third kind".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
 
 Spielberg's use of Hynek's terminology gave the film an unusual relationship with real-world UFO discourse. Rather than inventing a fictional vocabulary, the film borrowed language already familiar within UFO research circles. This helped blur the boundary between scientific investigation, public fascination and science-fiction storytelling.
 
-More importantly, Hynek's influence encouraged a framework centred on observation and encounter. His classification system treated UFO experiences as events to be described and studied rather than automatically dismissed as threats. While Hynek did not claim proof of extraterrestrial visitors, his willingness to take reports seriously created a language that emphasised contact and investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
+More importantly, Hynek's influence encouraged a framework centred on observation and encounter. His classification system treated UFO experiences as events to be described and studied rather than automatically dismissed as threats. While Hynek did not claim proof of extraterrestrial visitors, his willingness to take reports seriously created a language that emphasised contact and investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
 
 The film reflects that perspective. Scientists, linguists and observers occupy the centre of the story. The crucial human response to the unknown is curiosity. Even the government's secrecy serves mainly to protect the encounter rather than to prepare for war.
 
@@ -338,201 +338,201 @@ The lasting importance of *Close Encounters of the Third Kind* lies in its emoti
 
 That change helped make wonder a major component of UFO-related science fiction. The extraterrestrials remain mysterious, but mystery itself becomes something attractive rather than terrifying. The unknown is presented as an invitation to learn, communicate and expand humanity's horizons.
 
-Within the broader relationship between UFOs and science fiction, *Close Encounters* stands as a pivotal example of benevolent-contact storytelling. It transformed the [flying saucer]({{ 'flying-saucer/' | relative_url }}) from a symbol of invasion into a symbol of possibility, creating one of cinema's most enduring visions of first contact as an experience of awe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[Turner Classic Movies+2thelogbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
+Within the broader relationship between UFOs and science fiction, *Close Encounters* stands as a pivotal example of benevolent-contact storytelling. It transformed the [flying saucer]({{ 'flying-saucer/' | relative_url }}) from a symbol of invasion into a symbol of possibility, creating one of cinema's most enduring visions of first contact as an experience of awe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcm.com">[tcm.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcm.com</span><span class="citation-popover-title">Turner Classic Movies The Big Idea</span><span class="citation-popover-snippet">Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</span><span class="citation-popover-meta">Published: December 30, 2011</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wcbNU7p63kU" title="Close Encounters: The Five-Note Conversation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wcbNU7p63kU" target="_blank" rel="noopener noreferrer">Close Encounters: The Five-Note Conversation</a></p><p class="youtube-embed-meta">Channel: Moments In Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wcbNU7p63kU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wcbNU7p63kU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Close Encounters Made Contact Beautiful. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Close Encounters Made Contact Beautiful. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Famous study of Dorothy Martin&#x27;s saucer-rescue prophecy group.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Famous study of Dorothy Martin&#x27;s saucer-rescue prophecy group.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Farewell to the Master on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Farewell to the Master">Farewell to the Master</a>
-        </h4>
-        <p class="fr-book-author">By Harry Bates</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Farewell to the Master on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Farewell to the Master">Farewell to the Master</a>
+</h4>
+<p class="fr-book-author">By Harry Bates</p>
         
-        <p class="fr-book-desc">Source material for the Klaatu narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Source material for the Klaatu narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Farewell+to+the+Master&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Farewell to the Master</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Farewell+to+the+Master&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Farewell to the Master</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/308d0951e28505c67d4f.jpg' | relative_url }}" alt="Listing image for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/308d0951e28505c67d4f.jpg' | relative_url }}" alt="Listing image for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="wonder-how-close-encounters-made-contact-beautiful-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Within the broader relationship between UFOs and science fiction, *Close Encount
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Within the broader relationship between UFOs and science fiction, *Close Encount
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Within the broader relationship between UFOs and science fiction, *Close Encount
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Within the broader relationship between UFOs and science fiction, *Close Encount
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Within the broader relationship between UFOs and science fiction, *Close Encount
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,81 +738,81 @@ Within the broader relationship between UFOs and science fiction, *Close Encount
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: filmsite.org  
-   Link: <a href="https://www.filmsite.org/closeencounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsite.org/closeencounters.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977)...</p></details>
+   Link:<a href="https://www.filmsite.org/closeencounters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsite.org/closeencounters.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astro-boy-productions.fandom.com  
    Title: Close Encounters of the Third Kind | Astro Boy Productions Wiki | Fandom  
-   Link: <a href="https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://astro-boy-productions.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ultimatepopculture.fandom.com  
-   Link: <a href="https://ultimatepopculture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://ultimatepopculture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
+   Link:<a href="https://ultimatepopculture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://ultimatepopculture.fandom.com/wiki/Close_Encounters_of_the_Third_Kind</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thelogbook.com  
    Title: Close Encounters of the Third Kind (soundtrack) – the Log Book.com  
-   Link: <a href="https://www.thelogbook.com/ce3k-soundtrack/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelogbook.com/ce3k-soundtrack/</a>  
+   Link:<a href="https://www.thelogbook.com/ce3k-soundtrack/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelogbook.com/ce3k-soundtrack/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tcm.com  
    Title: Turner Classic Movies The Big Idea  
-   Link: <a href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</p></details>
+   Link:<a href="https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/467312/the-big-idea-close-encounters-of-the-third-kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turner Classic MoviesThe Big Idea - Close Encounters of the Third KindDecember 30, 2011...</p></details>
    Published: December 30, 2011  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theastromech.com  
-   Link: <a href="https://www.theastromech.com/2023/05/diegetic-music-in-finale-of-close-encounters-third-kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theastromech.com/2023/05/diegetic-music-in-finale-of-close-encounters-third-kind.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AstromechThe Diegetic Music in the Finale of &quot;Close Encounters of the Third Kind&quot; | The AstromechMay 6, 2023...</p></details>
+   Link:<a href="https://www.theastromech.com/2023/05/diegetic-music-in-finale-of-close-encounters-third-kind.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theastromech.com/2023/05/diegetic-music-in-finale-of-close-encounters-third-kind.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AstromechThe Diegetic Music in the Finale of &quot;Close Encounters of the Third Kind&quot; | The AstromechMay 6, 2023...</p></details>
    Published: May 6, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: www.researchgate.net Close Encounters of the Third Kind  
-   Link: <a href="https://www.researchgate.net/publication/349591841_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349591841_Close_Encounters_of_the_Third_Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349591841_Close_Encounters_of_the_Third_Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349591841_Close_Encounters_of_the_Third_Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third Kind...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PzwpmyNpZzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzwpmyNpZzM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - The Ultimate First Contact Movie?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PzwpmyNpZzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzwpmyNpZzM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - The Ultimate First Contact Movie?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: morningtimes.uk  
    Title: Morning Times Close Encounters of the Third Kind  
-   Link: <a href="https://morningtimes.uk/local/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://morningtimes.uk/local/close-encounters-of-the-third-kind/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Morning TimesClose Encounters of the Third Kind - Plot, Cast, Meaning Explained - Morning Times...</p></details>
+   Link:<a href="https://morningtimes.uk/local/close-encounters-of-the-third-kind/" target="_blank" rel="noopener noreferrer nofollow">https://morningtimes.uk/local/close-encounters-of-the-third-kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Morning TimesClose Encounters of the Third Kind - Plot, Cast, Meaning Explained - Morning Times...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theotherjournal.com  
    Title: close encounters of the third kind spielberg 1977  
-   Link: <a href="https://theotherjournal.com/2008/10/close-encounters-of-the-third-kind-spielberg-1977/" target="_blank" rel="noopener noreferrer nofollow">https://theotherjournal.com/2008/10/close-encounters-of-the-third-kind-spielberg-1977/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Other JournalClose Encounters of the Third Kind (Spielberg, 1977) - The Other Journal...</p></details>
+   Link:<a href="https://theotherjournal.com/2008/10/close-encounters-of-the-third-kind-spielberg-1977/" target="_blank" rel="noopener noreferrer nofollow">https://theotherjournal.com/2008/10/close-encounters-of-the-third-kind-spielberg-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Other JournalClose Encounters of the Third Kind (Spielberg, 1977) - The Other Journal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: Communicating with music  
-   Link: <a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nkykqyMEarA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg watches scene from &quot;Close Encounters of the Third Kind&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nkykqyMEarA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nkykqyMEarA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg watches scene from &quot;Close Encounters of the Third Kind&quot;...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YqS_haIiUxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YqS_haIiUxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Five-Note Conversation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YqS_haIiUxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YqS_haIiUxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Five-Note Conversation...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Close Encounters: The Five-Note Conversation  
-   Link: <a href="https://www.youtube.com/watch?v=wcbNU7p63kU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wcbNU7p63kU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wcbNU7p63kU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wcbNU7p63kU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: Communicating with music...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Steven Spielberg watches scene from "Close Encounters of the Third Kind"  
-   Link: <a href="https://www.youtube.com/watch?v=BjlcRvcpINI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BjlcRvcpINI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=BjlcRvcpINI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BjlcRvcpINI</a>  

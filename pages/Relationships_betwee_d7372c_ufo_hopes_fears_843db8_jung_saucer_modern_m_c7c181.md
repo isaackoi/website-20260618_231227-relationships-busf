@@ -280,19 +280,19 @@ image: /assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_jung_sa
 
 ## Introduction
 
-Carl Jung’s interpretation of [flying saucers]({{ 'flying-saucer/' | relative_url }}) remains one of the most influential attempts to explain why UFOs became culturally powerful even when evidence for extraterrestrial spacecraft remained uncertain. Writing during the Cold War, Jung argued that the significance of UFOs lay not only in whether unusual objects were physically present in the sky, but in what those reports revealed about human psychology. In his 1958 book *Flying [Saucers]({{ 'saucers/' | relative_url }}): A Modern Myth of Things Seen in the Sky*, he described the flying saucer as a “modern myth”: a symbolic image through which societies expressed anxiety, hope, spiritual longing and a search for meaning in an unsettled age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+Carl Jung’s interpretation of [flying saucers]({{ 'flying-saucer/' | relative_url }}) remains one of the most influential attempts to explain why UFOs became culturally powerful even when evidence for extraterrestrial spacecraft remained uncertain. Writing during the Cold War, Jung argued that the significance of UFOs lay not only in whether unusual objects were physically present in the sky, but in what those reports revealed about human psychology. In his 1958 book *Flying [Saucers]({{ 'saucers/' | relative_url }}): A Modern Myth of Things Seen in the Sky*, he described the flying saucer as a “modern myth”: a symbolic image through which societies expressed anxiety, hope, spiritual longing and a search for meaning in an unsettled age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_jung_saucer_modern_m_c7c181-Illustration-1-dark.svg" | relative_url }}" alt="Jung Myth illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_jung_saucer_modern_m_c7c181-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_jung_saucer_modern_m_c7c181-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This idea sits at an important intersection between UFO culture and science fiction. Science-fiction stories supplied images of visitors from elsewhere, while UFO reports provided apparently real-world material onto which those narratives could be projected. For Jung, the key question was not simply whether saucers existed, but why so many people found them psychologically compelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+This idea sits at an important intersection between UFO culture and science fiction. Science-fiction stories supplied images of visitors from elsewhere, while UFO reports provided apparently real-world material onto which those narratives could be projected. For Jung, the key question was not simply whether saucers existed, but why so many people found them psychologically compelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
 ## What Made the Flying Saucer a Modern Myth?
 
 Jung used the word “myth” in a specific sense. He did not mean a deliberate falsehood. Instead, he meant a powerful story or image that expresses deep collective concerns. Myths emerge when societies struggle to make sense of experiences that seem larger than ordinary life.
 
-According to Jung, the post-war world was experiencing unprecedented tension. Nuclear weapons, ideological conflict, rapid technological change and fears about humanity’s future created widespread uncertainty. Under such conditions, symbolic images could take on enormous importance. The flying saucer became one such image, appearing in rumours, sightings, dreams, art and popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+According to Jung, the post-war world was experiencing unprecedented tension. Nuclear weapons, ideological conflict, rapid technological change and fears about humanity’s future created widespread uncertainty. Under such conditions, symbolic images could take on enormous importance. The flying saucer became one such image, appearing in rumours, sightings, dreams, art and popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
-What interested Jung was the remarkable consistency of the imagery. Reports repeatedly described circular, luminous objects. He saw this recurrence as evidence that the saucer had become more than a simple observation; it had become a cultural symbol carrying emotional and psychological meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+What interested Jung was the remarkable consistency of the imagery. Reports repeatedly described circular, luminous objects. He saw this recurrence as evidence that the saucer had become more than a simple observation; it had become a cultural symbol carrying emotional and psychological meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8LEt2jrkdRI" title="Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer">Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook</a></p><p class="youtube-embed-meta">Channel: Altrusian Grace Media &middot; Views: 11.6K &middot; Uploaded: March 2024 &middot; Length: 4 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8LEt2jrkdRI">Open on YouTube</a></p></div></div></div>
@@ -301,9 +301,9 @@ What interested Jung was the remarkable consistency of the imagery. Reports repe
 
 A central element of Jung’s argument concerned the shape of the flying saucer itself. He connected the circular disc to what he called the mandala, a symbolic circle that appears across many religious and cultural traditions.
 
-In Jungian psychology, the mandala often represents wholeness, order and the integration of opposing forces within the self. Jung had long studied circular symbols in dreams, religious art and spiritual traditions, viewing them as expressions of a desire for psychic balance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jungbythesea.co.uk">[Jung by the Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jungbythesea.co.uk</span><span class="citation-popover-title">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span><span class="citation-popover-snippet">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span></span></span>
+In Jungian psychology, the mandala often represents wholeness, order and the integration of opposing forces within the self. Jung had long studied circular symbols in dreams, religious art and spiritual traditions, viewing them as expressions of a desire for psychic balance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jungbythesea.co.uk">[Jung by the Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jungbythesea.co.uk</span><span class="citation-popover-title">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span><span class="citation-popover-snippet">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span></span></span>
 
-The flying saucer’s distinctive round form therefore seemed significant to him. In a world divided by political conflict and existential fear, people were repeatedly imagining or reporting an image associated with unity and completeness. Jung did not claim that witnesses consciously chose this symbolism. Rather, he argued that unconscious psychological processes could shape how ambiguous experiences were perceived and interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore+2Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+The flying saucer’s distinctive round form therefore seemed significant to him. In a world divided by political conflict and existential fear, people were repeatedly imagining or reporting an image associated with unity and completeness. Jung did not claim that witnesses consciously chose this symbolism. Rather, he argued that unconscious psychological processes could shape how ambiguous experiences were perceived and interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
 This helps explain why the flying saucer became such a potent cultural object. It was not merely a machine from space in popular imagination. It also functioned as a symbolic answer to fragmentation, uncertainty and social anxiety.
 
@@ -314,9 +314,9 @@ This helps explain why the flying saucer became such a potent cultural object. I
 
 One of the most distinctive features of Jung’s approach was his insistence that the UFO phenomenon mattered regardless of whether every reported object was physically real.
 
-He repeatedly stated that his primary concern was the “psychic aspect” of the phenomenon. If large numbers of people believed, discussed and imagined flying saucers, that fact itself demanded explanation. A cultural phenomenon could be historically important even if many individual reports turned out to be mistakes, rumours or misinterpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+He repeatedly stated that his primary concern was the “psychic aspect” of the phenomenon. If large numbers of people believed, discussed and imagined flying saucers, that fact itself demanded explanation. A cultural phenomenon could be historically important even if many individual reports turned out to be mistakes, rumours or misinterpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
-This position distinguished Jung from both committed [believers]({{ 'believers/' | relative_url }}) and outright debunkers. He did not present UFOs simply as extraterrestrial craft. Nor did he dismiss them as meaningless fantasies. Instead, he treated the reports as evidence of something psychologically real: a collective effort to interpret uncertainty and locate meaning in a rapidly changing world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
+This position distinguished Jung from both committed [believers]({{ 'believers/' | relative_url }}) and outright debunkers. He did not present UFOs simply as extraterrestrial craft. Nor did he dismiss them as meaningless fantasies. Instead, he treated the reports as evidence of something psychologically real: a collective effort to interpret uncertainty and locate meaning in a rapidly changing world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
 
 That framework helps explain why UFO stories often persist despite contradictory evidence. Once a symbol acquires cultural significance, its power no longer depends entirely on empirical proof. It survives because it speaks to emotional and existential concerns.
 
@@ -326,7 +326,7 @@ That framework helps explain why UFO stories often persist despite contradictory
 
 Jung believed the popularity of flying saucers reflected more than curiosity about life beyond Earth. It revealed deeper questions about humanity’s place in the universe.
 
-Cold War societies faced threats that seemed both global and uncontrollable. Nuclear annihilation, ideological confrontation and technological transformation created a sense that ordinary political institutions might not be sufficient to manage humanity’s future. Jung argued that under these conditions people often looked beyond familiar structures for guidance or reassurance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+Cold War societies faced threats that seemed both global and uncontrollable. Nuclear annihilation, ideological confrontation and technological transformation created a sense that ordinary political institutions might not be sufficient to manage humanity’s future. Jung argued that under these conditions people often looked beyond familiar structures for guidance or reassurance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
 The saucer could therefore function in multiple ways at once:
 
@@ -349,209 +349,209 @@ These meanings often appeared simultaneously. The same object could inspire fear
 
 Jung is sometimes portrayed as claiming that UFOs were merely psychological projections. His actual position was more cautious.
 
-In addition to analysing the symbolic dimension of flying saucers, he acknowledged that some reports involved genuinely unexplained observations. He did not claim to know whether all sightings were imaginary, mistaken or physical phenomena. Instead, he maintained that the available evidence did not justify firm conclusions about their ultimate nature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ofj.org/library/flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofj.org">[Oregon Friends of Jung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofj.org</span><span class="citation-popover-title">Oregon Friends of Jung Flying saucers</span><span class="citation-popover-snippet">Oregon Friends of JungFlying saucers - Oregon Friends of Jung...</span></span></span>
+In addition to analysing the symbolic dimension of flying saucers, he acknowledged that some reports involved genuinely unexplained observations. He did not claim to know whether all sightings were imaginary, mistaken or physical phenomena. Instead, he maintained that the available evidence did not justify firm conclusions about their ultimate nature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ofj.org/library/flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofj.org">[Oregon Friends of Jung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofj.org</span><span class="citation-popover-title">Oregon Friends of Jung Flying saucers</span><span class="citation-popover-snippet">Oregon Friends of JungFlying saucers - Oregon Friends of Jung...</span></span></span>
 
-This nuance is important because it shows that Jung was not attempting to settle the UFO question. He was examining why the phenomenon had become culturally meaningful. His psychological interpretation operated alongside, rather than entirely replacing, questions about physical reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
+This nuance is important because it shows that Jung was not attempting to settle the UFO question. He was examining why the phenomenon had become culturally meaningful. His psychological interpretation operated alongside, rather than entirely replacing, questions about physical reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
 
 ## Why Jung's Interpretation Still Matters
 
 Jung’s analysis remains influential because it offers a way to understand UFOs beyond the simple choice between belief and disbelief. His work suggests that unexplained aerial phenomena can function as cultural mirrors, reflecting the anxieties, aspirations and spiritual needs of the societies that interpret them.
 
-Within the broader relationship between UFOs and science fiction, this insight is especially significant. Science fiction provides narratives about cosmic visitors, hidden powers and transformative encounters. UFO culture then allows those narratives to migrate into everyday life, where they become part of public debate, personal experience and collective imagination. Jung’s contribution was to show that even when the hardware remains uncertain, the symbolism can be historically and psychologically real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
+Within the broader relationship between UFOs and science fiction, this insight is especially significant. Science fiction provides narratives about cosmic visitors, hidden powers and transformative encounters. UFO culture then allows those narratives to migrate into everyday life, where they become part of public debate, personal experience and collective imagination. Jung’s contribution was to show that even when the hardware remains uncertain, the symbolism can be historically and psychologically real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitpressbookstore.mit.edu">[mitpressbookstore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitpressbookstore.mit.edu</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) &#124; m...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tf6twnB5Ftw" title="Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer">Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture</a></p><p class="youtube-embed-meta">Channel: Manly Hall Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tf6twnB5Ftw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Jung Saw in the Flying Saucer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Jung Saw in the Flying Saucer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XeE9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By C. G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XeE9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By C. G. Jung</p>
         
-        <p class="fr-book-desc">The page centers on Jung&#x27;s interpretation of flying saucers as modern myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The page centers on Jung&#x27;s interpretation of flying saucers as modern myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
-        </h4>
-        <p class="fr-book-author">By Carl G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
+</h4>
+<p class="fr-book-author">By Carl G. Jung</p>
         
-        <p class="fr-book-desc">Explains symbols, archetypes and collective meaning behind Jung&#x27;s UFO analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains symbols, archetypes and collective meaning behind Jung&#x27;s UFO analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archetypes and the Collective Unconscious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwF0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Archetypes and the Collective Unconscious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archetypes and the Collective Unconscious">The Archetypes and the Collective Unconscious</a>
-        </h4>
-        <p class="fr-book-author">By C. G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Archetypes and the Collective Unconscious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwF0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Archetypes and the Collective Unconscious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archetypes and the Collective Unconscious">The Archetypes and the Collective Unconscious</a>
+</h4>
+<p class="fr-book-author">By C. G. Jung</p>
         
-        <p class="fr-book-desc">Provides the theoretical framework behind modern myth interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the theoretical framework behind modern myth interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects UFO reports to mythic and folkloric patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports to mythic and folkloric patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archetypes and the Collective Unconscious</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Archetypes+and+the+Collective+Unconscious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Archetypes and the Collective Unconscious</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="jung-myth-what-jung-saw-in-the-flying-saucer-relationships-betwee-ufo-art-print-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ Within the broader relationship between UFOs and science fiction, this insight i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,66 +757,66 @@ Within the broader relationship between UFOs and science fiction, this insight i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mitpressbookstore.mit.edu  
-   Link: <a href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow">https://mitpressbookstore.mit.edu/book/9780691018225</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) | m...</p></details>
+   Link:<a href="https://mitpressbookstore.mit.edu/book/9780691018225" target="_blank" rel="noopener noreferrer nofollow">https://mitpressbookstore.mit.edu/book/9780691018225</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth of Things Seen in the Sky. (from Vols. 10 and 18, Collected Works) (Jung Extracts #20) | m...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: routledge.com  
    Title: Flying Saucers: A Modern Myth of Things Seen in the Sky  
-   Link: <a href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</p></details>
+   Link:<a href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ofj.org  
    Title: Oregon Friends of Jung Flying saucers  
-   Link: <a href="https://ofj.org/library/flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://ofj.org/library/flying-saucers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon Friends of JungFlying saucers - Oregon Friends of Jung...</p></details>
+   Link:<a href="https://ofj.org/library/flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://ofj.org/library/flying-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon Friends of JungFlying saucers - Oregon Friends of Jung...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jungbythesea.co.uk  
    Title: Jung by the Sea The Mandala | VOD | Jung by the Sea  
-   Link: <a href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow">https://www.jungbythesea.co.uk/mandala</a>  
+   Link:<a href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow">https://www.jungbythesea.co.uk/mandala</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Carl Jung on UFOs: A Modern Myth of Hope and Fear  
-   Link: <a href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASnRs1ri44o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASnRs1ri44o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Flying Saucers: A Modern Myth Of Things Seen In The Sky  
-   Link: <a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8LEt2jrkdRI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung&#x27;s Psychology of UFOs Explained By Terence McKenna: the Death of Your Ego...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8LEt2jrkdRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung&#x27;s Psychology of UFOs Explained By Terence McKenna: the Death of Your Ego...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Bernice Hill, Ph.D. | A Jungian Perspective on UFOs | Speaking of Jung #118  
-   Link: <a href="https://www.youtube.com/watch?v=hAw8HTukH8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hAw8HTukH8c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This collection explores Carl Jung&#x27;s psychological framework mapping the flying saucer phenomenon as an archetypal projection of collecti...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hAw8HTukH8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hAw8HTukH8c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This collection explores Carl Jung&#x27;s psychological framework mapping the flying saucer phenomenon as an archetypal projection of collecti...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: carl jung was misrepresented on ufos his 1958  
-   Link: <a href="https://www.reddit.com/r/AtlasOfMystery/comments/1tu79ca/carl_jung_was_misrepresented_on_ufos_his_1958/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AtlasOfMystery/comments/1tu79ca/carl_jung_was_misrepresented_on_ufos_his_1958/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung Was Misrepresented on UFOs: His 1958 Letter to Donald Keyhoe Shows a Much More Nuanced Position...</p></details>
+   Link:<a href="https://www.reddit.com/r/AtlasOfMystery/comments/1tu79ca/carl_jung_was_misrepresented_on_ufos_his_1958/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AtlasOfMystery/comments/1tu79ca/carl_jung_was_misrepresented_on_ufos_his_1958/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Jung Was Misrepresented on UFOs: His 1958 Letter to Donald Keyhoe Shows a Much More Nuanced Position...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wSI4quTT6ko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wSI4quTT6ko</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wSI4quTT6ko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wSI4quTT6ko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers  
-   Link: <a href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tf6twnB5Ftw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bernice Hill, Ph.D. | A Jungian Perspective on UFOs | Speaking of Jung #118...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tf6twnB5Ftw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bernice Hill, Ph.D. | A Jungian Perspective on UFOs | Speaking of Jung #118...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Un mito moderno. De cosas que se ven en el cielo  
-   Link: <a href="https://es.wikipedia.org/wiki/Un_mito_moderno._De_cosas_que_se_ven_en_el_cielo" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Un_mito_moderno._De_cosas_que_se_ven_en_el_cielo</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Un_mito_moderno._De_cosas_que_se_ven_en_el_cielo" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Un_mito_moderno._De_cosas_que_se_ven_en_el_cielo</a>  

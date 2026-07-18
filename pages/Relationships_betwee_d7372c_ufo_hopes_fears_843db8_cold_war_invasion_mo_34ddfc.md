@@ -280,19 +280,19 @@ image: /assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_cold_wa
 
 ## Introduction
 
-In the early Cold War, UFOs became more than mysterious lights in the sky. They became a way of imagining dangers that seemed to ignore borders, evade defence systems and arrive without warning. The same decades that produced atomic weapons, long-range bombers, guided missiles and increasingly secret military programmes also produced the modern [flying saucer]({{ 'flying-saucer/' | relative_url }}) craze. As science fiction and UFO reports fed each other, the sky itself began to feel uncertain. Strange objects overhead could be interpreted as alien invaders, enemy technology, hidden government projects or signs that humanity had lost control of its own inventions. The result was a distinctive “UFO invasion mood”: a cultural atmosphere in which [unidentified]({{ 'unidentified/' | relative_url }}) objects served as symbols for Cold War anxieties about surprise attack, technological vulnerability and invisible enemies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos washington dc news reports</span><span class="citation-popover-snippet">Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy &#124; HISTORYMarch 11, 2019...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
+In the early Cold War, UFOs became more than mysterious lights in the sky. They became a way of imagining dangers that seemed to ignore borders, evade defence systems and arrive without warning. The same decades that produced atomic weapons, long-range bombers, guided missiles and increasingly secret military programmes also produced the modern [flying saucer]({{ 'flying-saucer/' | relative_url }}) craze. As science fiction and UFO reports fed each other, the sky itself began to feel uncertain. Strange objects overhead could be interpreted as alien invaders, enemy technology, hidden government projects or signs that humanity had lost control of its own inventions. The result was a distinctive “UFO invasion mood”: a cultural atmosphere in which [unidentified]({{ 'unidentified/' | relative_url }}) objects served as symbols for Cold War anxieties about surprise attack, technological vulnerability and invisible enemies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos washington dc news reports</span><span class="citation-popover-snippet">Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy &#124; HISTORYMarch 11, 2019...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_cold_war_invasion_mo_34ddfc-Illustration-1-dark.svg" | relative_url }}" alt="Invasion Fear illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_cold_war_invasion_mo_34ddfc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_cold_war_invasion_mo_34ddfc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Rockets, Jets and Nuclear Anxiety
 
-The timing of the flying saucer phenomenon was crucial. Modern UFO culture emerged in 1947, just as the world entered a new strategic era defined by nuclear weapons and rapidly advancing aerospace technology. Kenneth Arnold’s famous sighting near Mount Rainier helped popularise the term “flying saucer”, and reports multiplied across the United States soon afterwards. Government agencies quickly treated the phenomenon as a potential security issue rather than merely a curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-and-alien-invasions-in-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sky HISTORY TV channel UFOs and Alien Invasions in Film</span><span class="citation-popover-snippet">Sky HISTORY TV channelUFOs and Alien Invasions in Film - Meaning, Hollywood, List &#124; HISTORYApril 9, 2010...</span><span class="citation-popover-meta">Published: April 9, 2010</span></span></span>
+The timing of the flying saucer phenomenon was crucial. Modern UFO culture emerged in 1947, just as the world entered a new strategic era defined by nuclear weapons and rapidly advancing aerospace technology. Kenneth Arnold’s famous sighting near Mount Rainier helped popularise the term “flying saucer”, and reports multiplied across the United States soon afterwards. Government agencies quickly treated the phenomenon as a potential security issue rather than merely a curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-and-alien-invasions-in-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sky HISTORY TV channel UFOs and Alien Invasions in Film</span><span class="citation-popover-snippet">Sky HISTORY TV channelUFOs and Alien Invasions in Film - Meaning, Hollywood, List &#124; HISTORYApril 9, 2010...</span><span class="citation-popover-meta">Published: April 9, 2010</span></span></span>
 
 Cold War citizens were being asked to believe in technologies that would have seemed impossible only a decade earlier. Radar could detect unseen aircraft. [Rockets]({{ 'rockets/' | relative_url }}) could travel beyond the atmosphere. Nuclear bombs could destroy entire cities. Secret military projects were becoming normal features of national defence. In that environment, reports of strange craft did not automatically sound absurd. If governments possessed revolutionary new weapons, perhaps rival governments did as well.
 
-This connection between UFOs and strategic fear became particularly visible during the major wave of sightings in 1952. Reports surged across the United States, culminating in the famous Washington, D.C., incidents in which unexplained radar contacts and visual observations generated national [headlines]({{ 'headlines/' | relative_url }}). The idea that unidentified objects could appear above the American capital and apparently evade interception created exactly the kind of vulnerability that haunted Cold War thinking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos washington dc news reports</span><span class="citation-popover-snippet">Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy &#124; HISTORYMarch 11, 2019...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
+This connection between UFOs and strategic fear became particularly visible during the major wave of sightings in 1952. Reports surged across the United States, culminating in the famous Washington, D.C., incidents in which unexplained radar contacts and visual observations generated national [headlines]({{ 'headlines/' | relative_url }}). The idea that unidentified objects could appear above the American capital and apparently evade interception created exactly the kind of vulnerability that haunted Cold War thinking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos washington dc news reports</span><span class="citation-popover-snippet">Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy &#124; HISTORYMarch 11, 2019...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
 
-The military response also reflected the era's fears. The Air Force established and expanded programmes such as [Project Blue Book]({{ 'blue-book/' | relative_url }}) partly because officials needed to determine whether sightings represented foreign technology, a threat to national security or something else entirely. Even when investigations found ordinary [explanations]({{ 'explanations/' | relative_url }}) for most cases, the volume of reports revealed how closely UFO stories had become linked to strategic anxiety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
+The military response also reflected the era's fears. The Air Force established and expanded programmes such as [Project Blue Book]({{ 'blue-book/' | relative_url }}) partly because officials needed to determine whether sightings represented foreign technology, a threat to national security or something else entirely. Even when investigations found ordinary [explanations]({{ 'explanations/' | relative_url }}) for most cases, the volume of reports revealed how closely UFO stories had become linked to strategic anxiety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aG5uEGnGi8E" title="Did the Cold War Fuel Our UFO Paranoia?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aG5uEGnGi8E" target="_blank" rel="noopener noreferrer">Did the Cold War Fuel Our UFO Paranoia?</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 20.1K &middot; Uploaded: November 2015 &middot; Length: 4 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aG5uEGnGi8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aG5uEGnGi8E">Open on YouTube</a></p></div></div></div>
@@ -315,7 +315,7 @@ The flexibility of the symbol helped sustain its power. A Soviet bomber could on
 
 Science fiction provided narrative templates that helped audiences interpret UFO reports. Once invasion stories became familiar, unexplained sightings could be understood through dramatic plots already established in popular culture.
 
-Films and novels of the 1950s repeatedly explored themes of hidden intrusion, surveillance and sudden attack. Alien visitors often arrived not as openly declared enemies but as secret observers, infiltrators or technologically superior forces. These narratives resonated because they mirrored broader Cold War concerns about espionage, surprise strikes and enemies concealed within ordinary life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-and-alien-invasions-in-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sky HISTORY TV channel UFOs and Alien Invasions in Film</span><span class="citation-popover-snippet">Sky HISTORY TV channelUFOs and Alien Invasions in Film - Meaning, Hollywood, List &#124; HISTORYApril 9, 2010...</span><span class="citation-popover-meta">Published: April 9, 2010</span></span></span>
+Films and novels of the 1950s repeatedly explored themes of hidden intrusion, surveillance and sudden attack. Alien visitors often arrived not as openly declared enemies but as secret observers, infiltrators or technologically superior forces. These narratives resonated because they mirrored broader Cold War concerns about espionage, surprise strikes and enemies concealed within ordinary life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-and-alien-invasions-in-film/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sky HISTORY TV channel UFOs and Alien Invasions in Film</span><span class="citation-popover-snippet">Sky HISTORY TV channelUFOs and Alien Invasions in Film - Meaning, Hollywood, List &#124; HISTORYApril 9, 2010...</span><span class="citation-popover-meta">Published: April 9, 2010</span></span></span>
 
 A particularly revealing feature of these stories was their emphasis on uncertainty. Characters frequently struggled to convince authorities that a threat existed. Radar contacts disappeared. Witnesses were doubted. Official explanations seemed inadequate. Such plots closely resembled real-world UFO controversies, where incomplete information allowed competing interpretations to flourish.
 
@@ -337,200 +337,200 @@ Bombers, missiles and reconnaissance aircraft transformed overhead space into a 
 
 This helps explain why invasion-themed UFO stories proved so durable. They translated diffuse anxieties into a simple image: an unidentified craft crossing the sky. The object itself remained mysterious, but the emotional message was clear. The world had become interconnected, technologically unstable and difficult to control.
 
-Within the broader relationship between UFOs and science fiction, the Cold War invasion mood demonstrates how unidentified objects functioned as cultural mirrors. Flying saucers were compelling not only because they suggested extraterrestrial life, but because they gave visible form to fears that were otherwise invisible—nuclear annihilation, secret weapons, hidden enemies and the unsettling possibility that humanity's future might be determined by forces beyond its sight. Sky HISTORY TV channel+2Sky HISTORY TV channel <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos washington dc news reports</span><span class="citation-popover-snippet">Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy &#124; HISTORYMarch 11, 2019...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
+Within the broader relationship between UFOs and science fiction, the Cold War invasion mood demonstrates how unidentified objects functioned as cultural mirrors. Flying saucers were compelling not only because they suggested extraterrestrial life, but because they gave visible form to fears that were otherwise invisible—nuclear annihilation, secret weapons, hidden enemies and the unsettling possibility that humanity's future might be determined by forces beyond its sight. Sky HISTORY TV channel+2Sky HISTORY TV channel<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos washington dc news reports</span><span class="citation-popover-snippet">Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy &#124; HISTORYMarch 11, 2019...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_cold_war_invasion_mo_34ddfc-Illustration-3-dark.svg" | relative_url }}" alt="Invasion Fear illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_cold_war_invasion_mo_34ddfc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_cold_war_invasion_mo_34ddfc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Flying Saucers Made the Sky Dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Flying Saucers Made the Sky Dangerous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the Cold War atmosphere surrounding UFO fears.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the Cold War atmosphere surrounding UFO fears.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains UFOs within changing political and cultural anxieties.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains UFOs within changing political and cultural anxieties.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects UFO reports to defense and security concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO reports to defense and security concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WbEwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
-        </h4>
-        <p class="fr-book-author">By Brenda Denzler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lure of the Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WbEwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lure of the Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lure of the Edge">The Lure of the Edge</a>
+</h4>
+<p class="fr-book-author">By Brenda Denzler</p>
         
-        <p class="fr-book-desc">Discusses Cold War roots of modern UFO belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses Cold War roots of modern UFO belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lure+of+the+Edge+by+Brenda+Denzler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="invasion-fear-when-flying-saucers-made-the-sky-dangerous-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ Within the broader relationship between UFOs and science fiction, the Cold War i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ Within the broader relationship between UFOs and science fiction, the Cold War i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ Within the broader relationship between UFOs and science fiction, the Cold War i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ Within the broader relationship between UFOs and science fiction, the Cold War i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ Within the broader relationship between UFOs and science fiction, the Cold War i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,88 +736,88 @@ Within the broader relationship between UFOs and science fiction, the Cold War i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: ufos washington dc news reports  
-   Link: <a href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufos-washington-dc-news-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy | HISTORYMarch 11, 2019...</p></details>
+   Link:<a href="https://www.history.com/news/ufos-washington-dc-news-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufos-washington-dc-news-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelIn 1952, &#x27;Flying Saucers&#x27; Over Washington Sent the Press Into a Frenzy | HISTORYMarch 11, 2019...</p></details>
    Published: March 11, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: Sky HISTORY TV channel UFOs and Alien Invasions in Film  
-   Link: <a href="https://www.history.com/articles/ufos-and-alien-invasions-in-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-and-alien-invasions-in-film/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelUFOs and Alien Invasions in Film - Meaning, Hollywood, List | HISTORYApril 9, 2010...</p></details>
+   Link:<a href="https://www.history.com/articles/ufos-and-alien-invasions-in-film/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-and-alien-invasions-in-film/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelUFOs and Alien Invasions in Film - Meaning, Hollywood, List | HISTORYApril 9, 2010...</p></details>
    Published: April 9, 2010  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: visit.archives.gov  
-   Link: <a href="https://visit.archives.gov/featured-document-display-50-years-ago-government-stops-investigating-ufos" target="_blank" rel="noopener noreferrer nofollow">https://visit.archives.gov/featured-document-display-50-years-ago-government-stops-investigating-ufos</a>  
+   Link:<a href="https://visit.archives.gov/featured-document-display-50-years-ago-government-stops-investigating-ufos" target="_blank" rel="noopener noreferrer nofollow">https://visit.archives.gov/featured-document-display-50-years-ago-government-stops-investigating-ufos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: www.archives.gov Mission History | National Archives  
-   Link: <a href="https://www.archives.gov/citizen-archivist/missions/history" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/citizen-archivist/missions/history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History | National ArchivesMay 13, 2026...</p></details>
+   Link:<a href="https://www.archives.gov/citizen-archivist/missions/history" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/citizen-archivist/missions/history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History | National ArchivesMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.researchgate.net(PDF) Extraterrestrial encounters: UFOs, science and the quest for transcendence, 1947–1972November 29, 2012...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.researchgate.net(PDF) Extraterrestrial encounters: UFOs, science and the quest for transcendence, 1947–1972November 29, 2012...</p></details>
    Published: November 29, 2012  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=TsblbywraW0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TsblbywraW0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington DC UFO sightings radar cold war anxiety 1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TsblbywraW0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TsblbywraW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington DC UFO sightings radar cold war anxiety 1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/protectprotest-british-nuclear-fiction-of-the-1980s/867F85C59D0828A0C0287E46AA40A1EC" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/protectprotest-british-nuclear-fiction-of-the-1980s/867F85C59D0828A0C0287E46AA40A1EC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.cambridge.orgProtect/Protest: British nuclear fiction of the 1980s | The British Journal for the History of Science | Cambridge CoreJ...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/protectprotest-british-nuclear-fiction-of-the-1980s/867F85C59D0828A0C0287E46AA40A1EC" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/abs/protectprotest-british-nuclear-fiction-of-the-1980s/867F85C59D0828A0C0287E46AA40A1EC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.cambridge.orgProtect/Protest: British nuclear fiction of the 1980s | The British Journal for the History of Science | Cambridge CoreJ...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=njDc8r-J2H0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=njDc8r-J2H0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington DC UFO Incident of 1952: UNDENIABLE Evidence...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=njDc8r-J2H0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=njDc8r-J2H0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Washington DC UFO Incident of 1952: UNDENIABLE Evidence...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/anything/comments/18ky3xg" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/anything/comments/18ky3xg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Terminated On December 17, 1969!!December 18, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/anything/comments/18ky3xg" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/anything/comments/18ky3xg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Terminated On December 17, 1969!!December 18, 2023...</p></details>
    Published: December 17, 1969  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=dENi-V-U720" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dENi-V-U720</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Washington D.C. UFO Sightings in 1952...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=dENi-V-U720" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dENi-V-U720</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Washington D.C. UFO Sightings in 1952...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=wIfz1yhCNps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wIfz1yhCNps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold War Created Our First Aliens – The 1950s Psychology of Fear...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wIfz1yhCNps" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wIfz1yhCNps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold War Created Our First Aliens – The 1950s Psychology of Fear...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2025...</p></details>
    Published: January 27, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Did the Cold War Fuel Our UFO Paranoia?  
-   Link: <a href="http://www.youtube.com/watch?v=aG5uEGnGi8E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aG5uEGnGi8E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Aliens in the 1950s Fear, Faith, and the Cold War Mind...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=aG5uEGnGi8E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aG5uEGnGi8E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Aliens in the 1950s Fear, Faith, and the Cold War Mind...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Flying Saucers from Outer Space  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_from_Outer_Space</a>  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-ufo/
 description: Focused pages that expand on New Vocabulary.
-date: '2026-06-18'
+date: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_ufo_vocabulary_chang_aacc40
 parent_title: New Vocabulary
@@ -16,7 +16,7 @@ parent_permalink: /new-vocabulary/
 
 # Explore Topics in New Vocabulary
 
-The following pages expand on the main **[New Vocabulary]({{ '/new-vocabulary/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[New Vocabulary]({{ '/new-vocabulary/' | relative_url }})** page and cover its key branches in.
 
 - [Orbs]({{ '/orbs-d50713/' | relative_url }})
 - [NASA Data]({{ '/nasa-data/' | relative_url }})

@@ -284,7 +284,7 @@ Mid-century comics helped turn the [flying saucer]({{ 'flying-saucer/' | relativ
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_readable_saucer_pane_92e82a-Illustration-1-dark.svg" | relative_url }}" alt="Readable Saucers illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_readable_saucer_pane_92e82a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_readable_saucer_pane_92e82a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader relationship between UFOs and science fiction, [comics]({{ 'comics/' | relative_url }}) were especially important because they transformed a debated phenomenon into a stable visual noun. An oval disc, a rim and a dome became enough to signal alien arrival, mystery, danger or contact. Once readers learned that shorthand, artists could change its size, angle and position to create entirely different meanings without changing the basic symbol. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+Within the broader relationship between UFOs and science fiction, [comics]({{ 'comics/' | relative_url }}) were especially important because they transformed a debated phenomenon into a stable visual noun. An oval disc, a rim and a dome became enough to signal alien arrival, mystery, danger or contact. Once readers learned that shorthand, artists could change its size, angle and position to create entirely different meanings without changing the basic symbol.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 ## The Oval, Rim and Dome as a Visual Noun
 
@@ -301,9 +301,9 @@ The power of the comic-book saucer lay in reduction. Unlike detailed spacecraft 
 
 Together, these elements created a silhouette that remained identifiable whether the craft appeared large or tiny, near or distant. Because the shape was symmetrical and geometrically simple, readers could recognise it almost instantly.
 
-This mattered because comics rely heavily on visual hierarchy. Readers scan pages quickly, and artists must communicate meaning before the eye moves on. A distinctive silhouette performs that task more efficiently than a complex design. Repetition across many panels and stories reinforced the association until the saucer itself became a recognised symbol rather than merely a vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-title">Comics Devices Library Flow &#124; Comics Devices Library</span><span class="citation-popover-snippet">Comics Devices Library Flow &#124; Comics Devices Library</span></span></span>
+This mattered because comics rely heavily on visual hierarchy. Readers scan pages quickly, and artists must communicate meaning before the eye moves on. A distinctive silhouette performs that task more efficiently than a complex design. Repetition across many panels and stories reinforced the association until the saucer itself became a recognised symbol rather than merely a vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-title">Comics Devices Library Flow &#124; Comics Devices Library</span><span class="citation-popover-snippet">Comics Devices Library Flow &#124; Comics Devices Library</span></span></span>
 
-The symbol also benefited from the popularity of the phrase “flying saucer” after the 1947 Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }}). Although Arnold's original description was more complicated than the classic disc shape, newspapers popularised the saucer label, and visual culture followed. Comics adopted the simplest interpretation because it was easy to draw and impossible to miss. National Air and Space Museum+2National Air and Space Museum <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+The symbol also benefited from the popularity of the phrase “flying saucer” after the 1947 Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }}). Although Arnold's original description was more complicated than the classic disc shape, newspapers popularised the saucer label, and visual culture followed. Comics adopted the simplest interpretation because it was easy to draw and impossible to miss. National Air and Space Museum+2National Air and Space Museum<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yCNYfH5dxr0" title="How to Make Comics - Clarity in Storytelling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yCNYfH5dxr0" target="_blank" rel="noopener noreferrer">How to Make Comics - Clarity in Storytelling</a></p><p class="youtube-embed-meta">Channel: Patrick Scullin</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yCNYfH5dxr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yCNYfH5dxr0">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ The saucer was ideal for this environment. Its outline remained clear even when:
 
 A more elaborate spacecraft might lose important details, but a saucer could be reduced almost to a logo. Readers did not need technical information about propulsion systems, wings or engines. The silhouette alone carried the meaning.
 
-This printing reality encouraged standardisation. Once artists discovered that a disc-and-dome design reproduced reliably, the same shape appeared repeatedly across science-fiction anthologies, adventure comics and newspaper strips. Repetition strengthened recognition, and recognition made the symbol even more useful. The process became self-reinforcing: the simpler the image, the faster it communicated, and the faster it communicated, the more often artists reused it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-title">Comics Devices Library Flow &#124; Comics Devices Library</span><span class="citation-popover-snippet">Comics Devices Library Flow &#124; Comics Devices Library</span></span></span>
+This printing reality encouraged standardisation. Once artists discovered that a disc-and-dome design reproduced reliably, the same shape appeared repeatedly across science-fiction anthologies, adventure comics and newspaper strips. Repetition strengthened recognition, and recognition made the symbol even more useful. The process became self-reinforcing: the simpler the image, the faster it communicated, and the faster it communicated, the more often artists reused it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-title">Comics Devices Library Flow &#124; Comics Devices Library</span><span class="citation-popover-snippet">Comics Devices Library Flow &#124; Comics Devices Library</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_readable_saucer_pane_92e82a-Illustration-2-dark.svg" | relative_url }}" alt="Readable Saucers illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_readable_saucer_pane_92e82a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab_readable_saucer_pane_92e82a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,7 +342,7 @@ A saucer hovering directly above a house, road or farm transformed an ordinary s
 
 Artists also used tilt strategically. A perfectly horizontal saucer implied hovering and observation. A sharply angled saucer implied movement, pursuit or escape. Because the shape was so simple, even a small change in orientation could dramatically alter how the reader interpreted the scene.
 
-These choices worked because comics guide the eye through composition and placement. Position within the panel influences how readers interpret importance, danger and motion. The saucer's simplicity allowed artists to exploit those compositional tools efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-title">Comics Devices Library Flow &#124; Comics Devices Library</span><span class="citation-popover-snippet">Comics Devices Library Flow &#124; Comics Devices Library</span></span></span>
+These choices worked because comics guide the eye through composition and placement. Position within the panel influences how readers interpret importance, danger and motion. The saucer's simplicity allowed artists to exploit those compositional tools efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-title">Comics Devices Library Flow &#124; Comics Devices Library</span><span class="citation-popover-snippet">Comics Devices Library Flow &#124; Comics Devices Library</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sSecXc1Xy7E" title="Mastering Panel Composition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sSecXc1Xy7E" target="_blank" rel="noopener noreferrer">Mastering Panel Composition</a></p><p class="youtube-embed-meta">Channel: Proko</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sSecXc1Xy7E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sSecXc1Xy7E">Open on YouTube</a></p></div></div></div>
@@ -351,7 +351,7 @@ These choices worked because comics guide the eye through composition and placem
 
 A UFO in a comic panel could not actually move, so artists relied on visual conventions to imply motion and energy. The saucer's clean geometry made it especially compatible with these techniques.
 
-Speed lines trailing behind a disc suggested rapid flight. Radiating lines around the craft suggested power, vibration or sudden appearance. Motion lines helped readers infer both direction and speed, even though the image itself remained static. Research on visual narratives shows that such graphic conventions improve understanding of movement and help viewers interpret implied motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Centros Xunta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Meaning of Motion Lines?: A Review of Theoretical and Empirical Research on Static Depiction of Motion - Hacımusa...</span></span></span>
+Speed lines trailing behind a disc suggested rapid flight. Radiating lines around the craft suggested power, vibration or sudden appearance. Motion lines helped readers infer both direction and speed, even though the image itself remained static. Research on visual narratives shows that such graphic conventions improve understanding of movement and help viewers interpret implied motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryThe Meaning of Motion Lines?: A Review of Theoretical and Empirical Research on Static Depiction of Motion - Hacımusa...</span></span></span>
 
 The [saucer shape]({{ 'saucer-shape/' | relative_url }}) amplified the effect because it offered a clear reference point. Readers could immediately distinguish the object from the motion indicators surrounding it. A more irregular design would have produced visual clutter; the saucer's simplicity made the added effects easy to read.
 
@@ -365,201 +365,201 @@ The comic-book saucer became durable because it balanced ambiguity and certainty
 
 Readers did not need to know who was inside, where it came from or what it wanted. The symbol itself supplied enough information to trigger expectations of contact, invasion, discovery or [wonder]({{ 'wonder/' | relative_url }}). Comics therefore helped transform the flying saucer from a reported phenomenon into a visual language.
 
-Once established, the shorthand travelled beyond comics into toys, advertising, [television]({{ 'television/' | relative_url }}), films and later popular UFO imagery. But comics provided a particularly efficient proving ground. Their need for rapid visual communication rewarded a design that could be recognised in an instant, and the oval disc with a dome proved almost impossible to improve upon. National Air and Space Museum+2si.edu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+Once established, the shorthand travelled beyond comics into toys, advertising, [television]({{ 'television/' | relative_url }}), films and later popular UFO imagery. But comics provided a particularly efficient proving ground. Their need for rapid visual communication rewarded a design that could be recognised in an instant, and the oval disc with a dome proved almost impossible to improve upon. National Air and Space Museum+2si.edu<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cp4W4Ypky60" title="Can You Draw Aliens With The Loomis Method? | Comics - Manga - Fundamentals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cp4W4Ypky60" target="_blank" rel="noopener noreferrer">Can You Draw Aliens With The Loomis Method? | Comics - Manga - Fundamentals</a></p><p class="youtube-embed-meta">Channel: The Drawing Codex</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cp4W4Ypky60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cp4W4Ypky60">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a Simple Saucer Reads as a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a Simple Saucer Reads as a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps explain how saucer imagery entered popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how saucer imagery entered popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction+by+John+Clute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Science Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NcwnQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Encyclopedia of Science Fiction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction+by+John+Clute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Science Fiction">The Encyclopedia of Science Fiction</a>
-        </h4>
-        <p class="fr-book-author">By John Clute, Peter Nicholls</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction+by+John+Clute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Science Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NcwnQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Encyclopedia of Science Fiction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction+by+John+Clute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Science Fiction">The Encyclopedia of Science Fiction</a>
+</h4>
+<p class="fr-book-author">By John Clute, Peter Nicholls</p>
         
-        <p class="fr-book-desc">Provides context for recurring UFO and spacecraft imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction+by+John+Clute&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for recurring UFO and spacecraft imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction+by+John+Clute&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCloud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
+</h4>
+<p class="fr-book-author">By Scott McCloud</p>
         
-        <p class="fr-book-desc">Explains visual shorthand, symbols, and instant recognition in comics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains visual shorthand, symbols, and instant recognition in comics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C1h_UE_CqDwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Making Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Comics">Making Comics</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCloud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C1h_UE_CqDwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Making Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Comics">Making Comics</a>
+</h4>
+<p class="fr-book-author">By Scott McCloud</p>
         
-        <p class="fr-book-desc">Covers visual clarity, design choices, and readable imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers visual clarity, design choices, and readable imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Encyclopedia of Science Fiction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Comics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Science+Fiction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Encyclopedia of Science Fiction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Comics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights"><img src="{{ '/assets/images/marketplace-covers/61b940309fc6c9103d6e.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights"><img src="{{ '/assets/images/marketplace-covers/61b940309fc6c9103d6e.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Large - Landed w/ Stand &amp; Lights</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="readable-saucers-why-a-simple-saucer-reads-as-a-ufo-relationships-betwee-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ Once established, the shorthand travelled beyond comics into toys, advertising, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ Once established, the shorthand travelled beyond comics into toys, advertising, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ Once established, the shorthand travelled beyond comics into toys, advertising, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ Once established, the shorthand travelled beyond comics into toys, advertising, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ Once established, the shorthand travelled beyond comics into toys, advertising, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,103 +765,103 @@ Once established, the shorthand travelled beyond comics into toys, advertising, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13377" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13377</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe Meaning of Motion Lines?: A Review of Theoretical and Empirical Research on Static Depiction of Motion - Hacımusa...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13377" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13377</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe Meaning of Motion Lines?: A Review of Theoretical and Empirical Research on Static Depiction of Motion - Hacımusa...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: centros.edu.xunta.es  
    Title: Centros Xunta  
-   Link: <a href="https://centros.edu.xunta.es/cpidofeal/comic/2elementsofacomic.htm" target="_blank" rel="noopener noreferrer nofollow">https://centros.edu.xunta.es/cpidofeal/comic/2elementsofacomic.htm</a>  
+   Link:<a href="https://centros.edu.xunta.es/cpidofeal/comic/2elementsofacomic.htm" target="_blank" rel="noopener noreferrer nofollow">https://centros.edu.xunta.es/cpidofeal/comic/2elementsofacomic.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: si.edu  
    Title: Toy, Flying Saucer, Buck Rogers | Smithsonian Institution  
-   Link: <a href="https://www.si.edu/object/nasm_A19970682000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/nasm_A19970682000</a>  
+   Link:<a href="https://www.si.edu/object/nasm_A19970682000" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/nasm_A19970682000</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer | National Air and Space MuseumJune 24, 2022...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer | National Air and Space MuseumJune 24, 2022...</p></details>
    Published: June 24, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: comicsdevices.com  
    Title: Comics Devices Library Flow | Comics Devices Library  
-   Link: <a href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow">https://comicsdevices.com/flow/</a>  
+   Link:<a href="https://comicsdevices.com/flow/" target="_blank" rel="noopener noreferrer nofollow">https://comicsdevices.com/flow/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumReports of UFOs: 1947 Roswell Incident | National Air and Space Museum...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumReports of UFOs: 1947 Roswell Incident | National Air and Space Museum...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0006899315000293" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0006899315000293</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The notion of the motion: The neurocognition of motion lines in visual narratives - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0006899315000293" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0006899315000293</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The notion of the motion: The neurocognition of motion lines in visual narratives - ScienceDirect...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: comicory.com  
    Title: Comic Book Paneling — A Complete Guide to Panel Design | Comicory  
-   Link: <a href="https://www.comicory.com/blog/paneling-in-comics" target="_blank" rel="noopener noreferrer nofollow">https://www.comicory.com/blog/paneling-in-comics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comic Book Paneling — A Complete Guide to Panel Design | Comicory...</p></details>
+   Link:<a href="https://www.comicory.com/blog/paneling-in-comics" target="_blank" rel="noopener noreferrer nofollow">https://www.comicory.com/blog/paneling-in-comics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comic Book Paneling — A Complete Guide to Panel Design | Comicory...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Can You Draw Aliens With The Loomis Method? | Comics  
-   Link: <a href="https://www.youtube.com/watch?v=Cp4W4Ypky60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cp4W4Ypky60</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Comic Anthology - my Top 10 peculiar moments...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cp4W4Ypky60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cp4W4Ypky60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Comic Anthology - my Top 10 peculiar moments...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ojs.uhnsugriwa.ac.id  
-   Link: <a href="https://ojs.uhnsugriwa.ac.id/index.php/lg/article/view/5491" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uhnsugriwa.ac.id/index.php/lg/article/view/5491</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es: Les-Guet&#x27;sNovember 14, 2025...</p></details>
+   Link:<a href="https://ojs.uhnsugriwa.ac.id/index.php/lg/article/view/5491" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uhnsugriwa.ac.id/index.php/lg/article/view/5491</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es: Les-Guet&#x27;sNovember 14, 2025...</p></details>
    Published: November 14, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395676767_Whoosh_visual_depictions_of_direction_speed_and_temporality_a_corpus_analysis_of_motion_events_in_global_comics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395676767_Whoosh_visual_depictions_of_direction_speed_and_temporality_a_corpus_analysis_of_motion_events_in_global_comics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>micsSeptember 19, 2025...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395676767_Whoosh_visual_depictions_of_direction_speed_and_temporality_a_corpus_analysis_of_motion_events_in_global_comics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395676767_Whoosh_visual_depictions_of_direction_speed_and_temporality_a_corpus_analysis_of_motion_events_in_global_comics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>micsSeptember 19, 2025...</p></details>
    Published: September 19, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: www.reddit.com The Kenneth Arnold sighting  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16k55n0" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16k55n0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold sightingSeptember 16, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/16k55n0" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16k55n0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold sightingSeptember 16, 2023...</p></details>
    Published: September 16, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Mastering Panel Composition  
-   Link: <a href="https://www.youtube.com/watch?v=sSecXc1Xy7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sSecXc1Xy7E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Draw Aliens With The Loomis Method? | Comics - Manga - Fundamentals...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sSecXc1Xy7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sSecXc1Xy7E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Draw Aliens With The Loomis Method? | Comics - Manga - Fundamentals...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: comicsineducation.com  
    Title: COMICS IN EDUCATIONThe Language of Comics  
-   Link: <a href="https://www.comicsineducation.com/the-language-of-comics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.comicsineducation.com/the-language-of-comics.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COMICS IN EDUCATION...</p></details>
+   Link:<a href="https://www.comicsineducation.com/the-language-of-comics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.comicsineducation.com/the-language-of-comics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COMICS IN EDUCATION...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: How to Make Comics  
-   Link: <a href="https://www.youtube.com/watch?v=yCNYfH5dxr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yCNYfH5dxr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Panel Composition...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yCNYfH5dxr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yCNYfH5dxr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Panel Composition...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hogonext.com  
    Title: How to Draw Comic Book Action  
-   Link: <a href="https://hogonext.com/how-to-draw-comic-book-action/" target="_blank" rel="noopener noreferrer nofollow">https://hogonext.com/how-to-draw-comic-book-action/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2025...</p></details>
+   Link:<a href="https://hogonext.com/how-to-draw-comic-book-action/" target="_blank" rel="noopener noreferrer nofollow">https://hogonext.com/how-to-draw-comic-book-action/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2025...</p></details>
    Published: May 17, 2025  

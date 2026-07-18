@@ -274,7 +274,7 @@ image: /assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_sa
 
 ## Introduction
 
-Did the phrase “[flying saucer]({{ 'flying-saucer/' | relative_url }})” change what people later reported seeing in the sky? Many historians of UFO culture think it did. The key argument is not that witnesses invented their experiences, but that once a vivid label entered public language it provided a ready-made template for interpreting unusual sights. After Kenneth Arnold’s 1947 report was transformed into the widely repeated phrase “flying saucer”, Americans suddenly had a common image for mysterious aerial objects. Reports of disc-like craft multiplied, and the saucer became the default visual symbol of the UFO age. Historians of journalism, culture and UFO belief often describe this as a feedback loop: reports created an image, the image shaped expectations, and those expectations influenced later reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
+Did the phrase “[flying saucer]({{ 'flying-saucer/' | relative_url }})” change what people later reported seeing in the sky? Many historians of UFO culture think it did. The key argument is not that witnesses invented their experiences, but that once a vivid label entered public language it provided a ready-made template for interpreting unusual sights. After Kenneth Arnold’s 1947 report was transformed into the widely repeated phrase “flying saucer”, Americans suddenly had a common image for mysterious aerial objects. Reports of disc-like craft multiplied, and the saucer became the default visual symbol of the UFO age. Historians of journalism, culture and UFO belief often describe this as a feedback loop: reports created an image, the image shaped expectations, and those expectations influenced later reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[uky.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-1-dark.svg" | relative_url }}" alt="Witness Loop illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,11 +282,11 @@ Did the phrase “[flying saucer]({{ 'flying-saucer/' | relative_url }})” chan
 
 Human beings do not observe the world as blank slates. Psychologists have long noted that language helps people classify and interpret ambiguous experiences. A label can act as a mental shortcut, making certain features stand out while pushing others into the background.
 
-The “flying saucer” label offered exactly such a shortcut. Arnold’s own descriptions were more complicated than the later stereotype. Yet once newspapers popularised the saucer image, witnesses encountering distant lights, reflections, aircraft or unexplained objects had an easy comparison available. Instead of describing an object from scratch, they could say it looked like a saucer, disc or flying plate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfox.co.uk">[Mark Fox &#124; Exploring the extraordinary+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfox.co.uk</span><span class="citation-popover-snippet">Mark Fox &#124; Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases &#124; Mark FoxJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
+The “flying saucer” label offered exactly such a shortcut. Arnold’s own descriptions were more complicated than the later stereotype. Yet once newspapers popularised the saucer image, witnesses encountering distant lights, reflections, aircraft or unexplained objects had an easy comparison available. Instead of describing an object from scratch, they could say it looked like a saucer, disc or flying plate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfox.co.uk">[markfox.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfox.co.uk</span><span class="citation-popover-snippet">Mark Fox &#124; Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases &#124; Mark FoxJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
 
-This mattered because many aerial observations are inherently uncertain. Observers often see objects briefly, at a distance, without clear size or reference points. In such situations, familiar cultural categories help organise perception. The saucer label therefore functioned not merely as a description but as a framework for noticing and reporting unusual events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
+This mattered because many aerial observations are inherently uncertain. Observers often see objects briefly, at a distance, without clear size or reference points. In such situations, familiar cultural categories help organise perception. The saucer label therefore functioned not merely as a description but as a framework for noticing and reporting unusual events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
 
-Within the broader relationship between UFOs and science fiction, the process is especially important. Science-fiction magazines, films and illustrations already featured futuristic vehicles and exotic technologies. Once “flying saucer” became a household term, it linked ambiguous real-world observations to a growing stock of imagined spacecraft. The boundary between observation and cultural expectation became more porous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
+Within the broader relationship between UFOs and science fiction, the process is especially important. Science-fiction magazines, films and illustrations already featured futuristic vehicles and exotic technologies. Once “flying saucer” became a household term, it linked ambiguous real-world observations to a growing stock of imagined spacecraft. The boundary between observation and cultural expectation became more porous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z25NfZ0Ea9c" title="Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer">Ep. 2 | Flying Saucer UFOs | Roswell, Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 487.9K &middot; Uploaded: June 2019 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z25NfZ0Ea9c">Open on YouTube</a></p></div></div></div>
@@ -295,16 +295,16 @@ Within the broader relationship between UFOs and science fiction, the process is
 
 One of the most striking features of UFO history is how rapidly saucer-shaped reports spread after Arnold’s sighting received national attention.
 
-Contemporary accounts and later historical summaries note that hundreds of reports followed within weeks. Many of these described objects that were circular, disc-like or saucer-shaped, even though Arnold himself did not provide the neat disc image that later dominated popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
+Contemporary accounts and later historical summaries note that hundreds of reports followed within weeks. Many of these described objects that were circular, disc-like or saucer-shaped, even though Arnold himself did not provide the neat disc image that later dominated popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
 Several mechanisms may explain this pattern:
 
 * **Shared vocabulary:** Witnesses suddenly possessed a widely understood term for unusual aerial phenomena.
 * **Selective attention:** People became more likely to notice odd lights or aircraft because newspapers were discussing them daily.
 * **Memory shaping:** When recounting a confusing event, witnesses could fit details into the familiar saucer framework.
-* **Reporting incentives:** Journalists often highlighted saucer-like elements because they matched the established story and attracted readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
+* **Reporting incentives:** Journalists often highlighted saucer-like elements because they matched the established story and attracted readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[uky.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
 
-The result was a degree of standardisation. Before 1947, strange aerial reports existed but lacked a single dominant image. After the saucer label spread, many reports converged on a recognisable shape. Researchers examining later UFO archives frequently note the recurring use of terms such as “saucer”, “disc” and “round object”, even though many other shapes continued to be reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfox.co.uk">[Mark Fox &#124; Exploring the extraordinary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfox.co.uk</span><span class="citation-popover-snippet">Mark Fox &#124; Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases &#124; Mark FoxJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
+The result was a degree of standardisation. Before 1947, strange aerial reports existed but lacked a single dominant image. After the saucer label spread, many reports converged on a recognisable shape. Researchers examining later UFO archives frequently note the recurring use of terms such as “saucer”, “disc” and “round object”, even though many other shapes continued to be reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfox.co.uk">[Mark Fox | Exploring the extraordinary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfox.co.uk</span><span class="citation-popover-snippet">Mark Fox &#124; Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases &#124; Mark FoxJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-2-dark.svg" | relative_url }}" alt="Witness Loop illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,9 +326,9 @@ The feedback process can be imagined as a simple cycle.
 
 </div>
 
-This does not require fraud or deliberate invention. A witness may genuinely report what seems most consistent with an uncertain visual experience. The important point is that perception and description are influenced by available cultural categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
+This does not require fraud or deliberate invention. A witness may genuinely report what seems most consistent with an uncertain visual experience. The important point is that perception and description are influenced by available cultural categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
 
-The extraordinary public awareness of flying [saucers]({{ 'saucers/' | relative_url }}) illustrates how powerful the cycle became. Surveys discussed in the Condon Report found that awareness of the term reached remarkably high levels in the United States. Within months of the original reports, the subject was already known to the overwhelming majority of adults, providing a common language through which later experiences could be interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Section II</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Section II: Summary of the Study...</span></span></span>
+The extraordinary public awareness of flying [saucers]({{ 'saucers/' | relative_url }}) illustrates how powerful the cycle became. Surveys discussed in the Condon Report found that awareness of the term reached remarkably high levels in the United States. Within months of the original reports, the subject was already known to the overwhelming majority of adults, providing a common language through which later experiences could be interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Section II</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Section II: Summary of the Study...</span></span></span>
 
 Once such a vocabulary becomes widespread, witnesses do not merely report a phenomenon; they report it through a pre-existing cultural lens.
 
@@ -339,188 +339,188 @@ Once such a vocabulary becomes widespread, witnesses do not merely report a phen
 
 The significance of the saucer label extends beyond one phrase. It offers a model for understanding how UFO traditions evolve.
 
-Historians increasingly emphasise that UFO culture developed through interaction between witnesses, journalists, investigators, popular entertainment and science-fiction imagery. The press did not simply record reports; it helped create the categories through which reports were understood. Scholars of UFO journalism argue that news organisations played a central role in establishing and perpetuating the flying-saucer image, often blurring the line between reporting and popular entertainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
+Historians increasingly emphasise that UFO culture developed through interaction between witnesses, journalists, investigators, popular entertainment and science-fiction imagery. The press did not simply record reports; it helped create the categories through which reports were understood. Scholars of UFO journalism argue that news organisations played a central role in establishing and perpetuating the flying-saucer image, often blurring the line between reporting and popular entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
 
-This perspective also helps explain why UFO descriptions change over time. Different eras emphasise different images. The classic metallic saucer became dominant after 1947, while later decades added new motifs such as triangular craft, black helicopters and technologically sophisticated [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena. In each case, widely circulated images provided witnesses with interpretive frameworks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfox.co.uk">[Mark Fox &#124; Exploring the extraordinary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfox.co.uk</span><span class="citation-popover-snippet">Mark Fox &#124; Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases &#124; Mark FoxJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
+This perspective also helps explain why UFO descriptions change over time. Different eras emphasise different images. The classic metallic saucer became dominant after 1947, while later decades added new motifs such as triangular craft, black helicopters and technologically sophisticated [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena. In each case, widely circulated images provided witnesses with interpretive frameworks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfox.co.uk">[Mark Fox | Exploring the extraordinary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfox.co.uk</span><span class="citation-popover-snippet">Mark Fox &#124; Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases &#124; Mark FoxJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
 
-The enduring lesson of the “flying saucer” is therefore not simply that a famous label was born. It is that language can shape observation. Once the saucer entered everyday speech, it gave generations of witnesses a common way to notice, remember and describe mysterious things in the sky. That witness loop became one of the defining mechanisms through which modern UFO culture—and its close relationship with science-fiction imagery—developed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[University of Kentucky+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
+The enduring lesson of the “flying saucer” is therefore not simply that a famous label was born. It is that language can shape observation. Once the saucer entered everyday speech, it gave generations of witnesses a common way to notice, remember and describe mysterious things in the sky. That witness loop became one of the defining mechanisms through which modern UFO culture—and its close relationship with science-fiction imagery—developed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholars.uky.edu">[uky.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholars.uky.edu</span><span class="citation-popover-title">journalism versus the flying saucers assessing the first generati</span><span class="citation-popover-snippet">University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-3-dark.svg" | relative_url }}" alt="Witness Loop illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_saucer_witness_feedb_b199fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Saucer Label Change Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Saucer Label Change Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for the early cases that followed Arnold&#x27;s sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the early cases that followed Arnold&#x27;s sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the public reaction to the post-Arnold saucer wave.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the public reaction to the post-Arnold saucer wave.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Begins with Kenneth Arnold and the birth of the flying saucer era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Begins with Kenneth Arnold and the birth of the flying saucer era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how reported forms and symbols change through culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reported forms and symbols change through culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="witness-loop-did-the-saucer-label-change-sightings-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ The enduring lesson of the “flying saucer” is therefore not simply that a fa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ The enduring lesson of the “flying saucer” is therefore not simply that a fa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ The enduring lesson of the “flying saucer” is therefore not simply that a fa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ The enduring lesson of the “flying saucer” is therefore not simply that a fa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ The enduring lesson of the “flying saucer” is therefore not simply that a fa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,105 +726,105 @@ The enduring lesson of the “flying saucer” is therefore not simply that a fa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: how ufo sightings became an american obsession  
-   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
+   Link:<a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: markfox.co.uk  
-   Link: <a href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow">https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Fox | Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases | Mark FoxJuly 28, 2023...</p></details>
+   Link:<a href="https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/" target="_blank" rel="noopener noreferrer nofollow">https://markfox.co.uk/spirituality/ufos-and-uaps-in-the-rerc-archive-an-analysis-of-twenty-one-unpublished-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Fox | Exploring the extraordinaryUFOs and UAPs in the RERC Archive: An Analysis of Twenty-One Unpublished Cases | Mark FoxJuly 28, 2023...</p></details>
    Published: July 28, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Where did the classic concept of UFOs originate?  
-   Link: <a href="https://www.reddit.com/r/AskHistorians/comments/kfg9c6" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/kfg9c6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Where did the classic concept of UFOs originate?...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskHistorians/comments/kfg9c6" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskHistorians/comments/kfg9c6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where did the classic concept of UFOs originate?...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.history.com/topics/folklore/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/kenneth-arnold</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold - UFO, 1947 &amp; Flying Saucer | HISTORY...</p></details>
+   Link:<a href="https://www.history.com/topics/folklore/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/kenneth-arnold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold - UFO, 1947 &amp; Flying Saucer | HISTORY...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: 0624first flying saucer sighting  
-   Link: <a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold sighted a series of unidentified flying objects near Mount Rainier, Washington, markin...</p></details>
+   Link:<a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold sighted a series of unidentified flying objects near Mount Rainier, Washington, markin...</p></details>
    Published: June 24, 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: files.ncas.org  
    Title: Files Condon Report, Section II  
-   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Section II: Summary of the Study...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Section II: Summary of the Study...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/sxc5xl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sxc5xl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>proof that the concept of extraterrestrial flying saucers preceded the Kenneth Arnold UFO sighting in 1947February 20, 2022...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/sxc5xl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sxc5xl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>proof that the concept of extraterrestrial flying saucers preceded the Kenneth Arnold UFO sighting in 1947February 20, 2022...</p></details>
    Published: February 20, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scholars.uky.edu  
    Title: journalism versus the flying saucers assessing the first generati  
-   Link: <a href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow">https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</p></details>
+   Link:<a href="https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/" target="_blank" rel="noopener noreferrer nofollow">https://scholars.uky.edu/en/publications/journalism-versus-the-flying-saucers-assessing-the-first-generati/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of KentuckyJournalism versus the flying saucers: Assessing the first generation of UFO reportage, 1947–1967 - University of Ke...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: www.space.com Flying Saucers Turn 64! A Look Back at the Origin of UFOs | Space  
-   Link: <a href="https://www.space.com/12066-flying-saucers-turn-64-ufos-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/12066-flying-saucers-turn-64-ufos-origins.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers Turn 64! A Look Back at the Origin of UFOs | SpaceJune 23, 2011...</p></details>
+   Link:<a href="https://www.space.com/12066-flying-saucers-turn-64-ufos-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/12066-flying-saucers-turn-64-ufos-origins.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers Turn 64! A Look Back at the Origin of UFOs | SpaceJune 23, 2011...</p></details>
    Published: June 23, 2011  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;), Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;), Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airandspaceforces.com  
    Title: www.airandspaceforces.com USA F and the UFOs | Air & Space Forces Magazine  
-   Link: <a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the UFOs | Air &amp; Space Forces MagazineJune 1, 2011...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the UFOs | Air &amp; Space Forces MagazineJune 1, 2011...</p></details>
    Published: June 1, 2011  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wilhelm Reich versus The Flying Saucers with James Reich...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wilhelm Reich versus The Flying Saucers with James Reich...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: en.wikisource.org  
    Title: The Report on Unidentified Flying Objects/Chapter 1  
-   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikisource, the free online library...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontier.watch  
    Title: war.gov UFO Release 01 — 162 docs, fully transcribed — frontier.watch  
-   Link: <a href="https://frontier.watch/ufo/release-1/doc/38_143685_box7_incident_summaries_101-172" target="_blank" rel="noopener noreferrer nofollow">https://frontier.watch/ufo/release-1/doc/38_143685_box7_incident_summaries_101-172</a>  
+   Link:<a href="https://frontier.watch/ufo/release-1/doc/38_143685_box7_incident_summaries" target="_blank" rel="noopener noreferrer nofollow">https://frontier.watch/ufo/release-1/doc/38_143685_box7_incident_summaries</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Wilhelm Reich versus The Flying Saucers with James Reich  
-   Link: <a href="https://www.youtube.com/watch?v=IK5d6dzbhm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IK5d6dzbhm8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=IK5d6dzbhm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IK5d6dzbhm8</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: project1947.com  
-   Link: <a href="https://www.project1947.com/fig/projsauc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/projsauc.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 - 1949: PROJECT SAUCERApril 27, 1949...</p></details>
+   Link:<a href="https://www.project1947.com/fig/projsauc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/projsauc.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947 - 1949: PROJECT SAUCERApril 27, 1949...</p></details>
    Published: April 27, 1949  

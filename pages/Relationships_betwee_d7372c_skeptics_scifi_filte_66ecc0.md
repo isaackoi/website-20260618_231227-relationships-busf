@@ -451,7 +451,7 @@ Sceptics talk about science fiction because UFO reports do not arrive in a cultu
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0-overview.webp" | relative_url }}" alt="Overview image for Skeptics" loading="eager" decoding="sync" fetchpriority="high">
-This matters because it separates two questions that are often blurred together: “Did someone see something?” and “What story did the sighting become?” Official investigations have repeatedly found ordinary [explanations]({{ 'explanations/' | relative_url }}) for many reports and insufficient evidence for extraterrestrial technology, while still leaving some cases unresolved because the data are too limited. NASA’s 2023 UAP study, for example, reported no conclusive evidence in peer-reviewed literature for an extraterrestrial origin, while stressing that many reports lack the high-quality data needed for firm identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This matters because it separates two questions that are often blurred together: “Did someone see something?” and “What story did the sighting become?” Official investigations have repeatedly found ordinary [explanations]({{ 'explanations/' | relative_url }}) for many reports and insufficient evidence for extraterrestrial technology, while still leaving some cases unresolved because the data are too limited. NASA’s 2023 UAP study, for example, reported no conclusive evidence in peer-reviewed literature for an extraterrestrial origin, while stressing that many reports lack the high-quality data needed for firm identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 ## Cultural templates as an explanation
 
@@ -461,7 +461,7 @@ The point is strongest when the reported details resemble stories already circul
 
 Sceptical writers often describe this as a feedback loop rather than a one-way act of invention. Science fiction did not create every unusual sky report, but it helped supply the visual grammar through which ambiguous reports could be narrated. That grammar is especially powerful because UFO sightings are often fleeting. A person may see a light for seconds, at night, at distance, without a fixed reference point. By the time the event is retold, the description may include comparison, inference and memory reconstruction as well as direct observation.
 
-The UK release of Ministry of Defence UFO files gave sceptics a practical archive for this argument. A National Archives research guide summarising official conclusions stated that about 90% of UFO reports proved plausibly related to ordinary phenomena, and that further extensive study was not justified in the expectation that science would be advanced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> When later file releases showed spikes of public reporting around media moments, commentators such as David Clarke argued that popular science-fiction films and television could prime people to notice and report ambiguous sky events as UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/report-ufo-sightings-coincide-with-popular-sci-fi-films-tv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">report ufo sightings coincide with popular sci fi films tv</span><span class="citation-popover-snippet">report ufo sightings coincide with popular sci fi films tv</span></span></span>
+The UK release of Ministry of Defence UFO files gave sceptics a practical archive for this argument. A National Archives research guide summarising official conclusions stated that about 90% of UFO reports proved plausibly related to ordinary phenomena, and that further extensive study was not justified in the expectation that science would be advanced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Open source on nationalarchives.gov.uk.</span></span></span> When later file releases showed spikes of public reporting around media moments, commentators such as David Clarke argued that popular science-fiction films and television could prime people to notice and report ambiguous sky events as UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/report-ufo-sightings-coincide-with-popular-sci-fi-films-tv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">report ufo sightings coincide with popular sci fi films tv</span><span class="citation-popover-snippet">report ufo sightings coincide with popular sci fi films tv</span></span></span>
 
 This does not mean viewers hallucinated entire events after watching a film. The more careful sceptical claim is subtler: popular culture can change the threshold for noticing, reporting and interpreting. A bright planet, aircraft landing light, satellite, balloon or meteor may be seen in any era. What changes is the story a witness finds plausible, and the confidence with which a mundane ambiguity becomes a UFO narrative.
 
@@ -479,7 +479,7 @@ The science-fiction filter works through several ordinary human processes. None 
 
 **Social reinforcement matters.** Once a sighting is discussed in a family, local press report, UFO group, online forum or documentary, witnesses may encounter similar cases and vocabulary that help organise their own experience.
 
-This is why sceptics often prefer psychological and sociological explanations over a simple accusation of hoaxing. Research on people who report UFO or alien-abduction experiences has not generally supported the lazy stereotype that they are simply irrational or attention-seeking. A Harvard Gazette report on Susan Clancy’s work, for instance, described subjects who believed they had been abducted and often interpreted sleep disturbance, panic, scars or other puzzling experiences through the alien-abduction frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Starship memories: — Harvard Gazette</span><span class="citation-popover-snippet">Gazette Starship memories: — Harvard Gazette</span></span></span> A Psychology Today summary of research on UFO reporters similarly notes that studies have found little evidence of broad psychopathology, while pointing to traits such as openness, fantasy-proneness or richer imaginative lives as relevant to some reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/long-fuse-big-bang/202311/the-surprising-psychology-of-ufo-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the surprising psychology of ufo reporting</span><span class="citation-popover-snippet">the surprising psychology of ufo reporting</span></span></span>
+This is why sceptics often prefer psychological and sociological explanations over a simple accusation of hoaxing. Research on people who report UFO or alien-abduction experiences has not generally supported the lazy stereotype that they are simply irrational or attention-seeking. A Harvard Gazette report on Susan Clancy’s work, for instance, described subjects who believed they had been abducted and often interpreted sleep disturbance, panic, scars or other puzzling experiences through the alien-abduction frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Starship memories: — Harvard Gazette</span><span class="citation-popover-snippet">Gazette Starship memories: — Harvard Gazette</span></span></span> A Psychology Today summary of research on UFO reporters similarly notes that studies have found little evidence of broad psychopathology, while pointing to traits such as openness, fantasy-proneness or richer imaginative lives as relevant to some reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/long-fuse-big-bang/202311/the-surprising-psychology-of-ufo-reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the surprising psychology of ufo reporting</span><span class="citation-popover-snippet">the surprising psychology of ufo reporting</span></span></span>
 
 For sceptics, that distinction is important. The science-fiction filter is not a claim that witnesses are foolish. It is a claim that sincere people can use culturally available stories to organise strange experiences, especially when the original evidence is weak, private or ambiguous.
 
@@ -490,25 +490,25 @@ For sceptics, that distinction is important. The science-fiction filter is not a
 
 The abduction subgenre is where the science-fiction filter becomes easiest to see, because the reports often contain elaborate narrative elements: missing time, beings with large eyes, medical procedures, telepathic communication, hybrid children, warnings about nuclear war or environmental destruction. These are not just sightings; they are stories with structure, characters and recurring scenes.
 
-The Betty and Barney Hill case became the foundational modern abduction narrative. Their reported 1961 experience later became widely known through John G. Fuller’s 1966 book *The Interrupted Journey* and subsequent media treatment. Sceptics have long argued that some details in the Hill case, especially Barney Hill’s hypnotically recovered description of an alien with striking eyes, may have been influenced by science-fiction imagery already on television. Martin Kottmeyer’s much-cited sceptical argument connected aspects of Barney’s account to “The Bellero Shield”, an episode of *The Outer Limits* broadcast shortly before Barney’s hypnosis sessions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Eyes that Spoke</span><span class="citation-popover-snippet">Skeptical Inquirer The Eyes that Spoke</span></span></span>
+The Betty and Barney Hill case became the foundational modern abduction narrative. Their reported 1961 experience later became widely known through John G. Fuller’s 1966 book *The Interrupted Journey* and subsequent media treatment. Sceptics have long argued that some details in the Hill case, especially Barney Hill’s hypnotically recovered description of an alien with striking eyes, may have been influenced by science-fiction imagery already on television. Martin Kottmeyer’s much-cited sceptical argument connected aspects of Barney’s account to “The Bellero Shield”, an episode of *The Outer Limits* broadcast shortly before Barney’s hypnosis sessions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Eyes that Spoke</span><span class="citation-popover-snippet">Skeptical Inquirer The Eyes that Spoke</span></span></span>
 
 The Hill case also shows why the issue is contested. [Believers]({{ 'believers/' | relative_url }}) point to the couple’s sincerity, the emotional force of the account and the difficulty of reducing the whole episode to television influence. Sceptics reply that sincerity is not the same as accuracy, especially when hypnosis, dreams, anxiety, prior cultural images and later media amplification are involved. The question is not whether the Hills deliberately invented a story, but how an extraordinary account could grow through memory, therapy, suggestion and culture.
 
-Later abduction narratives strengthened sceptical interest in false memory, sleep paralysis and guided recall. Sleep paralysis is a well-documented state in which a person may wake unable to move and experience vivid sensory impressions, including a sensed presence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span> In a culture saturated with alien imagery, sceptics argue, such frightening experiences can be interpreted as alien visitation rather than demons, ghosts, intruders or other culturally familiar figures.
+Later abduction narratives strengthened sceptical interest in false memory, sleep paralysis and guided recall. Sleep paralysis is a well-documented state in which a person may wake unable to move and experience vivid sensory impressions, including a sensed presence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span> In a culture saturated with alien imagery, sceptics argue, such frightening experiences can be interpreted as alien visitation rather than demons, ghosts, intruders or other culturally familiar figures.
 
-Hypnosis is another flashpoint. Some abduction accounts emerged or became more detailed during hypnotic regression, a method that can increase confidence without guaranteeing accuracy. A 1996 psychological discussion of alleged alien abductions linked such reports to false memories, hypnosis and fantasy-proneness, while noting how imagined alien encounters can take on convincing detail under suggestive conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/1449008" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Open source on jstor.org.</span></span></span> Sceptics therefore treat many abduction accounts less as evidence of spacecraft and more as evidence of how powerful narrative, memory and expectation can be when combined.
+Hypnosis is another flashpoint. Some abduction accounts emerged or became more detailed during hypnotic regression, a method that can increase confidence without guaranteeing accuracy. A 1996 psychological discussion of alleged alien abductions linked such reports to false memories, hypnosis and fantasy-proneness, while noting how imagined alien encounters can take on convincing detail under suggestive conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/1449008" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Open source on jstor.org.</span></span></span> Sceptics therefore treat many abduction accounts less as evidence of spacecraft and more as evidence of how powerful narrative, memory and expectation can be when combined.
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0-Illustration-2-dark.svg" | relative_url }}" alt="Skeptics illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary causes and unresolved cases
 
-Sceptics usually begin with a practical observation: most UFO reports that receive enough information to investigate turn out to have ordinary or at least non-extraterrestrial explanations. These include aircraft, drones, balloons, satellites, meteors, astronomical objects, sensor artefacts, military activity, atmospheric phenomena, hoaxes and mistakes about distance or speed. The US National Archives notes that [Project Blue Book]({{ 'blue-book/' | relative_url }}), the US Air Force’s long-running UFO investigation, was closed in 1969 and its records declassified, making it a major source for reviewing how official investigators handled cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Sceptics usually begin with a practical observation: most UFO reports that receive enough information to investigate turn out to have ordinary or at least non-extraterrestrial explanations. These include aircraft, drones, balloons, satellites, meteors, astronomical objects, sensor artefacts, military activity, atmospheric phenomena, hoaxes and mistakes about distance or speed. The US National Archives notes that [Project Blue Book]({{ 'blue-book/' | relative_url }}), the US Air Force’s long-running UFO investigation, was closed in 1969 and its records declassified, making it a major source for reviewing how official investigators handled cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-Modern UAP reviews have largely preserved that pattern. NASA’s FAQ says there are no data supporting the idea that UAP are evidence of alien technologies and emphasises that sightings often involve very limited data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> The Pentagon’s All-domain Anomaly Resolution Office, in its historical review, reported no evidence that US government or academic investigations had validated any sighting as extraterrestrial, and no evidence that companies possessed or reverse-engineered off-world technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+Modern UAP reviews have largely preserved that pattern. NASA’s FAQ says there are no data supporting the idea that UAP are evidence of alien technologies and emphasises that sightings often involve very limited data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> The Pentagon’s All-domain Anomaly Resolution Office, in its historical review, reported no evidence that US government or academic investigations had validated any sighting as extraterrestrial, and no evidence that companies possessed or reverse-engineered off-world technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 The sceptical reading of science fiction sits on top of this evidential pattern. If most resolved cases are ordinary, and if no verified extraterrestrial hardware has emerged, then science-fiction motifs in testimony become suspect as interpretations rather than observations. A witness who reports “a silent triangular craft” may have seen something real in the sky; the sceptical question is whether “craft” and “triangular UFO” are conclusions supplied by culture, not facts directly established by the sighting.
 
-At the same time, unresolved cases do exist. AARO’s public imagery page includes cases resolved as balloons, cases closed as not anomalous and cases still unresolved or undergoing analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> This is where careful scepticism differs from blanket dismissal. “Unresolved” does not mean “alien”, but it also does not mean “nothing happened”. It usually means that available evidence is insufficient, incomplete or ambiguous.
+At the same time, unresolved cases do exist. AARO’s public imagery page includes cases resolved as balloons, cases closed as not anomalous and cases still unresolved or undergoing analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> This is where careful scepticism differs from blanket dismissal. “Unresolved” does not mean “alien”, but it also does not mean “nothing happened”. It usually means that available evidence is insufficient, incomplete or ambiguous.
 
 The science-fiction filter is therefore most useful as a warning about interpretation, not as a universal explanation. It helps explain why reports take certain narrative forms. It does not, by itself, identify every object, explain every sensor return or settle every case.
 
@@ -523,7 +523,7 @@ First comes the raw observation: time, place, direction, duration, weather, numb
 
 This layered method is important because science-fiction influence often enters at the second and third stages. A witness may accurately report seeing a bright, fast-moving light. The alien or secret-technology interpretation may come later, especially after comparison with other stories. Conversely, a case with good multi-sensor data, independent witnesses and a stable early record is less vulnerable to being dismissed purely as cultural expectation.
 
-The UK Ministry of Defence material illustrates the value of this approach. Official files include everything from dramatic witness drawings to routine administrative handling. The same archive can contain sincere reports, misidentifications, public anxiety, bureaucratic caution and occasional unresolved material. David Clarke’s work with the National Archives has emphasised that the files are historically valuable not simply because they contain “mysteries”, but because they reveal how citizens, journalists, officials and investigators translated unusual claims into institutional records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">the ufo files extract</span></span></span>
+The UK Ministry of Defence material illustrates the value of this approach. Official files include everything from dramatic witness drawings to routine administrative handling. The same archive can contain sincere reports, misidentifications, public anxiety, bureaucratic caution and occasional unresolved material. David Clarke’s work with the National Archives has emphasised that the files are historically valuable not simply because they contain “mysteries”, but because they reveal how citizens, journalists, officials and investigators translated unusual claims into institutional records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">the ufo files extract</span><span class="citation-popover-snippet">the ufo files extract</span></span></span>
 
 For the reader, the practical takeaway is that a UFO story should not be judged only by its most dramatic version. The strongest sceptical move is often to ask: What was said first? What was added later? Which details are direct observations, and which are interpretations borrowed from familiar UFO lore?
 
@@ -533,7 +533,7 @@ For the reader, the practical takeaway is that a UFO story should not be judged 
 
 The science-fiction filter can become too blunt when it treats resemblance as proof of invention. If a witness describes a disc after seeing films with discs, that does not automatically show the report is false. Real experiences are always described using available language. A pilot who says something looked like a “drone” today may not be copying drone fiction; they may simply be using the nearest contemporary comparison.
 
-Sceptics can also overreach by ignoring the emotional and social seriousness of witness testimony. Some people who report UFO experiences are pilots, police officers, military personnel, scientists or ordinary citizens with no obvious incentive to fabricate. Their status does not make an alien explanation true, but it does mean that ridicule is a poor substitute for investigation. NASA’s 2023 report explicitly argued for reducing stigma around UAP reporting so that better data can be collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Sceptics can also overreach by ignoring the emotional and social seriousness of witness testimony. Some people who report UFO experiences are pilots, police officers, military personnel, scientists or ordinary citizens with no obvious incentive to fabricate. Their status does not make an alien explanation true, but it does mean that ridicule is a poor substitute for investigation. NASA’s 2023 report explicitly argued for reducing stigma around UAP reporting so that better data can be collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 Another risk is using “science fiction” as a catch-all label for anything strange. Some UFO reports may be better explained by defence [secrecy]({{ 'secrecy/' | relative_url }}), sensor limitations, aircraft testing, atmospheric effects, commercial drones or simple lack of data than by cultural narrative. The “filter” explains how people interpret uncertainty; it should not replace technical investigation of what was physically present.
 
@@ -554,162 +554,162 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Skeptics Talk About Science Fiction. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Skeptics Talk About Science Fiction. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Balances witness reports with attempts at scientific evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances witness reports with attempts at scientific evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Addresses how people form beliefs around ambiguous evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how people form beliefs around ambiguous evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to skeptical interpretations of UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to skeptical interpretations of UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains critical thinking and extraordinary claims in a UFO-relevant context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains critical thinking and extraordinary claims in a UFO-relevant context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="skeptics-why-skeptics-talk-about-science-fiction-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -725,7 +725,7 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -745,7 +745,7 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -777,7 +777,7 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -829,7 +829,7 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -874,7 +874,7 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -915,230 +915,230 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.harvard.edu  
    Title: Gazette Starship memories: — Harvard Gazette  
-   Link: <a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
+   Link:<a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment  
-   Link: <a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
+   Link:<a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1449008" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1449008</a>  
+   Link:<a href="https://www.jstor.org/stable/1449008" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1449008</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
+   Link:<a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/4137923" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4137923</a>  
+   Link:<a href="https://www.jstor.org/stable/4137923" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4137923</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/j.ctvzxx9sf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/j.ctvzxx9sf</a>  
+   Link:<a href="https://www.jstor.org/stable/j.ctvzxx9sf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/j.ctvzxx9sf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: dod examining [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: time.com  
    Title: science dr jung the saucers  
-   Link: <a href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6888244/science-dr-jung-the-saucers/</a>  
+   Link:<a href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6888244/science-dr-jung-the-saucers/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: universetoday.com  
    Title: report ufo sightings coincide with popular sci fi films tv  
-   Link: <a href="https://www.universetoday.com/articles/report-ufo-sightings-coincide-with-popular-sci-fi-films-tv" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/report-ufo-sightings-coincide-with-popular-sci-fi-films-tv</a>  
+   Link:<a href="https://www.universetoday.com/articles/report-ufo-sightings-coincide-with-popular-sci-fi-films-tv" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/report-ufo-sightings-coincide-with-popular-sci-fi-films-tv</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: psychologytoday.com  
    Title: the surprising psychology of ufo reporting  
-   Link: <a href="https://www.psychologytoday.com/us/blog/long-fuse-big-bang/202311/the-surprising-psychology-of-ufo-reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/long-fuse-big-bang/202311/the-surprising-psychology-of-ufo-reporting</a>  
+   Link:<a href="https://www.psychologytoday.com/us/blog/long-fuse-big-bang/202311/the-surprising-psychology-of-ufo-reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/long-fuse-big-bang/202311/the-surprising-psychology-of-ufo-reporting</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Eyes that Spoke  
-   Link: <a href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/eyes-that-spoke/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/eyes-that-spoke/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rebartholomew.com  
-   Link: <a href="https://rebartholomew.com/articles" target="_blank" rel="noopener noreferrer nofollow">https://rebartholomew.com/articles</a>  
+   Link:<a href="https://rebartholomew.com/articles" target="_blank" rel="noopener noreferrer nofollow">https://rebartholomew.com/articles</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: skepticalinquirer.org  
    Title: surveying belief  
-   Link: <a href="https://skepticalinquirer.org/exclusive/surveying-belief/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/surveying-belief/</a>  
+   Link:<a href="https://skepticalinquirer.org/exclusive/surveying-belief/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/surveying-belief/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-18.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: skepticalinquirer.org  
    Title: abductive reasoning  
-   Link: <a href="https://skepticalinquirer.org/exclusive/abductive-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/abductive-reasoning/</a>  
+   Link:<a href="https://skepticalinquirer.org/exclusive/abductive-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/abductive-reasoning/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: books.google.co.uk  
-   Link: <a href="https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r" target="_blank" rel="noopener noreferrer nofollow">https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r</a>  
+   Link:<a href="https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r" target="_blank" rel="noopener noreferrer nofollow">https://books.google.co.uk/books?cad=0&amp;id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: dataviz.etublogs.usj.edu.lb  
    Title: ufos through human eyes how culture and emotion shape what we see  
-   Link: <a href="https://dataviz.etublogs.usj.edu.lb/2025/04/11/ufos-through-human-eyes-how-culture-and-emotion-shape-what-we-see/" target="_blank" rel="noopener noreferrer nofollow">https://dataviz.etublogs.usj.edu.lb/2025/04/11/ufos-through-human-eyes-how-culture-and-emotion-shape-what-we-see/</a>  
+   Link:<a href="https://dataviz.etublogs.usj.edu.lb/2025/04/11/ufos-through-human-eyes-how-culture-and-emotion-shape-what-we-see/" target="_blank" rel="noopener noreferrer nofollow">https://dataviz.etublogs.usj.edu.lb/2025/04/11/ufos-through-human-eyes-how-culture-and-emotion-shape-what-we-see/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: psychologytoday.com  
    Title: jung flying saucers and the anxieties our time  
-   Link: <a href="https://www.psychologytoday.com/gb/blog/dreaming-in-the-digital-age/202012/jung-flying-saucers-and-the-anxieties-our-time" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/dreaming-in-the-digital-age/202012/jung-flying-saucers-and-the-anxieties-our-time</a>  
+   Link:<a href="https://www.psychologytoday.com/gb/blog/dreaming-in-the-digital-age/202012/jung-flying-saucers-and-the-anxieties-our-time" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/dreaming-in-the-digital-age/202012/jung-flying-saucers-and-the-anxieties-our-time</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/articles/200303/alien-abductions-the-real-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/articles/200303/alien-abductions-the-real-deal</a>  
+   Link:<a href="https://www.psychologytoday.com/us/articles/200303/alien-abductions-the-real-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/articles/200303/alien-abductions-the-real-deal</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: michaelshermer.com  
-   Link: <a href="https://michaelshermer.com/sciam-columns/abducted/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/sciam-columns/abducted/</a>  
+   Link:<a href="https://michaelshermer.com/sciam-columns/abducted/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/sciam-columns/abducted/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mirror.co.uk  
    Title: national archives ufo files report 1141567  
-   Link: <a href="https://www.mirror.co.uk/news/weird-news/national-archives-ufo-files-report-1141567" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/national-archives-ufo-files-report-1141567</a>  
+   Link:<a href="https://www.mirror.co.uk/news/weird-news/national-archives-ufo-files-report-1141567" target="_blank" rel="noopener noreferrer nofollow">https://www.mirror.co.uk/news/weird-news/national-archives-ufo-files-report-1141567</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson returns to The Michael Shermer Show to talk UFOs, aliens, government files, eyewitness testimony, and his new book Ta...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson returns to The Michael Shermer Show to talk UFOs, aliens, government files, eyewitness testimony, and his new book Ta...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs...</p></details>
    Published: May 31, 2023  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pKlrHqJkt38</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kacey Musgraves vs. Mick West: Country star mocks UFO skeptic | Unreported...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pKlrHqJkt38</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kacey Musgraves vs. Mick West: Country star mocks UFO skeptic | Unreported...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Chatter: UFO Culture, with Sarah Scoles  
-   Link: <a href="https://www.youtube.com/watch?v=0pK3coF4Sm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pK3coF4Sm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0pK3coF4Sm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0pK3coF4Sm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
    Published: May 31, 2023  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zm5CfXGmmfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zm5CfXGmmfA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview: Mick West, Identifying UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zm5CfXGmmfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zm5CfXGmmfA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interview: Mick West, Identifying UFOs...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/405404634_The_Neuroscience_and_psychology_of_alien_abduction_An_extended_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405404634_The_Neuroscience_and_psychology_of_alien_abduction_An_extended_review</a>  
+   Link:<a href="https://www.researchgate.net/publication/405404634_The_Neuroscience_and_psychology_of_alien_abduction_An_extended_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405404634_The_Neuroscience_and_psychology_of_alien_abduction_An_extended_review</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SETIInstitute/posts/a-skeptical-guide-to-ufo-cases-and-claimswith-steven-spielbergs-new-blockbuster-/1395521999289439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SETIInstitute/posts/a-skeptical-guide-to-ufo-cases-and-claimswith-steven-spielbergs-new-blockbuster-/1395521999289439/</a>  
+   Link:<a href="https://www.facebook.com/SETIInstitute/posts/a-skeptical-guide-to-ufo-cases-and-claimswith-steven-spielbergs-new-blockbuster-/1395521999289439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SETIInstitute/posts/a-skeptical-guide-to-ufo-cases-and-claimswith-steven-spielbergs-new-blockbuster-/1395521999289439/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacemansluck/posts/3059470764292957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacemansluck/posts/3059470764292957/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacemansluck/posts/3059470764292957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacemansluck/posts/3059470764292957/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: neuroscigroup.us  
-   Link: <a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
+   Link:<a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  

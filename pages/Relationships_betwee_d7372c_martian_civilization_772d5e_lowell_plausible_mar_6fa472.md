@@ -280,11 +280,11 @@ image: /assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lo
 
 ## Introduction
 
-Before [flying saucers]({{ 'flying-saucer/' | relative_url }}) entered popular culture, Percival Lowell did more than argue that life existed on Mars: he constructed a persuasive story explaining why an advanced civilisation would have built vast planetary works. His influence came from combining uncertain astronomical observations with a coherent environmental narrative. Mars, he claimed, was an ageing world running out of water. Intelligent inhabitants had responded by building a globe-spanning network of canals to carry meltwater from the polar regions to the dry equatorial lands. To many readers around 1900, this did not feel like fantasy. It felt like a logical scientific deduction from visible evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell Observatory</span><span class="citation-popover-snippet">Lowell Observatory</span></span></span>
+Before [flying saucers]({{ 'flying-saucer/' | relative_url }}) entered popular culture, Percival Lowell did more than argue that life existed on Mars: he constructed a persuasive story explaining why an advanced civilisation would have built vast planetary works. His influence came from combining uncertain astronomical observations with a coherent environmental narrative. Mars, he claimed, was an ageing world running out of water. Intelligent inhabitants had responded by building a globe-spanning network of canals to carry meltwater from the polar regions to the dry equatorial lands. To many readers around 1900, this did not feel like fantasy. It felt like a logical scientific deduction from visible evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell Observatory</span><span class="citation-popover-snippet">Lowell Observatory</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-1-dark.svg" | relative_url }}" alt="Lowell illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of Martian civilisations before the flying-saucer era, Lowell's achievement was not proving Martians existed. It was making the idea appear reasonable enough for educated people, newspapers and even some scientists to discuss seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rasc.ca">[RASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rasc.ca</span><span class="citation-popover-title">Honorary Member: Percival Lowell &#124; RASC</span><span class="citation-popover-snippet">Honorary Member: Percival Lowell &#124; RASC...</span></span></span>
+Within the broader history of Martian civilisations before the flying-saucer era, Lowell's achievement was not proving Martians existed. It was making the idea appear reasonable enough for educated people, newspapers and even some scientists to discuss seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rasc.ca">[RASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rasc.ca</span><span class="citation-popover-title">Honorary Member: Percival Lowell &#124; RASC</span><span class="citation-popover-snippet">Honorary Member: Percival Lowell &#124; RASC...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cStCiyOrJNA" title="The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer">The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell</a></p><p class="youtube-embed-meta">Channel: Illustrated Thoughts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cStCiyOrJNA">Open on YouTube</a></p></div></div></div>
@@ -293,9 +293,9 @@ Within the broader history of Martian civilisations before the flying-saucer era
 
 Lowell's most powerful contribution was turning a collection of lines on Mars into a dramatic planetary problem with a plausible solution.
 
-He argued that Mars was smaller and older than Earth and had therefore cooled and dried more quickly. The white polar caps were interpreted as reservoirs of water. The dark regions appeared to change seasonally. To Lowell, these observations fitted together into a single picture: a civilisation facing environmental decline and responding through engineering on an immense scale. In books such as *Mars* (1895), *Mars and Its Canals* (1906) and *Mars as the Abode of Life* (1908), he repeatedly presented canals, oases and seasonal changes as interconnected evidence for intelligent life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rasc.ca">[RASC+2loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rasc.ca</span><span class="citation-popover-title">Honorary Member: Percival Lowell &#124; RASC</span><span class="citation-popover-snippet">Honorary Member: Percival Lowell &#124; RASC...</span></span></span>
+He argued that Mars was smaller and older than Earth and had therefore cooled and dried more quickly. The white polar caps were interpreted as reservoirs of water. The dark regions appeared to change seasonally. To Lowell, these observations fitted together into a single picture: a civilisation facing environmental decline and responding through engineering on an immense scale. In books such as *Mars* (1895), *Mars and Its Canals* (1906) and *Mars as the Abode of Life* (1908), he repeatedly presented canals, oases and seasonal changes as interconnected evidence for intelligent life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rasc.ca">[rasc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rasc.ca</span><span class="citation-popover-title">Honorary Member: Percival Lowell &#124; RASC</span><span class="citation-popover-snippet">Honorary Member: Percival Lowell &#124; RASC...</span></span></span>
 
-The theory appealed because it echoed real-world concerns and achievements. The late nineteenth century was an age of large infrastructure projects and confidence in engineering. Readers were accustomed to hearing about major canals, irrigation schemes and technological solutions to environmental challenges. Lowell's Martians did not seem magical; they seemed like highly capable engineers confronting a drought crisis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span></span></span>
+The theory appealed because it echoed real-world concerns and achievements. The late nineteenth century was an age of large infrastructure projects and confidence in engineering. Readers were accustomed to hearing about major canals, irrigation schemes and technological solutions to environmental challenges. Lowell's Martians did not seem magical; they seemed like highly capable engineers confronting a drought crisis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span></span></span>
 
 This narrative gave purpose to features that otherwise appeared mysterious. Rather than asking people to believe in aliens first, Lowell asked them to follow what seemed to be a chain of evidence:
 
@@ -309,7 +309,7 @@ This narrative gave purpose to features that otherwise appeared mysterious. Rath
 
 </div>
 
-Even though the observations were flawed, the reasoning felt internally consistent to many contemporaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span></span></span>
+Even though the observations were flawed, the reasoning felt internally consistent to many contemporaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fsXBcWJFtTQ" title="Mars and the Gilded Age Imagination Lecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fsXBcWJFtTQ" target="_blank" rel="noopener noreferrer">Mars and the Gilded Age Imagination Lecture</a></p><p class="youtube-embed-meta">Channel: Newport Mansions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fsXBcWJFtTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fsXBcWJFtTQ">Open on YouTube</a></p></div></div></div>
@@ -318,11 +318,11 @@ Even though the observations were flawed, the reasoning felt internally consiste
 
 Lowell's credibility depended not only on his ideas but also on how he presented them.
 
-In 1894 he established an observatory at Flagstaff, Arizona, specifically chosen for its high altitude, dark skies and favourable viewing conditions. At a time when scientific authority carried enormous cultural weight, the observatory provided a visible institutional foundation for his claims. The Martian canal theory was not being promoted from a parlour or a newspaper office; it appeared to emerge from a purpose-built research centre dedicated to studying the heavens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell Observatory</span><span class="citation-popover-snippet">Lowell Observatory</span></span></span>
+In 1894 he established an observatory at Flagstaff, Arizona, specifically chosen for its high altitude, dark skies and favourable viewing conditions. At a time when scientific authority carried enormous cultural weight, the observatory provided a visible institutional foundation for his claims. The Martian canal theory was not being promoted from a parlour or a newspaper office; it appeared to emerge from a purpose-built research centre dedicated to studying the heavens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell Observatory</span><span class="citation-popover-snippet">Lowell Observatory</span></span></span>
 
-Lowell also understood the value of public engagement. He invited visitors to observe Mars, delivered lectures, published books aimed at general audiences and distributed maps showing the canal system. Many observers reported seeing similar linear features through telescopes, reinforcing the impression that the canals were real. The observatory therefore functioned not only as a scientific workplace but also as a stage on which evidence could be displayed and interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell Observatory</span><span class="citation-popover-snippet">Lowell Observatory</span></span></span>
+Lowell also understood the value of public engagement. He invited visitors to observe Mars, delivered lectures, published books aimed at general audiences and distributed maps showing the canal system. Many observers reported seeing similar linear features through telescopes, reinforcing the impression that the canals were real. The observatory therefore functioned not only as a scientific workplace but also as a stage on which evidence could be displayed and interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell Observatory</span><span class="citation-popover-snippet">Lowell Observatory</span></span></span>
 
-His personal style mattered as well. Contemporary accounts and later historians have noted that Lowell presented his arguments with confidence while framing them as careful scientific reasoning. The result was a message that seemed adventurous without appearing reckless. Readers encountered not a sensational prophet but a well-connected astronomer offering what looked like a rational explanation for puzzling observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">It begins with 19th-century astronomer Giovanni Schiaparelli, who mapped what he termed &quot;canali&quot; on Mars, sparking public intrigue. Perci...</span></span></span>
+His personal style mattered as well. Contemporary accounts and later historians have noted that Lowell presented his arguments with confidence while framing them as careful scientific reasoning. The result was a message that seemed adventurous without appearing reckless. Readers encountered not a sensational prophet but a well-connected astronomer offering what looked like a rational explanation for puzzling observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">It begins with 19th-century astronomer Giovanni Schiaparelli, who mapped what he termed &quot;canali&quot; on Mars, sparking public intrigue. Perci...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-2-dark.svg" | relative_url }}" alt="Lowell illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,213 +330,213 @@ His personal style mattered as well. Contemporary accounts and later historians 
 
 The enduring puzzle is why so many intelligent people found Lowell convincing when the canals did not actually exist.
 
-Part of the answer lies in the limits of observation. Mars was viewed through Earth's atmosphere using telescopes that could not clearly resolve fine surface details. Human vision naturally links scattered markings into continuous patterns. Under those conditions, observers could sincerely believe they were seeing long straight lines even when no such structures existed. Later spacecraft photography showed that the famous canals were optical and perceptual illusions rather than planetary engineering works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span></span></span>
+Part of the answer lies in the limits of observation. Mars was viewed through Earth's atmosphere using telescopes that could not clearly resolve fine surface details. Human vision naturally links scattered markings into continuous patterns. Under those conditions, observers could sincerely believe they were seeing long straight lines even when no such structures existed. Later spacecraft photography showed that the famous canals were optical and perceptual illusions rather than planetary engineering works.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Percival Lowell and the Canals of Mars &#124; Skeptical Inquirer</span></span></span>
 
-Another reason was that Lowell offered a complete explanatory framework rather than an isolated claim. A single line on Mars might be doubtful. A network of lines connected to polar water, seasonal changes and planetary evolution felt more persuasive because each element appeared to support the others. The story had explanatory power, even though its foundations were mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/resource/gdcmassbookdig.marsasabodeoflif00lowe/?st=list" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Mars as the abode of life, &#124; Library of Congress</span><span class="citation-popover-snippet">Mars as the abode of life, &#124; Library of Congress</span></span></span>
+Another reason was that Lowell offered a complete explanatory framework rather than an isolated claim. A single line on Mars might be doubtful. A network of lines connected to polar water, seasonal changes and planetary evolution felt more persuasive because each element appeared to support the others. The story had explanatory power, even though its foundations were mistaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/resource/gdcmassbookdig.marsasabodeoflif00lowe/?st=list" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Mars as the abode of life, &#124; Library of Congress</span><span class="citation-popover-snippet">Mars as the abode of life, &#124; Library of Congress</span></span></span>
 
-Finally, Lowell's theory arrived at a moment when many people wanted the universe to be inhabited. The possibility of intelligent neighbours on a nearby planet was scientifically exciting, culturally appealing and easier to imagine than entirely unknown forms of extraterrestrial life. His Martians were understandable beings confronting familiar problems of resource management, technology and survival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vox.com/podcasts/458097/mars-elon-musk-space-race" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">The fake news that helped put us on a path to Mars</span><span class="citation-popover-snippet">It highlights Elon Musk&#x27;s aspirations to build a self-sustaining Martian city and situates this goal within a long lineage of interest in...</span></span></span>
+Finally, Lowell's theory arrived at a moment when many people wanted the universe to be inhabited. The possibility of intelligent neighbours on a nearby planet was scientifically exciting, culturally appealing and easier to imagine than entirely unknown forms of extraterrestrial life. His Martians were understandable beings confronting familiar problems of resource management, technology and survival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vox.com/podcasts/458097/mars-elon-musk-space-race" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">The fake news that helped put us on a path to Mars</span><span class="citation-popover-snippet">It highlights Elon Musk&#x27;s aspirations to build a self-sustaining Martian city and situates this goal within a long lineage of interest in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ohua6nx9wM" title="When Mars Fooled the Astronomers – clip from “Mars Calling” 4K Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ohua6nx9wM" target="_blank" rel="noopener noreferrer">When Mars Fooled the Astronomers – clip from “Mars Calling” 4K Documentary</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ohua6nx9wM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ohua6nx9wM">Open on YouTube</a></p></div></div></div>
 
 ## The Legacy of Believable Martians
 
-Lowell's canals eventually disappeared under the scrutiny of better observations and spacecraft exploration, but the broader effect remained. He helped establish a template in which ambiguous astronomical evidence could be interpreted as signs of extraterrestrial intelligence. More importantly, he transformed Mars from a distant point of light into a world populated by purposeful beings with history, problems and technological achievements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_%28Martian_crater%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell (Martian crater</span><span class="citation-popover-snippet">Lowell (Martian crater</span></span></span>
+Lowell's canals eventually disappeared under the scrutiny of better observations and spacecraft exploration, but the broader effect remained. He helped establish a template in which ambiguous astronomical evidence could be interpreted as signs of extraterrestrial intelligence. More importantly, he transformed Mars from a distant point of light into a world populated by purposeful beings with history, problems and technological achievements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lowell_%28Martian_crater%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lowell (Martian crater</span><span class="citation-popover-snippet">Lowell (Martian crater</span></span></span>
 
-That achievement mattered for the later relationship between science fiction and UFO culture. Long before reports of flying [saucers]({{ 'saucers/' | relative_url }}), Lowell had shown how scientific authority, compelling storytelling and a plausible technological narrative could make alien civilisations seem not merely imaginable but almost visible through the telescope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rasc.ca">[RASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rasc.ca</span><span class="citation-popover-title">Honorary Member: Percival Lowell &#124; RASC</span><span class="citation-popover-snippet">Honorary Member: Percival Lowell &#124; RASC...</span></span></span>
+That achievement mattered for the later relationship between science fiction and UFO culture. Long before reports of flying [saucers]({{ 'saucers/' | relative_url }}), Lowell had shown how scientific authority, compelling storytelling and a plausible technological narrative could make alien civilisations seem not merely imaginable but almost visible through the telescope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rasc.ca">[RASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rasc.ca</span><span class="citation-popover-title">Honorary Member: Percival Lowell &#124; RASC</span><span class="citation-popover-snippet">Honorary Member: Percival Lowell &#124; RASC...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-3-dark.svg" | relative_url }}" alt="Lowell illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_lowell_plausible_mar_6fa472-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Lowell&#x27;s Mars Felt Believable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Lowell&#x27;s Mars Felt Believable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H.G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H.G. Wells</p>
         
-        <p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
+</h4>
+<p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
         
-        <p class="fr-book-desc">Provides broad Mars context and illustrates how scientific understanding of the planet evolved beyond earlier speculation about civilizat...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad Mars context and illustrates how scientific understanding of the planet evolved beyond earlier speculation about civilizat...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Martians+by+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Martians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V7spEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Martians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Martians+by+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Martians">The Martians</a>
-        </h4>
-        <p class="fr-book-author">By David Baron</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Martians+by+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Martians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V7spEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Martians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Martians+by+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Martians">The Martians</a>
+</h4>
+<p class="fr-book-author">By David Baron</p>
         
-        <p class="fr-book-desc">Explores the historical belief in Martian civilizations that helped shape the context from which Wells drew inspiration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Martians+by+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the historical belief in Martian civilizations that helped shape the context from which Wells drew inspiration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Martians+by+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explores astronomy, extraterrestrial life, and how scientific ideas influence culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores astronomy, extraterrestrial life, and how scientific ideas influence culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Martians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Martians</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Martians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Martians</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/46da98d7682607aa820f.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display"><img src="{{ '/assets/images/marketplace-covers/5c98e24cc5767bfd97ae.jpg' | relative_url }}" alt="Listing image for 6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">6″ Green Alien Roswell Space Beer Drinking Resin Statue Theme Decor Prop Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="lowell-why-lowell-s-mars-felt-believable-relationships-betwee-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ That achievement mattered for the later relationship between science fiction and
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ That achievement mattered for the later relationship between science fiction and
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ That achievement mattered for the later relationship between science fiction and
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ That achievement mattered for the later relationship between science fiction and
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ That achievement mattered for the later relationship between science fiction and
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,110 +742,110 @@ That achievement mattered for the later relationship between science fiction and
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lowell Observatory  
-   Link: <a href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lowell_Observatory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lowell_Observatory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lowell_Observatory</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rasc.ca  
    Title: Honorary Member: Percival Lowell | RASC  
-   Link: <a href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow">https://www.rasc.ca/node/40450</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Honorary Member: Percival Lowell | RASC...</p></details>
+   Link:<a href="https://www.rasc.ca/node/40450" target="_blank" rel="noopener noreferrer nofollow">https://www.rasc.ca/node/40450</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Honorary Member: Percival Lowell | RASC...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: loc.gov  
    Title: Mars as the abode of life, | Library of Congress  
-   Link: <a href="https://www.loc.gov/resource/gdcmassbookdig.marsasabodeoflif00lowe/?st=list" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/gdcmassbookdig.marsasabodeoflif00lowe/?st=list</a>  
+   Link:<a href="https://www.loc.gov/resource/gdcmassbookdig.marsasabodeoflif00lowe/?st=list" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/gdcmassbookdig.marsasabodeoflif00lowe/?st=list</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: loc.gov  
    Title: Mars as the abode of life, | Library of Congress  
-   Link: <a href="https://www.loc.gov/item/08036795" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/08036795</a>  
+   Link:<a href="https://www.loc.gov/item/08036795" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/08036795</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
    Title: Percival Lowell and the Canals of Mars | Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/</a>  
+   Link:<a href="https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/05/percival-lowell-and-the-canals-of-mars/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Percival Lowell  
-   Link: <a href="https://en.wikipedia.org/wiki/Percival_Lowell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Percival_Lowell</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Percival_Lowell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Percival_Lowell</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Lowell (Martian crater)  
-   Link: <a href="https://en.wikipedia.org/wiki/Lowell_%28Martian_crater%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lowell_%28Martian_crater%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lowell_%28Martian_crater%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lowell_%28Martian_crater%29</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: vox.com  
    Title: The fake news that helped put us on a path to Mars  
-   Link: <a href="https://www.vox.com/podcasts/458097/mars-elon-musk-space-race" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/podcasts/458097/mars-elon-musk-space-race</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It highlights Elon Musk&#x27;s aspirations to build a self-sustaining Martian city and situates this goal within a long lineage of interest in...</p></details>
+   Link:<a href="https://www.vox.com/podcasts/458097/mars-elon-musk-space-race" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/podcasts/458097/mars-elon-musk-space-race</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It highlights Elon Musk&#x27;s aspirations to build a self-sustaining Martian city and situates this goal within a long lineage of interest in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: When Mars Fooled the Astronomers – clip from “Mars Calling” 4K Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=8ohua6nx9wM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ohua6nx9wM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8ohua6nx9wM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ohua6nx9wM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Percival Lowell...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Percival Lowell  
-   Link: <a href="https://www.youtube.com/watch?v=UvmoKv1BOAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvmoKv1BOAw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mars canals documentary life civilization A Century Later: Celebrating the Life of Percival Lowell, Part 1 Lowell Observatory...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UvmoKv1BOAw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvmoKv1BOAw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mars canals documentary life civilization A Century Later: Celebrating the Life of Percival Lowell, Part 1 Lowell Observatory...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It begins with 19th-century astronomer Giovanni Schiaparelli, who mapped what he termed &quot;[canali](&amp;#123;&amp;#123; &#x27;canali/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; on Mars, sparking public intrigue. Perci...</p></details>
+   Link:<a href="https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It begins with 19th-century astronomer Giovanni Schiaparelli, who mapped what he termed &quot;[canali](&amp;#123;&amp;#123; &#x27;canali/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; on Mars, sparking public intrigue. Perci...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wired.com  
    Title: mars a world for exploration 1959  
-   Link: <a href="https://www.wired.com/2012/05/mars-a-world-for-exploration-1959" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/05/mars-a-world-for-exploration-1959</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tombaugh also provided a detailed analysis of the Martian surface conditions in 1959, dismantling many of Percival Lowell&#x27;s romantic theo...</p></details>
+   Link:<a href="https://www.wired.com/2012/05/mars-a-world-for-exploration-1959" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/05/mars-a-world-for-exploration-1959</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tombaugh also provided a detailed analysis of the Martian surface conditions in 1959, dismantling many of Percival Lowell&#x27;s romantic theo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cStCiyOrJNA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mars and the Gilded Age Imagination Lecture...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cStCiyOrJNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cStCiyOrJNA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mars and the Gilded Age Imagination Lecture...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scientificamerican.com  
    Title: www.scientificamerican.com100 Years Ago in Scientific American  
-   Link: <a href="https://www.scientificamerican.com/article/100-years-ago-riddle-of-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/100-years-ago-riddle-of-mars/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Riddle of Mars | Scientific AmericanJune 11, 2007...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/100-years-ago-riddle-of-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/100-years-ago-riddle-of-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Riddle of Mars | Scientific AmericanJune 11, 2007...</p></details>
    Published: June 11, 2007  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why Martian Canals Still Matter  
-   Link: <a href="https://www.youtube.com/watch?v=TpTJbtMFKAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpTJbtMFKAU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TpTJbtMFKAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpTJbtMFKAU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man who was Obsessed with Mars | History | Mistranslations | Japan | Canals | Percival Lowell...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mars and the Gilded Age Imagination Lecture  
-   Link: <a href="https://www.youtube.com/watch?v=fsXBcWJFtTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fsXBcWJFtTQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Mars Fooled the Astronomers – clip from “Mars Calling” 4K Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fsXBcWJFtTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fsXBcWJFtTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Mars Fooled the Astronomers – clip from “Mars Calling” 4K Documentary...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:Mars as the abode of life (IA marsasabodeoflif00lowe).pdf  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMars_as_the_abode_of_life_%28IA_marsasabodeoflif00lowe%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMars_as_the_abode_of_life_%28IA_marsasabodeoflif00lowe%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AMars_as_the_abode_of_life_%28IA_marsasabodeoflif00lowe%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMars_as_the_abode_of_life_%28IA_marsasabodeoflif00lowe%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kevg0v" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kevg0v</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fact: People in the late 1800s actually believed that intelligent aliens lived on Mars.May 4, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kevg0v" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kevg0v</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fact: People in the late 1800s actually believed that intelligent aliens lived on Mars.May 4, 2025...</p></details>
    Published: May 4, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: openlibrary.org  
    Title: Mars as the abode of life by Percival Lowell | Open Library  
-   Link: <a href="https://openlibrary.org/books/OL7035558M/Mars_as_the_abode_of_life" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/books/OL7035558M/Mars_as_the_abode_of_life</a>  
+   Link:<a href="https://openlibrary.org/books/OL7035558M/Mars_as_the_abode_of_life" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/books/OL7035558M/Mars_as_the_abode_of_life</a>  

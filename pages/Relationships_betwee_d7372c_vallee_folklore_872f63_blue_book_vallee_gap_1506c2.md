@@ -274,7 +274,7 @@ image: /assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_blue_bo
 
 ## Introduction
 
-For Jacques Vallée, the central weakness of [Project Blue Book]({{ 'blue-book/' | relative_url }}) was not that it failed to prove extraterrestrial visitors. It was that its methods could not explain why certain kinds of reports kept recurring across different periods, cultures and belief systems. By the time Blue Book ended in 1969, the US Air Force had investigated 12,618 UFO reports and left 701 officially [unidentified]({{ 'unidentified/' | relative_url }}), while concluding that there was no evidence for extraterrestrial craft or technology beyond known science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+For Jacques Vallée, the central weakness of [Project Blue Book]({{ 'blue-book/' | relative_url }}) was not that it failed to prove extraterrestrial visitors. It was that its methods could not explain why certain kinds of reports kept recurring across different periods, cultures and belief systems. By the time Blue Book ended in 1969, the US Air Force had investigated 12,618 UFO reports and left 701 officially [unidentified]({{ 'unidentified/' | relative_url }}), while concluding that there was no evidence for extraterrestrial craft or technology beyond known science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_blue_book_vallee_gap_1506c2-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_blue_book_vallee_gap_1506c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_blue_book_vallee_gap_1506c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Vallée accepted that “unidentified” did not automatically mean alien. Howev
 
 ## What did Blue Book leave unexplained?
 
-Project Blue Book was designed as an investigative and classification programme. Its purpose was to determine whether reported objects posed a national-security threat and whether they could be explained through known causes. By those standards, the project considered itself successful. Most reports were assigned conventional [explanations]({{ 'explanations/' | relative_url }}), and the Air Force concluded that UFOs showed no evidence of extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+Project Blue Book was designed as an investigative and classification programme. Its purpose was to determine whether reported objects posed a national-security threat and whether they could be explained through known causes. By those standards, the project considered itself successful. Most reports were assigned conventional [explanations]({{ 'explanations/' | relative_url }}), and the Air Force concluded that UFOs showed no evidence of extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 Vallée's concern was different. He argued that closing individual cases did not necessarily explain the broader phenomenon of UFO belief and experience. A report could be classified as a balloon, aircraft, astronomical object or insufficiently documented event, yet the larger pattern of recurring stories remained.
 
@@ -305,7 +305,7 @@ These were not questions Blue Book had been created to answer, but they became c
 
 ## The official numbers and conclusion
 
-The statistics that emerged from Blue Book became a focal point in later debates. The Air Force reported that 12,618 sightings were examined between 1947 and 1969, with 701 remaining unidentified after investigation. Despite those [unresolved cases]({{ 'unresolved-cases/' | relative_url }}), the project's final position was that no evidence demonstrated extraterrestrial vehicles, unknown scientific principles or a threat to national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+The statistics that emerged from Blue Book became a focal point in later debates. The Air Force reported that 12,618 sightings were examined between 1947 and 1969, with 701 remaining unidentified after investigation. Despite those [unresolved cases]({{ 'unresolved-cases/' | relative_url }}), the project's final position was that no evidence demonstrated extraterrestrial vehicles, unknown scientific principles or a threat to national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 For many observers, the 701 unidentified cases were the most interesting number. Some interpreted them as evidence for alien visitation. Vallée rejected that leap.
 
@@ -317,7 +317,7 @@ This distinction became important in Vallée's criticism of both sceptics and [b
 
 A key feature of Vallée's approach was his refusal to treat unexplained cases as automatic evidence of alien visitors.
 
-Blue Book's final conclusions stated that unidentified reports did not provide evidence for extraterrestrial vehicles. Vallée agreed that the available data did not justify such certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+Blue Book's final conclusions stated that unidentified reports did not provide evidence for extraterrestrial vehicles. Vallée agreed that the available data did not justify such certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 However, he also believed that simply declaring the matter closed left important questions unanswered. If some reports genuinely involved unusual experiences, then investigators still needed a framework capable of studying them without immediately forcing them into either of two categories:
 
@@ -326,7 +326,7 @@ However, he also believed that simply declaring the matter closed left important
 1. Misidentification or error.
 2. Visitors from another planet.
 
-This was the intellectual space Vallée tried to occupy in 1969, the same year that *Passport to [Magonia]({{ 'magonia/' | relative_url }})* appeared and Project Blue Book was terminated. Rather than treating UFO reports as evidence for alien spacecraft, he examined them as part of a larger body of human testimony that included folklore, visionary experiences, legends and modern encounter reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.hrmtc.com/2021/08/19/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.hrmtc.com">[The Hermetic Library Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.hrmtc.com</span><span class="citation-popover-title">The Hermetic Library Blog Passport to Magonia</span><span class="citation-popover-snippet">The Hermetic Library BlogPassport to Magonia - The Hermetic Library BlogAugust 19, 2021...</span><span class="citation-popover-meta">Published: August 19, 2021</span></span></span>
+This was the intellectual space Vallée tried to occupy in 1969, the same year that *Passport to [Magonia]({{ 'magonia/' | relative_url }})* appeared and Project Blue Book was terminated. Rather than treating UFO reports as evidence for alien spacecraft, he examined them as part of a larger body of human testimony that included folklore, visionary experiences, legends and modern encounter reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.hrmtc.com/2021/08/19/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.hrmtc.com">[The Hermetic Library Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.hrmtc.com</span><span class="citation-popover-title">The Hermetic Library Blog Passport to Magonia</span><span class="citation-popover-snippet">The Hermetic Library BlogPassport to Magonia - The Hermetic Library BlogAugust 19, 2021...</span><span class="citation-popover-meta">Published: August 19, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" title="Jacques Vallée: Project Blue Book, space travel and military secrecy | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer">Jacques Vallée: Project Blue Book, space travel and military secrecy | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 195.2K &middot; Uploaded: May 2025 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RqptVKs7wbc">Open on YouTube</a></p></div></div></div>
@@ -335,7 +335,7 @@ This was the intellectual space Vallée tried to occupy in 1969, the same year t
 
 The most important thing Blue Book could not provide for Vallée was a theory of recurring narrative forms.
 
-In *Passport to Magonia*, he argued that modern UFO stories often echoed older accounts involving fairies, supernatural visitors, aerial beings and journeys into strange realms. The surface details changed with culture and technology, but certain patterns seemed remarkably persistent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.hrmtc.com/2021/08/19/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.hrmtc.com">[The Hermetic Library Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.hrmtc.com</span><span class="citation-popover-title">The Hermetic Library Blog Passport to Magonia</span><span class="citation-popover-snippet">The Hermetic Library BlogPassport to Magonia - The Hermetic Library BlogAugust 19, 2021...</span><span class="citation-popover-meta">Published: August 19, 2021</span></span></span>
+In *Passport to Magonia*, he argued that modern UFO stories often echoed older accounts involving fairies, supernatural visitors, aerial beings and journeys into strange realms. The surface details changed with culture and technology, but certain patterns seemed remarkably persistent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.hrmtc.com/2021/08/19/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.hrmtc.com">[The Hermetic Library Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.hrmtc.com</span><span class="citation-popover-title">The Hermetic Library Blog Passport to Magonia</span><span class="citation-popover-snippet">The Hermetic Library BlogPassport to Magonia - The Hermetic Library BlogAugust 19, 2021...</span><span class="citation-popover-meta">Published: August 19, 2021</span></span></span>
 
 This observation mattered because the post-war UFO era unfolded alongside the rapid growth of science fiction. In earlier centuries, unusual experiences might be described through religious or folkloric language. In the twentieth century, the same kinds of experiences could be expressed through the imagery of spaceships, advanced technology and beings from other worlds.
 
@@ -350,7 +350,7 @@ From his perspective, the important evidence was not only a radar return, a phot
 
 The disagreement between Blue Book and Vallée was therefore methodological rather than simply factual.
 
-Blue Book asked: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+Blue Book asked:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
@@ -382,194 +382,194 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_blue_book_vallee_gap_1506c2-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_blue_book_vallee_gap_1506c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_blue_book_vallee_gap_1506c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did Blue Book leave unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did Blue Book leave unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that UFO encounters share patterns with folklore, myths and older legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that UFO encounters share patterns with folklore, myths and older legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Expands the challenge to simple extraterrestrial explanations and explores recurring encounter patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Expands the challenge to simple extraterrestrial explanations and explores recurring encounter patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fairy-Faith+in+Celtic+Countries+by+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fairy-Faith in Celtic Countries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0B3PEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Fairy-Faith in Celtic Countries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fairy-Faith+in+Celtic+Countries+by+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fairy-Faith in Celtic Countries">The Fairy-Faith in Celtic Countries</a>
-        </h4>
-        <p class="fr-book-author">By W. Y. Evans-Wentz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fairy-Faith+in+Celtic+Countries+by+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fairy-Faith in Celtic Countries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0B3PEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Fairy-Faith in Celtic Countries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Fairy-Faith+in+Celtic+Countries+by+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fairy-Faith in Celtic Countries">The Fairy-Faith in Celtic Countries</a>
+</h4>
+<p class="fr-book-author">By W. Y. Evans-Wentz</p>
         
-        <p class="fr-book-desc">Provides foundational material on fairy encounters and folklore motifs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fairy-Faith+in+Celtic+Countries+by+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational material on fairy encounters and folklore motifs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Fairy-Faith+in+Celtic+Countries+by+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Documents unusual aerial phenomena across centuries, supporting the historical-comparison approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents unusual aerial phenomena across centuries, supporting the historical-comparison approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fairy+Faith+in+Celtic+Countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fairy Faith in Celtic Countries</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fairy+Faith+in+Celtic+Countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fairy Faith in Celtic Countries</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/29f1394255230eeff403.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/29f1394255230eeff403.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)"><img src="{{ '/assets/images/marketplace-covers/a4b6a9ca3177ee91de41.jpg' | relative_url }}" alt="Listing image for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)"><img src="{{ '/assets/images/marketplace-covers/a4b6a9ca3177ee91de41.jpg' | relative_url }}" alt="Listing image for 3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">3D Printed, RAF, Avro Vulcan, Delta Jet, Cold War, Wall Art - (30cm span)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MILITARY AVIATION PRINT- COLD WAR WARRIORS"><img src="{{ '/assets/images/marketplace-covers/3ae132dd4fce5eb28b4e.jpg' | relative_url }}" alt="Listing image for MILITARY AVIATION PRINT- COLD WAR WARRIORS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">MILITARY AVIATION PRINT- COLD WAR WARRIORS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MILITARY AVIATION PRINT- COLD WAR WARRIORS"><img src="{{ '/assets/images/marketplace-covers/3ae132dd4fce5eb28b4e.jpg' | relative_url }}" alt="Listing image for MILITARY AVIATION PRINT- COLD WAR WARRIORS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">MILITARY AVIATION PRINT- COLD WAR WARRIORS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="blue-book-gap-what-did-blue-book-leave-unexplained-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,78 +775,78 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: library.hrmtc.com  
    Title: The Hermetic Library Blog Passport to Magonia  
-   Link: <a href="https://library.hrmtc.com/2021/08/19/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://library.hrmtc.com/2021/08/19/passport-to-magonia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hermetic Library BlogPassport to Magonia - The Hermetic Library BlogAugust 19, 2021...</p></details>
+   Link:<a href="https://library.hrmtc.com/2021/08/19/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://library.hrmtc.com/2021/08/19/passport-to-magonia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hermetic Library BlogPassport to Magonia - The Hermetic Library BlogAugust 19, 2021...</p></details>
    Published: August 19, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: satyori.com  
    Title: project blue book  
-   Link: <a href="https://satyori.com/suppressed-history/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://satyori.com/suppressed-history/project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1952-1969) — Suppressed History | Satyori...</p></details>
+   Link:<a href="https://satyori.com/suppressed-history/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://satyori.com/suppressed-history/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1952-1969) — Suppressed History | Satyori...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: www.wired.com What the Pentagon's New UFO Report Reveals About Humankind  
-   Link: <a href="https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the hype, the report only identified one case definitively as a deflating balloon and suggested that further investigations would...</p></details>
+   Link:<a href="https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-the-pentagons-new-ufo-report-tells-us-about-ourselves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the hype, the report only identified one case definitively as a deflating balloon and suggested that further investigations would...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=IEdf3OvPh90" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IEdf3OvPh90</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Project Blue Book interview Jacques Vallée: Project Blue Book, space travel and military [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) | Reality Check NewsNation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IEdf3OvPh90" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IEdf3OvPh90</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Project Blue Book interview Jacques Vallée: Project Blue Book, space travel and military [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) | Reality Check NewsNation...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: www.reddit.com Official Project Blue Book Findings in Plain English  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/ew99mj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ew99mj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectBlueBook Findings in Plain EnglishJanuary 30, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/ew99mj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ew99mj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectBlueBook Findings in Plain EnglishJanuary 30, 2020...</p></details>
    Published: January 30, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RqptVKs7wbc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2288 - Jacques Vallée...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RqptVKs7wbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2288 - Jacques Vallée...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Passport To Magonia by Jacques Vallée  
-   Link: <a href="http://www.youtube.com/watch?v=ftw5YE98O9Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ftw5YE98O9Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SNEAK PEEK: “THE PHENOMENON” REVEALS THE LETTER THAT CHANGED DR. JACQUES VALLEE’S LIFE...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ftw5YE98O9Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ftw5YE98O9Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SNEAK PEEK: “THE PHENOMENON” REVEALS THE LETTER THAT CHANGED DR. JACQUES VALLEE’S LIFE...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Implications of UFO Phenomena with Jacques Vallée  
-   Link: <a href="http://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6We0GMqqoko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport To Magonia by Jacques Vallée - Chapter 1...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6We0GMqqoko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport To Magonia by Jacques Vallée - Chapter 1...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vZEcVY2iZsk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of UFO Phenomena with Jacques Vallée...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vZEcVY2iZsk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of UFO Phenomena with Jacques Vallée...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: secretsdeclassified.af.mil  
    Title: Project Blue Book > Air Force Declassification Office > Display  
-   Link: <a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
+   Link:<a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BDymHKutZLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BDymHKutZLw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained UFO Cover Up Cases and The End of Project Blue Book (1969) - FindingUFO - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BDymHKutZLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BDymHKutZLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained UFO Cover Up Cases and The End of Project Blue Book (1969) - FindingUFO - YouTube...</p></details>

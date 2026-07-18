@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_al
 
 ## Introduction
 
-When people see a distant light, a blurred photograph, a radar anomaly or a brief unexplained object in the sky, the available evidence is often incomplete. Yet many UFO reports quickly acquire details that the evidence itself does not contain: alien craft, non-human pilots, secret recovery programmes or government [cover-ups]({{ 'cover-ups/' | relative_url }}). One reason is that ambiguous observations rarely stay ambiguous for long in the public imagination. Decades of science fiction, UFO literature, films, [television]({{ 'television/' | relative_url }}) series and conspiracy narratives provide ready-made story frameworks that help people interpret uncertainty. Rather than leaving a mystery unresolved, familiar alien stories supply characters, motives and endings. Researchers of UFO culture, anthropologists and government reviews alike have noted that popular narratives can shape how unexplained events are understood and discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eap-iea.org/index.php/eap/article/view/643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eap-iea.org">[EAP IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eap-iea.org</span><span class="citation-popover-snippet">May 10, 2012...</span><span class="citation-popover-meta">Published: May 10, 2012</span></span></span>
+When people see a distant light, a blurred photograph, a radar anomaly or a brief unexplained object in the sky, the available evidence is often incomplete. Yet many UFO reports quickly acquire details that the evidence itself does not contain: alien craft, non-human pilots, secret recovery programmes or government [cover-ups]({{ 'cover-ups/' | relative_url }}). One reason is that ambiguous observations rarely stay ambiguous for long in the public imagination. Decades of science fiction, UFO literature, films, [television]({{ 'television/' | relative_url }}) series and conspiracy narratives provide ready-made story frameworks that help people interpret uncertainty. Rather than leaving a mystery unresolved, familiar alien stories supply characters, motives and endings. Researchers of UFO culture, anthropologists and government reviews alike have noted that popular narratives can shape how unexplained events are understood and discussed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eap-iea.org/index.php/eap/article/view/643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eap-iea.org">[EAP IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eap-iea.org</span><span class="citation-popover-snippet">May 10, 2012...</span><span class="citation-popover-meta">Published: May 10, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_alien_story_gap_5724c9-Illustration-1-dark.svg" | relative_url }}" alt="Story Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_alien_story_gap_5724c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_alien_story_gap_5724c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,14 +288,14 @@ This does not mean witnesses are dishonest or that every unusual sighting has an
 
 ## Why Familiar Plots Shape Interpretation
 
-Human beings are natural storytellers. Faced with incomplete information, people tend to organise events into coherent narratives rather than leaving them as disconnected facts. UFO reports are especially vulnerable to this process because the original evidence is frequently fragmentary: a few seconds of observation, a distant object, a blurry image or an incomplete sensor record. NASA's UAP studies repeatedly note that many reports suffer from limited, poorly calibrated or incomplete data, making firm conclusions difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businesstoday.in/amp/latest/story/nasa-releases-new-study-report-on-ufos-shares-findings-origin-of-numerous-uap-398492-2023-09-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businesstoday.in">[Business Today+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businesstoday.in</span><span class="citation-popover-snippet">Business TodayNASA releases new study report on UFOs, shares findings: &#x27;Origin of numerous UAP...&#x27; - BusinessTodaySeptember 14, 2023...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
+Human beings are natural storytellers. Faced with incomplete information, people tend to organise events into coherent narratives rather than leaving them as disconnected facts. UFO reports are especially vulnerable to this process because the original evidence is frequently fragmentary: a few seconds of observation, a distant object, a blurry image or an incomplete sensor record. NASA's UAP studies repeatedly note that many reports suffer from limited, poorly calibrated or incomplete data, making firm conclusions difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businesstoday.in/amp/latest/story/nasa-releases-new-study-report-on-ufos-shares-findings-origin-of-numerous-uap-398492" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businesstoday.in">[businesstoday.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businesstoday.in</span><span class="citation-popover-snippet">Business TodayNASA releases new study report on UFOs, shares findings: &#x27;Origin of numerous UAP...&#x27; - BusinessTodaySeptember 14, 2023...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
 
 Into that uncertainty enters a well-established cultural script. Since the mid-twentieth century, audiences have been exposed to recurring stories involving:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Advanced alien spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UfoUapNews/comments/1sr8zt8/odni_uap_assessment_june_2021_most_sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">odni uap assessment june 2021 most sightings</span><span class="citation-popover-snippet">UAP Assessment (June 2021): Most Sightings Unexplained; One Balloon Identified; No Evidence of Alien SpacecraftApril 21, 2026...</span><span class="citation-popover-meta">Published: june 2021</span></span></span>
+* Advanced alien spacecraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UfoUapNews/comments/1sr8zt8/odni_uap_assessment_june_2021_most_sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">odni uap assessment june 2021 most sightings</span><span class="citation-popover-snippet">UAP Assessment (June 2021): Most Sightings Unexplained; One Balloon Identified; No Evidence of Alien SpacecraftApril 21, 2026...</span><span class="citation-popover-meta">Published: june 2021</span></span></span>
 * Encounters with non-human intelligences.
 * Secret government investigations.
 * Recovered technology.
@@ -305,7 +305,7 @@ Into that uncertainty enters a well-established cultural script. Since the mid-t
 
 Because these plots are familiar, they offer an immediate explanation for otherwise puzzling observations. A strange light is no longer simply an unknown light; it becomes a possible spacecraft. Missing information about origin or behaviour is filled by assumptions drawn from existing stories.
 
-Anthropological studies of UFO culture have argued that popular culture helped create the interpretive framework through which unusual aerial phenomena came to be viewed specifically as alien vehicles rather than as religious signs, atmospheric phenomena or other mysteries. The key shift was not merely seeing something strange in the sky, but having a culturally available explanation ready to attach to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eap-iea.org/index.php/eap/article/view/643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eap-iea.org">[EAP IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eap-iea.org</span><span class="citation-popover-snippet">May 10, 2012...</span><span class="citation-popover-meta">Published: May 10, 2012</span></span></span>
+Anthropological studies of UFO culture have argued that popular culture helped create the interpretive framework through which unusual aerial phenomena came to be viewed specifically as alien vehicles rather than as religious signs, atmospheric phenomena or other mysteries. The key shift was not merely seeing something strange in the sky, but having a culturally available explanation ready to attach to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eap-iea.org/index.php/eap/article/view/643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eap-iea.org">[EAP IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eap-iea.org</span><span class="citation-popover-snippet">May 10, 2012...</span><span class="citation-popover-meta">Published: May 10, 2012</span></span></span>
 
 ## How Ambiguity Becomes Craft, Pilots and Cover-Up
 
@@ -318,7 +318,7 @@ The transformation from an unexplained observation to a detailed extraterrestria
 
 A witness observes something unusual. The available evidence may establish only that an object or light was present and not immediately identifiable.
 
-Official investigations frequently stop at this point because the evidence is insufficient. The 2022 UAP reporting process described many cases that remained unattributed simply because there was not enough information to determine what they were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">UNCLASSIFIEDApril 12, 2026...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
+Official investigations frequently stop at this point because the evidence is insufficient. The 2022 UAP reporting process described many cases that remained unattributed simply because there was not enough information to determine what they were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">UNCLASSIFIEDApril 12, 2026...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
 
 ### Step 2: The object becomes a vehicle
 
@@ -330,7 +330,7 @@ Science fiction provides a large catalogue of visual templates: discs, [triangle
 
 A spacecraft implies pilots. Once the object is imagined as technology, the next narrative step is often the presence of beings operating it.
 
-This progression appears repeatedly in UFO folklore, from contactee stories of the 1950s to later abduction narratives. Researchers examining abduction accounts have noted how such stories often draw upon existing science-fiction imagery and narrative conventions when describing otherwise difficult or ambiguous experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/298942969_The_Science-Fictionalization_of_Trauma_Remarks_on_Narratives_of_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+This progression appears repeatedly in UFO folklore, from contactee stories of the 1950s to later abduction narratives. Researchers examining abduction accounts have noted how such stories often draw upon existing science-fiction imagery and narrative conventions when describing otherwise difficult or ambiguous experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/298942969_The_Science-Fictionalization_of_Trauma_Remarks_on_Narratives_of_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_alien_story_gap_5724c9-Illustration-2-dark.svg" | relative_url }}" alt="Story Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_alien_story_gap_5724c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_alien_story_gap_5724c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ A final narrative move occurs when expected evidence is absent.
 
 If no clear proof emerges, a cover-up narrative can explain the absence. Instead of weakening the extraterrestrial interpretation, the lack of evidence may be reframed as evidence that information is being hidden. This creates a self-reinforcing story structure in which ambiguity itself supports the narrative.
 
-The U.S. government's historical review of UFO-related claims specifically highlighted the persistence of stories involving recovered [alien technology]({{ 'tech-magic/' | relative_url }}), biological remains and long-running [secrecy]({{ 'secrecy/' | relative_url }}) programmes, while also noting the influence of television, books, films and online media in reinforcing these beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationAARO Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenom...</span></span></span>
+The U.S. government's historical review of UFO-related claims specifically highlighted the persistence of stories involving recovered [alien technology]({{ 'tech-magic/' | relative_url }}), biological remains and long-running [secrecy]({{ 'secrecy/' | relative_url }}) programmes, while also noting the influence of television, books, films and online media in reinforcing these beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.experiencersupport.org/declassified/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experiencersupport.org">[The Experiencer Support Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experiencersupport.org</span><span class="citation-popover-snippet">The Experiencer Support AssociationAARO Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenom...</span></span></span>
 
 ## Why These Narratives Feel Persuasive
 
@@ -352,7 +352,7 @@ Second, they provide continuity. Individual incidents become linked into a large
 
 Third, they provide emotional satisfaction. A mystery gains significance rather than remaining unresolved.
 
-This helps explain why similar narrative structures appear across different historical periods. Researchers comparing UFO abduction stories with older folklore traditions have argued that many cultures create narrative frameworks that transform ambiguous experiences into meaningful encounters with hidden beings. The specific characters change, but the underlying structure remains recognisable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.2466/pr0.2000.86.2.669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Flight and Abduction in Witchcraft and UFO Lore</span><span class="citation-popover-snippet">Sage JournalsFlight and Abduction in Witchcraft and UFO Lore - John Brent Musgrave, James Houran, 2000...</span></span></span>
+This helps explain why similar narrative structures appear across different historical periods. Researchers comparing UFO abduction stories with older folklore traditions have argued that many cultures create narrative frameworks that transform ambiguous experiences into meaningful encounters with hidden beings. The specific characters change, but the underlying structure remains recognisable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.2466/pr0.2000.86.2.669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Flight and Abduction in Witchcraft and UFO Lore</span><span class="citation-popover-snippet">Sage JournalsFlight and Abduction in Witchcraft and UFO Lore - John Brent Musgrave, James Houran, 2000...</span></span></span>
 
 Importantly, the persuasive power of a narrative is not the same as evidence for its factual accuracy. A coherent story can feel convincing even when key factual links remain unverified.
 
@@ -378,7 +378,7 @@ The difficulty arises when narrative expectations begin replacing evidence.
 
 A recurring challenge in UFO debates is that stories often become more detailed as the evidence becomes weaker. Blurry images acquire precise interpretations. Brief observations gain elaborate backstories. Missing information is filled with assumptions rather than data.
 
-NASA's position remains that current evidence does not support claims of extraterrestrial origin for UAPs and that better-quality observations are needed before scientific conclusions can be reached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs - NASA Science...</span></span></span>
+NASA's position remains that current evidence does not support claims of extraterrestrial origin for UAPs and that better-quality observations are needed before scientific conclusions can be reached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs - NASA Science...</span></span></span>
 
 The risk is not merely believing the wrong explanation. It is becoming less sensitive to the distinction between what was observed and what was imagined afterward. Once a narrative becomes culturally familiar, people may remember the story more vividly than the original evidence.
 
@@ -393,194 +393,194 @@ The relationship between UFO culture and science fiction is especially visible i
 Alien visitation plots, secret programmes and disclosure narratives are powerful because they turn ambiguity into a coherent drama with characters, motives and consequences. They answer questions that the evidence cannot yet answer. The result is that many UFO debates are not only debates about objects in the sky. They are also debates about which stories people use to make sense of uncertainty. Evidence may establish that something was seen; the familiar alien narrative often supplies everything that comes after.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Alien Stories Fill the Gap. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Alien Stories Fill the Gap. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines recurring stories and interpretations around unexplained phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines recurring stories and interpretations around unexplained phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains belief formation around extraordinary stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains belief formation around extraordinary stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Directly explores how narratives and beliefs fill gaps in evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how narratives and beliefs fill gaps in evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses how narratives emerge from uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Addresses how narratives emerge from uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="story-gap-how-alien-stories-fill-the-gap-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ Alien visitation plots, secret programmes and disclosure narratives are powerful
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ Alien visitation plots, secret programmes and disclosure narratives are powerful
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ Alien visitation plots, secret programmes and disclosure narratives are powerful
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ Alien visitation plots, secret programmes and disclosure narratives are powerful
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ Alien visitation plots, secret programmes and disclosure narratives are powerful
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,126 +786,126 @@ Alien visitation plots, secret programmes and disclosure narratives are powerful
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eap-iea.org  
-   Link: <a href="https://www.eap-iea.org/index.php/eap/article/view/643" target="_blank" rel="noopener noreferrer nofollow">https://www.eap-iea.org/index.php/eap/article/view/643</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2012...</p></details>
+   Link:<a href="https://www.eap-iea.org/index.php/eap/article/view/643" target="_blank" rel="noopener noreferrer nofollow">https://www.eap-iea.org/index.php/eap/article/view/643</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2012...</p></details>
    Published: May 10, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: Provides Coverage of Unidentified Anomalous Phenomena Meeting  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASA...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs - NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs - NASA Science...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNCLASSIFIEDApril 12, 2026...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNCLASSIFIEDApril 12, 2026...</p></details>
    Published: April 12, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/298942969_The_Science-Fictionalization_of_Trauma_Remarks_on_Narratives_of_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/298942969_The_Science-Fictionalization_of_Trauma_Remarks_on_Narratives_of_Alien_Abduction</a>  
+   Link:<a href="https://www.researchgate.net/publication/298942969_The_Science-Fictionalization_of_Trauma_Remarks_on_Narratives_of_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/298942969_The_Science-Fictionalization_of_Trauma_Remarks_on_Narratives_of_Alien_Abduction</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings | Space...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings | Space...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222091902_Aliens_on_Earth_Are_reports_of_close_encounters_correct" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222091902_Aliens_on_Earth_Are_reports_of_close_encounters_correct</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2012...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222091902_Aliens_on_Earth_Are_reports_of_close_encounters_correct" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222091902_Aliens_on_Earth_Are_reports_of_close_encounters_correct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2012...</p></details>
    Published: April 1, 2012  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: experiencersupport.org  
-   Link: <a href="https://www.experiencersupport.org/declassified/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support AssociationAARO Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenom...</p></details>
+   Link:<a href="https://www.experiencersupport.org/declassified/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencersupport.org/declassified/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Experiencer Support AssociationAARO Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenom...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: businesstoday.in  
-   Link: <a href="https://www.businesstoday.in/amp/latest/story/nasa-releases-new-study-report-on-ufos-shares-findings-origin-of-numerous-uap-398492-2023-09-14" target="_blank" rel="noopener noreferrer nofollow">https://www.businesstoday.in/amp/latest/story/nasa-releases-new-study-report-on-ufos-shares-findings-origin-of-numerous-uap-398492-2023-09-14</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Business TodayNASA releases new study report on UFOs, shares findings: &#x27;Origin of numerous UAP...&#x27; - BusinessTodaySeptember 14, 2023...</p></details>
+   Link:<a href="https://www.businesstoday.in/amp/latest/story/nasa-releases-new-study-report-on-ufos-shares-findings-origin-of-numerous-uap-398492" target="_blank" rel="noopener noreferrer nofollow">https://www.businesstoday.in/amp/latest/story/nasa-releases-new-study-report-on-ufos-shares-findings-origin-of-numerous-uap-398492</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business TodayNASA releases new study report on UFOs, shares findings: &#x27;Origin of numerous UAP...&#x27; - BusinessTodaySeptember 14, 2023...</p></details>
    Published: September 14, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Flight and Abduction in Witchcraft and UFO Lore  
-   Link: <a href="https://journals.sagepub.com/doi/10.2466/pr0.2000.86.2.669" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.2466/pr0.2000.86.2.669</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFlight and Abduction in Witchcraft and UFO Lore - John Brent Musgrave, James Houran, 2000...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.2466/pr0.2000.86.2.669" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.2466/pr0.2000.86.2.669</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFlight and Abduction in Witchcraft and UFO Lore - John Brent Musgrave, James Houran, 2000...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: odni uap assessment june 2021 most sightings  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1sr8zt8/odni_uap_assessment_june_2021_most_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1sr8zt8/odni_uap_assessment_june_2021_most_sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Assessment (June 2021): Most Sightings Unexplained; One Balloon Identified; No Evidence of Alien SpacecraftApril 21, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1sr8zt8/odni_uap_assessment_june_2021_most_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1sr8zt8/odni_uap_assessment_june_2021_most_sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Assessment (June 2021): Most Sightings Unexplained; One Balloon Identified; No Evidence of Alien SpacecraftApril 21, 2026...</p></details>
    Published: june 2021  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former AARO director Sean Kirkpatrick criticized the releases as uninformative, while Skeptic Magazine&#x27;s Michael Shermer noted such repor...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former AARO director Sean Kirkpatrick criticized the releases as uninformative, while Skeptic Magazine&#x27;s Michael Shermer noted such repor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/13y32g1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/13y32g1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>panel: No convincing evidence for extraterrestrial life connected with UAPsJune 2, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/13y32g1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/13y32g1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>panel: No convincing evidence for extraterrestrial life connected with UAPsJune 2, 2023...</p></details>
    Published: June 2, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Y7OLjStp6EI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7OLjStp6EI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y7OLjStp6EI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7OLjStp6EI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It&#x27;s NOT Bullsh*t!&quot; Neil DeGrasse Tyson On UFO Files, Aliens, Wormholes And Steven Spielberg...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;It&#x27;s NOT Bullsh*t!&quot; Neil DeGrasse Tyson On UFO Files, Aliens, Wormholes And Steven Spielberg...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Real Stories Behind Alien Invasion Movies  
-   Link: <a href="https://www.youtube.com/watch?v=VTyOO3XY1IQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTyOO3XY1IQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO X-Files Hidden for 80 Years Declassified? U.S. Government Releases 161 Classified Documents...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VTyOO3XY1IQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VTyOO3XY1IQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO X-Files Hidden for 80 Years Declassified? U.S. Government Releases 161 Classified Documents...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
-   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Stories Behind Alien Invasion Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Real Stories Behind Alien Invasion Movies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pKlrHqJkt38</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson Finally Takes UFOs Seriously...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pKlrHqJkt38" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pKlrHqJkt38</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson Finally Takes UFOs Seriously...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why We Believe in Weird Sh*t: Ghosts, Tarot, and UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xApj_Jp7XiU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xApj_Jp7XiU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xApj_Jp7XiU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xApj_Jp7XiU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Neil de Grasse Tyson Finally Takes UFOs Seriously  
-   Link: <a href="https://www.youtube.com/watch?v=0EeoauhCl30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0EeoauhCl30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s [Flying Saucer](&amp;#123;&amp;#123; &#x27;flying-saucer/&#x27; | relative_url &amp;#125;&amp;#125;), UFO, and Alien Encounter Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0EeoauhCl30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0EeoauhCl30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s [Flying Saucer](&amp;#123;&amp;#123; &#x27;flying-saucer/&#x27; | relative_url &amp;#125;&amp;#125;), UFO, and Alien Encounter Movies...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Neil Ranks Depictions of Aliens in Sci-Fi  
-   Link: <a href="https://www.youtube.com/watch?v=VC3biGJmle4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VC3biGJmle4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VC3biGJmle4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VC3biGJmle4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Diana Walsh Pasulka: Why the Smartest Scientists Believe in UFOs...</p></details>

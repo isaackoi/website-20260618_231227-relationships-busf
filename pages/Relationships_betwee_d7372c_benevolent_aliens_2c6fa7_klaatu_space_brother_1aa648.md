@@ -280,42 +280,42 @@ image: /assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaat
 
 ## Introduction
 
-Klaatu, the visitor from *The Day the Earth Stood Still* (1951), became one of the most influential examples of the benevolent alien in science-fiction cinema. Unlike the invading monsters and conquerors common in many Cold War films, he arrives not to seize Earth but to warn it. His role helped establish a lasting UFO-related narrative: the advanced extraterrestrial as a moral superior who intervenes because humanity is endangering itself. In the language later associated with UFO contact culture, Klaatu resembles a cinematic “Space Brother” figure—an alien messenger who combines technological superiority with ethical instruction. Through him, the [flying saucer]({{ 'flying-saucer/' | relative_url }}) becomes not merely a vehicle from another world but a platform for judgement, diplomacy and warning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Klaatu, the visitor from *The Day the Earth Stood Still* (1951), became one of the most influential examples of the benevolent alien in science-fiction cinema. Unlike the invading monsters and conquerors common in many Cold War films, he arrives not to seize Earth but to warn it. His role helped establish a lasting UFO-related narrative: the advanced extraterrestrial as a moral superior who intervenes because humanity is endangering itself. In the language later associated with UFO contact culture, Klaatu resembles a cinematic “Space Brother” figure—an alien messenger who combines technological superiority with ethical instruction. Through him, the [flying saucer]({{ 'flying-saucer/' | relative_url }}) becomes not merely a vehicle from another world but a platform for judgement, diplomacy and warning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-1-dark.svg" | relative_url }}" alt="Klaatu illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Saucer Arrival as Intervention
 
-The film’s most famous image is not an attack but a landing. Klaatu’s saucer descends openly in Washington, D.C., placing itself before the world's political centre rather than striking from concealment. This choice immediately distinguishes him from hostile invaders. He arrives as an emissary seeking communication. When he attempts to present a message, however, fear and military reflexes dominate the response. He is shot within moments of emerging from the craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The film’s most famous image is not an attack but a landing. Klaatu’s saucer descends openly in Washington, D.C., placing itself before the world's political centre rather than striking from concealment. This choice immediately distinguishes him from hostile invaders. He arrives as an emissary seeking communication. When he attempts to present a message, however, fear and military reflexes dominate the response. He is shot within moments of emerging from the craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-That scene established a pattern that would recur throughout later benevolent-contact stories. The drama does not arise from alien aggression but from humanity's inability to respond rationally to the unfamiliar. Klaatu's intervention is therefore partly a test. The audience sees that the visitor is calm, restrained and diplomatic, while governments and military authorities react with suspicion and force. The conflict becomes moral rather than military. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+That scene established a pattern that would recur throughout later benevolent-contact stories. The drama does not arise from alien aggression but from humanity's inability to respond rationally to the unfamiliar. Klaatu's intervention is therefore partly a test. The audience sees that the visitor is calm, restrained and diplomatic, while governments and military authorities react with suspicion and force. The conflict becomes moral rather than military.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-The film's famous global power interruption reinforces this role. Klaatu demonstrates overwhelming technological capability yet deliberately limits the display to avoid loss of life. The temporary shutdown is intended as a warning sign rather than an act of conquest. He possesses the power associated with an invading force but chooses restraint, underscoring the idea that advanced civilisation should be accompanied by responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The film's famous global power interruption reinforces this role. Klaatu demonstrates overwhelming technological capability yet deliberately limits the display to avoid loss of life. The temporary shutdown is intended as a warning sign rather than an act of conquest. He possesses the power associated with an invading force but chooses restraint, underscoring the idea that advanced civilisation should be accompanied by responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xh8P4MIaZBA" title="👁️🚀 The Alien Ultimatum That Changed Cinema – The Day the Earth Stood Still (1951)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xh8P4MIaZBA" target="_blank" rel="noopener noreferrer">👁️🚀 The Alien Ultimatum That Changed Cinema – The Day the Earth Stood Still (1951)</a></p><p class="youtube-embed-meta">Channel: TenaaTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xh8P4MIaZBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xh8P4MIaZBA">Open on YouTube</a></p></div></div></div>
 
 ## The Humanoid Messenger Pattern
 
-A crucial reason Klaatu became such an enduring model is that he looks and behaves like a human being. Earlier science-fiction often represented extraterrestrials as visibly monstrous. Klaatu instead appears as a calm, articulate man who can walk unnoticed among ordinary citizens. This made the alien messenger relatable and allowed the film to focus on ideas rather than spectacle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+A crucial reason Klaatu became such an enduring model is that he looks and behaves like a human being. Earlier science-fiction often represented extraterrestrials as visibly monstrous. Klaatu instead appears as a calm, articulate man who can walk unnoticed among ordinary citizens. This made the alien messenger relatable and allowed the film to focus on ideas rather than spectacle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 His interactions with ordinary people are as important as his conversations with scientists and officials. By living temporarily among humans, he observes everyday life rather than judging Earth solely through governments or military institutions. This narrative choice became a recurring feature of benevolent-contact stories: the visitor studies humanity directly and discovers both its flaws and its potential.
 
-Klaatu also embodies a characteristic feature of the later “Space Brother” archetype. He is neither a conqueror nor a detached scientist. Instead, he occupies the role of moral instructor. He arrives from a civilisation that claims to have solved the problems of aggression and war and offers humanity a choice between continued violence and peaceful coexistence. His authority comes not merely from superior technology but from the claim that his society has achieved a higher ethical order. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Klaatu also embodies a characteristic feature of the later “Space Brother” archetype. He is neither a conqueror nor a detached scientist. Instead, he occupies the role of moral instructor. He arrives from a civilisation that claims to have solved the problems of aggression and war and offers humanity a choice between continued violence and peaceful coexistence. His authority comes not merely from superior technology but from the claim that his society has achieved a higher ethical order.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-The contrast between Klaatu and Gort strengthens this message. Klaatu speaks softly, negotiates and reasons. Gort represents irresistible enforcement. Together they suggest a civilisation in which moral persuasion is backed by overwhelming power. The film therefore presents the alien visitor as both teacher and judge, a combination that became highly influential in later UFO-inspired fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The contrast between Klaatu and Gort strengthens this message. Klaatu speaks softly, negotiates and reasons. Gort represents irresistible enforcement. Together they suggest a civilisation in which moral persuasion is backed by overwhelming power. The film therefore presents the alien visitor as both teacher and judge, a combination that became highly influential in later UFO-inspired fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-2-dark.svg" | relative_url }}" alt="Klaatu illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cold War Warning on Screen
 
-The historical significance of Klaatu lies in the way he translated Cold War anxieties into an extraterrestrial encounter. Released during the early atomic age, the film reflected fears that humanity's technological development was outpacing its moral maturity. Encyclopaedia Britannica notes that the film is widely regarded as a classic expression of Cold War and atomic-age concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+The historical significance of Klaatu lies in the way he translated Cold War anxieties into an extraterrestrial encounter. Released during the early atomic age, the film reflected fears that humanity's technological development was outpacing its moral maturity. Encyclopaedia Britannica notes that the film is widely regarded as a classic expression of Cold War and atomic-age concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-Importantly, Klaatu's warning is broader than a simple anti-nuclear message. Modern scholarship has pointed out that his central concern is aggressive behaviour itself and the possibility that humanity will carry its violence beyond Earth as its technological reach expands. The danger is not merely a particular weapon but an underlying pattern of destructive conduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-0787/10/4/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary Klaatu Are Not Anti-Atomic: A Reassessment of the Film...</span></span></span>
+Importantly, Klaatu's warning is broader than a simple anti-nuclear message. Modern scholarship has pointed out that his central concern is aggressive behaviour itself and the possibility that humanity will carry its violence beyond Earth as its technological reach expands. The danger is not merely a particular weapon but an underlying pattern of destructive conduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-0787/10/4/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary Klaatu Are Not Anti-Atomic: A Reassessment of the Film...</span></span></span>
 
-His final speech crystallises the film's moral framework. Klaatu describes an interplanetary order that has eliminated warfare through collective security and automated enforcement. Humanity is offered a stark choice: learn to live peacefully or face exclusion and possible destruction if its aggression threatens other worlds. The speech transforms the alien visitor into a cosmic referee standing above national rivalries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15eqt1k" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Klaatu’s speech from The Day the Earth Stood Still</span><span class="citation-popover-snippet">Klaatu’s speech from The Day the Earth Stood Still...</span></span></span>
+His final speech crystallises the film's moral framework. Klaatu describes an interplanetary order that has eliminated warfare through collective security and automated enforcement. Humanity is offered a stark choice: learn to live peacefully or face exclusion and possible destruction if its aggression threatens other worlds. The speech transforms the alien visitor into a cosmic referee standing above national rivalries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/15eqt1k" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Klaatu’s speech from The Day the Earth Stood Still</span><span class="citation-popover-snippet">Klaatu’s speech from The Day the Earth Stood Still...</span></span></span>
 
-This perspective helped distinguish *The Day the Earth Stood Still* from invasion narratives of the same era. Rather than portraying aliens as the embodiment of [Cold War fears]({{ 'cold-war-fear/' | relative_url }}), it used an alien to criticise humanity's own behaviour. The extraterrestrial became a mirror in which audiences could examine militarism, distrust and the risks of unchecked power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+This perspective helped distinguish *The Day the Earth Stood Still* from invasion narratives of the same era. Rather than portraying aliens as the embodiment of [Cold War fears]({{ 'cold-war-fear/' | relative_url }}), it used an alien to criticise humanity's own behaviour. The extraterrestrial became a mirror in which audiences could examine militarism, distrust and the risks of unchecked power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yZ9giPwPrZA" title="Klaatu&#x27;s Speech to Mankind | The Day the Earth Stood Still | Movie Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer">Klaatu&#x27;s Speech to Mankind | The Day the Earth Stood Still | Movie Clip</a></p><p class="youtube-embed-meta">Channel: TenaaTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yZ9giPwPrZA">Open on YouTube</a></p></div></div></div>
@@ -325,202 +325,202 @@ This perspective helped distinguish *The Day the Earth Stood Still* from invasio
 
 ## Why Klaatu Endured in UFO-Inspired Science Fiction
 
-Klaatu's influence extends beyond a single film because he provided a durable model for benevolent contact. He linked the flying saucer to moral instruction, making the extraterrestrial visitor a figure of warning rather than invasion. Later depictions of wise, peaceful or spiritually advanced aliens often echoed elements of his character: the humanoid appearance, the message of planetary responsibility, the concern about humanity's future and the belief that superior technology should be accompanied by superior ethics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Klaatu's influence extends beyond a single film because he provided a durable model for benevolent contact. He linked the flying saucer to moral instruction, making the extraterrestrial visitor a figure of warning rather than invasion. Later depictions of wise, peaceful or spiritually advanced aliens often echoed elements of his character: the humanoid appearance, the message of planetary responsibility, the concern about humanity's future and the belief that superior technology should be accompanied by superior ethics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-Within the broader relationship between UFO culture and science fiction, Klaatu occupies a pivotal position. He helped popularise the idea that a saucer occupant might arrive as an elder sibling rather than an enemy. The film translated themes that would later appear in contactee narratives—peace, warning and moral advancement—into a mainstream cinematic form. As a result, Klaatu remains one of the clearest examples of the alien as a “Space Brother”: not an invader from the stars, but a visitor who comes to tell humanity that its greatest threat is itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Within the broader relationship between UFO culture and science fiction, Klaatu occupies a pivotal position. He helped popularise the idea that a saucer occupant might arrive as an elder sibling rather than an enemy. The film translated themes that would later appear in contactee narratives—peace, warning and moral advancement—into a mainstream cinematic form. As a result, Klaatu remains one of the clearest examples of the alien as a “Space Brother”: not an invader from the stars, but a visitor who comes to tell humanity that its greatest threat is itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-3-dark.svg" | relative_url }}" alt="Klaatu illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_klaatu_space_brother_1aa648-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Klaatu Was Not Just an Invader. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Klaatu Was Not Just an Invader. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5yCy5kmLW40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
-        </h4>
-        <p class="fr-book-author">By Desmond Leslie, George Adamski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5yCy5kmLW40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
+</h4>
+<p class="fr-book-author">By Desmond Leslie, George Adamski</p>
         
-        <p class="fr-book-desc">Directly presents the alien-warning-against-nuclear-war theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly presents the alien-warning-against-nuclear-war theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Aquarian Gospel of Jesus the Christ on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aquarian Gospel of Jesus the Christ">The Aquarian Gospel of Jesus the Christ</a>
-        </h4>
-        <p class="fr-book-author">By Levi Dowling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Aquarian Gospel of Jesus the Christ on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aquarian Gospel of Jesus the Christ">The Aquarian Gospel of Jesus the Christ</a>
+</h4>
+<p class="fr-book-author">By Levi Dowling</p>
         
-        <p class="fr-book-desc">Illustrates spiritual-guide traditions that predate Space Brothers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates spiritual-guide traditions that predate Space Brothers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Have Landed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Have Landed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/308d0951e28505c67d4f.jpg' | relative_url }}" alt="Listing image for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/308d0951e28505c67d4f.jpg' | relative_url }}" alt="Listing image for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="klaatu-why-klaatu-was-not-just-an-invader-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ Within the broader relationship between UFO culture and science fiction, Klaatu 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ Within the broader relationship between UFO culture and science fiction, Klaatu 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ Within the broader relationship between UFO culture and science fiction, Klaatu 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ Within the broader relationship between UFO culture and science fiction, Klaatu 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ Within the broader relationship between UFO culture and science fiction, Klaatu 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,67 +726,67 @@ Within the broader relationship between UFO culture and science fiction, Klaatu 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951</a>  
+   Link:<a href="https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/The-Day-the-Earth-Stood-Still-film-1951</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: Klaatu’s speech from The Day the Earth Stood Still  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15eqt1k" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15eqt1k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Klaatu’s speech from The Day the Earth Stood Still...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15eqt1k" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15eqt1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Klaatu’s speech from The Day the Earth Stood Still...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-0787/10/4/107" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-0787/10/4/107</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary Klaatu Are Not Anti-Atomic: A Reassessment of the Film...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-0787/10/4/107" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-0787/10/4/107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary Klaatu Are Not Anti-Atomic: A Reassessment of the Film...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/movies/comments/129sf0q/the_day_the_earth_stood_still_2008_review_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/129sf0q/the_day_the_earth_stood_still_2008_review_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still 2008 review A valiant attempt to reimagine and reframe The Day the Earth Stood Still, but fails to approach the...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/129sf0q/the_day_the_earth_stood_still_2008_review_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/129sf0q/the_day_the_earth_stood_still_2008_review_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still 2008 review A valiant attempt to reimagine and reframe The Day the Earth Stood Still, but fails to approach the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UkraineConflict/comments/11lpv3q" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UkraineConflict/comments/11lpv3q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>from 1951 The Day The Earth Stood StillMarch 8, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/UkraineConflict/comments/11lpv3q" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UkraineConflict/comments/11lpv3q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from 1951 The Day The Earth Stood StillMarch 8, 2023...</p></details>
    Published: March 8, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Xh8P4MIaZBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh8P4MIaZBA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - The Sci-Fi Classic That Warned Humanity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xh8P4MIaZBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh8P4MIaZBA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951) - The Sci-Fi Classic That Warned Humanity...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0v1DPRZK99Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0v1DPRZK99Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Klaatu&#x27;s Speech to Mankind | The Day the Earth Stood Still | Movie Clip...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0v1DPRZK99Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0v1DPRZK99Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Klaatu&#x27;s Speech to Mankind | The Day the Earth Stood Still | Movie Clip...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10509208.2023.2278388" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10509208.2023.2278388</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Robert Wise’s The Day the Earth Stood Still (1951) is Not an Alien Invasion Film: A Re-Evaluation of...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10509208.2023.2278388" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10509208.2023.2278388</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Robert Wise’s The Day the Earth Stood Still (1951) is Not an Alien Invasion Film: A Re-Evaluation of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0043456/plotsummary" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0043456/plotsummary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still (1951) - Plot - IMDb...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0043456/plotsummary" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0043456/plotsummary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still (1951) - Plot - IMDb...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: filmsite.org  
-   Link: <a href="https://www.filmsite.org/dayearth2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsite.org/dayearth2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still (1951)...</p></details>
+   Link:<a href="https://www.filmsite.org/dayearth2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.filmsite.org/dayearth2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Day the Earth Stood Still (1951)...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: outsidecontext.com  
    Title: the day the earth stood still review 1951 2008  
-   Link: <a href="https://www.outsidecontext.com/2009/04/22/the-day-the-earth-stood-still-review-1951-2008/" target="_blank" rel="noopener noreferrer nofollow">https://www.outsidecontext.com/2009/04/22/the-day-the-earth-stood-still-review-1951-2008/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.outsidecontext.com“The Day the Earth Stood Still” review (1951 &amp; 2008 versions) – Outside ContextApril 22, 2009...</p></details>
+   Link:<a href="https://www.outsidecontext.com/2009/04/22/the-day-the-earth-stood-still-review-1951-2008/" target="_blank" rel="noopener noreferrer nofollow">https://www.outsidecontext.com/2009/04/22/the-day-the-earth-stood-still-review-1951-2008/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.outsidecontext.com“The Day the Earth Stood Still” review (1951 &amp; 2008 versions) – Outside ContextApril 22, 2009...</p></details>
    Published: April 22, 2009  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Klaatu's Speech to Mankind | The Day the Earth Stood Still | Movie Clip  
-   Link: <a href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZ9giPwPrZA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=yZ9giPwPrZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZ9giPwPrZA</a>  

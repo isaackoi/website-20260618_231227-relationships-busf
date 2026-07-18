@@ -280,17 +280,17 @@ image: /assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_no
 
 ## Introduction
 
-In many UFO stories, the unknown appears as a distant light in the sky: something glimpsed, interpreted, feared, or investigated. *No Man’s Sky* takes a different approach. It transforms the UFO imagination into a destination. Instead of asking what a strange object overhead might be, the game invites players to travel to alien worlds, land on them, catalogue them, and leave their names on the map. In doing so, it shifts one of science fiction’s oldest questions—from “What is out there?” to “What happens when we go there?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
+In many UFO stories, the unknown appears as a distant light in the sky: something glimpsed, interpreted, feared, or investigated. *No Man’s Sky* takes a different approach. It transforms the UFO imagination into a destination. Instead of asking what a strange object overhead might be, the game invites players to travel to alien worlds, land on them, catalogue them, and leave their names on the map. In doing so, it shifts one of science fiction’s oldest questions—from “What is out there?” to “What happens when we go there?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_no_mans_sky_unknown_ed3e89-Illustration-1-dark.svg" | relative_url }}" alt="Unknown worlds illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_no_mans_sky_unknown_ed3e89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_no_mans_sky_unknown_ed3e89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader relationship between UFOs and science fiction, this is a significant change. The mystery is no longer confined to sightings and rumours. The unknown becomes a landscape that can be crossed, measured, photographed, and inhabited. The game’s enormous procedurally generated universe exists largely to support that experience of travel into the unfamiliar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nomanssky.fandom.com/wiki/No_Man%27s_Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nomanssky.fandom.com">[No Man&#x27;s Sky Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nomanssky.fandom.com</span><span class="citation-popover-title">No Man&#x27;s Sky Wiki No Man&#x27;s Sky</span><span class="citation-popover-snippet">No Man&#x27;s Sky WikiNo Man&#x27;s Sky - No Man&#x27;s Sky Wiki...</span></span></span>
+Within the broader relationship between UFOs and science fiction, this is a significant change. The mystery is no longer confined to sightings and rumours. The unknown becomes a landscape that can be crossed, measured, photographed, and inhabited. The game’s enormous procedurally generated universe exists largely to support that experience of travel into the unfamiliar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nomanssky.fandom.com/wiki/No_Man%27s_Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nomanssky.fandom.com">[No Man&#x27;s Sky Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nomanssky.fandom.com</span><span class="citation-popover-title">No Man&#x27;s Sky Wiki No Man&#x27;s Sky</span><span class="citation-popover-snippet">No Man&#x27;s Sky WikiNo Man&#x27;s Sky - No Man&#x27;s Sky Wiki...</span></span></span>
 
 ## When the strange light becomes a destination
 
 Traditional UFO narratives often begin with uncertainty. A witness sees something unexplained and tries to determine its origin. The object remains partially hidden by distance, [secrecy]({{ 'secrecy/' | relative_url }}), or ambiguity. *No Man’s Sky* removes that distance.
 
-The player is not a witness standing beneath the phenomenon. They are the traveller moving towards it. Every star visible in the sky can potentially be visited, and every planetary horizon suggests another destination beyond it. Hello [Games]({{ 'games/' | relative_url }}) built the game around the idea that exploration itself is the central activity, with “quiet moments of discovery” carrying as much importance as combat or trading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gematsu.com">[Gematsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gematsu.com</span><span class="citation-popover-title">No Man’s Sky has 18 quintillion planets</span><span class="citation-popover-snippet">No Man’s Sky has 18 quintillion planets - Gematsu...</span></span></span>
+The player is not a witness standing beneath the phenomenon. They are the traveller moving towards it. Every star visible in the sky can potentially be visited, and every planetary horizon suggests another destination beyond it. Hello [Games]({{ 'games/' | relative_url }}) built the game around the idea that exploration itself is the central activity, with “quiet moments of discovery” carrying as much importance as combat or trading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gematsu.com">[Gematsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gematsu.com</span><span class="citation-popover-title">No Man’s Sky has 18 quintillion planets</span><span class="citation-popover-snippet">No Man’s Sky has 18 quintillion planets - Gematsu...</span></span></span>
 
 This produces a different version of the UFO myth. Curiosity is not resolved through investigation files, military reports, or eyewitness testimony. It is resolved through movement. The player gets into a spacecraft, enters the atmosphere of an unknown world, and discovers what is there firsthand.
 
@@ -301,11 +301,11 @@ This produces a different version of the UFO myth. Curiosity is not resolved thr
 
 Many UFO-themed games focus on evidence. Players collect recordings, photographs, documents, or testimonies in order to determine whether an encounter is real. *No Man’s Sky* replaces that investigative structure with exploration.
 
-Its vast universe is generated procedurally, producing an extraordinary number of possible worlds. Promotional material and later records repeatedly cited a figure of more than 18 quintillion planets, a scale intended to make exploration feel effectively endless. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gematsu.com">[Gematsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gematsu.com</span><span class="citation-popover-title">No Man’s Sky has 18 quintillion planets</span><span class="citation-popover-snippet">No Man’s Sky has 18 quintillion planets - Gematsu...</span></span></span>
+Its vast universe is generated procedurally, producing an extraordinary number of possible worlds. Promotional material and later records repeatedly cited a figure of more than 18 quintillion planets, a scale intended to make exploration feel effectively endless.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gematsu.com">[Gematsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gematsu.com</span><span class="citation-popover-title">No Man’s Sky has 18 quintillion planets</span><span class="citation-popover-snippet">No Man’s Sky has 18 quintillion planets - Gematsu...</span></span></span>
 
 The important point is not the exact number. It is the psychological effect. The player enters a universe that appears larger than any individual can fully know. The game therefore recreates a feeling common to UFO culture: the conviction that there is always more beyond the edge of current knowledge.
 
-Unlike a mystery game, however, the goal is not necessarily to solve the unknown. The goal is to continue encountering it. Discovery becomes a repeatable activity. One planet leads to another, one system to the next, and every journey promises something that has not been seen before. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
+Unlike a mystery game, however, the goal is not necessarily to solve the unknown. The goal is to continue encountering it. Discovery becomes a repeatable activity. One planet leads to another, one system to the next, and every journey promises something that has not been seen before.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UgFNPg9qUXI" title="No Man&#x27;s Sky&#x27;s Sci-Fi Inspirations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UgFNPg9qUXI" target="_blank" rel="noopener noreferrer">No Man&#x27;s Sky&#x27;s Sci-Fi Inspirations</a></p><p class="youtube-embed-meta">Channel: IGN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UgFNPg9qUXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UgFNPg9qUXI">Open on YouTube</a></p></div></div></div>
@@ -314,7 +314,7 @@ Unlike a mystery game, however, the goal is not necessarily to solve the unknown
 
 Science-fiction films often present alien worlds as settings for a story. *No Man’s Sky* turns them into playable terrain.
 
-Players land on toxic worlds, frozen deserts, volcanic landscapes, ocean planets, and environments populated by procedurally generated creatures and plants. These worlds are not merely visual backdrops. They must be navigated, survived, harvested, and explored. The unknown becomes something under the player's feet rather than something observed through a telescope or a radar screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
+Players land on toxic worlds, frozen deserts, volcanic landscapes, ocean planets, and environments populated by procedurally generated creatures and plants. These worlds are not merely visual backdrops. They must be navigated, survived, harvested, and explored. The unknown becomes something under the player's feet rather than something observed through a telescope or a radar screen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
 
 This changes the emotional relationship between humanity and the extraterrestrial. In many UFO narratives, alien space remains inaccessible. It is where the visitors come from. In *No Man’s Sky*, alien space is where the player spends most of their time.
 
@@ -326,13 +326,13 @@ The result is a form of science-fiction contact that is less concerned with inva
 
 One of the game's most revealing mechanics is naming.
 
-Players who reach previously unrecorded systems, planets, animals, or plants can upload their discoveries and attach names to them. The discovery system records and shares these findings across the game's networked universe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot+2No Man&#x27;s Sky Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
+Players who reach previously unrecorded systems, planets, animals, or plants can upload their discoveries and attach names to them. The discovery system records and shares these findings across the game's networked universe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[gamespot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
 
 This mirrors a long tradition in exploration history. Mapping, cataloguing, and naming are methods of transforming the unknown into something legible. A strange world ceases to be an anonymous mystery once it appears on a chart.
 
 In UFO mythology, unexplained phenomena often retain their power because they resist classification. A sighting remains compelling because it cannot be identified. *No Man’s Sky* moves in the opposite direction. Its gameplay rewards classification. Every scan, uploaded record, and named planet turns a fragment of the cosmic unknown into organised knowledge.
 
-The mystery is not destroyed, however. Because the universe is so large, discovery never truly ends. Players may document a small corner of space while remaining aware that almost everything beyond it remains unexplored. Community discussions frequently note how tiny the explored fraction of the game's universe remains relative to its theoretical scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NoMansSkyTheGame/comments/ugk1t6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">percent of planets that have been explored?</span><span class="citation-popover-snippet">percent of planets that have been explored?May 2, 2022...</span><span class="citation-popover-meta">Published: May 2, 2022</span></span></span>
+The mystery is not destroyed, however. Because the universe is so large, discovery never truly ends. Players may document a small corner of space while remaining aware that almost everything beyond it remains unexplored. Community discussions frequently note how tiny the explored fraction of the game's universe remains relative to its theoretical scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/NoMansSkyTheGame/comments/ugk1t6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">percent of planets that have been explored?</span><span class="citation-popover-snippet">percent of planets that have been explored?May 2, 2022...</span><span class="citation-popover-meta">Published: May 2, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ut8RbrdUBIs" title="The Biology of No Man&#x27;s Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ut8RbrdUBIs" target="_blank" rel="noopener noreferrer">The Biology of No Man&#x27;s Sky</a></p><p class="youtube-embed-meta">Channel: Curious Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ut8RbrdUBIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ut8RbrdUBIs">Open on YouTube</a></p></div></div></div>
@@ -341,7 +341,7 @@ The mystery is not destroyed, however. Because the universe is so large, discove
 
 An interesting feature of *No Man’s Sky* is that it often creates the feeling of extraterrestrial contact without relying on dramatic first-contact scenes.
 
-Many classic UFO stories revolve around a moment of encounter: the saucer lands, the alien emerges, humanity confronts the Other. In *No Man’s Sky*, contact is distributed across countless smaller experiences. Strange ruins, unfamiliar ecologies, unknown languages, abandoned structures, and unusual life forms create an ongoing sense of alienness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
+Many classic UFO stories revolve around a moment of encounter: the saucer lands, the alien emerges, humanity confronts the Other. In *No Man’s Sky*, contact is distributed across countless smaller experiences. Strange ruins, unfamiliar ecologies, unknown languages, abandoned structures, and unusual life forms create an ongoing sense of alienness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gamespot.com">[GameSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gamespot.com</span><span class="citation-popover-title">Game Spot No Man&#x27;s Sky Review</span><span class="citation-popover-snippet">No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</span><span class="citation-popover-meta">Published: August 4, 2018</span></span></span>
 
 The player is continually surrounded by signs of non-human existence. The unknown is not concentrated into a single event. It becomes the normal condition of exploration.
 
@@ -353,199 +353,199 @@ This reflects a broader strand of science fiction in which the cosmos is not fri
 
 *No Man’s Sky* represents a distinctive evolution of ideas associated with UFO culture. Rather than treating the unknown as a puzzle overhead, it imagines a future in which humanity routinely travels into it.
 
-The game preserves the emotional core that has always connected UFO stories and science fiction: [wonder]({{ 'wonder/' | relative_url }}) at the possibility of other worlds. Yet it changes the mechanism. Mystery is no longer generated by lack of access. It is generated by abundance. There are simply too many places to visit, too many horizons to cross, and too many worlds to know completely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gematsu.com">[Gematsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gematsu.com</span><span class="citation-popover-title">No Man’s Sky has 18 quintillion planets</span><span class="citation-popover-snippet">No Man’s Sky has 18 quintillion planets - Gematsu...</span></span></span>
+The game preserves the emotional core that has always connected UFO stories and science fiction: [wonder]({{ 'wonder/' | relative_url }}) at the possibility of other worlds. Yet it changes the mechanism. Mystery is no longer generated by lack of access. It is generated by abundance. There are simply too many places to visit, too many horizons to cross, and too many worlds to know completely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gematsu.com">[Gematsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gematsu.com</span><span class="citation-popover-title">No Man’s Sky has 18 quintillion planets</span><span class="citation-popover-snippet">No Man’s Sky has 18 quintillion planets - Gematsu...</span></span></span>
 
 In that sense, *No Man’s Sky* turns one of the central images of UFO mythology inside out. The strange light in the sky is no longer a visitor from elsewhere. It is an invitation to go elsewhere yourself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the strange light becomes a destination. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the strange light becomes a destination. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Captures the wonder of exploration and discovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the wonder of exploration and discovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pale Blue Dot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YzoOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pale Blue Dot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pale Blue Dot">Pale Blue Dot</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pale Blue Dot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YzoOAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Pale Blue Dot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pale Blue Dot">Pale Blue Dot</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Matches the game&#x27;s perspective on cosmic travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the game&#x27;s perspective on cosmic travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pale+Blue+Dot+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Explores the attraction of venturing into the unknown.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Explores the attraction of venturing into the unknown.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Childhood%27s+End+by+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Childhood&#x27;s End on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wIWsc8eJh1oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Childhood&#x27;s End" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Childhood%27s+End+by+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Childhood&#x27;s End">Childhood&#x27;s End</a>
-        </h4>
-        <p class="fr-book-author">By Arthur C. Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Childhood%27s+End+by+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Childhood&#x27;s End on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wIWsc8eJh1oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Childhood&#x27;s End" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Childhood%27s+End+by+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Childhood&#x27;s End">Childhood&#x27;s End</a>
+</h4>
+<p class="fr-book-author">By Arthur C. Clarke</p>
         
-        <p class="fr-book-desc">Examines encounters with alien intelligence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Childhood%27s+End+by+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines encounters with alien intelligence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Childhood%27s+End+by+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pale+Blue+Dot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pale+Blue+Dot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="unknown-worlds-when-the-strange-light-becomes-a-destination-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ In that sense, *No Man’s Sky* turns one of the central images of UFO mythology
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ In that sense, *No Man’s Sky* turns one of the central images of UFO mythology
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ In that sense, *No Man’s Sky* turns one of the central images of UFO mythology
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ In that sense, *No Man’s Sky* turns one of the central images of UFO mythology
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ In that sense, *No Man’s Sky* turns one of the central images of UFO mythology
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,119 +751,119 @@ In that sense, *No Man’s Sky* turns one of the central images of UFO mythology
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gamespot.com  
    Title: Game Spot No Man's Sky Review  
-   Link: <a href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</p></details>
+   Link:<a href="https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamespot.com/reviews/no-mans-sky-review/1900-6416492/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky Review - GameSpotAugust 4, 2018...</p></details>
    Published: August 4, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gematsu.com  
    Title: No Man’s Sky has 18 quintillion planets  
-   Link: <a href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow">https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No Man’s Sky has 18 quintillion planets - Gematsu...</p></details>
+   Link:<a href="https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets" target="_blank" rel="noopener noreferrer nofollow">https://www.gematsu.com/2014/08/mans-sky-18-quintillion-planets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Man’s Sky has 18 quintillion planets - Gematsu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gamespot.com  
    Title: Game Spot No Man's Sky: Everything You Need to Know  
-   Link: <a href="https://www.gamespot.com/articles/no-mans-sky-everything-you-need-to-know/1100-6442393/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamespot.com/articles/no-mans-sky-everything-you-need-to-know/1100-6442393/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky: Everything You Need to Know - GameSpot...</p></details>
+   Link:<a href="https://www.gamespot.com/articles/no-mans-sky-everything-you-need-to-know/1100-6442393/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamespot.com/articles/no-mans-sky-everything-you-need-to-know/1100-6442393/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky: Everything You Need to Know - GameSpot...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: percent of planets that have been explored?  
-   Link: <a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/ugk1t6" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/ugk1t6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>percent of planets that have been explored?May 2, 2022...</p></details>
+   Link:<a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/ugk1t6" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/ugk1t6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>percent of planets that have been explored?May 2, 2022...</p></details>
    Published: May 2, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: 18 quintillion planets, but how many have been discovered?  
-   Link: <a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/qgoetx" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/qgoetx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 quintillion planets, but how many have been discovered?...</p></details>
+   Link:<a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/qgoetx" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/qgoetx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 quintillion planets, but how many have been discovered?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: www.reddit.com Discoveries  
-   Link: <a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/1ji1bbj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/1ji1bbj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Named Systems, Visited Systems, and Discovered Planets Eventually ForgottenMarch 23, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/1ji1bbj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/1ji1bbj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Named Systems, Visited Systems, and Discovered Planets Eventually ForgottenMarch 23, 2025...</p></details>
    Published: March 23, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/qgy7fb/there_are_18_quintillion_planets_or_are_there/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/qgy7fb/there_are_18_quintillion_planets_or_are_there/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>are 18 quintillion planets... or are there, right now?October 27, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/NoMansSkyTheGame/comments/qgy7fb/there_are_18_quintillion_planets_or_are_there/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NoMansSkyTheGame/comments/qgy7fb/there_are_18_quintillion_planets_or_are_there/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are 18 quintillion planets... or are there, right now?October 27, 2021...</p></details>
    Published: October 27, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: NO MAN'S SKY: SCI-FI EXPLORATION (Escapist News Now)  
-   Link: <a href="https://www.youtube.com/watch?v=H4vwbr-11bA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4vwbr-11bA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky - Review...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H4vwbr-11bA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4vwbr-11bA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky - Review...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: No Man's Sky  
-   Link: <a href="https://www.youtube.com/watch?v=En31it9B9tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=En31it9B9tk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gameplay Trailer | E3 2014 | PS4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=En31it9B9tk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=En31it9B9tk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gameplay Trailer | E3 2014 | PS4...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nomanssky.fandom.com  
    Title: No Man's Sky Wiki No Man's Sky  
-   Link: <a href="https://nomanssky.fandom.com/wiki/No_Man%27s_Sky" target="_blank" rel="noopener noreferrer nofollow">https://nomanssky.fandom.com/wiki/No_Man%27s_Sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky WikiNo Man&#x27;s Sky - No Man&#x27;s Sky Wiki...</p></details>
+   Link:<a href="https://nomanssky.fandom.com/wiki/No_Man%27s_Sky" target="_blank" rel="noopener noreferrer nofollow">https://nomanssky.fandom.com/wiki/No_Man%27s_Sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky WikiNo Man&#x27;s Sky - No Man&#x27;s Sky Wiki...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nomanssky.fandom.com  
    Title: No Man's Sky Wiki Star System  
-   Link: <a href="https://nomanssky.fandom.com/wiki/Star_System_-_Discovery_Menu" target="_blank" rel="noopener noreferrer nofollow">https://nomanssky.fandom.com/wiki/Star_System_-_Discovery_Menu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky WikiStar System - Discovery Menu - No Man&#x27;s Sky Wiki...</p></details>
+   Link:<a href="https://nomanssky.fandom.com/wiki/Star_System_-_Discovery_Menu" target="_blank" rel="noopener noreferrer nofollow">https://nomanssky.fandom.com/wiki/Star_System_-_Discovery_Menu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Man&#x27;s Sky WikiStar System - Discovery Menu - No Man&#x27;s Sky Wiki...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nomanssky.fandom.com  
-   Link: <a href="https://nomanssky.fandom.com/wiki/Planet_-_Discovery_Menu" target="_blank" rel="noopener noreferrer nofollow">https://nomanssky.fandom.com/wiki/Planet_-_Discovery_Menu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery Menu - No Man&#x27;s Sky WikiJuly 19, 2022...</p></details>
+   Link:<a href="https://nomanssky.fandom.com/wiki/Planet_-_Discovery_Menu" target="_blank" rel="noopener noreferrer nofollow">https://nomanssky.fandom.com/wiki/Planet_-_Discovery_Menu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery Menu - No Man&#x27;s Sky WikiJuly 19, 2022...</p></details>
    Published: July 19, 2022  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2015/jul/12/no-mans-sky-18-quintillion-planets-hello-games" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2015/jul/12/no-mans-sky-18-quintillion-planets-hello-games</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man’s Sky: the game where you can explore 18 quintillion planets | Technology | The GuardianJuly 12, 2015...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2015/jul/12/no-mans-sky-18-quintillion-planets-hello-games" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2015/jul/12/no-mans-sky-18-quintillion-planets-hello-games</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man’s Sky: the game where you can explore 18 quintillion planets | Technology | The GuardianJuly 12, 2015...</p></details>
    Published: July 12, 2015  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gameslearningsociety.org  
    Title: www.gameslearningsociety.org How did no man's sky get so many planets?  
-   Link: <a href="https://www.gameslearningsociety.org/how-did-no-mans-sky-get-so-many-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.gameslearningsociety.org/how-did-no-mans-sky-get-so-many-planets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did no man&#x27;s sky get so many planets? - Games Learning SocietyJanuary 27, 2023...</p></details>
+   Link:<a href="https://www.gameslearningsociety.org/how-did-no-mans-sky-get-so-many-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.gameslearningsociety.org/how-did-no-mans-sky-get-so-many-planets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did no man&#x27;s sky get so many planets? - Games Learning SocietyJanuary 27, 2023...</p></details>
    Published: January 27, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pcgamer.com  
    Title: www.pcgamer.com No Man's Sky review | PC Gamer  
-   Link: <a href="https://www.pcgamer.com/no-mans-sky-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/no-mans-sky-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man&#x27;s Sky review | PC GamerAugust 18, 2016...</p></details>
+   Link:<a href="https://www.pcgamer.com/no-mans-sky-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/no-mans-sky-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man&#x27;s Sky review | PC GamerAugust 18, 2016...</p></details>
    Published: August 18, 2016  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: guinnessworldrecords.com  
-   Link: <a href="https://www.guinnessworldrecords.com/world-records/413048-most-explorable-planets-in-a-videogame" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/413048-most-explorable-planets-in-a-videogame</a>  
+   Link:<a href="https://www.guinnessworldrecords.com/world-records/413048-most-explorable-planets-in-a-videogame" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/413048-most-explorable-planets-in-a-videogame</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: No Man's Sky's Sci-Fi Inspirations  
-   Link: <a href="https://www.youtube.com/watch?v=UgFNPg9qUXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UgFNPg9qUXI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NO MAN&#x27;S SKY: SCI-FI EXPLORATION (Escapist News Now)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UgFNPg9qUXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UgFNPg9qUXI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NO MAN&#x27;S SKY: SCI-FI EXPLORATION (Escapist News Now)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nLtmEjqzg7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nLtmEjqzg7M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biology of No Man&#x27;s Sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nLtmEjqzg7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nLtmEjqzg7M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biology of No Man&#x27;s Sky...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Biology of No Man's Sky  
-   Link: <a href="https://www.youtube.com/watch?v=Ut8RbrdUBIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ut8RbrdUBIs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Ut8RbrdUBIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ut8RbrdUBIs</a>  

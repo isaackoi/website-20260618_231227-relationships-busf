@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_ox
 
 ## Introduction
 
-The A-12 OXCART is one of the clearest examples of how real [government secrecy]({{ 'secrecy/' | relative_url }}) helped shape later UFO and science-fiction storytelling. Developed in extreme secrecy for the CIA during the Cold War, the aircraft combined astonishing performance, unfamiliar appearance, remote testing locations and strict information controls. To people who glimpsed it without context, it could seem less like an aeroplane than a machine from the future. The result was not proof of extraterrestrial technology, but something arguably more influential for popular culture: a real-world template for stories about hidden breakthroughs, secret bases and technologies so advanced that observers struggle to recognise them as human creations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
+The A-12 OXCART is one of the clearest examples of how real [government secrecy]({{ 'secrecy/' | relative_url }}) helped shape later UFO and science-fiction storytelling. Developed in extreme secrecy for the CIA during the Cold War, the aircraft combined astonishing performance, unfamiliar appearance, remote testing locations and strict information controls. To people who glimpsed it without context, it could seem less like an aeroplane than a machine from the future. The result was not proof of extraterrestrial technology, but something arguably more influential for popular culture: a real-world template for stories about hidden breakthroughs, secret bases and technologies so advanced that observers struggle to recognise them as human creations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-1-dark.svg" | relative_url }}" alt="OXCART Template illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within the broader relationship between UFOs and science fiction, OXCART matters
 
 ## What Made OXCART Look Science Fictional?
 
-When the CIA approved the OXCART programme in 1959, the goal was straightforward: create a reconnaissance aircraft that could fly higher and faster than existing Soviet air defences could reliably intercept. Achieving that goal required engineering that sounded extraordinary even by Cold War standards. Lockheed's Skunk Works developed new techniques for titanium construction, specialised fuels and lubricants, advanced navigation systems, electronic countermeasures and radar-reduction measures. The aircraft ultimately achieved sustained speeds above Mach 3 and operated at altitudes around 90,000 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
+When the CIA approved the OXCART programme in 1959, the goal was straightforward: create a reconnaissance aircraft that could fly higher and faster than existing Soviet air defences could reliably intercept. Achieving that goal required engineering that sounded extraordinary even by Cold War standards. Lockheed's Skunk Works developed new techniques for titanium construction, specialised fuels and lubricants, advanced navigation systems, electronic countermeasures and radar-reduction measures. The aircraft ultimately achieved sustained speeds above Mach 3 and operated at altitudes around 90,000 feet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
 
 Those specifications mattered culturally as much as technically. Most people in the 1960s had little frame of reference for an aircraft moving at more than three times the speed of sound while operating far above normal commercial traffic. OXCART therefore embodied several features that later became staples of UFO fiction:
 
@@ -303,18 +303,18 @@ Those specifications mattered culturally as much as technically. Most people in 
 
 </div>
 
-Science-fiction writers frequently imagined secret laboratories producing breakthrough craft hidden from society. OXCART showed that governments and contractors could actually build something that appeared to belong to that fictional category, even though it was entirely human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
+Science-fiction writers frequently imagined secret laboratories producing breakthrough craft hidden from society. OXCART showed that governments and contractors could actually build something that appeared to belong to that fictional category, even though it was entirely human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
 
 ### The Aircraft's Unfamiliar Appearance
 
-The aircraft's appearance reinforced the effect. OXCART's long black fuselage, distinctive chines, unusual proportions and heat-resistant titanium structure looked unlike conventional aircraft familiar to most observers. Contemporary descriptions from declassified histories note that its shape was unprecedented, designed around extreme speed and fuel requirements. Seen briefly at altitude or under unusual lighting conditions, it was easy to understand why witnesses might describe it as unlike any known aeroplane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://explorethearchive.com/what-do-we-actually-know-about-area-51" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorethearchive.com">[Explore the Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorethearchive.com</span><span class="citation-popover-title">Explore the Archive What Do We Actually Know About Area 51?</span><span class="citation-popover-snippet">Explore the ArchiveWhat Do We Actually Know About Area 51?April 11, 2023...</span><span class="citation-popover-meta">Published: April 11, 2023</span></span></span>
+The aircraft's appearance reinforced the effect. OXCART's long black fuselage, distinctive chines, unusual proportions and heat-resistant titanium structure looked unlike conventional aircraft familiar to most observers. Contemporary descriptions from declassified histories note that its shape was unprecedented, designed around extreme speed and fuel requirements. Seen briefly at altitude or under unusual lighting conditions, it was easy to understand why witnesses might describe it as unlike any known aeroplane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://explorethearchive.com/what-do-we-actually-know-about-area-51" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorethearchive.com">[Explore the Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorethearchive.com</span><span class="citation-popover-title">Explore the Archive What Do We Actually Know About Area 51?</span><span class="citation-popover-snippet">Explore the ArchiveWhat Do We Actually Know About Area 51?April 11, 2023...</span><span class="citation-popover-meta">Published: April 11, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OG_uRrxpYHU" title="What’s Really Hidden in the Nevada Desert? | Relaxing History Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OG_uRrxpYHU" target="_blank" rel="noopener noreferrer">What’s Really Hidden in the Nevada Desert? | Relaxing History Documentary</a></p><p class="youtube-embed-meta">Channel: The Quiet Conquest &middot; Views: 1.3K &middot; Uploaded: October 2025 &middot; Length: 2 hours 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OG_uRrxpYHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OG_uRrxpYHU">Open on YouTube</a></p></div></div></div>
 
 ## Why Restricted Testing Invited Public Speculation
 
-The secret-technology template depends not merely on advanced hardware but on controlled information. OXCART testing took place at Groom Lake, later famous worldwide as [Area 51]({{ 'area-51/' | relative_url }}). The location was selected largely because it was isolated and difficult for outsiders to observe. Security planners specifically sought a site away from populated areas and normal air routes. Facilities at Groom Lake were expanded precisely to support the highly classified testing programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liquisearch.com/area_51/background/oxcart_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liquisearch.com">[LiquiSearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liquisearch.com</span><span class="citation-popover-title">Liqui Search Area 51</span><span class="citation-popover-snippet">Area 51 - Background - OXCART Program...</span></span></span>
+The secret-technology template depends not merely on advanced hardware but on controlled information. OXCART testing took place at Groom Lake, later famous worldwide as [Area 51]({{ 'area-51/' | relative_url }}). The location was selected largely because it was isolated and difficult for outsiders to observe. Security planners specifically sought a site away from populated areas and normal air routes. Facilities at Groom Lake were expanded precisely to support the highly classified testing programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.liquisearch.com/area_51/background/oxcart_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: liquisearch.com">[LiquiSearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">liquisearch.com</span><span class="citation-popover-title">Liqui Search Area 51</span><span class="citation-popover-snippet">Area 51 - Background - OXCART Program...</span></span></span>
 
 This arrangement created a recurring pattern.
 
@@ -332,13 +332,13 @@ The same mechanism appears repeatedly in later UFO fiction:
 
 </div>
 
-The dramatic power comes not from aliens themselves but from the existence of hidden knowledge. OXCART supplied a real-world example of that dynamic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
+The dramatic power comes not from aliens themselves but from the existence of hidden knowledge. OXCART supplied a real-world example of that dynamic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-2-dark.svg" | relative_url }}" alt="OXCART Template illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Area 51 as a Storytelling Device Before It Was a Myth
 
-An important aspect of the OXCART case is that the secrecy was genuine. Groom Lake's role remained officially unacknowledged for decades. When declassified documents eventually confirmed the site's involvement in programmes such as the U-2 and OXCART, they simultaneously resolved some mysteries and intensified others. The public learned that at least part of the legend involved [secret aircraft]({{ 'secret-aircraft/' | relative_url }}) development, but that revelation also reinforced the broader idea that remarkable projects could remain hidden for years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
+An important aspect of the OXCART case is that the secrecy was genuine. Groom Lake's role remained officially unacknowledged for decades. When declassified documents eventually confirmed the site's involvement in programmes such as the U-2 and OXCART, they simultaneously resolved some mysteries and intensified others. The public learned that at least part of the legend involved [secret aircraft]({{ 'secret-aircraft/' | relative_url }}) development, but that revelation also reinforced the broader idea that remarkable projects could remain hidden for years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
 
 This created a durable narrative lesson for science fiction: if one astonishing project was concealed successfully, readers and viewers could imagine others being concealed as well.
 
@@ -346,14 +346,14 @@ This created a durable narrative lesson for science fiction: if one astonishing 
 
 Perhaps OXCART's most important cultural contribution was symbolic rather than operational. It helped establish a shortcut in UFO storytelling: technology that appears impossible is often assumed to be non-human until proven otherwise.
 
-The historical record suggests that many UFO reports during the late 1950s and 1960s were linked to classified high-altitude aircraft programmes, including the U-2 and OXCART. The CIA later acknowledged that secret reconnaissance flights contributed substantially to UFO reporting during that period because observers lacked knowledge of what was actually flying overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">cia claims responsibility for ufo sightings in late 1950s 1960s 1.2055124</span><span class="citation-popover-snippet">The Irish TimesCIA claims responsibility for UFO sightings in late 1950s, 1960s – The Irish TimesJanuary 5, 2015...</span><span class="citation-popover-meta">Published: January 5, 2015</span></span></span>
+The historical record suggests that many UFO reports during the late 1950s and 1960s were linked to classified high-altitude aircraft programmes, including the U-2 and OXCART. The CIA later acknowledged that secret reconnaissance flights contributed substantially to UFO reporting during that period because observers lacked knowledge of what was actually flying overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">cia claims responsibility for ufo sightings in late 1950s 1960s 1.2055124</span><span class="citation-popover-snippet">The Irish TimesCIA claims responsibility for UFO sightings in late 1950s, 1960s – The Irish TimesJanuary 5, 2015...</span><span class="citation-popover-meta">Published: January 5, 2015</span></span></span>
 
 That pattern became a recurring fictional device. In countless novels, [television]({{ 'television/' | relative_url }}) programmes and films, characters encounter a machine that exceeds known technological limits. The mystery then unfolds around a choice between two explanations:
 
 * It is [alien technology]({{ 'tech-magic/' | relative_url }}).
 * It is secret human technology.
 
-OXCART demonstrated that the second explanation could sometimes be surprisingly close to reality. An aircraft capable of Mach 3 flight, built from advanced materials, tested at a remote facility and hidden behind layers of classification already resembled the opening act of many UFO narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
+OXCART demonstrated that the second explanation could sometimes be surprisingly close to reality. An aircraft capable of Mach 3 flight, built from advanced materials, tested at a remote facility and hidden behind layers of classification already resembled the opening act of many UFO narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7qfXD5_00CU" title="Annie Jacobsen on Book, Area 51: An Uncensored History of America&#x27;s Top Secret Military Base. 3 of 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7qfXD5_00CU" target="_blank" rel="noopener noreferrer">Annie Jacobsen on Book, Area 51: An Uncensored History of America&#x27;s Top Secret Military Base. 3 of 3</a></p><p class="youtube-embed-meta">Channel: Democracy Now! &middot; Views: 13.6K &middot; Uploaded: June 2011</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7qfXD5_00CU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7qfXD5_00CU">Open on YouTube</a></p></div></div></div>
@@ -373,209 +373,209 @@ Many later UFO cover-up stories use a recognisable set of plot elements:
 
 </div>
 
-These elements feel believable partly because versions of them existed in programmes such as OXCART. The difference is that the historical programme involved advanced aerospace engineering rather than recovered extraterrestrial craft. The storytelling structure survived even when the factual content changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
+These elements feel believable partly because versions of them existed in programmes such as OXCART. The difference is that the historical programme involved advanced aerospace engineering rather than recovered extraterrestrial craft. The storytelling structure survived even when the factual content changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-3-dark.svg" | relative_url }}" alt="OXCART Template illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_oxcart_secret_tech_e90545-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Importance of the OXCART Template
 
-OXCART's significance within UFO culture and science fiction is not that it validates alien visitation claims. Its importance is that it revealed how extraordinary real secret projects can appear from the outside. The aircraft provided a working model for the "hidden breakthrough" narrative: technology far ahead of public expectations, developed in a remote location, protected by secrecy and only fully understood years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
+OXCART's significance within UFO culture and science fiction is not that it validates alien visitation claims. Its importance is that it revealed how extraordinary real secret projects can appear from the outside. The aircraft provided a working model for the "hidden breakthrough" narrative: technology far ahead of public expectations, developed in a remote location, protected by secrecy and only fully understood years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
 
-That template continues to shape UFO storytelling. Whenever a fictional plot revolves around a secret base, an impossible aircraft, exotic materials or officials concealing a technological revolution, it echoes a pattern that OXCART helped establish in reality. The aircraft became a bridge between classified aerospace history and science-fiction imagination, showing how advanced human engineering could be mistaken for something not of this world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
+That template continues to shape UFO storytelling. Whenever a fictional plot revolves around a secret base, an impossible aircraft, exotic materials or officials concealing a technological revolution, it echoes a pattern that OXCART helped establish in reality. The aircraft became a bridge between classified aerospace history and science-fiction imagination, showing how advanced human engineering could be mistaken for something not of this world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">A-12 OXCART</span><span class="citation-popover-snippet">A-12 OXCART - CIA...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkBCd18cy2o" title="Inside Area 51: What’s Really There (America Unexplained — EP1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkBCd18cy2o" target="_blank" rel="noopener noreferrer">Inside Area 51: What’s Really There (America Unexplained — EP1)</a></p><p class="youtube-embed-meta">Channel: Timeless Tales</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkBCd18cy2o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkBCd18cy2o">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Real Aircraft Behind Secret Tech Myths. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Real Aircraft Behind Secret Tech Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains the secret aircraft culture that produced OXCART-era myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the secret aircraft culture that produced OXCART-era myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
-        <p class="fr-book-desc">Covers OXCART testing and related secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
+<p class="fr-book-desc">Covers OXCART testing and related secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lockheed+Blackbird+by+Paul+F.+Crickmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lockheed Blackbird on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9I1gDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lockheed Blackbird" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lockheed+Blackbird+by+Paul+F.+Crickmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lockheed Blackbird">Lockheed Blackbird</a>
-        </h4>
-        <p class="fr-book-author">By Paul F. Crickmore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lockheed+Blackbird+by+Paul+F.+Crickmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lockheed Blackbird on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9I1gDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lockheed Blackbird" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lockheed+Blackbird+by+Paul+F.+Crickmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lockheed Blackbird">Lockheed Blackbird</a>
+</h4>
+<p class="fr-book-author">By Paul F. Crickmore</p>
         
-        <p class="fr-book-desc">Explains the aircraft lineage linked to OXCART.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lockheed+Blackbird+by+Paul+F.+Crickmore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the aircraft lineage linked to OXCART.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lockheed+Blackbird+by+Paul+F.+Crickmore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kelly+by+Clarence+L.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kelly on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Kelly+by+Clarence+L.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kelly">Kelly</a>
-        </h4>
-        <p class="fr-book-author">By Clarence L. Johnson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Kelly+by+Clarence+L.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kelly on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Kelly+by+Clarence+L.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kelly">Kelly</a>
+</h4>
+<p class="fr-book-author">By Clarence L. Johnson</p>
         
-        <p class="fr-book-desc">Provides background on the engineering culture behind advanced aircraft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Kelly+by+Clarence+L.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on the engineering culture behind advanced aircraft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Kelly+by+Clarence+L.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lockheed+Blackbird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lockheed Blackbird</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lockheed+Blackbird&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lockheed Blackbird</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="oxcart-template-the-real-aircraft-behind-secret-tech-myths-relationships-betwee-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-real-aircraft-behind-secret-tech-myths-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="the-real-aircraft-behind-secret-tech-myths-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ That template continues to shape UFO storytelling. Whenever a fictional plot rev
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ That template continues to shape UFO storytelling. Whenever a fictional plot rev
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ That template continues to shape UFO storytelling. Whenever a fictional plot rev
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ That template continues to shape UFO storytelling. Whenever a fictional plot rev
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ That template continues to shape UFO storytelling. Whenever a fictional plot rev
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,111 +781,111 @@ That template continues to shape UFO storytelling. Whenever a fictional plot rev
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
    Title: A-12 OXCART  
-   Link: <a href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A-12 OXCART - CIA...</p></details>
+   Link:<a href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A-12 OXCART - CIA...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
    Title: A-12 Oxcart  
-   Link: <a href="https://www.cia.gov/legacy/headquarters/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/headquarters/a-12-oxcart/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A-12 Oxcart - CIA...</p></details>
+   Link:<a href="https://www.cia.gov/legacy/headquarters/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/headquarters/a-12-oxcart/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A-12 Oxcart - CIA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: liquisearch.com  
    Title: Liqui Search Area 51  
-   Link: <a href="https://www.liquisearch.com/area_51/background/oxcart_program" target="_blank" rel="noopener noreferrer nofollow">https://www.liquisearch.com/area_51/background/oxcart_program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 - Background - OXCART Program...</p></details>
+   Link:<a href="https://www.liquisearch.com/area_51/background/oxcart_program" target="_blank" rel="noopener noreferrer nofollow">https://www.liquisearch.com/area_51/background/oxcart_program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 - Background - OXCART Program...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
    Title: www.cia.gov Exhibits  
-   Link: <a href="https://www.cia.gov/legacy/museum/exhibits/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/museum/exhibits/</a>  
+   Link:<a href="https://www.cia.gov/legacy/museum/exhibits/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/museum/exhibits/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nsarchive.gwu.edu  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: explorethearchive.com  
    Title: Explore the Archive What Do We Actually Know About Area 51?  
-   Link: <a href="https://explorethearchive.com/what-do-we-actually-know-about-area-51" target="_blank" rel="noopener noreferrer nofollow">https://explorethearchive.com/what-do-we-actually-know-about-area-51</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the ArchiveWhat Do We Actually Know About Area 51?April 11, 2023...</p></details>
+   Link:<a href="https://explorethearchive.com/what-do-we-actually-know-about-area-51" target="_blank" rel="noopener noreferrer nofollow">https://explorethearchive.com/what-do-we-actually-know-about-area-51</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the ArchiveWhat Do We Actually Know About Area 51?April 11, 2023...</p></details>
    Published: April 11, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: irishtimes.com  
    Title: cia claims responsibility for ufo sightings in late 1950s 1960s 1.2055124  
-   Link: <a href="https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesCIA claims responsibility for UFO sightings in late 1950s, 1960s – The Irish TimesJanuary 5, 2015...</p></details>
+   Link:<a href="https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesCIA claims responsibility for UFO sightings in late 1950s, 1960s – The Irish TimesJanuary 5, 2015...</p></details>
    Published: January 5, 2015  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: Area 51 Is the Internet's Latest Fascination  
-   Link: <a href="https://time.com/5627694/area-51-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5627694/area-51-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Everything to Know About the Mysterious SiteJuly 17, 2019 — Area 51 has gained renewed interest due to a joke Facebook event title...</p></details>
+   Link:<a href="https://time.com/5627694/area-51-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5627694/area-51-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s Everything to Know About the Mysterious SiteJuly 17, 2019 — Area 51 has gained renewed interest due to a joke Facebook event title...</p></details>
    Published: July 17, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7qfXD5_00CU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7qfXD5_00CU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Area 51: What&#x27;s Really There (America Unexplained — EP1)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7qfXD5_00CU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7qfXD5_00CU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Area 51: What&#x27;s Really There (America Unexplained — EP1)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: www.britannica.com What Is Known (and Not Known) About Area 51 | Britannica  
-   Link: <a href="https://www.britannica.com/story/what-is-known-and-not-known-about-area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/what-is-known-and-not-known-about-area-51</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Known (and Not Known) About Area 51 | Britannica...</p></details>
+   Link:<a href="https://www.britannica.com/story/what-is-known-and-not-known-about-area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/what-is-known-and-not-known-about-area-51</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Known (and Not Known) About Area 51 | Britannica...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: What's Really Hidden in the Nevada Desert? | Relaxing History Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=OG_uRrxpYHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OG_uRrxpYHU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impossible Airplane with a Ridiculous Requirement to Fly It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OG_uRrxpYHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OG_uRrxpYHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impossible Airplane with a Ridiculous Requirement to Fly It...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Inside Area 51: What's Really There (America Unexplained — EP1)  
-   Link: <a href="https://www.youtube.com/watch?v=WkBCd18cy2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkBCd18cy2o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Hidden in the Nevada Desert? | Relaxing History Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WkBCd18cy2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WkBCd18cy2o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Hidden in the Nevada Desert? | Relaxing History Documentary...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pcworld.com  
    Title: Area 51 revealed by U.S. government as spy plane's home | PCWorld  
-   Link: <a href="https://www.pcworld.com/article/447217/area-51-revealed-by-u-s-government-as-spy-planes-home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pcworld.com/article/447217/area-51-revealed-by-u-s-government-as-spy-planes-home.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 revealed by U.S. government as spy plane&#x27;s home | PCWorld...</p></details>
+   Link:<a href="https://www.pcworld.com/article/447217/area-51-revealed-by-u-s-government-as-spy-planes-home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pcworld.com/article/447217/area-51-revealed-by-u-s-government-as-spy-planes-home.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 revealed by U.S. government as spy plane&#x27;s home | PCWorld...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalgeographic.com  
    Title: National Geographic Revealed: How Area 51 Hid Secret Craft | National Geographic  
-   Link: <a href="https://www.nationalgeographic.com/science/article/110520-area-51-secret-hid-craft-base-declassified-a-12-plane" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/110520-area-51-secret-hid-craft-base-declassified-a-12-plane</a>  
+   Link:<a href="https://www.nationalgeographic.com/science/article/110520-area-51-secret-hid-craft-base-declassified-a-12-plane" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/110520-area-51-secret-hid-craft-base-declassified-a-12-plane</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: File:A-12 Oxcart  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%284%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%284%29.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flickr - The Central Intelligence Agency (4).jpg - Wikimedia CommonsMarch 8, 2011...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%284%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%284%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flickr - The Central Intelligence Agency (4).jpg - Wikimedia CommonsMarch 8, 2011...</p></details>
    Published: March 8, 2011  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:A-12 Oxcart  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%285%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%285%29.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flickr - The Central Intelligence Agency (5).jpg - Wikimedia CommonsMarch 8, 2011...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%285%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AA-12_Oxcart_-_Flickr_-_The_Central_Intelligence_Agency_%285%29.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flickr - The Central Intelligence Agency (5).jpg - Wikimedia CommonsMarch 8, 2011...</p></details>
    Published: March 8, 2011  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Impossible Airplane with a Ridiculous Requirement to Fly It  
-   Link: <a href="https://www.youtube.com/watch?v=BiCIkfTeK_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BiCIkfTeK_A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The OXCART Program...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BiCIkfTeK_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BiCIkfTeK_A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The OXCART Program...</p></details>

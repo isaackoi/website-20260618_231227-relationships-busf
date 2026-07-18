@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_sim
 
 ## Introduction
 
-UFO reports usually begin with uncertainty. Witnesses struggle to judge distance, size, speed or even the outline of what they saw. Yet public memory rarely preserves that uncertainty. Instead, it remembers a handful of simple shapes: the [flying saucer]({{ 'flying-saucer/' | relative_url }}), the glowing orb, the black triangle and, more recently, the tic-tac. These visual labels survive because they perform a powerful cultural function. They turn complicated observations into easy mental pictures that can fit into a headline, a conversation or a film poster. Once a report is reduced to a recognisable shape, it becomes easier to remember, repeat and connect to existing science-fiction imagery. The result is that a small set of geometric forms comes to represent a much larger and messier body of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
+UFO reports usually begin with uncertainty. Witnesses struggle to judge distance, size, speed or even the outline of what they saw. Yet public memory rarely preserves that uncertainty. Instead, it remembers a handful of simple shapes: the [flying saucer]({{ 'flying-saucer/' | relative_url }}), the glowing orb, the black triangle and, more recently, the tic-tac. These visual labels survive because they perform a powerful cultural function. They turn complicated observations into easy mental pictures that can fit into a headline, a conversation or a film poster. Once a report is reduced to a recognisable shape, it becomes easier to remember, repeat and connect to existing science-fiction imagery. The result is that a small set of geometric forms comes to represent a much larger and messier body of UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_simple_ufo_shapes_d2fa2e-Illustration-1-dark.svg" | relative_url }}" alt="Simple Shapes illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_simple_ufo_shapes_d2fa2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_simple_ufo_shapes_d2fa2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ UFO reports usually begin with uncertainty. Witnesses struggle to judge distance
 
 Most eyewitness reports contain far more uncertainty than later retellings suggest. Observers often see objects under poor viewing conditions, at unknown distances, against bright skies, clouds or darkness. They may remember movement, brightness or direction more clearly than precise shape.
 
-Because detailed descriptions are difficult to communicate, people naturally simplify. Instead of recalling every uncertainty, they retain a broad visual category: round, triangular, cylindrical or oval. Researchers in visual cognition have long found that simplified symbolic forms are easier to recognise and recall than complex visual information. Simple shapes function as mental shortcuts that reduce cognitive effort and improve memorability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24203557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Symbolic forms can be mnemonics for recall</span><span class="citation-popover-snippet">Symbolic forms can be mnemonics for recall - PubMed...</span></span></span>
+Because detailed descriptions are difficult to communicate, people naturally simplify. Instead of recalling every uncertainty, they retain a broad visual category: round, triangular, cylindrical or oval. Researchers in visual cognition have long found that simplified symbolic forms are easier to recognise and recall than complex visual information. Simple shapes function as mental shortcuts that reduce cognitive effort and improve memorability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/24203557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Symbolic forms can be mnemonics for recall</span><span class="citation-popover-snippet">Symbolic forms can be mnemonics for recall - PubMed...</span></span></span>
 
 This simplification is especially important for UFO stories because the original observation is often fleeting. By the time a witness speaks to journalists, friends or investigators, the memory has already been compressed into a more manageable image. Shape becomes the surviving feature because it is easier to describe than uncertainty.
 
@@ -297,11 +297,11 @@ This simplification is especially important for UFO stories because the original
 
 ## How Headlines Compress Uncertainty Into Icons
 
-The classic example is the “flying saucer”. Kenneth Arnold's 1947 sighting became famous not because the public studied his full description, but because newspapers condensed it into a vivid visual label. Arnold compared the motion of the objects to a saucer skipping across water, yet reporting quickly transformed that comparison into the idea of saucer-shaped craft. The phrase spread nationally because it gave readers an instant picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
+The classic example is the “flying saucer”. Kenneth Arnold's 1947 sighting became famous not because the public studied his full description, but because newspapers condensed it into a vivid visual label. Arnold compared the motion of the objects to a saucer skipping across water, yet reporting quickly transformed that comparison into the idea of saucer-shaped craft. The phrase spread nationally because it gave readers an instant picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
 
 This process reveals an important media mechanism. [Headlines]({{ 'headlines/' | relative_url }}) are designed for speed and recognition. A phrase such as “[unidentified]({{ 'unidentified/' | relative_url }}) aerial object displaying unusual movement” is accurate but difficult to visualise. A “flying saucer” is immediately understandable.
 
-Over time, the label becomes more memorable than the original report. Readers may forget where, when or under what conditions a sighting occurred, but they remember the image. The headline effectively creates an icon. Once established, that icon becomes available for future stories, allowing later sightings to be compared to a familiar category rather than described from scratch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
+Over time, the label becomes more memorable than the original report. Readers may forget where, when or under what conditions a sighting occurred, but they remember the image. The headline effectively creates an icon. Once established, that icon becomes available for future stories, allowing later sightings to be compared to a familiar category rather than described from scratch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
 
 The same process can be seen in later UFO vocabulary. Terms such as “orb”, “triangle” and “tic-tac” are successful partly because they communicate a shape in a single word. They compress uncertainty into something that can be visualised immediately.
 
@@ -313,7 +313,7 @@ Thousands of UFO reports contain unusual or highly specific descriptions. Some a
 
 The reason is that standard shapes are easier to categorise. A circle, triangle or capsule can be recognised instantly and reproduced endlessly. They can be drawn by a newspaper illustrator, rendered in a film, turned into a logo or recalled years later without much loss of detail.
 
-Recent discussions of reported UAP (Unidentified Anomalous Phenomena) still show this tendency. Even when witnesses describe a wide variety of forms, reports are commonly grouped into recurring categories such as spheres, discs, [triangles]({{ 'triangles/' | relative_url }}) and elongated objects. More unusual descriptions exist but attract less lasting recognition because they lack a stable visual shorthand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post+2WDIV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</span></span></span>
+Recent discussions of reported UAP (Unidentified Anomalous Phenomena) still show this tendency. Even when witnesses describe a wide variety of forms, reports are commonly grouped into recurring categories such as spheres, discs, [triangles]({{ 'triangles/' | relative_url }}) and elongated objects. More unusual descriptions exist but attract less lasting recognition because they lack a stable visual shorthand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</span></span></span>
 
 This is not unique to UFO culture. Human memory generally favours distinctive symbolic patterns. Simple forms become categories, and categories become stories. Once a shape has become culturally familiar, new reports are more likely to be described in terms that fit it.
 
@@ -326,9 +326,9 @@ The relationship between UFOs and science fiction becomes strongest at this stag
 
 A saucer can become a spacecraft. A triangle can become an advanced military vehicle or alien scout. A glowing orb can become a mysterious intelligence. Because the shapes are visually simple, writers, artists and filmmakers can adapt them repeatedly without losing recognisability.
 
-The flying saucer demonstrates this process most clearly. What began as a media-friendly label evolved into one of the most enduring symbols in science fiction. By the 1950s it was appearing in films, [comics]({{ 'comics/' | relative_url }}), magazine covers and advertising. Eventually the saucer became so familiar that many people associated UFOs with the image even when reports described something entirely different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Engineering%3AFlying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Engineering:Flying saucer</span><span class="citation-popover-snippet">Engineering:Flying saucer - HandWiki...</span></span></span>
+The flying saucer demonstrates this process most clearly. What began as a media-friendly label evolved into one of the most enduring symbols in science fiction. By the 1950s it was appearing in films, [comics]({{ 'comics/' | relative_url }}), magazine covers and advertising. Eventually the saucer became so familiar that many people associated UFOs with the image even when reports described something entirely different.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Engineering%3AFlying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Engineering:Flying saucer</span><span class="citation-popover-snippet">Engineering:Flying saucer - HandWiki...</span></span></span>
 
-The same pattern appears in modern UAP discussions. The “tic-tac” label gained traction because it provides an equally simple visual reference. An elongated white capsule is easy to picture, easy to discuss and easy to reproduce in media coverage. Once established, the image becomes part of the cultural vocabulary available to both journalists and storytellers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</span></span></span>
+The same pattern appears in modern UAP discussions. The “tic-tac” label gained traction because it provides an equally simple visual reference. An elongated white capsule is easy to picture, easy to discuss and easy to reproduce in media coverage. Once established, the image becomes part of the cultural vocabulary available to both journalists and storytellers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_simple_ufo_shapes_d2fa2e-Illustration-3-dark.svg" | relative_url }}" alt="Simple Shapes illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_simple_ufo_shapes_d2fa2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_media_headlines_02a22e_simple_ufo_shapes_d2fa2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,201 +336,201 @@ The same pattern appears in modern UAP discussions. The “tic-tac” label gain
 
 Simple UFO shapes dominate public memory because they sit at the intersection of perception, journalism and imagination. Witnesses simplify uncertain observations into broad visual categories. Headlines turn those categories into memorable labels. Popular culture then repeats the labels until they become familiar symbols.
 
-As the symbols spread, they influence how future reports are discussed and remembered. The public rarely retains the full complexity of a sighting, but it remembers the shape attached to it. In that sense, [saucers]({{ 'saucers/' | relative_url }}), orbs, triangles and tic-tacs are not merely descriptions. They are cultural containers that allow UFO stories to survive, circulate and merge with the visual language of science fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
+As the symbols spread, they influence how future reports are discussed and remembered. The public rarely retains the full complexity of a sighting, but it remembers the shape attached to it. In that sense, [saucers]({{ 'saucers/' | relative_url }}), orbs, triangles and tic-tacs are not merely descriptions. They are cultural containers that allow UFO stories to survive, circulate and merge with the visual language of science fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7pyEZbwOqS0" title="Strange-Shaped UFOs Spotted Around the World | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7pyEZbwOqS0" target="_blank" rel="noopener noreferrer">Strange-Shaped UFOs Spotted Around the World | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 81.2K &middot; Uploaded: August 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7pyEZbwOqS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7pyEZbwOqS0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Stories Need Simple Shapes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Stories Need Simple Shapes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Documents the visual categories used in sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the visual categories used in sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XeE9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By C. G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XeE9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By C. G. Jung</p>
         
-        <p class="fr-book-desc">Directly addresses the power of simple UFO shapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the power of simple UFO shapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring imagery in anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring imagery in anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
-        </h4>
-        <p class="fr-book-author">By Carl G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
+</h4>
+<p class="fr-book-author">By Carl G. Jung</p>
         
-        <p class="fr-book-desc">Explains why simple visual symbols become memorable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why simple visual symbols become memorable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="simple-shapes-why-ufo-stories-need-simple-shapes-relationships-betwee-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ufo-stories-need-simple-shapes-ufo-art-print-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ As the symbols spread, they influence how future reports are discussed and remem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ As the symbols spread, they influence how future reports are discussed and remem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ As the symbols spread, they influence how future reports are discussed and remem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ As the symbols spread, they influence how future reports are discussed and remem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ As the symbols spread, they influence how future reports are discussed and remem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,87 +736,87 @@ As the symbols spread, they influence how future reports are discussed and remem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: This Is Why People Think UFOs Look Like 'Flying Saucers'  
-   Link: <a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</p></details>
+   Link:<a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: handwiki.org  
    Title: Hand Wiki Engineering:Flying saucer  
-   Link: <a href="https://www.handwiki.org/wiki/Engineering%3AFlying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Engineering%3AFlying_saucer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering:Flying saucer - HandWiki...</p></details>
+   Link:<a href="https://www.handwiki.org/wiki/Engineering%3AFlying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Engineering%3AFlying_saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering:Flying saucer - HandWiki...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: clickondetroit.com  
-   Link: <a href="https://www.clickondetroit.com/news/politics/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/news/politics/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/</a>  
+   Link:<a href="https://www.clickondetroit.com/news/politics/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/news/politics/2026/06/12/new-ufo-files-describe-spinning-discs-glowing-orbs-and-one-object-shaped-like-a-potato/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Symbolic forms can be mnemonics for recall  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24203557/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24203557/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Symbolic forms can be mnemonics for recall - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24203557/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24203557/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Symbolic forms can be mnemonics for recall - PubMed...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/congressional-ufo-hearing-details-alleged-secret-government-programs-descriptions-of-alien-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testimonies revisited past claims with little new evidence. Key figures like Dr. Tim Gallaudet and Luis Elizondo described government sec...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychology.uchicago.edu  
-   Link: <a href="https://psychology.uchicago.edu/news/certain-visual-qualities-make-symbols-more-memorable-or-forgettable-suggesting-we-can" target="_blank" rel="noopener noreferrer nofollow">https://psychology.uchicago.edu/news/certain-visual-qualities-make-symbols-more-memorable-or-forgettable-suggesting-we-can</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyCertain visual qualities make symbols more memorable or forgettable, suggesting we can strengthen these simple co...</p></details>
+   Link:<a href="https://psychology.uchicago.edu/news/certain-visual-qualities-make-symbols-more-memorable-or-forgettable-suggesting-we-can" target="_blank" rel="noopener noreferrer nofollow">https://psychology.uchicago.edu/news/certain-visual-qualities-make-symbols-more-memorable-or-forgettable-suggesting-we-can</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyCertain visual qualities make symbols more memorable or forgettable, suggesting we can strengthen these simple co...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/nrn2154" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nrn2154</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>memory and the medial temporal lobe: a new perspective | Nature Reviews Neuroscience...</p></details>
+   Link:<a href="https://www.nature.com/articles/nrn2154" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nrn2154</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>memory and the medial temporal lobe: a new perspective | Nature Reviews Neuroscience...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: What We Know About UFOs (It's Stranger Than You Think) | Jesse Michels  
-   Link: <a href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7IIVtHgJVqU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This video on Where Did The Term &#x27;Flying Saucer&#x27; Come From? details how Kenneth Arnold&#x27;s description of objects skipping like saucers acr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7IIVtHgJVqU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video on Where Did The Term &#x27;Flying Saucer&#x27; Come From? details how Kenneth Arnold&#x27;s description of objects skipping like saucers acr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0963721417700504" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721417700504</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jill Talley Shelton, Michael K. Scullin, 2017August 9, 2017...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0963721417700504" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721417700504</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jill Talley Shelton, Michael K. Scullin, 2017August 9, 2017...</p></details>
    Published: August 9, 2017  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aliencatalog.com  
-   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catalog | AlienCatalog.com Official UFO and UAP Records...</p></details>
+   Link:<a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catalog | AlienCatalog.com Official UFO and UAP Records...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Deluge of July 4th, 1947 | Part 1: Omens (Before the Storm)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z25NfZ0Ea9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z25NfZ0Ea9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Deluge of July 4th, 1947 | Part 1: Omens (Before the Storm)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs and ALIENS  
-   Link: <a href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dnNJMAHprys</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFO and alien encounters | Prof. Greg Eghigian...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dnNJMAHprys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFO and alien encounters | Prof. Greg Eghigian...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The History and Evolution of UFOs and UAPs  
-   Link: <a href="https://www.youtube.com/watch?v=JpIxnVWkeh4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JpIxnVWkeh4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Would Real Aliens Actually Look Like?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JpIxnVWkeh4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JpIxnVWkeh4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Would Real Aliens Actually Look Like?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Where Did The Term 'Flying Saucer' Come From? | Mossback's Northwest  
-   Link: <a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>

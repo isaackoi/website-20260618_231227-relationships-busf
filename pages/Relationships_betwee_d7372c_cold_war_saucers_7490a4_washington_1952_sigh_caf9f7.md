@@ -274,261 +274,261 @@ image: /assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washin
 
 ## Introduction
 
-In July 1952, a series of unusual radar contacts and visual reports near Washington, DC transformed [flying saucers]({{ 'flying-saucer/' | relative_url }}) from a popular curiosity into a perceived national-security problem. For two consecutive weekends, air-traffic controllers, military radar operators, pilots and observers reported [unidentified]({{ 'unidentified/' | relative_url }}) targets moving through airspace around the American capital. Fighter jets were scrambled, headlines spread across the world, and senior military officials found themselves answering questions about mysterious objects near the seat of government. The episode became one of the most famous UFO cases of the Cold War because it combined eyewitness testimony, instrument readings and official military involvement at a moment of intense anxiety about air defence and surprise attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
+In July 1952, a series of unusual radar contacts and visual reports near Washington, DC transformed [flying saucers]({{ 'flying-saucer/' | relative_url }}) from a popular curiosity into a perceived national-security problem. For two consecutive weekends, air-traffic controllers, military radar operators, pilots and observers reported [unidentified]({{ 'unidentified/' | relative_url }}) targets moving through airspace around the American capital. Fighter jets were scrambled, headlines spread across the world, and senior military officials found themselves answering questions about mysterious objects near the seat of government. The episode became one of the most famous UFO cases of the Cold War because it combined eyewitness testimony, instrument readings and official military involvement at a moment of intense anxiety about air defence and surprise attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-1-dark.svg" | relative_url }}" alt="Washington 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader relationship between UFOs and science fiction, the Washington sightings mattered because they made a familiar science-fiction scenario seem briefly plausible: unknown craft appearing over the political heart of a superpower. Whether the events reflected extraordinary objects, radar anomalies, misidentifications or some combination of factors, the incident demonstrated how quickly UFO reports could become entangled with [Cold War fears]({{ 'cold-war-fear/' | relative_url }}) and public imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+Within the broader relationship between UFOs and science fiction, the Washington sightings mattered because they made a familiar science-fiction scenario seem briefly plausible: unknown craft appearing over the political heart of a superpower. Whether the events reflected extraordinary objects, radar anomalies, misidentifications or some combination of factors, the incident demonstrated how quickly UFO reports could become entangled with [Cold War fears]({{ 'cold-war-fear/' | relative_url }}) and public imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 ## When Saucers Reached Washington's Warning Screens
 
 ### What witnesses and radar operators reported
 
-The most famous events occurred on the nights of 19–20 July and 26–27 July 1952. Controllers at Washington National Airport detected unexplained radar returns that appeared to move in unusual ways. Operators at nearby Andrews Air Force Base also reported corresponding radar contacts, while some pilots and ground observers described bright lights in the sky. Several reports suggested that the unknown targets changed speed rapidly, altered direction, or appeared and disappeared from radar screens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
+The most famous events occurred on the nights of 19–20 July and 26–27 July 1952. Controllers at Washington National Airport detected unexplained radar returns that appeared to move in unusual ways. Operators at nearby Andrews Air Force Base also reported corresponding radar contacts, while some pilots and ground observers described bright lights in the sky. Several reports suggested that the unknown targets changed speed rapidly, altered direction, or appeared and disappeared from radar screens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[ghostsofdc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
 
-The combination of radar detections and visual observations made the case especially striking. In the public mind, radar represented objective technological evidence rather than mere eyewitness testimony. When controllers reported unexplained blips and pilots reported lights in roughly the same period, many observers concluded that something tangible had been present in the skies around Washington. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
+The combination of radar detections and visual observations made the case especially striking. In the public mind, radar represented objective technological evidence rather than mere eyewitness testimony. When controllers reported unexplained blips and pilots reported lights in roughly the same period, many observers concluded that something tangible had been present in the skies around Washington.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
 
-Air Defence Command responded by scrambling F-94 jet fighters. Yet the interceptions produced no decisive result. Some pilots reported seeing lights, while others saw nothing unusual. A recurring feature of later accounts was the claim that the objects seemed to disappear when fighters approached and reappear after they departed, though the evidence for exactly what radar operators were tracking remained disputed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
+Air Defence Command responded by scrambling F-94 jet fighters. Yet the interceptions produced no decisive result. Some pilots reported seeing lights, while others saw nothing unusual. A recurring feature of later accounts was the claim that the objects seemed to disappear when fighters approached and reappear after they departed, though the evidence for exactly what radar operators were tracking remained disputed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPoOW6vXJW4" title="Shocking New Evidence of UFO Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer">Shocking New Evidence of UFO Invasion</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 240.1K &middot; Uploaded: March 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPoOW6vXJW4">Open on YouTube</a></p></div></div></div>
 
 ### Why the reports seemed different from ordinary sightings
 
-Many UFO reports of the era relied entirely on visual observation. The Washington incident stood out because multiple radar installations were involved and because professional aviation personnel were among the witnesses. Air-traffic controllers worked daily with radar displays and aircraft movements, which gave their reports additional credibility in the eyes of journalists and the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
+Many UFO reports of the era relied entirely on visual observation. The Washington incident stood out because multiple radar installations were involved and because professional aviation personnel were among the witnesses. Air-traffic controllers worked daily with radar displays and aircraft movements, which gave their reports additional credibility in the eyes of journalists and the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
 
-The case also occurred during a broader wave of UFO reports across the United States in 1952. By the time the Washington incidents occurred, military and intelligence agencies were already receiving large numbers of sightings. The capital-area events therefore appeared not as isolated curiosities but as part of an escalating pattern that seemed increasingly difficult to dismiss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalflyingsaucerbureau.com">[internationalflyingsaucerbureau.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalflyingsaucerbureau.com</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">International Flying Saucer Bureau (IFSB)...</span></span></span>
+The case also occurred during a broader wave of UFO reports across the United States in 1952. By the time the Washington incidents occurred, military and intelligence agencies were already receiving large numbers of sightings. The capital-area events therefore appeared not as isolated curiosities but as part of an escalating pattern that seemed increasingly difficult to dismiss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalflyingsaucerbureau.com">[internationalflyingsaucerbureau.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalflyingsaucerbureau.com</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">International Flying Saucer Bureau (IFSB)...</span></span></span>
 
 ## Why the Capital Setting Mattered
 
-The same reports would likely have attracted less attention had they occurred over a remote region. Washington, however, was not merely another city. It contained the White House, the Pentagon and the leadership of the United States government. During the Korean War and the height of Cold War tensions, unexplained activity near the capital inevitably raised questions about national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=Ix3J4Twi6lM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The 1952 UFO Invasion of Washington DC - YouTubeJuly 8, 2012...</span><span class="citation-popover-meta">Published: July 8, 2012</span></span></span>
+The same reports would likely have attracted less attention had they occurred over a remote region. Washington, however, was not merely another city. It contained the White House, the Pentagon and the leadership of the United States government. During the Korean War and the height of Cold War tensions, unexplained activity near the capital inevitably raised questions about national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=Ix3J4Twi6lM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The 1952 UFO Invasion of Washington DC - YouTubeJuly 8, 2012...</span><span class="citation-popover-meta">Published: July 8, 2012</span></span></span>
 
-Radar warnings and fighter interceptions carried particular emotional weight in the early 1950s. Americans were increasingly aware of the possibility of long-range bomber attacks and surprise military threats. Air-defence systems existed to detect hostile aircraft before they reached critical targets. If unidentified objects could appear on radar near Washington without immediate explanation, then the issue seemed larger than a simple mystery in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+Radar warnings and fighter interceptions carried particular emotional weight in the early 1950s. Americans were increasingly aware of the possibility of long-range bomber attacks and surprise military threats. Air-defence systems existed to detect hostile aircraft before they reached critical targets. If unidentified objects could appear on radar near Washington without immediate explanation, then the issue seemed larger than a simple mystery in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
-Newspapers amplified this perception. [Headlines]({{ 'headlines/' | relative_url }}) suggested that flying [saucers]({{ 'saucers/' | relative_url }}) had invaded the nation's capital, and public interest surged. The sight of military jets being launched to investigate unidentified targets gave the story an urgency that resembled the plots of contemporary science-fiction films about unknown visitors or surprise incursions from above. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=Ix3J4Twi6lM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The 1952 UFO Invasion of Washington DC - YouTubeJuly 8, 2012...</span><span class="citation-popover-meta">Published: July 8, 2012</span></span></span>
+Newspapers amplified this perception. [Headlines]({{ 'headlines/' | relative_url }}) suggested that flying [saucers]({{ 'saucers/' | relative_url }}) had invaded the nation's capital, and public interest surged. The sight of military jets being launched to investigate unidentified targets gave the story an urgency that resembled the plots of contemporary science-fiction films about unknown visitors or surprise incursions from above.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=Ix3J4Twi6lM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The 1952 UFO Invasion of Washington DC - YouTubeJuly 8, 2012...</span><span class="citation-popover-meta">Published: July 8, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-2-dark.svg" | relative_url }}" alt="Washington 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Officials Tried to Explain the Incident
 
-The military faced a difficult challenge. It needed to reassure the public while also demonstrating that reports had been taken seriously. On 29 July 1952, senior Air Force officials held a major Pentagon press conference devoted largely to the Washington events. It became one of the largest Pentagon press briefings since the Second World War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+The military faced a difficult challenge. It needed to reassure the public while also demonstrating that reports had been taken seriously. On 29 July 1952, senior Air Force officials held a major Pentagon press conference devoted largely to the Washington events. It became one of the largest Pentagon press briefings since the Second World War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
-Air Force leaders argued that the radar contacts could be explained by atmospheric conditions, particularly temperature inversions. A temperature inversion occurs when layers of air trap warmer air beneath cooler air, sometimes causing unusual radar reflections and affecting the appearance of distant lights. Investigators noted that inversion conditions were present during the reported sightings and concluded that these conditions could account for many of the radar returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+Air Force leaders argued that the radar contacts could be explained by atmospheric conditions, particularly temperature inversions. A temperature inversion occurs when layers of air trap warmer air beneath cooler air, sometimes causing unusual radar reflections and affecting the appearance of distant lights. Investigators noted that inversion conditions were present during the reported sightings and concluded that these conditions could account for many of the radar returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
-Not everyone involved accepted that explanation completely. Some radar personnel believed the returns looked too solid or too consistent to be explained solely by weather effects. This disagreement became one reason the case endured. Supporters of an unexplained interpretation pointed to experienced witnesses and multiple radar observations, while sceptics argued that unusual atmospheric conditions and ordinary astronomical or aviation phenomena provided sufficient [explanations]({{ 'explanations/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14w6hay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">On July 31, 1952 the US Pentagon held a Public Briefing on Flying Saucers after multiple Unidentified &#x27;Disc-Shaped&#x27; Craft were witn...</span><span class="citation-popover-meta">Published: July 31, 1952</span></span></span>
+Not everyone involved accepted that explanation completely. Some radar personnel believed the returns looked too solid or too consistent to be explained solely by weather effects. This disagreement became one reason the case endured. Supporters of an unexplained interpretation pointed to experienced witnesses and multiple radar observations, while sceptics argued that unusual atmospheric conditions and ordinary astronomical or aviation phenomena provided sufficient [explanations]({{ 'explanations/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14w6hay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">On July 31, 1952 the US Pentagon held a Public Briefing on Flying Saucers after multiple Unidentified &#x27;Disc-Shaped&#x27; Craft were witn...</span><span class="citation-popover-meta">Published: July 31, 1952</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.4K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
 
 ## How the Case Shaped Official Concern
 
-The most lasting impact of the Washington sightings was not a discovery about unidentified objects but a change in how authorities viewed the UFO problem itself. Intelligence officials became concerned that large numbers of UFO reports could interfere with defence operations. Even if most sightings had ordinary explanations, the volume of reports could consume resources, overload communication channels and complicate responses to genuine military threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kb42.info/index.php?title=Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kb42.info">[kb42.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kb42.info</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The most lasting impact of the Washington sightings was not a discovery about unidentified objects but a change in how authorities viewed the UFO problem itself. Intelligence officials became concerned that large numbers of UFO reports could interfere with defence operations. Even if most sightings had ordinary explanations, the volume of reports could consume resources, overload communication channels and complicate responses to genuine military threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kb42.info/index.php?title=Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kb42.info">[kb42.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kb42.info</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-The Washington incidents helped drive higher-level review inside the intelligence community. In the months that followed, the CIA supported the creation of the Robertson Panel, a scientific advisory group that examined UFO reports and considered their implications. The panel ultimately concluded that UFOs did not present evidence of an extraterrestrial threat, but it warned that public fascination with the subject could create security and intelligence problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kb42.info/index.php?title=Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kb42.info">[kb42.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kb42.info</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The Washington incidents helped drive higher-level review inside the intelligence community. In the months that followed, the CIA supported the creation of the Robertson Panel, a scientific advisory group that examined UFO reports and considered their implications. The panel ultimately concluded that UFOs did not present evidence of an extraterrestrial threat, but it warned that public fascination with the subject could create security and intelligence problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kb42.info/index.php?title=Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kb42.info">[kb42.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kb42.info</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-This conclusion reflected a specifically Cold War concern. Officials worried less about alien invasion than about confusion. A defence network designed to detect hostile aircraft depended on distinguishing genuine threats from false alarms. The Washington case demonstrated how quickly unidentified radar contacts could generate public alarm and official mobilisation, even when investigators remained uncertain about the underlying cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+This conclusion reflected a specifically Cold War concern. Officials worried less about alien invasion than about confusion. A defence network designed to detect hostile aircraft depended on distinguishing genuine threats from false alarms. The Washington case demonstrated how quickly unidentified radar contacts could generate public alarm and official mobilisation, even when investigators remained uncertain about the underlying cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-3-dark.svg" | relative_url }}" alt="Washington 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_cold_war_saucers_7490a4_washington_1952_sigh_caf9f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Air-Defence Incident to Science-Fiction Symbol
 
-The Washington sightings became one of the defining UFO stories of the twentieth century because they seemed to blur the line between fiction and reality. Radar screens, interceptor aircraft and military briefings gave the event a dramatic structure that closely resembled contemporary science-fiction narratives. Unlike purely anecdotal sightings, this case unfolded within institutions associated with national defence and technological expertise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
+The Washington sightings became one of the defining UFO stories of the twentieth century because they seemed to blur the line between fiction and reality. Radar screens, interceptor aircraft and military briefings gave the event a dramatic structure that closely resembled contemporary science-fiction narratives. Unlike purely anecdotal sightings, this case unfolded within institutions associated with national defence and technological expertise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghostsofdc.org">[Ghosts of DC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghostsofdc.org</span><span class="citation-popover-title">flying saucers capitol white house</span><span class="citation-popover-snippet">Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</span><span class="citation-popover-meta">Published: February 26, 2018</span></span></span>
 
-As the story entered popular culture, it reinforced a recurring science-fiction image: mysterious craft appearing over centres of political power while authorities struggle to identify them. Whether interpreted as evidence of unexplained phenomena, radar misinterpretation or Cold War anxiety, the Washington events showed how UFO reports could acquire extraordinary cultural power when they intersected with fears about surveillance, invasion and the limits of technological certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">since World War II has been a blend of sightings, investigations, and cultural fascination. The saga began with Kenneth Arnold&#x27;s 1947 sig...</span></span></span>
+As the story entered popular culture, it reinforced a recurring science-fiction image: mysterious craft appearing over centres of political power while authorities struggle to identify them. Whether interpreted as evidence of unexplained phenomena, radar misinterpretation or Cold War anxiety, the Washington events showed how UFO reports could acquire extraordinary cultural power when they intersected with fears about surveillance, invasion and the limits of technological certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">since World War II has been a blend of sightings, investigations, and cultural fascination. The saga began with Kenneth Arnold&#x27;s 1947 sig...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2k7K5H6Htl8" title="1952 - The Invasion of Washington | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer">1952 - The Invasion of Washington | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 4.8K &middot; Uploaded: December 2024 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2k7K5H6Htl8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Saucers Reached Washington&#x27;s Warning Screens. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Saucers Reached Washington&#x27;s Warning Screens. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly connects secret aircraft programs, Area 51 testing, Cold War secrecy, and UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects secret aircraft programs, Area 51 testing, Cold War secrecy, and UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Directly explains how Cold War politics, military technology, and public fears shaped the flying saucer craze.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how Cold War politics, military technology, and public fears shaped the flying saucer craze.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains the culture and development of secret reconnaissance aircraft that often fueled UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the culture and development of secret reconnaissance aircraft that often fueled UFO speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Avrocar+by+Bill+Zuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Avrocar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LIkgAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Avrocar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Avrocar+by+Bill+Zuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avrocar">Avrocar</a>
-        </h4>
-        <p class="fr-book-author">By Bill Zuk</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Avrocar+by+Bill+Zuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Avrocar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LIkgAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Avrocar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Avrocar+by+Bill+Zuk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Avrocar">Avrocar</a>
+</h4>
+<p class="fr-book-author">By Bill Zuk</p>
         
-        <p class="fr-book-desc">Directly covers the Avrocar, its Cold War development, military ambitions, testing, and public impact as a saucer-shaped aircraft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Avrocar+by+Bill+Zuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers the Avrocar, its Cold War development, military ambitions, testing, and public impact as a saucer-shaped aircraft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Avrocar+by+Bill+Zuk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model"><img src="{{ '/assets/images/marketplace-covers/96aa596c63b973cfe882.jpg' | relative_url }}" alt="Listing image for ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">ZOOMRIG ZR-001 Omni Man MY ALIEN DAD 1/12 Action Figure Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise"><img src="{{ '/assets/images/marketplace-covers/498a2b2f062cfdd0b6ac.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure with Black Display Base - Science Fiction Franchise</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien figure collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure collectible" data-ebay-reference="washington-1952-when-saucers-reached-washington-s-warning-screens-relationships-betwee-alien-figure-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ As the story entered popular culture, it reinforced a recurring science-fiction 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ As the story entered popular culture, it reinforced a recurring science-fiction 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ As the story entered popular culture, it reinforced a recurring science-fiction 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ As the story entered popular culture, it reinforced a recurring science-fiction 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ As the story entered popular culture, it reinforced a recurring science-fiction 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,83 +734,83 @@ As the story entered popular culture, it reinforced a recurring science-fiction 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: internationalflyingsaucerbureau.com  
    Title: [Project Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Flying Saucer Bureau (IFSB)...</p></details>
+   Link:<a href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Flying Saucer Bureau (IFSB)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14w6hay" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14w6hay</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 31, 1952 the US Pentagon held a Public Briefing on Flying Saucers after multiple Unidentified &#x27;Disc-Shaped&#x27; Craft were witn...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14w6hay" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14w6hay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 31, 1952 the US Pentagon held a Public Briefing on Flying Saucers after multiple Unidentified &#x27;Disc-Shaped&#x27; Craft were witn...</p></details>
    Published: July 31, 1952  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kb42.info  
    Title: Robertson Panel  
-   Link: <a href="https://kb42.info/index.php?title=Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://kb42.info/index.php?title=Robertson_Panel</a>  
+   Link:<a href="https://kb42.info/index.php?title=Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://kb42.info/index.php?title=Robertson_Panel</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ix3J4Twi6lM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ix3J4Twi6lM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 UFO Invasion of Washington DC - YouTubeJuly 8, 2012...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ix3J4Twi6lM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ix3J4Twi6lM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 UFO Invasion of Washington DC - YouTubeJuly 8, 2012...</p></details>
    Published: July 8, 2012  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: project blue book the us air forces systematic  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1tymva9/project_blue_book_the_us_air_forces_systematic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1tymva9/project_blue_book_the_us_air_forces_systematic/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The U.S. Air Force’s Systematic UFO Investigation (1952–1969) and Its Enduring LegacyJune 6, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1tymva9/project_blue_book_the_us_air_forces_systematic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1tymva9/project_blue_book_the_us_air_forces_systematic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The U.S. Air Force’s Systematic UFO Investigation (1952–1969) and Its Enduring LegacyJune 6, 2026...</p></details>
    Published: June 6, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uj18bm" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uj18bm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flew directly over Washington DC for six hours in July, 1952May 5, 2022...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uj18bm" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uj18bm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flew directly over Washington DC for six hours in July, 1952May 5, 2022...</p></details>
    Published: May 5, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2k7K5H6Htl8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2k7K5H6Htl8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking New Evidence of UFO Invasion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking New Evidence of UFO Invasion...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Shocking New Evidence of UFO Invasion  
-   Link: <a href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPoOW6vXJW4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPoOW6vXJW4</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ghostsofdc.org  
    Title: flying saucers capitol white house  
-   Link: <a href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</p></details>
+   Link:<a href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the CapitolFebruary 26, 2018...</p></details>
    Published: February 26, 2018  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>since World War II has been a blend of sightings, investigations, and cultural fascination. The saga began with Kenneth Arnold&#x27;s 1947 sig...</p></details>
+   Link:<a href="https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>since World War II has been a blend of sightings, investigations, and cultural fascination. The saga began with Kenneth Arnold&#x27;s 1947 sig...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: www.nationalarchives.gov.uk UF O reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reports - The National Archives...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cufon.org  
    Title: CAA Radar Study  
-   Link: <a href="https://www.cufon.org/cufon/wash_nat/CAA_Radar_Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/wash_nat/CAA_Radar_Study.pdf</a>  
+   Link:<a href="https://www.cufon.org/cufon/wash_nat/CAA_Radar_Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/wash_nat/CAA_Radar_Study.pdf</a>  

@@ -274,17 +274,17 @@ image: /assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_
 
 ## Introduction
 
-Jacques Vallée’s influence on *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* was not simply a matter of providing technical UFO advice. His importance lies in how he helped shape the film’s underlying view of the phenomenon. During the 1970s, Vallée was arguing that UFO reports should not automatically be understood as visits from extraterrestrial spacecraft. Instead, he saw connections between modern UFO encounters, folklore traditions and recurring patterns in human experience. Steven Spielberg drew on that world of ideas while developing *Close Encounters*, creating a film that treated UFO encounters as mysterious, transformative and culturally significant rather than as straightforward alien invasions. In doing so, the film became a major example of how UFO research and science-fiction storytelling began feeding one another during the decade. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
+Jacques Vallée’s influence on *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind* was not simply a matter of providing technical UFO advice. His importance lies in how he helped shape the film’s underlying view of the phenomenon. During the 1970s, Vallée was arguing that UFO reports should not automatically be understood as visits from extraterrestrial spacecraft. Instead, he saw connections between modern UFO encounters, folklore traditions and recurring patterns in human experience. Steven Spielberg drew on that world of ideas while developing *Close Encounters*, creating a film that treated UFO encounters as mysterious, transformative and culturally significant rather than as straightforward alien invasions. In doing so, the film became a major example of how UFO research and science-fiction storytelling began feeding one another during the decade.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-1-dark.svg" | relative_url }}" alt="Spielberg Link illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Vallée's books in Spielberg's orbit
 
-By the time Spielberg was developing *Close Encounters*, Vallée had already become one of the best-known researchers challenging the simple “spaceships from another planet” explanation for UFOs. Books such as *Passport to [Magonia]({{ 'magonia/' | relative_url }})* encouraged readers to compare modern UFO reports with older accounts of strange beings, unusual lights, missing time and encounters that resembled folklore traditions. Rather than treating UFOs as a purely technological mystery, Vallée suggested that culture, belief and recurring encounter patterns deserved attention as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/155mwo4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Passport to Magonia by Jacques Vallee, 1969 First Edition -- A book everyone here should readJuly 21, 2023...</span><span class="citation-popover-meta">Published: July 21, 2023</span></span></span>
+By the time Spielberg was developing *Close Encounters*, Vallée had already become one of the best-known researchers challenging the simple “spaceships from another planet” explanation for UFOs. Books such as *Passport to [Magonia]({{ 'magonia/' | relative_url }})* encouraged readers to compare modern UFO reports with older accounts of strange beings, unusual lights, missing time and encounters that resembled folklore traditions. Rather than treating UFOs as a purely technological mystery, Vallée suggested that culture, belief and recurring encounter patterns deserved attention as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/155mwo4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Passport to Magonia by Jacques Vallee, 1969 First Edition -- A book everyone here should readJuly 21, 2023...</span><span class="citation-popover-meta">Published: July 21, 2023</span></span></span>
 
-Spielberg was interested in serious UFO research and consulted leading figures in the field while developing the film. Although astronomer and UFO investigator J. Allen Hynek is often remembered because the film’s title borrowed his classification system and because he appeared briefly in the finished movie, Vallée also contributed ideas and discussions during development. His influence was significant enough that Spielberg later incorporated aspects of Vallée into the film’s French scientist Claude Lacombe, played by François Truffaut. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (film) &#124; Film &#124; Research Starters &#124; EBSCO Research...</span></span></span>
+Spielberg was interested in serious UFO research and consulted leading figures in the field while developing the film. Although astronomer and UFO investigator J. Allen Hynek is often remembered because the film’s title borrowed his classification system and because he appeared briefly in the finished movie, Vallée also contributed ideas and discussions during development. His influence was significant enough that Spielberg later incorporated aspects of Vallée into the film’s French scientist Claude Lacombe, played by François Truffaut.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (film) &#124; Film &#124; Research Starters &#124; EBSCO Research...</span></span></span>
 
-The choice to centre a thoughtful French researcher was more than a biographical nod. It reflected Vallée’s role as an investigator who approached UFO reports with curiosity rather than certainty. Lacombe functions as a bridge between scientific inquiry and human [wonder]({{ 'wonder/' | relative_url }}), a role similar to the one Vallée occupied in public discussions of the phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
+The choice to centre a thoughtful French researcher was more than a biographical nod. It reflected Vallée’s role as an investigator who approached UFO reports with curiosity rather than certainty. Lacombe functions as a bridge between scientific inquiry and human [wonder]({{ 'wonder/' | relative_url }}), a role similar to the one Vallée occupied in public discussions of the phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vZEcVY2iZsk" title="Joe Rogan Experience #2288 - Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2288 - Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 1.8M &middot; Uploaded: March 2025 &middot; Length: 2 hours 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vZEcVY2iZsk">Open on YouTube</a></p></div></div></div>
@@ -293,26 +293,26 @@ The choice to centre a thoughtful French researcher was more than a biographical
 
 One of the most distinctive features of *Close Encounters* is that it treats UFO encounters as life-changing experiences rather than military threats. Earlier science-fiction films often emphasised invasion, conflict or danger. Spielberg instead focused on obsession, mystery, communication and the emotional impact of contact.
 
-That approach parallels Vallée’s interest in witness experiences. In his writings, the encounter itself often mattered more than any claimed spacecraft technology. Witnesses reported altered perceptions, strange symbols, compelling visions and profound personal transformations. The film translates those themes into cinematic form through Roy Neary’s overwhelming fixation on Devil’s Tower and through the shared experiences that draw witnesses together. Rather than presenting UFOs as a conventional science-fiction gadget, the story presents them as a phenomenon that changes people’s lives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicClose Encounters: Influences and Production Background &#124; Close Encounters of the Third Kind &#124; Liverpool Scholarship Online &#124;...</span></span></span>
+That approach parallels Vallée’s interest in witness experiences. In his writings, the encounter itself often mattered more than any claimed spacecraft technology. Witnesses reported altered perceptions, strange symbols, compelling visions and profound personal transformations. The film translates those themes into cinematic form through Roy Neary’s overwhelming fixation on Devil’s Tower and through the shared experiences that draw witnesses together. Rather than presenting UFOs as a conventional science-fiction gadget, the story presents them as a phenomenon that changes people’s lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicClose Encounters: Influences and Production Background &#124; Close Encounters of the Third Kind &#124; Liverpool Scholarship Online &#124;...</span></span></span>
 
-The result was a film that sat between documentary-style investigation and fantasy. Scientists collect evidence, analyse reports and search for patterns, yet the mystery is never reduced to engineering details. This balance reflected a broader shift in 1970s UFO culture, where researchers, writers and filmmakers increasingly explored psychological, symbolic and cultural dimensions alongside physical [explanations]({{ 'explanations/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicClose Encounters: Influences and Production Background &#124; Close Encounters of the Third Kind &#124; Liverpool Scholarship Online &#124;...</span></span></span>
+The result was a film that sat between documentary-style investigation and fantasy. Scientists collect evidence, analyse reports and search for patterns, yet the mystery is never reduced to engineering details. This balance reflected a broader shift in 1970s UFO culture, where researchers, writers and filmmakers increasingly explored psychological, symbolic and cultural dimensions alongside physical [explanations]({{ 'explanations/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicClose Encounters: Influences and Production Background &#124; Close Encounters of the Third Kind &#124; Liverpool Scholarship Online &#124;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-2-dark.svg" | relative_url }}" alt="Spielberg Link illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Vallée disagreed with the ending
 
-Perhaps the clearest example of Vallée’s influence is also a case where Spielberg ultimately chose a different path. Vallée later recalled that he objected to the film’s final revelation, in which the visitors emerge visibly from their craft. In his view, showing humanoid aliens made the mystery too specific and pushed audiences toward a single interpretation. He preferred a more open-ended treatment that preserved ambiguity about the nature of the phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
+Perhaps the clearest example of Vallée’s influence is also a case where Spielberg ultimately chose a different path. Vallée later recalled that he objected to the film’s final revelation, in which the visitors emerge visibly from their craft. In his view, showing humanoid aliens made the mystery too specific and pushed audiences toward a single interpretation. He preferred a more open-ended treatment that preserved ambiguity about the nature of the phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
 
-This disagreement highlights the difference between UFO investigation and popular storytelling. Vallée often argued that the phenomenon resisted simple explanations. Spielberg, meanwhile, was making a mainstream narrative film that required an emotional payoff. The famous ending therefore became a compromise between mystery and spectacle. Even though Spielberg rejected Vallée’s preferred level of ambiguity, the debate itself reveals how closely the film was connected to contemporary UFO research rather than merely borrowing UFO imagery from earlier science fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
+This disagreement highlights the difference between UFO investigation and popular storytelling. Vallée often argued that the phenomenon resisted simple explanations. Spielberg, meanwhile, was making a mainstream narrative film that required an emotional payoff. The famous ending therefore became a compromise between mystery and spectacle. Even though Spielberg rejected Vallée’s preferred level of ambiguity, the debate itself reveals how closely the film was connected to contemporary UFO research rather than merely borrowing UFO imagery from earlier science fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ao7Ohu4WWAc" title="Spielberg Based a Character in Closer Encounters on Jacques Valle - March 13th 1977" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ao7Ohu4WWAc" target="_blank" rel="noopener noreferrer">Spielberg Based a Character in Closer Encounters on Jacques Valle - March 13th 1977</a></p><p class="youtube-embed-meta">Channel: History of UFOs Ebook</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ao7Ohu4WWAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ao7Ohu4WWAc">Open on YouTube</a></p></div></div></div>
 
 ## How film fed the UFO imagination back
 
-The influence did not move in only one direction. Once *Close Encounters* reached cinemas in 1977, it helped reshape public expectations about UFO experiences. Millions of viewers encountered ideas that had circulated previously within UFO research communities: witness testimony, scientific investigation, coordinated sightings, symbolic visions and the possibility that contact could be meaningful rather than hostile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (film) &#124; Film &#124; Research Starters &#124; EBSCO Research...</span></span></span>
+The influence did not move in only one direction. Once *Close Encounters* reached cinemas in 1977, it helped reshape public expectations about UFO experiences. Millions of viewers encountered ideas that had circulated previously within UFO research communities: witness testimony, scientific investigation, coordinated sightings, symbolic visions and the possibility that contact could be meaningful rather than hostile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Close Encounters of the Third Kind (film) &#124; Film &#124; Research Starters &#124; EBSCO Research...</span></span></span>
 
-This created a feedback loop between research and fiction. Vallée’s ideas helped inspire elements of the film, but the film then became one of the most influential representations of UFO encounters in popular culture. Later witnesses, researchers and science-fiction creators operated in a world where *Close Encounters* had become part of the cultural vocabulary surrounding UFOs. The boundary between investigation and imagination became increasingly porous, illustrating one of the central themes in the history of UFO culture: science-fiction stories often draw from UFO beliefs, and those stories can in turn influence how people interpret unexplained experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicClose Encounters: Influences and Production Background &#124; Close Encounters of the Third Kind &#124; Liverpool Scholarship Online &#124;...</span></span></span>
+This created a feedback loop between research and fiction. Vallée’s ideas helped inspire elements of the film, but the film then became one of the most influential representations of UFO encounters in popular culture. Later witnesses, researchers and science-fiction creators operated in a world where *Close Encounters* had become part of the cultural vocabulary surrounding UFOs. The boundary between investigation and imagination became increasingly porous, illustrating one of the central themes in the history of UFO culture: science-fiction stories often draw from UFO beliefs, and those stories can in turn influence how people interpret unexplained experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicClose Encounters: Influences and Production Background &#124; Close Encounters of the Third Kind &#124; Liverpool Scholarship Online &#124;...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-3-dark.svg" | relative_url }}" alt="Spielberg Link illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_vallee_folklore_872f63_vallee_close_encount_c2b844-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -320,201 +320,201 @@ This created a feedback loop between research and fiction. Vallée’s ideas hel
 
 Vallée’s contribution to *Close Encounters* was less about specific plot points than about a way of thinking. He encouraged attention to mystery, witness experience, folklore parallels and unanswered questions. Spielberg transformed those ideas into a cinematic language of awe, obsession and communication.
 
-The enduring significance of the film is that it captured a moment when UFO research and science-fiction cinema were increasingly intertwined. Vallée brought concepts from serious UFO inquiry into the creative process, while Spielberg translated them into one of the most influential science-fiction films ever made. The result was a cultural landmark that helped define how modern audiences imagine a close encounter: not merely as a meeting with aliens, but as an encounter with something that challenges ordinary assumptions about reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
+The enduring significance of the film is that it captured a moment when UFO research and science-fiction cinema were increasingly intertwined. Vallée brought concepts from serious UFO inquiry into the creative process, while Spielberg translated them into one of the most influential science-fiction films ever made. The result was a cultural landmark that helped define how modern audiences imagine a close encounter: not merely as a meeting with aliens, but as an encounter with something that challenges ordinary assumptions about reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/jacques-vallee-still-doesnt-know-what-ufos-are" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Jacques Vallée Still Doesn&#x27;t Know What UFOs Are</span><span class="citation-popover-snippet">Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsO7f4bgGm8" title="Ancient Aliens: Steven Spielberg&#x27;s Probing Investigation of UFOs (S20) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsO7f4bgGm8" target="_blank" rel="noopener noreferrer">Ancient Aliens: Steven Spielberg&#x27;s Probing Investigation of UFOs (S20) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsO7f4bgGm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsO7f4bgGm8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How did Vallée shape UFO cinema?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How did Vallée shape UFO cinema?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that UFO encounters share patterns with folklore, myths and older legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that UFO encounters share patterns with folklore, myths and older legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Documents unusual aerial phenomena across centuries, supporting the historical-comparison approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents unusual aerial phenomena across centuries, supporting the historical-comparison approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Illustrates the language and assumptions that shaped postwar UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the language and assumptions that shaped postwar UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Expands the challenge to simple extraterrestrial explanations and explores recurring encounter patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Expands the challenge to simple extraterrestrial explanations and explores recurring encounter patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="spielberg-link-how-did-vall-e-shape-ufo-cinema-relationships-betwee-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ The enduring significance of the film is that it captured a moment when UFO rese
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ The enduring significance of the film is that it captured a moment when UFO rese
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ The enduring significance of the film is that it captured a moment when UFO rese
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ The enduring significance of the film is that it captured a moment when UFO rese
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ The enduring significance of the film is that it captured a moment when UFO rese
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,58 +720,58 @@ The enduring significance of the film is that it captured a moment when UFO rese
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: Jacques Vallée Still Doesn't Know What UFOs Are  
-   Link: <a href="https://www.wired.com/story/jacques-[vallee" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-[vallee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</p></details>
+   Link:<a href="https://www.wired.com/story/jacques-[vallee" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/jacques-[vallee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite his extensive research, Vallée maintains that he does not know what UFOs truly are but believes the answer lies beyond simplistic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicClose Encounters: Influences and Production Background | Close Encounters of the Third Kind | Liverpool Scholarship Online |...</p></details>
+   Link:<a href="https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/liverpool-scholarship-online/book/37761/chapter/332134896</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicClose Encounters: Influences and Production Background | Close Encounters of the Third Kind | Liverpool Scholarship Online |...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/155mwo4" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/155mwo4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia by Jacques Vallee, 1969 First Edition -- A book everyone here should readJuly 21, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/155mwo4" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/155mwo4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passport to Magonia by Jacques Vallee, 1969 First Edition -- A book everyone here should readJuly 21, 2023...</p></details>
    Published: July 21, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (film) | Film | Research Starters | EBSCO Research...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/film/close-encounters-third-kind-film</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (film) | Film | Research Starters | EBSCO Research...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/zddktx" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/zddktx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the movie Close Encounters of the Third Kind (1977), the french investigator is based off a real life person named Dr. Jacque Vallee.Dece...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/zddktx" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/zddktx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the movie Close Encounters of the Third Kind (1977), the french investigator is based off a real life person named Dr. Jacque Vallee.Dece...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Steven Spielberg's Probing Investigation of UFOs (S20) | History  
-   Link: <a href="http://www.youtube.com/watch?v=RsO7f4bgGm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RsO7f4bgGm8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Close Encounters of the Third Kind Jacques Vallée on meeting Stephen Spielberg while filming Close Encounters of the 3rd K...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=RsO7f4bgGm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RsO7f4bgGm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Close Encounters of the Third Kind Jacques Vallée on meeting Stephen Spielberg while filming Close Encounters of the 3rd K...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=f5nRobb-398" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=f5nRobb-398</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée on meeting Stephen Spielberg while filming Close Encounters of the 3rd Kind...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=f5nRobb-398" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=f5nRobb-398</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée on meeting Stephen Spielberg while filming Close Encounters of the 3rd Kind...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Spielberg Based a Character in Closer Encounters on Jacques Valle  
-   Link: <a href="http://www.youtube.com/watch?v=Ao7Ohu4WWAc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ao7Ohu4WWAc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Close Encounters of the Third Kind, J Allen Hynek and Jacques Valle...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ao7Ohu4WWAc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ao7Ohu4WWAc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Close Encounters of the Third Kind, J Allen Hynek and Jacques Valle...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=KjXsOrJegiE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KjXsOrJegiE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2288 - Jacques Vallée...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KjXsOrJegiE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KjXsOrJegiE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2288 - Jacques Vallée...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vZEcVY2iZsk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Steven Spielberg&#x27;s Probing Investigation of UFOs (S20) | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vZEcVY2iZsk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Steven Spielberg&#x27;s Probing Investigation of UFOs (S20) | History...</p></details>

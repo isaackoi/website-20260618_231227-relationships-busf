@@ -445,19 +445,19 @@ Alien abduction stories feel familiar because they combine several recognisable 
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19-overview.webp" | relative_url }}" alt="Overview image for Abductions" loading="eager" decoding="sync" fetchpriority="high">
-The clearest pattern is not simple copying from fiction. It is a feedback loop. Personal fear, sleep experiences, hypnosis, medical anxiety and cultural imagery all give people ways to organise ambiguous experiences into a story with a beginning, middle and end. The Betty and Barney Hill case gave the modern abduction narrative its most influential early shape; later researchers, sceptics, therapists, television dramas and films helped standardise the version now recognised almost instantly as “alien abduction”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.unh.edu">[UNH Archives+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.unh.edu</span><span class="citation-popover-snippet">Open source on unh.edu.</span></span></span>
+The clearest pattern is not simple copying from fiction. It is a feedback loop. Personal fear, sleep experiences, hypnosis, medical anxiety and cultural imagery all give people ways to organise ambiguous experiences into a story with a beginning, middle and end. The Betty and Barney Hill case gave the modern abduction narrative its most influential early shape; later researchers, sceptics, therapists, television dramas and films helped standardise the version now recognised almost instantly as “alien abduction”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.unh.edu">[unh.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.unh.edu</span><span class="citation-popover-snippet">Open source on unh.edu.</span></span></span>
 
 ## Bedroom visitors and missing time
 
 The abduction story usually begins not in deep space, but in an ordinary setting made suddenly unsafe: a car on a lonely road, a bedroom at night, a campsite, a field, or a house where the witness should be protected. That is one reason the motif became so durable. Unlike invasion science fiction, which imagines cities, armies and planetary crisis, abduction stories bring cosmic threat into the private body and the private room.
 
-“Missing time” is central to this effect. In many abduction narratives, the person does not initially remember a full dramatic encounter. Instead, they notice a discontinuity: a journey took too long, a clock seems wrong, clothes are disturbed, or the person wakes with a sense that something has happened. Folklorist Thomas E. Bullard’s influential comparison of abduction reports identified a recurring sequence that includes capture, examination, communication, memory loss, return and aftermath, although not every account contains every stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Narrative of the abduction phenomenon</span><span class="citation-popover-snippet">Narrative of the abduction phenomenon</span></span></span>
+“Missing time” is central to this effect. In many abduction narratives, the person does not initially remember a full dramatic encounter. Instead, they notice a discontinuity: a journey took too long, a clock seems wrong, clothes are disturbed, or the person wakes with a sense that something has happened. Folklorist Thomas E. Bullard’s influential comparison of abduction reports identified a recurring sequence that includes capture, examination, communication, memory loss, return and aftermath, although not every account contains every stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Narrative of the abduction phenomenon</span><span class="citation-popover-snippet">Narrative of the abduction phenomenon</span></span></span>
 
-The Hill case made this structure culturally famous. Betty and Barney Hill reported a 1961 UFO encounter while driving through New Hampshire’s White Mountains; the University of New Hampshire archive describes them as becoming internationally known for saying they had been abducted by aliens, and its collection includes papers, correspondence, Betty’s dress and a bust of one of the beings as Betty described it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.unh.edu">[UNH Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.unh.edu</span><span class="citation-popover-snippet">Open source on unh.edu.</span></span></span> The story became widely public through John G. Fuller’s 1966 book *The Interrupted Journey* and later through the 1975 television film *The UFO Incident*, which helped move abduction imagery from UFO subculture into mass screen culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
+The Hill case made this structure culturally famous. Betty and Barney Hill reported a 1961 UFO encounter while driving through New Hampshire’s White Mountains; the University of New Hampshire archive describes them as becoming internationally known for saying they had been abducted by aliens, and its collection includes papers, correspondence, Betty’s dress and a bust of one of the beings as Betty described it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.unh.edu">[UNH Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.unh.edu</span><span class="citation-popover-snippet">Open source on unh.edu.</span></span></span> The story became widely public through John G. Fuller’s 1966 book *The Interrupted Journey* and later through the 1975 television film *The UFO Incident*, which helped move abduction imagery from UFO subculture into mass screen culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 
-Bedroom abductions later shifted the scene even closer to sleep. In these accounts, the witness may wake paralysed, sense a presence, see figures near the bed, or feel lifted, touched or watched. Psychology research gives this motif an important non-extraterrestrial mechanism: sleep paralysis can involve temporary inability to move at the edge of sleep, vivid hallucinations and a felt presence in the room. McNally and Clancy reported that ten people in one study who described alien abduction also described apparent sleep paralysis episodes, with hypnopompic hallucinations interpreted as alien beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Bedroom abductions later shifted the scene even closer to sleep. In these accounts, the witness may wake paralysed, sense a presence, see figures near the bed, or feel lifted, touched or watched. Psychology research gives this motif an important non-extraterrestrial mechanism: sleep paralysis can involve temporary inability to move at the edge of sleep, vivid hallucinations and a felt presence in the room. McNally and Clancy reported that ten people in one study who described alien abduction also described apparent sleep paralysis episodes, with hypnopompic hallucinations interpreted as alien beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-This does not mean every story has the same cause. It does show why abduction imagery fits so neatly around night-time terror. A person who wakes unable to move, feels watched, and struggles to explain a vivid experience may reach for the most available cultural script. In earlier periods, that script might have involved demons, spirits or fairies. In the late twentieth-century UFO environment, the script increasingly involved aliens, craft, beams and medical rooms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drmsh.com/discussion-starters-on-bullards-supernatural-kidnapping-folklore-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drmsh.com">[Dr. Michael Heiser]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drmsh.com</span><span class="citation-popover-title">Dr. Michael Heiser Discussion Starters on Bullard&#x27;s Supernatural Kidnapping</span><span class="citation-popover-snippet">Dr. Michael Heiser Discussion Starters on Bullard&#x27;s Supernatural Kidnapping</span></span></span>
+This does not mean every story has the same cause. It does show why abduction imagery fits so neatly around night-time terror. A person who wakes unable to move, feels watched, and struggles to explain a vivid experience may reach for the most available cultural script. In earlier periods, that script might have involved demons, spirits or fairies. In the late twentieth-century UFO environment, the script increasingly involved aliens, craft, beams and medical rooms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drmsh.com/discussion-starters-on-bullards-supernatural-kidnapping-folklore-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drmsh.com">[Dr. Michael Heiser]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drmsh.com</span><span class="citation-popover-title">Dr. Michael Heiser Discussion Starters on Bullard&#x27;s Supernatural Kidnapping</span><span class="citation-popover-snippet">Dr. Michael Heiser Discussion Starters on Bullard&#x27;s Supernatural Kidnapping</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19-Illustration-1-dark.svg" | relative_url }}" alt="Abductions illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -465,9 +465,9 @@ This does not mean every story has the same cause. It does show why abduction im
 
 The most distinctive abduction image is not the [flying saucer]({{ 'flying-saucer/' | relative_url }}) itself. It is the examination room. The witness is taken from ordinary life into a bright, controlled, clinical space where small beings examine, scan, restrain or sample the body. This is where science fiction, medicine and fear converge most sharply.
 
-The scene is powerful because it turns modern medicine into alien ritual. Many abduction accounts include procedures focused on the head, skin, nervous system, reproductive organs, pregnancy, samples, implants or instruments. The body is treated less as a patient’s body than as a specimen. That difference matters: the terror is not simply pain, but helplessness under an unreadable intelligence. Summaries of abduction literature note that the “examination” phase commonly involves medical procedures performed without the experiencer’s consent, often with emphasis on sex and reproduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
+The scene is powerful because it turns modern medicine into alien ritual. Many abduction accounts include procedures focused on the head, skin, nervous system, reproductive organs, pregnancy, samples, implants or instruments. The body is treated less as a patient’s body than as a specimen. That difference matters: the terror is not simply pain, but helplessness under an unreadable intelligence. Summaries of abduction literature note that the “examination” phase commonly involves medical procedures performed without the experiencer’s consent, often with emphasis on sex and reproduction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
 
-The Hill narrative helped establish this imagery. Under hypnosis, the Hills described being taken aboard a craft and examined; later accounts of the case emphasised samples, bodily inspection, unusual beings and a clinical interior. The Harvard Gazette’s discussion of alien abduction memories gives a typical later version of the script: a person recalls being taken through a window into a spaceship, frightened in a medical examining room, and returned to bed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims examined</span><span class="citation-popover-snippet">Gazette Alien abduction claims examined</span></span></span>
+The Hill narrative helped establish this imagery. Under hypnosis, the Hills described being taken aboard a craft and examined; later accounts of the case emphasised samples, bodily inspection, unusual beings and a clinical interior. The Harvard Gazette’s discussion of alien abduction memories gives a typical later version of the script: a person recalls being taken through a window into a spaceship, frightened in a medical examining room, and returned to bed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims examined</span><span class="citation-popover-snippet">Gazette Alien abduction claims examined</span></span></span>
 
 This imagery also reflects twentieth-century anxieties that science fiction had already explored. Hospitals, laboratories and military research sites became familiar settings for stories about secret knowledge and dehumanising technology. Abduction narratives compress those fears into a personal scene: the alien is not merely a visitor from another planet, but a doctor, scientist, interrogator and captor at once.
 
@@ -480,11 +480,11 @@ The medical scene also made abductions unusually adaptable for television and fi
 
 Science fiction did not need to invent every abduction detail to shape the phenomenon. Its stronger role was standardisation. It supplied a shared look, rhythm and set of expectations: small humanoids, large eyes, silent control, telepathic communication, saucer interiors, laboratory-like rooms, beams of light and memory suppression.
 
-One debated example is the resemblance between Barney Hill’s hypnotically recovered description of beings with large wraparound eyes and an episode of *The Outer Limits*. Martin Kottmeyer argued in 1990 that Barney’s description may have been influenced by “The Bellero Shield”, broadcast on 10 February 1964, shortly before Barney’s hypnosis session of 22 February 1964. The episode included an extraterrestrial with striking eyes, and sceptical writers have treated the timing as evidence that television imagery may have entered memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">The Eyes that Spoke</span><span class="citation-popover-snippet">The Eyes that Spoke</span></span></span>
+One debated example is the resemblance between Barney Hill’s hypnotically recovered description of beings with large wraparound eyes and an episode of *The Outer Limits*. Martin Kottmeyer argued in 1990 that Barney’s description may have been influenced by “The Bellero Shield”, broadcast on 10 February 1964, shortly before Barney’s hypnosis session of 22 February 1964. The episode included an extraterrestrial with striking eyes, and sceptical writers have treated the timing as evidence that television imagery may have entered memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">The Eyes that Spoke</span><span class="citation-popover-snippet">The Eyes that Spoke</span></span></span>
 
-The argument is suggestive rather than conclusive. Betty Hill reportedly denied knowing the episode, and cultural influence is rarely provable in a single case. Folklorist Thomas Bullard also cautioned against reducing abduction accounts to Hollywood copying, arguing that the abduction literature does not simply reproduce the full range of screen monsters and robots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Betty_y_Barney_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Betty y Barney Hill</span><span class="citation-popover-snippet">Betty y Barney Hill</span></span></span> The more careful conclusion is that screen culture formed part of the surrounding image bank from which memories, dreams, investigators and audiences could draw.
+The argument is suggestive rather than conclusive. Betty Hill reportedly denied knowing the episode, and cultural influence is rarely provable in a single case. Folklorist Thomas Bullard also cautioned against reducing abduction accounts to Hollywood copying, arguing that the abduction literature does not simply reproduce the full range of screen monsters and robots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Betty_y_Barney_Hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Betty y Barney Hill</span><span class="citation-popover-snippet">Betty y Barney Hill</span></span></span> The more careful conclusion is that screen culture formed part of the surrounding image bank from which memories, dreams, investigators and audiences could draw.
 
-Older pulp and comic imagery also matters. Sceptical and folkloric discussions have pointed to pre-Hill science fiction scenes involving capture, alien rooms and bodies on tables, including examples from early twentieth-century [comics]({{ 'comics/' | relative_url }}) and magazine art. Such parallels do not prove direct borrowing by witnesses, but they show that the abduction structure was already imaginable before it became a claimed lived experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Narrative of the abduction phenomenon</span><span class="citation-popover-snippet">Narrative of the abduction phenomenon</span></span></span>
+Older pulp and comic imagery also matters. Sceptical and folkloric discussions have pointed to pre-Hill science fiction scenes involving capture, alien rooms and bodies on tables, including examples from early twentieth-century [comics]({{ 'comics/' | relative_url }}) and magazine art. Such parallels do not prove direct borrowing by witnesses, but they show that the abduction structure was already imaginable before it became a claimed lived experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Narrative of the abduction phenomenon</span><span class="citation-popover-snippet">Narrative of the abduction phenomenon</span></span></span>
 
 Once the script existed, repetition made it easier to recognise. A witness, therapist, journalist or television writer did not need to invent the whole story each time. The familiar sequence could be assembled from a small number of parts:
 
@@ -508,9 +508,9 @@ This structure made abduction stories unusually portable. They could appear as s
 
 The “Grey” alien became the visual shorthand for abduction because it solved a storytelling problem. A monster can be frightening, but a small, smooth, unreadable being is more disturbing in a clinical abduction scene. It looks intelligent, emotionless and physically weak yet somehow in control. That combination suits a narrative based less on combat than on paralysis, observation and bodily vulnerability.
 
-The Hill case is often treated as a key step in popularising this form, although the exact development of the Grey image is contested. Later accounts and media depictions emphasised large eyes, small bodies, smooth heads and minimal facial features. The University of New Hampshire’s material on the Hill collection notes that Betty commissioned a bust of one of the aliens, and a related archival analysis describes the Hills’ commissioned visual depictions as contributing to an image now closely associated with the word “alien”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">Library &#124; University of New Hampshire Using the Betty &amp; Barney Hill Collection</span><span class="citation-popover-snippet">Library &#124; University of New Hampshire Using the Betty &amp; Barney Hill Collection</span></span></span>
+The Hill case is often treated as a key step in popularising this form, although the exact development of the Grey image is contested. Later accounts and media depictions emphasised large eyes, small bodies, smooth heads and minimal facial features. The University of New Hampshire’s material on the Hill collection notes that Betty commissioned a bust of one of the aliens, and a related archival analysis describes the Hills’ commissioned visual depictions as contributing to an image now closely associated with the word “alien”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library | University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">Library &#124; University of New Hampshire Using the Betty &amp; Barney Hill Collection</span><span class="citation-popover-snippet">Library &#124; University of New Hampshire Using the Betty &amp; Barney Hill Collection</span></span></span>
 
-The large eyes are especially important. Eyes carry emotion, intention and threat. In abduction imagery, they often replace speech: the alien stares, commands, paralyses or communicates. Kottmeyer’s “Eyes that Spoke” essay focused on this motif, linking it to the Hill case and to wider science-fiction imagery of alien eyes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">The Eyes that Spoke</span><span class="citation-popover-snippet">The Eyes that Spoke</span></span></span>
+The large eyes are especially important. Eyes carry emotion, intention and threat. In abduction imagery, they often replace speech: the alien stares, commands, paralyses or communicates. Kottmeyer’s “Eyes that Spoke” essay focused on this motif, linking it to the Hill case and to wider science-fiction imagery of alien eyes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">The Eyes that Spoke</span><span class="citation-popover-snippet">The Eyes that Spoke</span></span></span>
 
 The Grey also works because it is almost human but not quite. It has a head, eyes, torso and limbs, so viewers recognise agency and intelligence. Yet its face is too smooth, its eyes too large, and its body too slight. That near-human design fits the psychological atmosphere of abduction stories: the experience is intimate, bodily and personal, but the beings remain unreadable.
 
@@ -521,9 +521,9 @@ The Grey also works because it is almost human but not quite. It has a head, eye
 
 Many famous abduction accounts are not presented as fully remembered events from the start. They often emerge through attempts to explain fragments: nightmares, anxiety, unusual marks, missing time, or a feeling that something hidden must be recovered. Hypnosis became important in UFO abduction culture because it promised access to concealed memory. It also became controversial because memory researchers have shown that suggestion, expectation and imagination can shape what people later experience as memory.
 
-Harvard research on people reporting recovered memories of alien abduction found increased vulnerability to memory distortion in such groups, and the Harvard Gazette reported that abduction memories could provoke physiological reactions similar to those seen when people recall recognised traumatic experiences. That finding is subtle: it suggests the memories can be emotionally and bodily real to the person, without proving that the events happened as described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gruberpeplab.com/teaching/psych3303_spring2018/documents/11.2_Clancy2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gruberpeplab.com">[Gruber Pep Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gruberpeplab.com</span><span class="citation-popover-title">11.2 Clancy2002</span><span class="citation-popover-snippet">11.2 Clancy2002</span></span></span>
+Harvard research on people reporting recovered memories of alien abduction found increased vulnerability to memory distortion in such groups, and the Harvard Gazette reported that abduction memories could provoke physiological reactions similar to those seen when people recall recognised traumatic experiences. That finding is subtle: it suggests the memories can be emotionally and bodily real to the person, without proving that the events happened as described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gruberpeplab.com/teaching/psych3303_spring2018/documents/11.2_Clancy2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gruberpeplab.com">[Gruber Pep Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gruberpeplab.com</span><span class="citation-popover-title">11.2 Clancy2002</span><span class="citation-popover-snippet">11.2 Clancy2002</span></span></span>
 
-Susan Clancy’s work is important here because it treats abductees neither as simple hoaxers nor as automatically accurate witnesses. Her account emphasises a combination of sleep experiences, cultural scripts, suggestibility, imagination and the human desire for meaningful explanation. A Wired interview about her book summarised her position bluntly: abductees are not “nuts”, but ordinary people can come to hold extraordinary beliefs through normal psychological mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Regret Is Alien to UFO Abductees</span><span class="citation-popover-snippet">Regret Is Alien to UFO Abductees</span></span></span>
+Susan Clancy’s work is important here because it treats abductees neither as simple hoaxers nor as automatically accurate witnesses. Her account emphasises a combination of sleep experiences, cultural scripts, suggestibility, imagination and the human desire for meaningful explanation. A Wired interview about her book summarised her position bluntly: abductees are not “nuts”, but ordinary people can come to hold extraordinary beliefs through normal psychological mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Regret Is Alien to UFO Abductees</span><span class="citation-popover-snippet">Regret Is Alien to UFO Abductees</span></span></span>
 
 This is where science fiction imagery becomes active rather than decorative. A person trying to understand an ambiguous experience needs content: Who was in the room? Why could I not move? Why was I afraid? Why do I feel changed? A culture saturated with alien abduction imagery offers answers. The result can be a narrative that feels discovered, not invented, because its emotional core is genuine even when its imagery is culturally supplied.
 
@@ -535,7 +535,7 @@ Alien abductions became one of the most recognisable branches of UFO culture bec
 
 Science fiction imagery did not act on an empty mind. It met existing fears: fear of medical violation, fear of lost control, fear of sleep, fear of surveillance, fear of scientific authority, fear of being disbelieved, and fear that the body itself may hold hidden evidence. The abduction script gave those fears a modern costume.
 
-Official and scientific UAP discussions remain separate from abduction claims. NASA’s 2023 independent study report stated that there was no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP, and NASA’s public FAQ says there are no data supporting UAP as evidence of alien technologies. AARO, the US defence office investigating UAP, likewise says it has found no evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Official and scientific UAP discussions remain separate from abduction claims. NASA’s 2023 independent study report stated that there was no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP, and NASA’s public FAQ says there are no data supporting UAP as evidence of alien technologies. AARO, the US defence office investigating UAP, likewise says it has found no evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 That evidence gap does not make abduction stories culturally unimportant. It makes them important in a different way. They show how UFO culture and science fiction can merge around a motif strong enough to organise dreams, memories, media images and personal testimony. The abduction story endures because it is not only about aliens. It is about the modern body under examination, the bedroom made unsafe, and the uneasy possibility that the images we use to explain fear may also help shape what fear becomes.
 
@@ -544,194 +544,194 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Alien Abduction Stories Feel So Familiar. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Alien Abduction Stories Feel So Familiar. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack, Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+</h4>
+<p class="fr-book-author">By John E. Mack, Mack</p>
         
-        <p class="fr-book-desc">Examines experiencer narratives and their psychological and cultural meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines experiencer narratives and their psychological and cultural meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed"><img src="{{ '/assets/images/marketplace-covers/14676aae3cb867bb0a6c.jpg' | relative_url }}" alt="Listing image for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed"><img src="{{ '/assets/images/marketplace-covers/14676aae3cb867bb0a6c.jpg' | relative_url }}" alt="Listing image for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;"><img src="{{ '/assets/images/marketplace-covers/2501a43cedfa1b44778d.jpg' | relative_url }}" alt="Listing image for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;"><img src="{{ '/assets/images/marketplace-covers/2501a43cedfa1b44778d.jpg' | relative_url }}" alt="Listing image for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/968ff0f45a8670cd676d.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="{{ '/assets/images/marketplace-covers/968ff0f45a8670cd676d.jpg' | relative_url }}" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="abductions-why-alien-abduction-stories-feel-so-familiar-relationships-betwee-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -747,7 +747,7 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -767,7 +767,7 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -799,7 +799,7 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -851,7 +851,7 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -896,7 +896,7 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -937,192 +937,192 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.unh.edu  
-   Link: <a href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow">https://archives.unh.edu/repositories/3/resources/107</a>  
+   Link:<a href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow">https://archives.unh.edu/repositories/3/resources/107</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Narrative of the abduction phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Narrative_of_the_abduction_phenomenon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: library.unh.edu  
    Title: Library | University of New Hampshire Using the Betty & Barney Hill Collection  
-   Link: <a href="https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection</a>  
+   Link:<a href="https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Barney and Betty Hill incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.harvard.edu  
    Title: Gazette Alien abduction claims examined  
-   Link: <a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
+   Link:<a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
    Title: The Eyes that Spoke  
-   Link: <a href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/eyes-that-spoke/</a>  
+   Link:<a href="https://skepticalinquirer.org/newsletter/eyes-that-spoke/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/eyes-that-spoke/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: The Bellero Shield  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Bellero_Shield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Bellero_Shield</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Bellero_Shield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Bellero_Shield</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Betty y Barney Hill  
-   Link: <a href="https://es.wikipedia.org/wiki/Betty_y_Barney_Hill" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Betty_y_Barney_Hill</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Betty_y_Barney_Hill" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Betty_y_Barney_Hill</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
    Title: Regret Is Alien to UFO Abductees  
-   Link: <a href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees</a>  
+   Link:<a href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: NASA [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link: <a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006</a>  
+   Link:<a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence [alien technology](&#123;&#123; 'tech-magic/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dash.harvard.edu  
    Title: alien abduction  
-   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
+   Link:<a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.harvard.edu  
    Title: alien abduction claims explained  
-   Link: <a href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/</a>  
+   Link:<a href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.harvard.edu  
    Title: starship memories 2  
-   Link: <a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
+   Link:<a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepticalinquirer.org  
    Title: abductive reasoning  
-   Link: <a href="https://skepticalinquirer.org/exclusive/abductive-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/abductive-reasoning/</a>  
+   Link:<a href="https://skepticalinquirer.org/exclusive/abductive-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/abductive-reasoning/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15881271/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/15881271/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15881271/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: drmsh.com  
    Title: Dr. Michael Heiser Discussion Starters on Bullard's Supernatural Kidnapping  
-   Link: <a href="https://drmsh.com/discussion-starters-on-bullards-supernatural-kidnapping-folklore-article/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/discussion-starters-on-bullards-supernatural-kidnapping-folklore-article/</a>  
+   Link:<a href="https://drmsh.com/discussion-starters-on-bullards-supernatural-kidnapping-folklore-article/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/discussion-starters-on-bullards-supernatural-kidnapping-folklore-article/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gruberpeplab.com  
    Title: 11.2 Clancy2002  
-   Link: <a href="https://www.gruberpeplab.com/teaching/psych3303_spring2018/documents/11.2_Clancy2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gruberpeplab.com/teaching/psych3303_spring2018/documents/11.2_Clancy2002.pdf</a>  
+   Link:<a href="https://www.gruberpeplab.com/teaching/psych3303_spring2018/documents/11.2_Clancy2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gruberpeplab.com/teaching/psych3303_spring2018/documents/11.2_Clancy2002.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theouterlimits.fandom.com  
    Title: The Bellero Shield  
-   Link: <a href="https://theouterlimits.fandom.com/wiki/The_Bellero_Shield" target="_blank" rel="noopener noreferrer nofollow">https://theouterlimits.fandom.com/wiki/The_Bellero_Shield</a>  
+   Link:<a href="https://theouterlimits.fandom.com/wiki/The_Bellero_Shield" target="_blank" rel="noopener noreferrer nofollow">https://theouterlimits.fandom.com/wiki/The_Bellero_Shield</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/902349343110685/posts/9249793728366163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/902349343110685/posts/9249793728366163/</a>  
+   Link:<a href="https://www.facebook.com/groups/902349343110685/posts/9249793728366163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/902349343110685/posts/9249793728366163/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16571535/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16571535/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16571535/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16571535/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.1121309" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.1121309</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.1121309" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.1121309</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW  
-   Link: <a href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wQVN0atWLw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Angel Of History | 4:3 Feature Films...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wQVN0atWLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Last Angel Of History | 4:3 Feature Films...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO's Are Real | FULL MOVIE | Aliens Sci-Fi Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oM9WfDBRNcg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oM9WfDBRNcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: The Abduction of Betty & Barney Hill  
-   Link: <a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010003-8.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232553365_Alien_abduction_experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232553365_Alien_abduction_experiences</a>  
+   Link:<a href="https://www.researchgate.net/publication/232553365_Alien_abduction_experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232553365_Alien_abduction_experiences</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: outdoors.org  
-   Link: <a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
+   Link:<a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: sites.usnh.edu  
-   Link: <a href="https://sites.usnh.edu/archivalanalysis/hill-collection-overview/" target="_blank" rel="noopener noreferrer nofollow">https://sites.usnh.edu/archivalanalysis/hill-collection-overview/</a>  
+   Link:<a href="https://sites.usnh.edu/archivalanalysis/hill-collection-overview/" target="_blank" rel="noopener noreferrer nofollow">https://sites.usnh.edu/archivalanalysis/hill-collection-overview/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html</a>  
+   Link:<a href="https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html</a>  

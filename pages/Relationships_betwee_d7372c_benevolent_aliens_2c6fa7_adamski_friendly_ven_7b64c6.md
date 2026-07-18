@@ -274,45 +274,45 @@ image: /assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adams
 
 ## Introduction
 
-George Adamski became the most famous UFO contactee of the 1950s because he transformed the [flying saucer]({{ 'flying-saucer/' | relative_url }}) from a symbol of threat into a vehicle for a moral message. According to Adamski, his 1952 encounter in the California desert was not a meeting with conquerors or invaders but with a friendly Venusian named Orthon. The visitor’s purpose, Adamski claimed, was to warn humanity about the dangers of nuclear weapons and to encourage a more peaceful path for civilisation. This message proved enormously influential because it aligned Cold War anxieties with a hopeful science-fiction narrative: advanced beings from space were watching over Earth and trying to prevent self-destruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
+George Adamski became the most famous UFO contactee of the 1950s because he transformed the [flying saucer]({{ 'flying-saucer/' | relative_url }}) from a symbol of threat into a vehicle for a moral message. According to Adamski, his 1952 encounter in the California desert was not a meeting with conquerors or invaders but with a friendly Venusian named Orthon. The visitor’s purpose, Adamski claimed, was to warn humanity about the dangers of nuclear weapons and to encourage a more peaceful path for civilisation. This message proved enormously influential because it aligned Cold War anxieties with a hopeful science-fiction narrative: advanced beings from space were watching over Earth and trying to prevent self-destruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-1-dark.svg" | relative_url }}" alt="Adamski illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader relationship between UFO culture and science fiction, Adamski’s story helped establish the enduring image of benevolent extraterrestrials as wise advisers rather than hostile invaders. Even though investigators later challenged his evidence and many researchers concluded that his claims were not credible, the narrative itself became one of the defining myths of the contactee era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
+Within the broader relationship between UFO culture and science fiction, Adamski’s story helped establish the enduring image of benevolent extraterrestrials as wise advisers rather than hostile invaders. Even though investigators later challenged his evidence and many researchers concluded that his claims were not credible, the narrative itself became one of the defining myths of the contactee era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IbqRFzXN7xM" title="George Adamski : le premier humain contacté par un OVNI ? - L&#x27;Heure H" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IbqRFzXN7xM" target="_blank" rel="noopener noreferrer">George Adamski : le premier humain contacté par un OVNI ? - L&#x27;Heure H</a></p><p class="youtube-embed-meta">Channel: RTBF &middot; Views: 68.0K &middot; Uploaded: September 2024 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IbqRFzXN7xM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IbqRFzXN7xM">Open on YouTube</a></p></div></div></div>
 
 ## The Desert Meeting Claim
 
-Adamski's most famous account centred on an alleged encounter near Desert Center, California, in November 1952. He stated that he and several companions observed unusual aerial objects before he was allowed to approach a humanoid visitor alone. The being, whom Adamski later identified as Orthon, was described as human-looking, attractive and calm rather than monstrous or threatening. Communication supposedly occurred largely through gestures and a form of telepathic understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads+2history.denverlibrary.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
+Adamski's most famous account centred on an alleged encounter near Desert Center, California, in November 1952. He stated that he and several companions observed unusual aerial objects before he was allowed to approach a humanoid visitor alone. The being, whom Adamski later identified as Orthon, was described as human-looking, attractive and calm rather than monstrous or threatening. Communication supposedly occurred largely through gestures and a form of telepathic understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[goodreads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
 
-What made the story distinctive was not merely the claim of contact but the character of the visitor. In much popular science fiction of the period, aliens often represented invasion, espionage or technological menace. Adamski instead portrayed Orthon as courteous, spiritually advanced and deeply concerned about humanity's future. The Venusian did not arrive with demands or weapons. He arrived with a warning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
+What made the story distinctive was not merely the claim of contact but the character of the visitor. In much popular science fiction of the period, aliens often represented invasion, espionage or technological menace. Adamski instead portrayed Orthon as courteous, spiritually advanced and deeply concerned about humanity's future. The Venusian did not arrive with demands or weapons. He arrived with a warning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
 
-Adamski published the account in *Flying [Saucers]({{ 'saucers/' | relative_url }}) Have Landed* (1953), co-authored with Desmond Leslie. The book became one of the foundational texts of the contactee movement and introduced many readers to the idea that extraterrestrials might be benevolent guardians rather than enemies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
+Adamski published the account in *Flying [Saucers]({{ 'saucers/' | relative_url }}) Have Landed* (1953), co-authored with Desmond Leslie. The book became one of the foundational texts of the contactee movement and introduced many readers to the idea that extraterrestrials might be benevolent guardians rather than enemies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">Flying Saucers Have Landed by George Adamski &#124; Goodreads</span><span class="citation-popover-snippet">Flying Saucers Have Landed by George Adamski &#124; GoodreadsJanuary 1, 1953...</span><span class="citation-popover-meta">Published: January 1, 1953</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eh_LMjd_dZA" title="George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer">George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 12.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eh_LMjd_dZA">Open on YouTube</a></p></div></div></div>
 
 ## Nuclear Warnings and Compassion
 
-The core of Adamski's message was the claim that the "Space People" were alarmed by humanity's nuclear activities. In the years following Hiroshima, Nagasaki and the rapid escalation of the Cold War arms race, fears about atomic destruction were widespread. Adamski's Venusians allegedly shared those fears and warned that radioactive contamination and nuclear testing threatened not only Earth but the wider cosmic environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
+The core of Adamski's message was the claim that the "Space People" were alarmed by humanity's nuclear activities. In the years following Hiroshima, Nagasaki and the rapid escalation of the Cold War arms race, fears about atomic destruction were widespread. Adamski's Venusians allegedly shared those fears and warned that radioactive contamination and nuclear testing threatened not only Earth but the wider cosmic environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
 
-This framing was crucial. Orthon was presented less as an explorer and more as a concerned observer. The message combined scientific imagery—space travel, advanced technology and interplanetary visitors—with moral themes of peace, cooperation and responsibility. The advanced civilisation of Venus supposedly represented what humanity could become if it overcame violence and nationalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
+This framing was crucial. Orthon was presented less as an explorer and more as a concerned observer. The message combined scientific imagery—space travel, advanced technology and interplanetary visitors—with moral themes of peace, cooperation and responsibility. The advanced civilisation of Venus supposedly represented what humanity could become if it overcame violence and nationalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
 
-The tone was compassionate rather than apocalyptic. Unlike later UFO narratives that focused on abduction, conspiracy or catastrophe, Adamski's story suggested that superior beings wanted to help humanity avoid disaster. The aliens were depicted as patient teachers offering guidance, a role that closely resembled spiritual guardians in earlier esoteric traditions. Scholars of [UFO religion]({{ 'ufo-religion/' | relative_url }}) have noted that Adamski's ideas drew on existing metaphysical and occult concepts, recasting spiritual "higher beings" as technologically advanced visitors from other planets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
+The tone was compassionate rather than apocalyptic. Unlike later UFO narratives that focused on abduction, conspiracy or catastrophe, Adamski's story suggested that superior beings wanted to help humanity avoid disaster. The aliens were depicted as patient teachers offering guidance, a role that closely resembled spiritual guardians in earlier esoteric traditions. Scholars of [UFO religion]({{ 'ufo-religion/' | relative_url }}) have noted that Adamski's ideas drew on existing metaphysical and occult concepts, recasting spiritual "higher beings" as technologically advanced visitors from other planets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-2-dark.svg" | relative_url }}" alt="Adamski illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Story Shaped Contactee Culture
 
-Adamski's account became influential because it offered an emotionally attractive alternative to [Cold War fear]({{ 'cold-war-fear/' | relative_url }}). Instead of imagining the skies as a source of attack, it imagined them as a source of wisdom. This helped create the archetype of the "Space Brother"—a friendly extraterrestrial who combines advanced science with moral enlightenment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
+Adamski's account became influential because it offered an emotionally attractive alternative to [Cold War fear]({{ 'cold-war-fear/' | relative_url }}). Instead of imagining the skies as a source of attack, it imagined them as a source of wisdom. This helped create the archetype of the "Space Brother"—a friendly extraterrestrial who combines advanced science with moral enlightenment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
 
 Several elements made the story especially powerful:
 
-* **It connected UFOs to contemporary anxieties.** Nuclear weapons were real, immediate concerns, and Adamski's warnings gave cosmic significance to those fears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
-* **It blended science fiction with spirituality.** Spacecraft and extraterrestrials provided a [modern vocabulary]({{ 'modern-vocabulary/' | relative_url }}) for ideas that resembled older traditions of enlightened guides and hidden masters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
-* **It created a repeatable narrative template.** Later [contactees]({{ 'contactees/' | relative_url }}) frequently described beautiful, morally advanced aliens who delivered lessons about peace, environmental responsibility or spiritual growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **It connected UFOs to contemporary anxieties.** Nuclear weapons were real, immediate concerns, and Adamski's warnings gave cosmic significance to those fears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
+* **It blended science fiction with spirituality.** Spacecraft and extraterrestrials provided a [modern vocabulary]({{ 'modern-vocabulary/' | relative_url }}) for ideas that resembled older traditions of enlightened guides and hidden masters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
+* **It created a repeatable narrative template.** Later [contactees]({{ 'contactees/' | relative_url }}) frequently described beautiful, morally advanced aliens who delivered lessons about peace, environmental responsibility or spiritual growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The result was a lasting shift in UFO culture. Adamski's Venusian was not merely a character in one extraordinary claim; he became a model for countless later stories in which extraterrestrials acted as mentors rather than invaders.
 
@@ -321,204 +321,204 @@ The result was a lasting shift in UFO culture. Adamski's Venusian was not merely
 
 ## Why the Evidence Remains Contested
 
-The influence of Adamski's story should not be confused with acceptance of its factual claims. Many UFO investigators, scientists and sceptics questioned his accounts from the beginning. His photographs of flying saucers became particularly controversial, with critics arguing that some resembled ordinary manufactured objects rather than extraterrestrial craft. As Adamski expanded his claims to include journeys aboard spacecraft and visits to other planets, criticism intensified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Read Medium articles with AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The influence of Adamski's story should not be confused with acceptance of its factual claims. Many UFO investigators, scientists and sceptics questioned his accounts from the beginning. His photographs of flying saucers became particularly controversial, with critics arguing that some resembled ordinary manufactured objects rather than extraterrestrial craft. As Adamski expanded his claims to include journeys aboard spacecraft and visits to other planets, criticism intensified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Modern astronomy also undermined the literal basis of the Venusian narrative. By the late twentieth century, scientific knowledge of Venus had established that it was an extremely hostile environment, incompatible with the human-like civilisation Adamski described. This weakened the plausibility of his specific claims even among some people interested in UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[history.denverlibrary.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-snippet">Open source on denverlibrary.org.</span></span></span>
+Modern astronomy also undermined the literal basis of the Venusian narrative. By the late twentieth century, scientific knowledge of Venus had established that it was an extremely hostile environment, incompatible with the human-like civilisation Adamski described. This weakened the plausibility of his specific claims even among some people interested in UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[history.denverlibrary.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-snippet">Open source on denverlibrary.org.</span></span></span>
 
-Yet the historical importance of the story does not depend on whether Orthon existed. Adamski's account remains significant because it helped define one of the most influential themes in UFO culture: the idea that extraterrestrials might arrive not as conquerors but as compassionate messengers. In doing so, it created a bridge between post-war science-fiction imagination, Cold War nuclear fears and emerging contactee beliefs that would shape UFO narratives for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
+Yet the historical importance of the story does not depend on whether Orthon existed. Adamski's account remains significant because it helped define one of the most influential themes in UFO culture: the idea that extraterrestrials might arrive not as conquerors but as compassionate messengers. In doing so, it created a bridge between post-war science-fiction imagination, Cold War nuclear fears and emerging contactee beliefs that would shape UFO narratives for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-3-dark.svg" | relative_url }}" alt="Adamski illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_adamski_friendly_ven_7b64c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Adamski&#x27;s Venusian Seemed Friendly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Adamski&#x27;s Venusian Seemed Friendly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5yCy5kmLW40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
-        </h4>
-        <p class="fr-book-author">By Desmond Leslie, George Adamski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5yCy5kmLW40C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers Have Landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
+</h4>
+<p class="fr-book-author">By Desmond Leslie, George Adamski</p>
         
-        <p class="fr-book-desc">Directly presents the alien-warning-against-nuclear-war theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly presents the alien-warning-against-nuclear-war theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+Desmond+Leslie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Aquarian Gospel of Jesus the Christ on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aquarian Gospel of Jesus the Christ">The Aquarian Gospel of Jesus the Christ</a>
-        </h4>
-        <p class="fr-book-author">By Levi Dowling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Aquarian Gospel of Jesus the Christ on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aquarian Gospel of Jesus the Christ">The Aquarian Gospel of Jesus the Christ</a>
+</h4>
+<p class="fr-book-author">By Levi Dowling</p>
         
-        <p class="fr-book-desc">Illustrates spiritual-guide traditions that predate Space Brothers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates spiritual-guide traditions that predate Space Brothers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Have Landed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Have Landed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/308d0951e28505c67d4f.jpg' | relative_url }}" alt="Listing image for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/308d0951e28505c67d4f.jpg' | relative_url }}" alt="Listing image for MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">MONSTERS - ALIEN INVASION - ORIGINAL FRENCH MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="adamski-fbc3d4-why-adamski-s-venusian-seemed-friendly-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Yet the historical importance of the story does not depend on whether Orthon exi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Yet the historical importance of the story does not depend on whether Orthon exi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Yet the historical importance of the story does not depend on whether Orthon exi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Yet the historical importance of the story does not depend on whether Orthon exi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Yet the historical importance of the story does not depend on whether Orthon exi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,94 +724,94 @@ Yet the historical importance of the story does not depend on whether Orthon exi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: goodreads.com  
    Title: Flying Saucers Have Landed by George Adamski | Goodreads  
-   Link: <a href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow">https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers Have Landed by George Adamski | GoodreadsJanuary 1, 1953...</p></details>
+   Link:<a href="https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed" target="_blank" rel="noopener noreferrer nofollow">https://goodreads.com/book/show/3277546.Flying_Saucers_Have_Landed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers Have Landed by George Adamski | GoodreadsJanuary 1, 1953...</p></details>
    Published: January 1, 1953  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.denverlibrary.org  
-   Link: <a href="https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly</a>  
+   Link:<a href="https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readmedium.com  
    Title: Read Medium articles with AIFlying Saucers Have Landed!  
-   Link: <a href="https://readmedium.com/flying-saucers-have-landed-595d5ade9708" target="_blank" rel="noopener noreferrer nofollow">https://readmedium.com/flying-saucers-have-landed-595d5ade9708</a>  
+   Link:<a href="https://readmedium.com/flying-saucers-have-landed-595d5ade9708" target="_blank" rel="noopener noreferrer nofollow">https://readmedium.com/flying-saucers-have-landed-595d5ade9708</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: goodreads.com  
    Title: www.goodreads.com Flying Saucers Have Landed by George Adamski | Goodreads  
-   Link: <a href="https://www.goodreads.com/en/book/show/3277546" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/3277546</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers Have Landed by George Adamski | GoodreadsJanuary 1, 1953...</p></details>
+   Link:<a href="https://www.goodreads.com/en/book/show/3277546" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/3277546</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers Have Landed by George Adamski | GoodreadsJanuary 1, 1953...</p></details>
    Published: January 1, 1953  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: www.reddit.com Sigmund Adamski  
-   Link: <a href="https://www.reddit.com/r/UnsolvedMysteries/comments/f5j0nj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/f5j0nj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski - real or fake?February 18, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnsolvedMysteries/comments/f5j0nj" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/f5j0nj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski - real or fake?February 18, 2020...</p></details>
    Published: February 18, 2020  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1t7x5mk/from_contactees_to_channelled_beings_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1t7x5mk/from_contactees_to_channelled_beings_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Contactees to Channelled Beings: The Emergence of Extraterrestrial Religion in the Nuclear Age...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1t7x5mk/from_contactees_to_channelled_beings_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1t7x5mk/from_contactees_to_channelled_beings_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Contactees to Channelled Beings: The Emergence of Extraterrestrial Religion in the Nuclear Age...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: censamm.org  
    Title: critical dictionary of apocalyptic and millenarian movements cdamm  
-   Link: <a href="https://censamm.org/blog/critical-dictionary-of-apocalyptic-and-millenarian-movements-cdamm" target="_blank" rel="noopener noreferrer nofollow">https://censamm.org/blog/critical-dictionary-of-apocalyptic-and-millenarian-movements-cdamm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Dictionary of Apocalyptic and Millenarian Movements | CenSAMMJanuary 26, 2021...</p></details>
+   Link:<a href="https://censamm.org/blog/critical-dictionary-of-apocalyptic-and-millenarian-movements-cdamm" target="_blank" rel="noopener noreferrer nofollow">https://censamm.org/blog/critical-dictionary-of-apocalyptic-and-millenarian-movements-cdamm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Dictionary of Apocalyptic and Millenarian Movements | CenSAMMJanuary 26, 2021...</p></details>
    Published: January 26, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: countdowntodisclosure.com  
    Title: george adamski 1952 contact ufo culture  
-   Link: <a href="https://countdowntodisclosure.com/articles/george-adamski-1952-contact-ufo-culture/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/george-adamski-1952-contact-ufo-culture/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski’s 1952 Contact Claim and Its Influence on Early UFO Culture – Countdown to DisclosureMarch 1, 2026...</p></details>
+   Link:<a href="https://countdowntodisclosure.com/articles/george-adamski-1952-contact-ufo-culture/" target="_blank" rel="noopener noreferrer nofollow">https://countdowntodisclosure.com/articles/george-adamski-1952-contact-ufo-culture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski’s 1952 Contact Claim and Its Influence on Early UFO Culture – Countdown to DisclosureMarch 1, 2026...</p></details>
    Published: March 1, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: The first human contacted by a UFO? - The Hour...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: The first human contacted by a UFO? - The Hour...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: George Adamski: Alien Contactee!  
-   Link: <a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: censamm.org  
    Title: Critical Dictionary of Apocalyptic and Millenarian Movements | Cen SAMM  
-   Link: <a href="https://censamm.org/resources/cdamm" target="_blank" rel="noopener noreferrer nofollow">https://censamm.org/resources/cdamm</a>  
+   Link:<a href="https://censamm.org/resources/cdamm" target="_blank" rel="noopener noreferrer nofollow">https://censamm.org/resources/cdamm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unariunwisdom.com  
    Title: Venusian Contacts Part X ~ Revisiting Adamski | Unariun Wisdom  
-   Link: <a href="https://www.unariunwisdom.com/venusian-contacts-part-x-revisiting-adamski/" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/venusian-contacts-part-x-revisiting-adamski/</a>  
+   Link:<a href="https://www.unariunwisdom.com/venusian-contacts-part-x-revisiting-adamski/" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/venusian-contacts-part-x-revisiting-adamski/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: George Adamski: The first human contacted by a UFO?  
-   Link: <a href="https://www.youtube.com/watch?v=IbqRFzXN7xM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IbqRFzXN7xM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=IbqRFzXN7xM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IbqRFzXN7xM</a>  

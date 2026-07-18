@@ -280,24 +280,24 @@ image: /assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6_pr
 
 ## Introduction
 
-Within the broader relationship between UFOs and science fiction, *Project U.F.O.* occupied a distinctive middle ground. It used the suspense, mystery and visual appeal of science-fiction television, but wrapped those elements in the routines of evidence gathering, interviews and official files. The result was a formula that made UFO belief feel less like fantasy and more like an ongoing investigative question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
+Within the broader relationship between UFOs and science fiction, *Project U.F.O.* occupied a distinctive middle ground. It used the suspense, mystery and visual appeal of science-fiction television, but wrapped those elements in the routines of evidence gathering, interviews and official files. The result was a formula that made UFO belief feel less like fantasy and more like an ongoing investigative question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6_project_ufo_case_dra_bc8879-Illustration-1-dark.svg" | relative_url }}" alt="Project U F illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6_project_ufo_case_dra_bc8879-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6_project_ufo_case_dra_bc8879-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Blue Book Connection Viewers Recognised
 
-The programme openly drew inspiration from the Air Force’s Project Blue Book, the real government investigation that examined thousands of UFO reports during the Cold War. Contemporary descriptions of the series note that episode ideas were often derived from [Blue Book files]({{ 'blue-book-files/' | relative_url }}) and historical sightings, giving the show an immediate connection to records that many viewers already associated with official inquiry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
+The programme openly drew inspiration from the Air Force’s Project Blue Book, the real government investigation that examined thousands of UFO reports during the Cold War. Contemporary descriptions of the series note that episode ideas were often derived from [Blue Book files]({{ 'blue-book-files/' | relative_url }}) and historical sightings, giving the show an immediate connection to records that many viewers already associated with official inquiry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
 
-This connection provided a powerful form of narrative authority. Science-fiction series commonly asked audiences to imagine impossible events. *Project U.F.O.* instead suggested that unusual events had already been reported and documented. Even when details were dramatised, the implication was that the story originated in a case file rather than a screenwriter’s imagination. That framing encouraged viewers to see UFO reports as part of a historical archive rather than merely as entertainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
+This connection provided a powerful form of narrative authority. Science-fiction series commonly asked audiences to imagine impossible events. *Project U.F.O.* instead suggested that unusual events had already been reported and documented. Even when details were dramatised, the implication was that the story originated in a case file rather than a screenwriter’s imagination. That framing encouraged viewers to see UFO reports as part of a historical archive rather than merely as entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
 
-The opening episodes reinforced this approach by focusing on incidents resembling famous UFO cases. The first episode, “Sighting 4001: The Washington D.C. Incident”, combined witness testimony, military involvement and unexplained aerial events in a manner that echoed the structure of real UFO investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0077065/episodes/?year=1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Project U.F.O. (TV Series 1978–1979) - Episode list - IMDb...</span></span></span>
+The opening episodes reinforced this approach by focusing on incidents resembling famous UFO cases. The first episode, “Sighting 4001: The Washington D.C. Incident”, combined witness testimony, military involvement and unexplained aerial events in a manner that echoed the structure of real UFO investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0077065/episodes/?year=1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Project U.F.O. (TV Series 1978–1979) - Episode list - IMDb...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the Police-Procedural Format Fit UFO Stories So Well
 
-The most important contribution of *Project U.F.O.* was not any particular case but its storytelling method. Jack Webb had previously perfected a documentary-style police format in *Dragnet*, and many of the same habits appeared here. Investigators received reports, interviewed witnesses, compared accounts, examined evidence and attempted to reconstruct events. UFO stories were therefore presented through a familiar investigative rhythm rather than through fantasy adventure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
+The most important contribution of *Project U.F.O.* was not any particular case but its storytelling method. Jack Webb had previously perfected a documentary-style police format in *Dragnet*, and many of the same habits appeared here. Investigators received reports, interviewed witnesses, compared accounts, examined evidence and attempted to reconstruct events. UFO stories were therefore presented through a familiar investigative rhythm rather than through fantasy adventure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
 
 Several elements of the procedural formula were especially effective:
 
@@ -314,7 +314,7 @@ This structure also distinguished the programme from earlier alien-invasion narr
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6_project_ufo_case_dra_bc8879-Illustration-2-dark.svg" | relative_url }}" alt="Project U F illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6_project_ufo_case_dra_bc8879-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_television_ufo_belie_8d1fd6_project_ufo_case_dra_bc8879-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Appeal of Solved and Unsolved Cases
 
-A key feature of the series was its balance between resolution and ambiguity. Many episodes spent most of their running time uncovering conventional explanations. Witnesses could be mistaken, rumours could spread, and unusual lights might turn out to have ordinary causes. Yet some stories retained unresolved elements or ended with hints that something genuinely mysterious remained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://monster367.rssing.com/chan-12049876/all_p67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monster367.rssing.com">[Atomic Robot Comics &amp; Toys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monster367.rssing.com</span><span class="citation-popover-title">Atomic Robot Comics &amp; Toys Atomic Robot</span><span class="citation-popover-snippet">Atomic Robot Comics &amp; Toys Atomic Robot</span></span></span>
+A key feature of the series was its balance between resolution and ambiguity. Many episodes spent most of their running time uncovering conventional explanations. Witnesses could be mistaken, rumours could spread, and unusual lights might turn out to have ordinary causes. Yet some stories retained unresolved elements or ended with hints that something genuinely mysterious remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://monster367.rssing.com/chan-12049876/all_p67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monster367.rssing.com">[Atomic Robot Comics &amp; Toys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monster367.rssing.com</span><span class="citation-popover-title">Atomic Robot Comics &amp; Toys Atomic Robot</span><span class="citation-popover-snippet">Atomic Robot Comics &amp; Toys Atomic Robot</span></span></span>
 
 This balance was crucial to the show's appeal. If every case had ended with a mundane explanation, the programme would have resembled a straightforward educational drama. If every case had confirmed alien visitation, it would have moved fully into fantasy. Instead, *Project U.F.O.* occupied the intriguing territory between scepticism and possibility.
 
@@ -323,7 +323,7 @@ The formula offered viewers two simultaneous satisfactions:
 1. **The procedural satisfaction of investigation.** Audiences could watch evidence being collected and explanations tested.
 2. **The imaginative satisfaction of mystery.** Some uncertainty remained, allowing speculation to continue after the credits.
 
-This pattern mirrored the cultural position of UFOs themselves. Official investigations often produced explanations, yet a minority of cases remained [unidentified]({{ 'unidentified/' | relative_url }}). Television translated that reality into dramatic form, turning ambiguity into a repeatable storytelling engine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/category/ufos/project-blue-book-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Cases</span><span class="citation-popover-snippet">The Black VaultProject Blue Book Cases - The Black Vault Case Files...</span></span></span>
+This pattern mirrored the cultural position of UFOs themselves. Official investigations often produced explanations, yet a minority of cases remained [unidentified]({{ 'unidentified/' | relative_url }}). Television translated that reality into dramatic form, turning ambiguity into a repeatable storytelling engine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/category/ufos/project-blue-book-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Cases</span><span class="citation-popover-snippet">The Black VaultProject Blue Book Cases - The Black Vault Case Files...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ApuwmZjHGu4" title="Project Blue Book | Trailer | Watch On SBS On Demand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer">Project Blue Book | Trailer | Watch On SBS On Demand</a></p><p class="youtube-embed-meta">Channel: SBS On Demand &middot; Views: 39.7K &middot; Uploaded: March 2019 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ApuwmZjHGu4">Open on YouTube</a></p></div></div></div>
@@ -332,7 +332,7 @@ This pattern mirrored the cultural position of UFOs themselves. Official investi
 
 The programme's most lasting significance lies in how it combined two genres that might appear incompatible. On one side stood science fiction, with its fascination for extraterrestrial life, strange craft and unexplained encounters. On the other stood the documentary and procedural tradition, with its emphasis on records, interviews and evidence.
 
-*Project U.F.O.* fused these traditions into a single format. Visual reconstructions delivered suspense and [wonder]({{ 'wonder/' | relative_url }}), while investigators and case files supplied a sense of realism. The audience was invited to enjoy the excitement of science fiction without abandoning the feeling that the events were rooted in actual reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
+*Project U.F.O.* fused these traditions into a single format. Visual reconstructions delivered suspense and [wonder]({{ 'wonder/' | relative_url }}), while investigators and case files supplied a sense of realism. The audience was invited to enjoy the excitement of science fiction without abandoning the feeling that the events were rooted in actual reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
 
 This hybrid approach helped normalise UFO belief in a subtle way. The programme did not need to persuade viewers that aliens had visited Earth. It merely needed to persuade them that UFO reports were serious enough to investigate week after week. By repeatedly presenting sightings through the language of official inquiry, *Project U.F.O.* made UFOs seem like a legitimate subject of public curiosity rather than a fringe obsession.
 
@@ -342,201 +342,201 @@ This hybrid approach helped normalise UFO belief in a subtle way. The programme 
 
 Although the programme itself lasted only two seasons, its storytelling formula proved durable. Later UFO dramas, documentaries and docudramas repeatedly returned to the same combination of case files, investigators, witness testimony and unresolved questions. The appeal of the format lay in its flexibility: every new sighting could become another episode, and every unexplained detail could generate further suspense.
 
-In the history of UFO television, *Project U.F.O.* therefore represents more than a short-lived network series. It demonstrated how official records could be transformed into recurring entertainment and how science-fiction themes could gain additional credibility when presented through the routines of a police investigation. The case-file drama formula gave television a reliable way to tell UFO stories, and in doing so it helped shape how generations of viewers imagined the boundary between documented events and speculative possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[Military Gogglebox+2Atomic Robot Comics &amp; Toys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
+In the history of UFO television, *Project U.F.O.* therefore represents more than a short-lived network series. It demonstrated how official records could be transformed into recurring entertainment and how science-fiction themes could gain additional credibility when presented through the routines of a police investigation. The case-file drama formula gave television a reliable way to tell UFO stories, and in doing so it helped shape how generations of viewers imagined the boundary between documented events and speculative possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarygogglebox.com">[militarygogglebox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarygogglebox.com</span><span class="citation-popover-snippet">Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</span><span class="citation-popover-meta">Published: June 27, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y-t1VZGdJ1k" title="Project U.F.O, &quot;The Nevada Desert Incident&quot;, Apr. 2, 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y-t1VZGdJ1k" target="_blank" rel="noopener noreferrer">Project U.F.O, &quot;The Nevada Desert Incident&quot;, Apr. 2, 1978</a></p><p class="youtube-embed-meta">Channel: Ugazzovision &middot; Views: 570 &middot; Uploaded: January 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y-t1VZGdJ1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y-t1VZGdJ1k">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Case Files Became UFO Television. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Case Files Became UFO Television. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Reflects the investigative approach that inspired procedural UFO storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the investigative approach that inspired procedural UFO storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Captures the case-file style adapted for television.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the case-file style adapted for television.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Shows how documented incidents become enduring stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how documented incidents become enduring stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project &quot;Blue Book&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project &quot;Blue Book&quot;">Project &quot;Blue Book&quot;</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Explores the source material behind many UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the source material behind many UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+%22Blue+Book%22+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS"><img src="{{ '/assets/images/marketplace-covers/bd1463350491d3de6ce1.jpg' | relative_url }}" alt="Listing image for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS"><img src="{{ '/assets/images/marketplace-covers/bd1463350491d3de6ce1.jpg' | relative_url }}" alt="Listing image for X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">X FILES FILM CELLS ORIGINAL MEMORABILIA FRAMED SCI FI GIFTS FOR MOVIE FANS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files - 3D Shop Display Collection Sign Collectors Display"><img src="{{ '/assets/images/marketplace-covers/ed2f7e16c7b0bf9d073f.jpg' | relative_url }}" alt="Listing image for The X Files - 3D Shop Display Collection Sign Collectors Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X Files - 3D Shop Display Collection Sign Collectors Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files - 3D Shop Display Collection Sign Collectors Display"><img src="{{ '/assets/images/marketplace-covers/ed2f7e16c7b0bf9d073f.jpg' | relative_url }}" alt="Listing image for The X Files - 3D Shop Display Collection Sign Collectors Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X Files - 3D Shop Display Collection Sign Collectors Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6d32fac58a7b8813b2f2.jpg' | relative_url }}" alt="Listing image for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6d32fac58a7b8813b2f2.jpg' | relative_url }}" alt="Listing image for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show."><img src="{{ '/assets/images/marketplace-covers/eaa2d2e74f4849bf93e2.jpg' | relative_url }}" alt="Listing image for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show."><img src="{{ '/assets/images/marketplace-covers/eaa2d2e74f4849bf93e2.jpg' | relative_url }}" alt="Listing image for Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Retro 1997 The X Files Trivia Game on Video. Collectable. memorabilia. TV Show.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="project-u-f-how-case-files-became-ufo-television-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ In the history of UFO television, *Project U.F.O.* therefore represents more tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ In the history of UFO television, *Project U.F.O.* therefore represents more tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ In the history of UFO television, *Project U.F.O.* therefore represents more tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ In the history of UFO television, *Project U.F.O.* therefore represents more tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ In the history of UFO television, *Project U.F.O.* therefore represents more tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,106 +742,106 @@ In the history of UFO television, *Project U.F.O.* therefore represents more tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: militarygogglebox.com  
-   Link: <a href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow">https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</p></details>
+   Link:<a href="https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/" target="_blank" rel="noopener noreferrer nofollow">https://militarygogglebox.com/2021/06/27/project-u-f-o-tv-series-overview-1978-1979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military GoggleboxProject U.F.O. TV Series Overview (1978-1979) – Military GoggleboxJune 27, 2021...</p></details>
    Published: June 27, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: monster367.rssing.com  
    Title: Atomic Robot [Comics](&#123;&#123; 'comics/' | relative_url &#125;&#125;) & Toys Atomic Robot  
-   Link: <a href="https://monster367.rssing.com/chan-12049876/all_p67.html" target="_blank" rel="noopener noreferrer nofollow">https://monster367.rssing.com/chan-12049876/all_p67.html</a>  
+   Link:<a href="https://monster367.rssing.com/chan-12049876/all_p67.html" target="_blank" rel="noopener noreferrer nofollow">https://monster367.rssing.com/chan-12049876/all_p67.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0077065/episodes/?year=1978" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0077065/episodes/?year=1978</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O. (TV Series 1978–1979) - Episode list - IMDb...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0077065/episodes/?year=1978" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0077065/episodes/?year=1978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O. (TV Series 1978–1979) - Episode list - IMDb...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theblackvault.com  
    Title: The Black Vault Project Blue Book Cases  
-   Link: <a href="https://www.theblackvault.com/casefiles/category/ufos/project-blue-book-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/category/ufos/project-blue-book-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultProject Blue Book Cases - The Black Vault Case Files...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/category/ufos/project-blue-book-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/category/ufos/project-blue-book-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultProject Blue Book Cases - The Black Vault Case Files...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theblackvault.com  
    Title: project blue book levelland ufo case november 2 3 1957  
-   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-levelland-ufo-case-november-2-3-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-levelland-ufo-case-november-2-3-1957/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultProject Blue Book: Levelland UFO case, November 2-3, 1957 - The Black Vault Case Files...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/project-blue-book-levelland-ufo-case-november-2-3-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-levelland-ufo-case-november-2-3-1957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultProject Blue Book: Levelland UFO case, November 2-3, 1957 - The Black Vault Case Files...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lionsgatefilms.co.uk  
    Title: www.lionsgatefilms.co.uk Project Blue Book | Lionsgate Films UK  
-   Link: <a href="https://www.lionsgatefilms.co.uk/releases/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.lionsgatefilms.co.uk/releases/project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book | Lionsgate Films UK...</p></details>
+   Link:<a href="https://www.lionsgatefilms.co.uk/releases/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.lionsgatefilms.co.uk/releases/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book | Lionsgate Films UK...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Project U.F.O  
-   Link: <a href="https://www.youtube.com/watch?v=EAGRBGYBgXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EAGRBGYBgXA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1978) - Season 1 OPENING...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EAGRBGYBgXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EAGRBGYBgXA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1978) - Season 1 OPENING...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Project Blue Book | Trailer | Watch On SBS On Demand  
-   Link: <a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ApuwmZjHGu4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ApuwmZjHGu4</a>  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Project U.F.O.&quot; Jack Webb 1978 Project U.F.O. (1978) - Season 1 OPENING ClassicTelevisionFan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Project U.F.O.&quot; Jack Webb 1978 Project U.F.O. (1978) - Season 1 OPENING ClassicTelevisionFan...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/whats-on/article/how-much-of-project-blue-book-is-real/4jct4h4dz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/whats-on/article/how-much-of-project-blue-book-is-real/4jct4h4dz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>much of ‘Project Blue Book’ is real? | SBS What&#x27;s OnMarch 14, 2019...</p></details>
+   Link:<a href="https://www.sbs.com.au/whats-on/article/how-much-of-project-blue-book-is-real/4jct4h4dz" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/whats-on/article/how-much-of-project-blue-book-is-real/4jct4h4dz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>much of ‘Project Blue Book’ is real? | SBS What&#x27;s OnMarch 14, 2019...</p></details>
    Published: March 14, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zLOLclGZcaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zLOLclGZcaU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opening and Closing Titles to &quot;Project U.F.O.&quot; - June, 1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zLOLclGZcaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zLOLclGZcaU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opening and Closing Titles to &quot;Project U.F.O.&quot; - June, 1978...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: NBC Network  
-   Link: <a href="https://www.youtube.com/watch?v=EhM7zu8WQSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EhM7zu8WQSw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classic TV Theme: Project UFO (two versions)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EhM7zu8WQSw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EhM7zu8WQSw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classic TV Theme: Project UFO (two versions)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1803.04872" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.04872</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue: Visible Light Imaging Search for Terrestrial-class Exoplanets in the Habitable Zones of Alpha Centauri A and BMarch 13, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1803.04872" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.04872</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue: Visible Light Imaging Search for Terrestrial-class Exoplanets in the Habitable Zones of Alpha Centauri A and BMarch 13, 2018...</p></details>
    Published: March 13, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: NBC Network  
-   Link: <a href="https://www.youtube.com/watch?v=GXKhg4fuuoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GXKhg4fuuoM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O. (1978) - Season 1 OPENING...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GXKhg4fuuoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GXKhg4fuuoM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project U.F.O. (1978) - Season 1 OPENING...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Opening and Closing Titles to "Project U.F.O."  
-   Link: <a href="https://www.youtube.com/watch?v=DlAxHcbuvoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DlAxHcbuvoA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Reports: UFO: Friend, Foe or Fantasy (May 10, 1966)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DlAxHcbuvoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DlAxHcbuvoA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Reports: UFO: Friend, Foe or Fantasy (May 10, 1966)...</p></details>
    Published: May 10, 1966  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=y-t1VZGdJ1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y-t1VZGdJ1k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opening and Closing Titles to &quot;Project U.F.O.&quot; - June, 1978...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=y-t1VZGdJ1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y-t1VZGdJ1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opening and Closing Titles to &quot;Project U.F.O.&quot; - June, 1978...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HZvWeJ0ovYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HZvWeJ0ovYM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HZvWeJ0ovYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HZvWeJ0ovYM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yVVADz0Afss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yVVADz0Afss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classic TV Theme: Project UFO (two versions)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yVVADz0Afss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yVVADz0Afss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classic TV Theme: Project UFO (two versions)...</p></details>

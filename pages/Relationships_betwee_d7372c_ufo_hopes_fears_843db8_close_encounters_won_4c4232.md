@@ -274,7 +274,7 @@ image: /assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_e
 
 ## Introduction
 
-When people think of UFO stories, they often imagine invasion, conspiracy or fear. Steven Spielberg’s 1977 film *Close Encounters of the Third Kind* helped popularise a very different emotional model: the UFO as an invitation to [wonder]({{ 'wonder/' | relative_url }}). Rather than treating alien contact as a military threat or a tale of conquest, the film presented it as a mysterious pull toward something larger than ordinary life. In doing so, it became one of the most influential intersections between UFO culture and science fiction, reshaping how audiences imagined contact with the unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Close-Encounters-of-the-Third-Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Encyclopedia BritannicaClose Encounters of the Third Kind &#124; film by Spielberg [1977] &#124; Britannica...</span></span></span>
+When people think of UFO stories, they often imagine invasion, conspiracy or fear. Steven Spielberg’s 1977 film *Close Encounters of the Third Kind* helped popularise a very different emotional model: the UFO as an invitation to [wonder]({{ 'wonder/' | relative_url }}). Rather than treating alien contact as a military threat or a tale of conquest, the film presented it as a mysterious pull toward something larger than ordinary life. In doing so, it became one of the most influential intersections between UFO culture and science fiction, reshaping how audiences imagined contact with the unknown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Close-Encounters-of-the-Third-Kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Close Encounters of the Third Kind</span><span class="citation-popover-snippet">Encyclopedia BritannicaClose Encounters of the Third Kind &#124; film by Spielberg [1977] &#124; Britannica...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-1-dark.svg" | relative_url }}" alt="Close Encounters illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ The film arrived at a moment when UFOs were already embedded in popular culture,
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-3-dark.svg" | relative_url }}" alt="Close Encounters illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary Lives Pulled Toward Mystery
 
-One of the film’s most distinctive choices is that it focuses less on extraterrestrials than on ordinary people responding to an encounter. The central character, Roy Neary, is not a scientist, soldier or political leader. He is an everyday man whose brief sighting of a UFO gradually transforms his life. The story follows his growing obsession with understanding what he has experienced rather than presenting a conventional battle against an alien force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
+One of the film’s most distinctive choices is that it focuses less on extraterrestrials than on ordinary people responding to an encounter. The central character, Roy Neary, is not a scientist, soldier or political leader. He is an everyday man whose brief sighting of a UFO gradually transforms his life. The story follows his growing obsession with understanding what he has experienced rather than presenting a conventional battle against an alien force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
 
 This emphasis mattered because it echoed a recurring feature of real-world UFO narratives. Many reports involve ordinary witnesses trying to make sense of something unexpected rather than dramatic invasions or attacks. Spielberg translated that pattern into mainstream cinema. The mystery is not simply what the UFO is; it is what happens to people when they encounter something that appears to exceed their understanding.
 
@@ -295,9 +295,9 @@ The film repeatedly contrasts everyday routines with glimpses of the extraordina
 
 ## Spectacle Without Simple Invasion
 
-Earlier science-fiction cinema often treated alien arrival as a crisis demanding resistance. *Close Encounters* deliberately avoids that familiar pattern. Government agencies initially appear secretive and confused, and there is uncertainty about the visitors’ intentions, but the narrative gradually moves away from fear and toward communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
+Earlier science-fiction cinema often treated alien arrival as a crisis demanding resistance. *Close Encounters* deliberately avoids that familiar pattern. Government agencies initially appear secretive and confused, and there is uncertainty about the visitors’ intentions, but the narrative gradually moves away from fear and toward communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
 
-The most famous example is the film’s use of music. Instead of weapons or threats, humans and extraterrestrials communicate through a sequence of musical notes. John Williams’ five-note motif became one of the most recognisable sounds in science-fiction history because it symbolised dialogue rather than domination. The aliens are not conquered, and humanity is not rescued. Both sides attempt to understand one another through a shared language of sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
+The most famous example is the film’s use of music. Instead of weapons or threats, humans and extraterrestrials communicate through a sequence of musical notes. John Williams’ five-note motif became one of the most recognisable sounds in science-fiction history because it symbolised dialogue rather than domination. The aliens are not conquered, and humanity is not rescued. Both sides attempt to understand one another through a shared language of sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
 
 This choice transformed the meaning of the UFO spectacle. The climactic appearance of the enormous mothership is visually overwhelming, but the scene is structured around revelation rather than destruction. The audience is encouraged to experience amazement alongside the characters. The unknown remains mysterious, yet it is presented as something worth approaching rather than fearing.
 
@@ -310,190 +310,190 @@ The film therefore occupies an unusual position within science fiction. It retai
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-2-dark.svg" | relative_url }}" alt="Close Encounters illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_ufo_hopes_fears_843db8_close_encounters_won_4c4232-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Wonder Became a UFO Emotion
 
-The success of *Close Encounters of the Third Kind* helped establish wonder as one of the dominant emotional tones of modern UFO fiction. The film suggested that encounters with the unknown could satisfy a deep human desire for meaning, discovery and transcendence. Instead of asking, “How do we defeat them?”, it encouraged audiences to ask, “What if there is more to reality than we currently understand?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
+The success of *Close Encounters of the Third Kind* helped establish wonder as one of the dominant emotional tones of modern UFO fiction. The film suggested that encounters with the unknown could satisfy a deep human desire for meaning, discovery and transcendence. Instead of asking, “How do we defeat them?”, it encouraged audiences to ask, “What if there is more to reality than we currently understand?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
 
-This emotional shift was especially significant in the cultural climate of the late 1970s. The United States had recently experienced the Vietnam War, political scandal and widespread distrust of institutions. Against that backdrop, Spielberg offered a vision in which the cosmos was not fundamentally hostile. Critics and commentators have frequently noted the film’s optimism and its sense of revelation, portraying contact as an opening rather than a collapse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
+This emotional shift was especially significant in the cultural climate of the late 1970s. The United States had recently experienced the Vietnam War, political scandal and widespread distrust of institutions. Against that backdrop, Spielberg offered a vision in which the cosmos was not fundamentally hostile. Critics and commentators have frequently noted the film’s optimism and its sense of revelation, portraying contact as an opening rather than a collapse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
 
 The film also reinforced a recurring theme in UFO culture: the belief that the phenomenon points toward a larger universe filled with possibilities. Even viewers who did not believe in extraterrestrial visitation could recognise the emotional appeal of that idea. The UFO became a symbol of unanswered questions, unexplored frontiers and the hope that humanity might not be alone.
 
-This is why the film remains important in discussions of the relationship between UFOs and science fiction. It did not simply depict unidentified flying objects. It showed how they could function as modern myths of wonder. The lights in the sky were no longer only signs of danger or [secrecy]({{ 'secrecy/' | relative_url }}). They became symbols of curiosity, imagination and the longing to encounter something beyond the boundaries of ordinary experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
+This is why the film remains important in discussions of the relationship between UFOs and science fiction. It did not simply depict unidentified flying objects. It showed how they could function as modern myths of wonder. The lights in the sky were no longer only signs of danger or [secrecy]({{ 'secrecy/' | relative_url }}). They became symbols of curiosity, imagination and the longing to encounter something beyond the boundaries of ordinary experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soundsofcinema.com">[Sounds of Cinema]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soundsofcinema.com</span><span class="citation-popover-title">review close encounters of the third kind 1977</span><span class="citation-popover-snippet">Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YqS_haIiUxw" title="Close Encounters of the Third Kind (1977) - The Ultimate First Contact Movie?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YqS_haIiUxw" target="_blank" rel="noopener noreferrer">Close Encounters of the Third Kind (1977) - The Ultimate First Contact Movie?</a></p><p class="youtube-embed-meta">Channel: Reel Classic Film Reviews</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YqS_haIiUxw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YqS_haIiUxw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Wonder Became a Blockbuster Feeling. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Wonder Became a Blockbuster Feeling. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5WLgoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Places Spielberg&#x27;s vision within UFO mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Spielberg&#x27;s vision within UFO mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n1NbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
-        </h4>
-        <p class="fr-book-author">By Steven Spielberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Close Encounters of the Third Kind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=n1NbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Close Encounters of the Third Kind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Close Encounters of the Third Kind">Close Encounters of the Third Kind</a>
+</h4>
+<p class="fr-book-author">By Steven Spielberg</p>
         
-        <p class="fr-book-desc">The central cultural text behind the page topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The central cultural text behind the page topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind+by+Steven+Spielberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines modern fascination with contact and transcendence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern fascination with contact and transcendence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Close+Encounters+of+the+Third+Kind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Close Encounters of the Third Kind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="close-encounters-how-ufo-wonder-became-a-blockbuster-feeling-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ This is why the film remains important in discussions of the relationship betwee
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ This is why the film remains important in discussions of the relationship betwee
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ This is why the film remains important in discussions of the relationship betwee
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ This is why the film remains important in discussions of the relationship betwee
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ This is why the film remains important in discussions of the relationship betwee
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,77 +699,77 @@ This is why the film remains important in discussions of the relationship betwee
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Close Encounters of the Third Kind  
-   Link: <a href="https://www.britannica.com/topic/Close-Encounters-of-the-Third-Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Close-Encounters-of-the-Third-Kind</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaClose Encounters of the Third Kind | film by Spielberg [1977] | Britannica...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Close-Encounters-of-the-Third-Kind" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Close-Encounters-of-the-Third-Kind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaClose Encounters of the Third Kind | film by Spielberg [1977] | Britannica...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: soundsofcinema.com  
    Title: review close encounters of the third kind 1977  
-   Link: <a href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</p></details>
+   Link:<a href="https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://soundsofcinema.com/review-archive/review-close-encounters-of-the-third-kind-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds of CinemaReview: Close Encounters of the Third Kind (1977) - Sounds of Cinema...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PzwpmyNpZzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzwpmyNpZzM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - The Ultimate First Contact Movie?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PzwpmyNpZzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzwpmyNpZzM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind (1977) - The Ultimate First Contact Movie?...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YqS_haIiUxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YqS_haIiUxw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: The Banned Ending They Hid for Over 40 Years...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YqS_haIiUxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YqS_haIiUxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind: The Banned Ending They Hid for Over 40 Years...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The sound team emphasized precision and synergy, balancing crisp dialogue, evocative sound effects, and a sweeping score by Williams, who...</p></details>
+   Link:<a href="https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/entertainment/space-movies-shows/oscar-winning-sound-editor-andy-nelson-talks-reuniting-with-spielberg-and-john-williams-for-disclosure-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sound team emphasized precision and synergy, balancing crisp dialogue, evocative sound effects, and a sweeping score by Williams, who...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedailybeast.com  
-   Link: <a href="https://www.thedailybeast.com/obsessed/disclosure-day-steven-spielbergs-return-to-alien-invasion-sci-fi-fails-to-take-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/obsessed/disclosure-day-steven-spielbergs-return-to-alien-invasion-sci-fi-fails-to-take-flight/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visually striking thanks to Janusz Kamiński’s cinematography, the film begins with intrigue and action but quickly becomes bogged down by...</p></details>
+   Link:<a href="https://www.thedailybeast.com/obsessed/disclosure-day-steven-spielbergs-return-to-alien-invasion-sci-fi-fails-to-take-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailybeast.com/obsessed/disclosure-day-steven-spielbergs-return-to-alien-invasion-sci-fi-fails-to-take-flight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visually striking thanks to Janusz Kamiński’s cinematography, the film begins with intrigue and action but quickly becomes bogged down by...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/28896845/world-ufo-day-uk-sightings-witnesses-experiences/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/28896845/world-ufo-day-uk-sightings-witnesses-experiences/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite initial ridicule, Tony&#x27;s belief in UFOs strengthened over time, especially through the internet and exchanging experiences with o...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/28896845/world-ufo-day-uk-sightings-witnesses-experiences/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/28896845/world-ufo-day-uk-sightings-witnesses-experiences/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite initial ridicule, Tony&#x27;s belief in UFOs strengthened over time, especially through the internet and exchanging experiences with o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind: The Banned Ending They Hid for Over 40 Years  
-   Link: <a href="https://www.youtube.com/watch?v=YU9-aHu7ylI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YU9-aHu7ylI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining the Character Arc in &#x27;Close Encounters&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YU9-aHu7ylI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YU9-aHu7ylI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining the Character Arc in &#x27;Close Encounters&#x27;...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Explaining the Character Arc in 'Close Encounters'  
-   Link: <a href="https://www.youtube.com/watch?v=jOxzXDRqBtc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOxzXDRqBtc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind Declassified - A definitive guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jOxzXDRqBtc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOxzXDRqBtc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Third Kind Declassified - A definitive guide...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: www.reddit.com Close Encounters of the Third Kind  
-   Link: <a href="https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindJuly 28, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/movies/comments/15bxq18/close_encounters_of_the_third_kind/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters of the Third KindJuly 28, 2023...</p></details>
    Published: July 28, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: Close encounters of three black holes  
-   Link: <a href="https://arxiv.org/abs/0710.0879" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/0710.0879</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 4, 2007...</p></details>
+   Link:<a href="https://arxiv.org/abs/0710.0879" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/0710.0879</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 4, 2007...</p></details>
    Published: October 4, 2007  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Close Encounters of the Third Kind Declassified  
-   Link: <a href="https://www.youtube.com/watch?v=Gor9b8T9ISY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gor9b8T9ISY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Gor9b8T9ISY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gor9b8T9ISY</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Close Encounters of the Third Kind (soundtrack)  
-   Link: <a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind_%28soundtrack%29</a>  

@@ -377,17 +377,17 @@ image: /assets/images/Relationships_betwee_d7372c-overview-social.jpg
 
 ## Introduction
 
-The best-supported view is not that science fiction “invented” UFOs, nor that UFO reports prove science fiction correct. It is that the two form a feedback loop: unusual sky reports feed fiction, fiction supplies images and expectations, and those images then influence later testimony, media coverage and [public belief]({{ 'public-belief/' | relative_url }}). Official investigations have repeatedly found [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) but no verified evidence that UFOs are extraterrestrial craft, while cultural historians and folklorists have shown that UFO stories behave like modern myths shaped by the technologies, fears and hopes of their time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[folklore-society.com+3National Archives+3NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The best-supported view is not that science fiction “invented” UFOs, nor that UFO reports prove science fiction correct. It is that the two form a feedback loop: unusual sky reports feed fiction, fiction supplies images and expectations, and those images then influence later testimony, media coverage and [public belief]({{ 'public-belief/' | relative_url }}). Official investigations have repeatedly found [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) but no verified evidence that UFOs are extraterrestrial craft, while cultural historians and folklorists have shown that UFO stories behave like modern myths shaped by the technologies, fears and hopes of their time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c-overview.webp" | relative_url }}" alt="Overview image for Relationships betwee" loading="eager" decoding="sync" fetchpriority="high">
 ## Why UFOs quickly became a science-fiction story
 
-The modern UFO era began in 1947, when pilot Kenneth Arnold reported seeing fast-moving objects near Mount Rainier. The phrase “[flying saucer]({{ 'flying-saucer/' | relative_url }})” became attached to the story through press coverage, even though Arnold’s own descriptions were more complex than a simple [saucer shape]({{ 'saucer-shape/' | relative_url }}). The Smithsonian’s National Air and Space Museum notes that Arnold later drew a form closer to a rounded, heel-like craft, while Britannica summarises the familiar point: a newspaper description helped turn the report into the “flying saucer” image that spread through public culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
+The modern UFO era began in 1947, when pilot Kenneth Arnold reported seeing fast-moving objects near Mount Rainier. The phrase “[flying saucer]({{ 'flying-saucer/' | relative_url }})” became attached to the story through press coverage, even though Arnold’s own descriptions were more complex than a simple [saucer shape]({{ 'saucer-shape/' | relative_url }}). The Smithsonian’s National Air and Space Museum notes that Arnold later drew a form closer to a rounded, heel-like craft, while Britannica summarises the familiar point: a newspaper description helped turn the report into the “flying saucer” image that spread through public culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
 That timing was crucial. The Second World War had just ended, rockets had become real weapons, atomic power had transformed public ideas of science, and the Cold War was beginning. Science fiction already offered readers images of space travel, alien civilisations, secret weapons and future war. When UFO reports entered the news, audiences did not receive them as neutral observations. They arrived in a world already trained to imagine the sky as a military frontier, a scientific frontier and a possible route for visitors from elsewhere.
 
-The Library of Congress captures the link well: in the 1940s and 1950s, reports of flying saucers became a cultural phenomenon and supplied Hollywood with material for visions of possible threat. The same source connects saucers to older ideas about life on the Moon, canals on Mars and Martian civilisation, while also noting that Cold War fears made the image of hidden visitors especially powerful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</span></span></span>
+The Library of Congress captures the link well: in the 1940s and 1950s, reports of flying saucers became a cultural phenomenon and supplied Hollywood with material for visions of possible threat. The same source connects saucers to older ideas about life on the Moon, canals on Mars and Martian civilisation, while also noting that Cold War fears made the image of hidden visitors especially powerful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</span></span></span>
 
 This is why UFO history cannot be separated from science fiction, even when individual reports may have ordinary, military, atmospheric or unresolved explanations. A light in the sky becomes culturally meaningful when people ask: is it a secret aircraft, an alien probe, a warning, a hoax, a sign of invasion, or evidence of government concealment? Those are not purely observational questions. They are narrative questions, and science fiction had already built many of the available narratives.
 
@@ -395,9 +395,9 @@ This is why UFO history cannot be separated from science fiction, even when indi
 
 The relationship between UFOs and science fiction works in both directions. Real reports have inspired fiction, but fictional conventions have also shaped what witnesses, journalists and audiences expect a UFO to look like.
 
-Early flying saucer reports emphasised speed, mystery and manoeuvrability. Later popular images settled into a more standard visual language: a disc, a dome, lights, hovering motion, silent movement, beams, occupants and sometimes abduction. Not every witness uses that vocabulary, and reported shapes vary widely, but the cultural “default UFO” became recognisable enough that an artist can build a man-made saucer and audiences immediately know what it is meant to evoke. A Wired piece on artist Peter Coffin’s constructed UFO makes this point by observing that, although a UFO should by definition be unidentified, popular culture has taught people to “identify” the idea as a saucer-like object with lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2013/09/sts-peter-coffin-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Building the Unbuildable: What Happens When We&#x27;re the Ones Flying UFOs?</span><span class="citation-popover-snippet">Building the Unbuildable: What Happens When We&#x27;re the Ones Flying UFOs?</span></span></span>
+Early flying saucer reports emphasised speed, mystery and manoeuvrability. Later popular images settled into a more standard visual language: a disc, a dome, lights, hovering motion, silent movement, beams, occupants and sometimes abduction. Not every witness uses that vocabulary, and reported shapes vary widely, but the cultural “default UFO” became recognisable enough that an artist can build a man-made saucer and audiences immediately know what it is meant to evoke. A Wired piece on artist Peter Coffin’s constructed UFO makes this point by observing that, although a UFO should by definition be unidentified, popular culture has taught people to “identify” the idea as a saucer-like object with lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2013/09/sts-peter-coffin-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Building the Unbuildable: What Happens When We&#x27;re the Ones Flying UFOs?</span><span class="citation-popover-snippet">Building the Unbuildable: What Happens When We&#x27;re the Ones Flying UFOs?</span></span></span>
 
-Science fiction did not create all of those ingredients from nothing. It borrowed from earlier folklore, religion, astronomy, military secrecy, airship panics, ghost stories and colonial invasion literature. But it gave the ingredients a modern technological skin. Fairies, angels, demons, sky gods and phantom airships became astronauts, greys, reptilians, motherships and interdimensional craft. That is one reason scholars such as Carl Jung and later Jacques Vallée became interested in UFOs not only as possible physical events but also as symbolic events: stories about the sky that reveal what a society is trying to process. Jung’s *Flying Saucers: A Modern Myth of Things Seen in the Skies* treated UFOs as “visionary rumours” and a modern myth rather than simply as hardware claims; Vallée’s *Passport to Magonia* is widely known for connecting UFO encounters with older folklore patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-snippet">Open source on routledge.com.</span></span></span>
+Science fiction did not create all of those ingredients from nothing. It borrowed from earlier folklore, religion, astronomy, military secrecy, airship panics, ghost stories and colonial invasion literature. But it gave the ingredients a modern technological skin. Fairies, angels, demons, sky gods and phantom airships became astronauts, greys, reptilians, motherships and interdimensional craft. That is one reason scholars such as Carl Jung and later Jacques Vallée became interested in UFOs not only as possible physical events but also as symbolic events: stories about the sky that reveal what a society is trying to process. Jung’s *Flying Saucers: A Modern Myth of Things Seen in the Skies* treated UFOs as “visionary rumours” and a modern myth rather than simply as hardware claims; Vallée’s *Passport to Magonia* is widely known for connecting UFO encounters with older folklore patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-snippet">Open source on routledge.com.</span></span></span>
 
 The feedback loop can be simplified like this:
 
@@ -420,9 +420,9 @@ This does not mean witnesses are lying. It means perception, memory and narratio
 
 One reason UFOs remain powerful is that science fiction gave them more than one emotional meaning. A UFO can be frightening, hopeful, absurd, spiritual, bureaucratic, comic or sublime. That flexibility helps explain why the subject survives changes in technology and sceptical critique.
 
-In 1950s cinema, flying saucers often carried invasion anxieties. Films such as *Earth vs. the Flying Saucers* turned the saucer into a Cold War threat: an unknown technology violating national airspace and challenging human control. The Library of Congress explicitly connects these mid-century portrayals with fears created by atomic weapons and the uncertain promise of technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</span></span></span>
+In 1950s cinema, flying saucers often carried invasion anxieties. Films such as *Earth vs. the Flying Saucers* turned the saucer into a Cold War threat: an unknown technology violating national airspace and challenging human control. The Library of Congress explicitly connects these mid-century portrayals with fears created by atomic weapons and the uncertain promise of technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</span></span></span>
 
-By contrast, later science fiction could make visitors benevolent, misunderstood or spiritually advanced. The emotional distance between *The War of the Worlds*, *The Day the Earth Stood Still*, *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, *E.T.* and *The X-Files* is enormous, yet all draw from the same reservoir of sky mystery, contact and uncertainty. A psychological reading of alien films published through the US National Library of Medicine notes that Cold War dreams were haunted by nuclear annihilation, while alien stories could stage conflicts involving both benign and malevolent outsiders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+By contrast, later science fiction could make visitors benevolent, misunderstood or spiritually advanced. The emotional distance between *The War of the Worlds*, *The Day the Earth Stood Still*, *[Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind*, *E.T.* and *The X-Files* is enormous, yet all draw from the same reservoir of sky mystery, contact and uncertainty. A psychological reading of alien films published through the US National Library of Medicine notes that Cold War dreams were haunted by nuclear annihilation, while alien stories could stage conflicts involving both benign and malevolent outsiders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 That range matters because it helps explain why UFO belief is not a single belief. For some people, UFOs imply invasion. For others, rescue. For others, government deception. For others, the possibility that humanity is not alone. Science fiction keeps all these possibilities available at once, allowing UFOs to function as a screen onto which different audiences project different concerns.
 
@@ -430,11 +430,11 @@ That range matters because it helps explain why UFO belief is not a single belie
 
 UFO stories became especially durable because they developed alongside real secrecy. The Cold War produced classified aircraft, nuclear testing, radar systems, intelligence agencies and official investigations. It was therefore not irrational for the public to suspect that governments knew more about some aerial events than they disclosed. The problem is that reasonable suspicion easily blended with science-fictional expectation: hidden hangars, crashed saucers, reverse-engineered alien craft, erased witnesses and secret contact programmes.
 
-The US Air Force’s Project Blue Book is central here. According to the National Archives and the US Air Force, 12,618 sightings were reported from 1947 to 1969, with 701 remaining “unidentified” when the project ended. The official conclusion was not that 701 alien craft had been found; rather, the unresolved category reflected cases that could not be confidently identified from the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The US Air Force’s Project Blue Book is central here. According to the National Archives and the US Air Force, 12,618 sightings were reported from 1947 to 1969, with 701 remaining “unidentified” when the project ended. The official conclusion was not that 701 alien craft had been found; rather, the unresolved category reflected cases that could not be confidently identified from the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
-The CIA’s historical materials also show that officials worried about public reaction. The Robertson Panel, convened in 1953, considered the possibility that UFO reports could contribute to mass hysteria or be exploited for psychological warfare. That concern illustrates a key feature of the UFO-science fiction relationship: governments were not merely investigating strange objects; they were also managing stories, rumours and public interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+The CIA’s historical materials also show that officials worried about public reaction. The Robertson Panel, convened in 1953, considered the possibility that UFO reports could contribute to mass hysteria or be exploited for psychological warfare. That concern illustrates a key feature of the UFO-science fiction relationship: governments were not merely investigating strange objects; they were also managing stories, rumours and public interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
-Recent official reporting has kept this tension alive. NASA’s 2023 independent study found no conclusive evidence in the peer-reviewed literature for an extraterrestrial origin of UAP, while arguing that better data, better sensors and reduced stigma are needed. The US All-domain Anomaly Resolution Office reported in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government had possessed extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+Recent official reporting has kept this tension alive. NASA’s 2023 independent study found no conclusive evidence in the peer-reviewed literature for an extraterrestrial origin of UAP, while arguing that better data, better sensors and reduced stigma are needed. The US All-domain Anomaly Resolution Office reported in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government had possessed extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 Yet unresolved cases, redactions and bureaucratic language still leave imaginative space. Science fiction thrives in that space. A file saying “unidentified” is not the same as a file saying “alien”, but popular storytelling often moves quickly from the first word to the second.
 
@@ -445,7 +445,7 @@ Yet unresolved cases, redactions and bureaucratic language still leave imaginati
 
 The clearest overlap between UFO lore and science fiction is the alien abduction story. The common pattern is familiar: a person is taken aboard a craft, examined by non-human beings, subjected to medical or reproductive procedures, shown warnings about humanity, then returned with missing time or fragmented memory. This structure feels modern because it uses spacecraft, laboratories and aliens, but its deeper shape resembles older encounter traditions: journeys to another realm, strange beings, altered time, bodily marks, forbidden knowledge and return.
 
-The Library of Congress notes Carl Sagan’s view that alien abduction stories are primarily part of American culture, and its Sagan materials preserve his interest in the way popular UFO claims spread through magazines, books and interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</span></span></span>
+The Library of Congress notes Carl Sagan’s view that alien abduction stories are primarily part of American culture, and its Sagan materials preserve his interest in the way popular UFO claims spread through magazines, books and interviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</span></span></span>
 
 Science fiction did not simply copy abduction lore after the fact. It helped normalise many of its images: the examination room, the small humanoid alien, the bright beam, the telepathic message, the silent craft. At the same time, abduction claims fed films and television. The result is a particularly tight cultural loop in which personal testimony and fictional representation reinforce each other.
 
@@ -455,7 +455,7 @@ This is why abduction narratives are difficult to discuss well. Treating every a
 
 The relationship does not only help believers. Science fiction has also shaped sceptical interpretation. When a UFO claim resembles a known film, television episode or pulp motif, sceptics often treat that resemblance as evidence of cultural borrowing. This is sometimes persuasive, especially when the details appear after a famous depiction enters circulation. But it can also be too simple, because fiction and testimony may draw on older shared motifs rather than one directly copying the other.
 
-For example, the idea of a crashed craft with strange bodies is older than Roswell as a cultural motif. Research by David Clarke on UFOs and popular culture points to nineteenth-century newspaper inventions about extraterrestrial airships crashing in remote places, sometimes with Martian bodies and mysterious writing. Clarke also notes that post-war fiction revived related motifs, including Bernard Newman’s 1948 novel *The Flying Saucer*, in which scientists use a saucer deception to address fears of another world war. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAI want to believe: how UFOs conquered the X-files</span><span class="citation-popover-snippet">SHURAI want to believe: how UFOs conquered the X-files</span></span></span>
+For example, the idea of a crashed craft with strange bodies is older than Roswell as a cultural motif. Research by David Clarke on UFOs and popular culture points to nineteenth-century newspaper inventions about extraterrestrial airships crashing in remote places, sometimes with Martian bodies and mysterious writing. Clarke also notes that post-war fiction revived related motifs, including Bernard Newman’s 1948 novel *The Flying Saucer*, in which scientists use a saucer deception to address fears of another world war.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAI want to believe: how UFOs conquered the X-files</span><span class="citation-popover-snippet">SHURAI want to believe: how UFOs conquered the X-files</span></span></span>
 
 This complicates the usual debate. A similarity between a UFO claim and a science-fiction plot does not automatically prove fraud, but it does show that the story belongs to a long imaginative tradition. The more specific and datable the overlap, the stronger the case for cultural influence. The more general the overlap, the more likely it is that both the claim and the fiction draw from older mythic material.
 
@@ -465,9 +465,9 @@ Scepticism itself can become formulaic if it treats culture as a one-way contami
 <img src="{{ "/assets/images/Relationships_betwee_d7372c-Illustration-2-dark.svg" | relative_url }}" alt="Relationships betwee illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern UAP research tries to separate data from story
 
-The newer term UAP is partly an attempt to move away from the overloaded imagery of “UFO”. It broadens the category beyond flying objects and avoids immediate association with saucers and aliens. NASA’s independent study framed UAP as a data problem: many reports lack the calibrated, repeatable, multi-sensor information needed for confident explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+The newer term UAP is partly an attempt to move away from the overloaded imagery of “UFO”. It broadens the category beyond flying objects and avoids immediate association with saucers and aliens. NASA’s independent study framed UAP as a data problem: many reports lack the calibrated, repeatable, multi-sensor information needed for confident explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-Recent scientific and academic work follows the same logic. A 2024 scoping review by Gretchen Stahlman describes UAP studies as a field moving from stigma towards a need for high-quality curated data and rigorous investigation. A 2025 review by Kevin Knuth and colleagues argues that UAP have been investigated by governments and private researchers across multiple countries, and that future study should draw on this longer documented history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Recent scientific and academic work follows the same logic. A 2024 scoping review by Gretchen Stahlman describes UAP studies as a field moving from stigma towards a need for high-quality curated data and rigorous investigation. A 2025 review by Kevin Knuth and colleagues argues that UAP have been investigated by governments and private researchers across multiple countries, and that future study should draw on this longer documented history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This scientific turn does not erase the science-fiction connection. In fact, it makes the separation more important. Researchers need to distinguish instrument readings from witness interpretation, and unusual motion from assumptions about propulsion, intent or origin. A report of a fast object is a data claim. A claim that it is a piloted extraterrestrial craft is an explanatory leap. Science fiction often supplies the leap.
 
@@ -477,11 +477,11 @@ This is also why official language can frustrate the public. “Unresolved” so
 
 For historians and folklorists, the cultural layer is not an embarrassment to be stripped away. It is part of what UFOs are. UFOs are reported events, media events, government events, belief events and entertainment events at the same time.
 
-David Clarke’s work on British UFO culture, including his role as a consultant during the release of the UK Ministry of Defence UFO files, treats UFOs as contemporary legend as well as a matter of documents and sightings. The Folklore Society’s description of Clarke’s work on how UFOs “landed” in Britain stresses how the UFO myth became embedded in existing legends and beliefs, with photography and visual evidence playing important roles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[folklore-society.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-snippet">Flying Saucery: How UFOs Landed in the British Isles1 Jul 2025 — This talk examines how the UFO myth first arrived in the British...</span></span></span>
+David Clarke’s work on British UFO culture, including his role as a consultant during the release of the UK Ministry of Defence UFO files, treats UFOs as contemporary legend as well as a matter of documents and sightings. The Folklore Society’s description of Clarke’s work on how UFOs “landed” in Britain stresses how the UFO myth became embedded in existing legends and beliefs, with photography and visual evidence playing important roles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[folklore-society.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-snippet">Flying Saucery: How UFOs Landed in the British Isles1 Jul 2025 — This talk examines how the UFO myth first arrived in the British...</span></span></span>
 
 That folkloric approach explains why UFO stories remain memorable even when particular cases are explained. A solved sighting may lose evidential force but keep symbolic force. It can still become a local legend, a film scene, a conspiracy reference, a tourist attraction, a meme or a family story. Science fiction then recycles those fragments into new forms.
 
-The 1977 British mockumentary *Alternative 3* is a useful example of fiction leaking into conspiracy culture. Presented as a fictional episode of *Science Report*, it imagined secret elite evacuation to Mars amid environmental catastrophe. Decades later, as The Guardian reported in 2026, its themes of government secrecy, missing scientists and hidden colonisation still circulate in conspiracy contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</span></span></span>
+The 1977 British mockumentary *Alternative 3* is a useful example of fiction leaking into conspiracy culture. Presented as a fictional episode of *Science Report*, it imagined secret elite evacuation to Mars amid environmental catastrophe. Decades later, as The Guardian reported in 2026, its themes of government secrecy, missing scientists and hidden colonisation still circulate in conspiracy contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</span></span></span>
 
 That case is not exactly a UFO sighting, but it belongs to the same cultural mechanism: a fictional media object becomes durable because it resembles anxieties people already have about secrecy, science, catastrophe and space.
 
@@ -494,7 +494,7 @@ Several misunderstandings make the UFO-science fiction relationship harder to di
 
 **Myth 1: “UFO” means “alien spacecraft”.**
 
-It does not. A UFO is unidentified to the observer or investigator at a given point. Official US records contain unresolved cases, but unresolved is not the same as extraterrestrial. Project Blue Book left [701 cases]({{ '701-cases/' | relative_url }}) unidentified, while later NASA and AARO reports found no conclusive or verifiable evidence of extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+It does not. A UFO is unidentified to the observer or investigator at a given point. Official US records contain unresolved cases, but unresolved is not the same as extraterrestrial. Project Blue Book left [701 cases]({{ '701-cases/' | relative_url }}) unidentified, while later NASA and AARO reports found no conclusive or verifiable evidence of extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 **Myth 2: science fiction simply invented UFO belief.**
 
@@ -527,194 +527,194 @@ The most useful way to understand UFOs and science fiction is therefore not as r
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Relationships betwee. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Relationships betwee. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Bridges UFO and UAP discussions for contemporary readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Bridges UFO and UAP discussions for contemporary readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context on official investigations and public credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on official investigations and public credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO imagery and beliefs become cultural products, helping explain why saucer imagery persists in toys and merchandise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO imagery and beliefs become cultural products, helping explain why saucer imagery persists in toys and merchandise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how the flying saucer became embedded in public understanding of UFOs and popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how the flying saucer became embedded in public understanding of UFOs and popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing C-17 aviation art print by Keith Woodcock"><img src="{{ '/assets/images/marketplace-covers/bb22e7060a018bf9966e.jpg' | relative_url }}" alt="Listing image for Boeing C-17 aviation art print by Keith Woodcock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Boeing C-17 aviation art print by Keith Woodcock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing C-17 aviation art print by Keith Woodcock"><img src="{{ '/assets/images/marketplace-covers/bb22e7060a018bf9966e.jpg' | relative_url }}" alt="Listing image for Boeing C-17 aviation art print by Keith Woodcock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Boeing C-17 aviation art print by Keith Woodcock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnhem Battle Gliders Signed Print"><img src="{{ '/assets/images/marketplace-covers/bcd7dc178f56575b1bb2.jpg' | relative_url }}" alt="Listing image for Arnhem Battle Gliders Signed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Arnhem Battle Gliders Signed Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ba Concorde Supersonic Jet Landing Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/423c8eb2ec0e88b7a1e3.jpg' | relative_url }}" alt="Listing image for Ba Concorde Supersonic Jet Landing Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Ba Concorde Supersonic Jet Landing Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ba Concorde Supersonic Jet Landing Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/423c8eb2ec0e88b7a1e3.jpg' | relative_url }}" alt="Listing image for Ba Concorde Supersonic Jet Landing Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Ba Concorde Supersonic Jet Landing Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="relationships-betwee-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ The most useful way to understand UFOs and science fiction is therefore not as r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ The most useful way to understand UFOs and science fiction is therefore not as r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ The most useful way to understand UFOs and science fiction is therefore not as r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ The most useful way to understand UFOs and science fiction is therefore not as r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ The most useful way to understand UFOs and science fiction is therefore not as r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,261 +920,261 @@ The most useful way to understand UFOs and science fiction is therefore not as r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — From 1947 to 1969, a total of 12, 618 sightings were re...</p></details>
    Published: August 15, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: folklore-society.com  
-   Link: <a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucery: How UFOs Landed in the British Isles1 Jul 2025 — This talk examines how the UFO myth first arrived in the British...</p></details>
+   Link:<a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucery: How UFOs Landed in the British Isles1 Jul 2025 — This talk examines how the UFO myth first arrived in the British...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: Building the Unbuildable: What Happens When We're the Ones Flying UFOs?  
-   Link: <a href="https://www.wired.com/2013/09/sts-peter-coffin-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2013/09/sts-peter-coffin-ufo</a>  
+   Link:<a href="https://www.wired.com/2013/09/sts-peter-coffin-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2013/09/sts-peter-coffin-ufo</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: routledge.com  
-   Link: <a href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379</a>  
+   Link:<a href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7122918/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517742" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517742</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517742" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517742</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
+   Link:<a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00530r000300620021-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00530r000300620021-3</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00530r000300620021-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00530r000300620021-3</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100180004-4</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90t00782r000100060001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90t00782r000100060001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90t00782r000100060001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90t00782r000100060001-7</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/00378517" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00378517</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/00378517" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00378517</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: declassification.blogs.archives.gov  
    Title: how to build a flying saucer  
-   Link: <a href="https://declassification.blogs.archives.gov/2012/09/20/how-to-build-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://declassification.blogs.archives.gov/2012/09/20/how-to-build-a-flying-saucer/</a>  
+   Link:<a href="https://declassification.blogs.archives.gov/2012/09/20/how-to-build-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://declassification.blogs.archives.gov/2012/09/20/how-to-build-a-flying-saucer/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/citizen-archivist/images/05-17-2018-sightings.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/tag/ufo/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/tag/ufo/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archives.gov  
    Title: rg collections  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
+   Link:<a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/question/How-have-UFOs-influenced-popular-culture-and-peoples-beliefs-about-life-beyond-Earth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/How-have-UFOs-influenced-popular-culture-and-peoples-beliefs-about-life-beyond-Earth</a>  
+   Link:<a href="https://www.britannica.com/question/How-have-UFOs-influenced-popular-culture-and-peoples-beliefs-about-life-beyond-Earth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/How-have-UFOs-influenced-popular-culture-and-peoples-beliefs-about-life-beyond-Earth</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: time.com  
    Title: ufo sighting history national security  
-   Link: <a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
+   Link:<a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: history.com  
    Title: of UFOs  
-   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
+   Link:<a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</p></details>
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1940s and 50s reports of &quot;flying saucers... Carl Sagan suggests that stories of alien abduction are primarily part of American...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/mss/mss85590/042/042.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: shura.shu.ac.uk  
    Title: SHURAI want to believe: how UFOs conquered the X-files  
-   Link: <a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
+   Link:<a href="https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/31823/9/Clarke-WantToBelieve%28AM%29.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</p></details>
+   Link:<a href="https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Its themes—government secrecy, scientist disappearances, and extraterrestrial colonization—have resurfaced recently in alarmist social me...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theguardian.com  
    Title: how pop culture has shaped our understanding of aliens  
-   Link: <a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
+   Link:<a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: theguardian.com  
    Title: sean kirkpatrick pentagon ufo conspiracy theory myths  
-   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html</a>  
+   Link:<a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/service/mss/mss85590/004/004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/mss/mss85590/004/004.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/service/mss/mss85590/004/004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/service/mss/mss85590/004/004.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: airandspace.si.edu  
    Title: study flying saucer sightings  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/articles/social-sciences-and-humanities/ce111f6e-c6e0-5d8b-b0b8-dc2607cdbb55/after-the-flying-saucers-came-a-global-history-of-the-ufo-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/articles/social-sciences-and-humanities/ce111f6e-c6e0-5d8b-b0b8-dc2607cdbb55/after-the-flying-saucers-came-a-global-history-of-the-ufo-phenomenon</a>  
+   Link:<a href="https://www.ebsco.com/articles/social-sciences-and-humanities/ce111f6e-c6e0-5d8b-b0b8-dc2607cdbb55/after-the-flying-saucers-came-a-global-history-of-the-ufo-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/articles/social-sciences-and-humanities/ce111f6e-c6e0-5d8b-b0b8-dc2607cdbb55/after-the-flying-saucers-came-a-global-history-of-the-ufo-phenomenon</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480</a>  
+   Link:<a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: waterstones.com  
-   Link: <a href="https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379</a>  
+   Link:<a href="https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.waterstones.com/book/flying-saucers/c-g-jung/9780415278379</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/en/book/show/71255.Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/71255.Flying_Saucers</a>  
+   Link:<a href="https://www.goodreads.com/en/book/show/71255.Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/71255.Flying_Saucers</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Flying-Saucers-Modern-Collected-Extracts/dp/0691018227" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucers-Modern-Collected-Extracts/dp/0691018227</a>  
+   Link:<a href="https://www.amazon.co.uk/Flying-Saucers-Modern-Collected-Extracts/dp/0691018227" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucers-Modern-Collected-Extracts/dp/0691018227</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Flying-Saucers-Modern-Routledge-Classics/dp/0415278368" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucers-Modern-Routledge-Classics/dp/0415278368</a>  
+   Link:<a href="https://www.amazon.co.uk/Flying-Saucers-Modern-Routledge-Classics/dp/0415278368" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucers-Modern-Routledge-Classics/dp/0415278368</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/j.ctvzxx9sf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/j.ctvzxx9sf</a>  
+   Link:<a href="https://www.jstor.org/stable/j.ctvzxx9sf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/j.ctvzxx9sf</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: fourcornersbooks.co.uk  
-   Link: <a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  
+   Link:<a href="https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.fourcornersbooks.co.uk/articles/david-clarke-interview-on-ufo-drawings/</a>  

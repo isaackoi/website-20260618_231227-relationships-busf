@@ -280,17 +280,17 @@ image: /assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell
 
 ## Introduction
 
-[Roswell]({{ 'roswell/' | relative_url }}) became one of the most influential stories in UFO culture not because a dramatic extraterrestrial craft was publicly displayed, but because a small local debris discovery passed through a confusing cycle of rumours, official statements and media repetition. In July 1947, ranch foreman W.W. “Mac” Brazel found strange debris on a remote New Mexico ranch. Within days, the local military base announced that it had recovered a “flying disc”, only for higher authorities to replace that claim with a balloon explanation. The rapid shift created a self-reinforcing rumour loop: local talk generated official interest, official language amplified the story, and the official reversal encouraged later suspicions that something had been concealed. Roswell's importance in the history of UFO belief lies less in the debris itself than in the way information circulated through newspapers, radio reports and public speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+[Roswell]({{ 'roswell/' | relative_url }}) became one of the most influential stories in UFO culture not because a dramatic extraterrestrial craft was publicly displayed, but because a small local debris discovery passed through a confusing cycle of rumours, official statements and media repetition. In July 1947, ranch foreman W.W. “Mac” Brazel found strange debris on a remote New Mexico ranch. Within days, the local military base announced that it had recovered a “flying disc”, only for higher authorities to replace that claim with a balloon explanation. The rapid shift created a self-reinforcing rumour loop: local talk generated official interest, official language amplified the story, and the official reversal encouraged later suspicions that something had been concealed. Roswell's importance in the history of UFO belief lies less in the debris itself than in the way information circulated through newspapers, radio reports and public speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[isgp-studies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-1-dark.svg" | relative_url }}" alt="Roswell Loop illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Mac Brazel, town talk, and the debris discovery
 
-The Roswell story began as a local ranch mystery rather than a national UFO event. In mid-June 1947, Mac Brazel discovered scattered debris on the Foster Ranch northwest of Roswell. Contemporary descriptions referred to lightweight material including foil-like fragments, paper-like substances, rubber and sticks spread across a wide area. At first, Brazel did not regard the find as especially significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</span></span></span>
+The Roswell story began as a local ranch mystery rather than a national UFO event. In mid-June 1947, Mac Brazel discovered scattered debris on the Foster Ranch northwest of Roswell. Contemporary descriptions referred to lightweight material including foil-like fragments, paper-like substances, rubber and sticks spread across a wide area. At first, Brazel did not regard the find as especially significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[smithsonianmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</span></span></span>
 
-What changed was the information environment around him. During late June and early July 1947, newspapers and radio stations across the United States were saturated with reports of “[flying saucers]({{ 'flying-saucer/' | relative_url }})” following Kenneth Arnold's famous sighting near Mount Rainier. As those reports reached rural New Mexico, Brazel began to [wonder]({{ 'wonder/' | relative_url }}) whether the debris might be connected to the new national fascination. According to contemporary accounts, discussions in nearby communities helped transform an odd ranch discovery into a possible “flying disc” case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2Ramey Memo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOS at close sight: Roswell 1947 - 1947 Press, the W. W. Brazel debris discovery story...</span></span></span>
+What changed was the information environment around him. During late June and early July 1947, newspapers and radio stations across the United States were saturated with reports of “[flying saucers]({{ 'flying-saucer/' | relative_url }})” following Kenneth Arnold's famous sighting near Mount Rainier. As those reports reached rural New Mexico, Brazel began to [wonder]({{ 'wonder/' | relative_url }}) whether the debris might be connected to the new national fascination. According to contemporary accounts, discussions in nearby communities helped transform an odd ranch discovery into a possible “flying disc” case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOS at close sight: Roswell 1947 - 1947 Press, the W. W. Brazel debris discovery story...</span></span></span>
 
-This sequence is important because it demonstrates a recurring pattern in early UFO culture. The debris did not automatically create a UFO story. Instead, an existing national narrative about mysterious objects in the sky provided a framework through which local people interpreted an otherwise puzzling discovery. Rumour travelled from national media into local conversation before moving back out again as news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ramey-memo.com/the-beginning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ramey-memo.com">[Ramey Memo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ramey-memo.com</span><span class="citation-popover-title">Ramey Memo THE BEGINNING – Unlocking The Mystery</span><span class="citation-popover-snippet">Ramey Memo THE BEGINNING – Unlocking The Mystery</span></span></span>
+This sequence is important because it demonstrates a recurring pattern in early UFO culture. The debris did not automatically create a UFO story. Instead, an existing national narrative about mysterious objects in the sky provided a framework through which local people interpreted an otherwise puzzling discovery. Rumour travelled from national media into local conversation before moving back out again as news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ramey-memo.com/the-beginning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ramey-memo.com">[Ramey Memo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ramey-memo.com</span><span class="citation-popover-title">Ramey Memo THE BEGINNING – Unlocking The Mystery</span><span class="citation-popover-snippet">Ramey Memo THE BEGINNING – Unlocking The Mystery</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xlozhChleso" title="The Secret Cold War Project Behind the Roswell UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xlozhChleso" target="_blank" rel="noopener noreferrer">The Secret Cold War Project Behind the Roswell UFO Incident</a></p><p class="youtube-embed-meta">Channel: Today I Found Out</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xlozhChleso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xlozhChleso">Open on YouTube</a></p></div></div></div>
@@ -299,17 +299,17 @@ This sequence is important because it demonstrates a recurring pattern in early 
 
 The most famous moment in the Roswell story was not the discovery of debris but the wording of an official announcement.
 
-After Brazel contacted Sheriff George Wilcox, personnel from Roswell Army Air Field investigated the material. On 8 July 1947, the base's public information office issued a press release stating that military personnel had gained possession of a “flying disc.” Newspapers quickly carried versions of the announcement across the country. The statement explicitly linked the recovered object to the ongoing flying-disc rumours that were already dominating [headlines]({{ 'headlines/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies+2Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+After Brazel contacted Sheriff George Wilcox, personnel from Roswell Army Air Field investigated the material. On 8 July 1947, the base's public information office issued a press release stating that military personnel had gained possession of a “flying disc.” Newspapers quickly carried versions of the announcement across the country. The statement explicitly linked the recovered object to the ongoing flying-disc rumours that were already dominating [headlines]({{ 'headlines/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[isgp-studies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-The language mattered enormously. The announcement did not merely report recovered debris. It used the same vocabulary that had already become culturally charged through weeks of saucer stories. In effect, an official institution temporarily validated a popular rumour. For readers and radio listeners, the distinction between a local recovery and confirmation of a flying disc could easily blur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The language mattered enormously. The announcement did not merely report recovered debris. It used the same vocabulary that had already become culturally charged through weeks of saucer stories. In effect, an official institution temporarily validated a popular rumour. For readers and radio listeners, the distinction between a local recovery and confirmation of a flying disc could easily blur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-This is one reason Roswell occupies such a large place in UFO history. Many flying-saucer reports came from civilians. Roswell briefly appeared to come from the military itself. Even though the statement lasted only a short time, it created a documentary anchor that later generations could point to whenever questions about concealment arose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+This is one reason Roswell occupies such a large place in UFO history. Many flying-saucer reports came from civilians. Roswell briefly appeared to come from the military itself. Even though the statement lasted only a short time, it created a documentary anchor that later generations could point to whenever questions about concealment arose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-2-dark.svg" | relative_url }}" alt="Roswell Loop illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the balloon explanation did not end the story
 
-The original announcement was quickly overturned. Senior officers in Fort Worth presented debris identified as the remains of a weather balloon and radar target, and newspapers soon reported that the supposed flying disc had been misidentified. Contemporary coverage described foil, rubber and wooden components consistent with balloon equipment rather than an advanced craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie+2Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOS at close sight: Roswell 1947 - 1947 Press, the W. W. Brazel debris discovery story...</span></span></span>
+The original announcement was quickly overturned. Senior officers in Fort Worth presented debris identified as the remains of a weather balloon and radar target, and newspapers soon reported that the supposed flying disc had been misidentified. Contemporary coverage described foil, rubber and wooden components consistent with balloon equipment rather than an advanced craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOS at close sight: Roswell 1947 - 1947 Press, the W. W. Brazel debris discovery story...</span></span></span>
 
 Ordinarily, that might have ended the matter. Yet the reversal itself became part of the legend.
 
@@ -318,11 +318,11 @@ Several features of the episode encouraged long-term suspicion:
 * The military first announced a flying disc and only later announced a balloon.
 * The correction came from higher headquarters rather than from the original local source.
 * The dramatic claim received intense attention before the quieter correction arrived.
-* Later generations encountered the contradiction without necessarily seeing the full sequence of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies+2Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+* Later generations encountered the contradiction without necessarily seeing the full sequence of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[isgp-studies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-As a result, Roswell evolved into a classic rumour loop. The initial announcement generated speculation. The official correction was interpreted by some as evidence of a cover-up. That suspicion encouraged further retellings, which in turn made the original announcement appear even more significant. The story became self-sustaining because each stage seemed to validate the next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</span></span></span>
+As a result, Roswell evolved into a classic rumour loop. The initial announcement generated speculation. The official correction was interpreted by some as evidence of a cover-up. That suspicion encouraged further retellings, which in turn made the original announcement appear even more significant. The story became self-sustaining because each stage seemed to validate the next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">in 1947 high altitude balloon crash landed roswell aliens never left 180963917</span><span class="citation-popover-snippet">Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</span></span></span>
 
-The loop became even stronger decades later when the U.S. Air Force acknowledged that the weather-balloon explanation had concealed the classified Project Mogul balloon programme, a Cold War effort involving high-altitude surveillance equipment. Although this explanation remained terrestrial rather than extraterrestrial, the admission that an official cover story had existed reinforced public perceptions that authorities had not told the full truth in 1947. For many [believers]({{ 'believers/' | relative_url }}), the existence of one concealment made larger concealments seem plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1gs1opl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The importance of the Roswell Press Release memo</span><span class="citation-popover-snippet">The importance of the Roswell Press Release memoNovember 15, 2024...</span><span class="citation-popover-meta">Published: November 15, 2024</span></span></span>
+The loop became even stronger decades later when the U.S. Air Force acknowledged that the weather-balloon explanation had concealed the classified Project Mogul balloon programme, a Cold War effort involving high-altitude surveillance equipment. Although this explanation remained terrestrial rather than extraterrestrial, the admission that an official cover story had existed reinforced public perceptions that authorities had not told the full truth in 1947. For many [believers]({{ 'believers/' | relative_url }}), the existence of one concealment made larger concealments seem plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1gs1opl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The importance of the Roswell Press Release memo</span><span class="citation-popover-snippet">The importance of the Roswell Press Release memoNovember 15, 2024...</span><span class="citation-popover-meta">Published: November 15, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RXtZnbdDsvk" title="Roswell The Jesse Marcel SR - Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RXtZnbdDsvk" target="_blank" rel="noopener noreferrer">Roswell The Jesse Marcel SR - Interview</a></p><p class="youtube-embed-meta">Channel: Historic UFO Video Project</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RXtZnbdDsvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RXtZnbdDsvk">Open on YouTube</a></p></div></div></div>
@@ -334,202 +334,202 @@ The loop became even stronger decades later when the U.S. Air Force acknowledged
 
 Roswell illustrates how UFO culture often developed at the boundary between ordinary events and imaginative interpretation. The debris field itself was local and mundane. What transformed it into a lasting cultural symbol was a chain of communication shaped by the flying-saucer craze of 1947.
 
-The episode shows how science-fiction imagery could enter public discussion without requiring direct evidence of extraterrestrials. Once the phrase “flying disc” appeared in headlines, audiences already familiar with stories of advanced craft, visitors from space and hidden technologies had a narrative framework ready to use. The official press release supplied legitimacy, while the later correction supplied mystery. Together they created a story structure that science fiction had long explored: an extraordinary discovery, official intervention and the possibility of hidden knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+The episode shows how science-fiction imagery could enter public discussion without requiring direct evidence of extraterrestrials. Once the phrase “flying disc” appeared in headlines, audiences already familiar with stories of advanced craft, visitors from space and hidden technologies had a narrative framework ready to use. The official press release supplied legitimacy, while the later correction supplied mystery. Together they created a story structure that science fiction had long explored: an extraordinary discovery, official intervention and the possibility of hidden knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[isgp-studies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
-Roswell therefore became more than a disputed debris recovery. It became a model for how UFO rumours could persist. Local observations fed into national media narratives; official statements amplified public expectations; corrections failed to settle the matter; and repeated retellings transformed a brief 1947 news story into one of the most enduring legends in modern UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
+Roswell therefore became more than a disputed debris recovery. It became a model for how UFO rumours could persist. Local observations fed into national media narratives; official statements amplified public expectations; corrections failed to settle the matter; and repeated retellings transformed a brief 1947 news story into one of the most enduring legends in modern UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[isgp-studies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico</span><span class="citation-popover-snippet">ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</span><span class="citation-popover-meta">Published: July 8, 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-3-dark.svg" | relative_url }}" alt="Roswell Loop illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40_roswell_rumour_loop_0c30d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Roswell Became a Rumour Machine. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Roswell Became a Rumour Machine. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Karl T. Pflock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5DTbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Roswell">Roswell</a>
+</h4>
+<p class="fr-book-author">By Karl T. Pflock</p>
         
-        <p class="fr-book-desc">Focuses on evidence, rumor, and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, rumor, and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Roswell+by+Karl+T.+Pflock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Reflects the broader 1947 saucer environment surrounding Roswell.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the broader 1947 saucer environment surrounding Roswell.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Directly examines the origins and growth of the Roswell story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the origins and growth of the Roswell story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Documents how the Roswell narrative expanded over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how the Roswell narrative expanded over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Roswell+Incident&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Roswell Incident</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="{{ '/assets/images/marketplace-covers/6865112b86c68fe7b87d.jpg' | relative_url }}" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="{{ '/assets/images/marketplace-covers/6865112b86c68fe7b87d.jpg' | relative_url }}" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="{{ '/assets/images/marketplace-covers/e11455c51dee68e7b691.jpg' | relative_url }}" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8e82448c5ac8c1c5d76.jpg' | relative_url }}" alt="Listing image for Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Crash news - July 8,194 Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="roswell-loop-how-roswell-became-a-rumour-machine-relationships-betwee-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ Roswell therefore became more than a disputed debris recovery. It became a model
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ Roswell therefore became more than a disputed debris recovery. It became a model
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ Roswell therefore became more than a disputed debris recovery. It became a model
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ Roswell therefore became more than a disputed debris recovery. It became a model
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ Roswell therefore became more than a disputed debris recovery. It became a model
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,107 +735,107 @@ Roswell therefore became more than a disputed debris recovery. It became a model
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: isgp-studies.com  
    Title: ISGP Studies Army Reveals It Has Flying Disc Found On Ranch In New Mexico  
-   Link: <a href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</p></details>
+   Link:<a href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-08-sacramento-bee-army-reveals-it-has-flying-disc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISGP StudiesArmy Reveals It Has Flying Disc Found On Ranch In New MexicoJuly 8, 1947...</p></details>
    Published: July 8, 1947  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ramey-memo.com  
    Title: Ramey Memo THE BEGINNING – Unlocking The Mystery  
-   Link: <a href="https://www.ramey-memo.com/the-beginning/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/the-beginning/</a>  
+   Link:<a href="https://www.ramey-memo.com/the-beginning/" target="_blank" rel="noopener noreferrer nofollow">https://www.ramey-memo.com/the-beginning/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: The importance of the Roswell Press Release memo  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1gs1opl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1gs1opl</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of the Roswell Press Release memoNovember 15, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1gs1opl" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1gs1opl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of the Roswell Press Release memoNovember 15, 2024...</p></details>
    Published: November 15, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: The importance of the Roswell Press Release memo  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1gs1nda" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1gs1nda</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of the Roswell Press Release memo...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1gs1nda" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1gs1nda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The importance of the Roswell Press Release memo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never Left...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: Roswell 1947 - 1947 Press, the W. W. Brazel debris discovery story...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/pampadailynews9jul1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: Roswell 1947 - 1947 Press, the W. W. Brazel debris discovery story...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/rw/p/losangelesheraldexpress8jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/losangelesheraldexpress8jul1947.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: The Roswell 1947 incident in the Press, Los Angeles Herald-Express, July 8, 1947...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/rw/p/losangelesheraldexpress8jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/losangelesheraldexpress8jul1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: The Roswell 1947 incident in the Press, Los Angeles Herald-Express, July 8, 1947...</p></details>
    Published: July 8, 1947  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/rw/p/renogazette8jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/renogazette8jul1947.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOS at close sight: Roswell 1947 - 1947 Press, flying disc found in Roswell, The Reno GazetteJuly 8, 1947...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/rw/p/renogazette8jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/rw/p/renogazette8jul1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOS at close sight: Roswell 1947 - 1947 Press, flying disc found in Roswell, The Reno GazetteJuly 8, 1947...</p></details>
    Published: July 8, 1947  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: A Walk Through The Roswell Debris Field, with Jesse Marcel  
-   Link: <a href="https://www.youtube.com/watch?v=s4EUbmKuhPM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s4EUbmKuhPM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell 1947 press release Ramey balloon Mac Brazel debris Roswell 1947: Crashed Saucer, Secret Balloon, or Something Worse?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s4EUbmKuhPM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s4EUbmKuhPM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell 1947 press release Ramey balloon Mac Brazel debris Roswell 1947: Crashed Saucer, Secret Balloon, or Something Worse?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4AxRTzASxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government Changed Its Roswell Story 4 Times -- Here&#x27;s the Real Reason...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H4AxRTzASxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4AxRTzASxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Government Changed Its Roswell Story 4 Times -- Here&#x27;s the Real Reason...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forcesnews.com  
    Title: www.forcesnews.com Roswell & The Military: The Truth Really Is Out There  
-   Link: <a href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; The Military: The Truth Really Is Out ThereJuly 9, 2017...</p></details>
+   Link:<a href="https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/news/feature/roswell-military-truth-really-out-there</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; The Military: The Truth Really Is Out ThereJuly 9, 2017...</p></details>
    Published: July 9, 2017  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Government Changed Its Roswell Story 4 Times -- Here's the Real Reason  
-   Link: <a href="https://www.youtube.com/watch?v=BzOkNMID3HE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BzOkNMID3HE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Walk Through The Roswell Debris Field, with Jesse Marcel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BzOkNMID3HE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BzOkNMID3HE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Walk Through The Roswell Debris Field, with Jesse Marcel...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: disclosurearchives.com  
    Title: fbi flying disc master file 1947 1968  
-   Link: <a href="https://disclosurearchives.com/events/fbi-flying-disc-master-file-1947-1968" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/events/fbi-flying-disc-master-file-1947-1968</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI 62-HQ-83894: the master &#x27;flying disc&#x27; file, 1947–1968 · Disclosure Archives...</p></details>
+   Link:<a href="https://disclosurearchives.com/events/fbi-flying-disc-master-file" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/events/fbi-flying-disc-master-file</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI 62-HQ-83894: the master &#x27;flying disc&#x27; file, 1947–1968 · Disclosure Archives...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufouap.com  
    Title: roswell incident 1947  
-   Link: <a href="https://www.ufouap.com/articles/roswell-incident-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/roswell-incident-1947/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: What Crashed in New Mexico in 1947, and Why It Still Matters — UFOUAP...</p></details>
+   Link:<a href="https://www.ufouap.com/articles/roswell-incident-1947/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/roswell-incident-1947/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident: What Crashed in New Mexico in 1947, and Why It Still Matters — UFOUAP...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: irishtimes.com  
    Title: www.irishtimes.com U S alien-nation – The Irish Times  
-   Link: <a href="https://www.irishtimes.com/news/us-alien-nation-1.84251" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/us-alien-nation-1.84251</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien-nation – The Irish TimesJune 21, 1997...</p></details>
+   Link:<a href="https://www.irishtimes.com/news/us-alien-nation-1.84251" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/us-alien-nation-1.84251</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien-nation – The Irish TimesJune 21, 1997...</p></details>
    Published: June 21, 1997  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Roswell The Jesse Marcel SR  
-   Link: <a href="https://www.youtube.com/watch?v=RXtZnbdDsvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RXtZnbdDsvk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roswell Incident (Full Episode) | Undercover History Updates | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RXtZnbdDsvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RXtZnbdDsvk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roswell Incident (Full Episode) | Undercover History Updates | National Geographic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Secret Cold War Project Behind the Roswell UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=xlozhChleso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xlozhChleso</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell The Jesse Marcel SR - Interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xlozhChleso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xlozhChleso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell The Jesse Marcel SR - Interview...</p></details>

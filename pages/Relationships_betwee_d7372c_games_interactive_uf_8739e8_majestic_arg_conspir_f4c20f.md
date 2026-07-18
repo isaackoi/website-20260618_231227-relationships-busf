@@ -280,17 +280,17 @@ image: /assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_ma
 
 ## Introduction
 
-Electronic Arts’ *Majestic* was one of the earliest and most ambitious attempts to turn a UFO-style conspiracy into something that seemed to spill into everyday life. Released in 2001, it was not designed to be played only on a computer screen. Instead, the game contacted players through emails, telephone calls, websites, instant messages and voicemail, presenting a story in which hidden organisations, secret documents and extraterrestrial conspiracies appeared to be unfolding around them. In the wider relationship between UFOs and science fiction, *Majestic* is significant because it transformed familiar themes of leaked evidence and government [cover-ups]({{ 'cover-ups/' | relative_url }}) into an interactive experience that followed players into ordinary routines. Rather than watching a conspiracy narrative, players were invited to live inside one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
+Electronic Arts’ *Majestic* was one of the earliest and most ambitious attempts to turn a UFO-style conspiracy into something that seemed to spill into everyday life. Released in 2001, it was not designed to be played only on a computer screen. Instead, the game contacted players through emails, telephone calls, websites, instant messages and voicemail, presenting a story in which hidden organisations, secret documents and extraterrestrial conspiracies appeared to be unfolding around them. In the wider relationship between UFOs and science fiction, *Majestic* is significant because it transformed familiar themes of leaked evidence and government [cover-ups]({{ 'cover-ups/' | relative_url }}) into an interactive experience that followed players into ordinary routines. Rather than watching a conspiracy narrative, players were invited to live inside one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-1-dark.svg" | relative_url }}" alt="Majestic ARG illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Alternate reality gaming and ordinary channels
 
-When *Majestic* launched, Electronic Arts promoted it as something different from conventional online [games]({{ 'games/' | relative_url }}). Instead of requiring players to log into a virtual world, the game used communication tools that people already associated with real life. Participants might receive a phone call at home, an email containing a clue, or a message directing them to investigate a website that appeared to exist outside the game's fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
+When *Majestic* launched, Electronic Arts promoted it as something different from conventional online [games]({{ 'games/' | relative_url }}). Instead of requiring players to log into a virtual world, the game used communication tools that people already associated with real life. Participants might receive a phone call at home, an email containing a clue, or a message directing them to investigate a website that appeared to exist outside the game's fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
 
-This design placed *Majestic* among the earliest large-scale examples of what later became known as alternate reality games (ARGs). A defining principle of many ARGs is the idea that “this is not a game”: the narrative pretends to exist in the same reality as the player. Scholars of alternate reality gaming have identified this deliberate blurring of fiction and reality as one of the genre’s core features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.ulster.ac.uk">[Ulster University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.ulster.ac.uk</span><span class="citation-popover-snippet">Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</span><span class="citation-popover-meta">Published: April 20, 2017</span></span></span>
+This design placed *Majestic* among the earliest large-scale examples of what later became known as alternate reality games (ARGs). A defining principle of many ARGs is the idea that “this is not a game”: the narrative pretends to exist in the same reality as the player. Scholars of alternate reality gaming have identified this deliberate blurring of fiction and reality as one of the genre’s core features.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.ulster.ac.uk">[Ulster University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.ulster.ac.uk</span><span class="citation-popover-snippet">Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</span><span class="citation-popover-meta">Published: April 20, 2017</span></span></span>
 
-In *Majestic*, the story revolved around mysterious events, disappearing organisations, hidden information and alleged conspiracies. Clues arrived gradually through different media rather than through a single interface. The result was a form of storytelling that felt closer to investigating a rumour or pursuing a lead than completing a traditional game mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
+In *Majestic*, the story revolved around mysterious events, disappearing organisations, hidden information and alleged conspiracies. Clues arrived gradually through different media rather than through a single interface. The result was a form of storytelling that felt closer to investigating a rumour or pursuing a lead than completing a traditional game mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
 
 For UFO-themed fiction, this approach was especially effective because it mirrored how many real-world UFO stories circulate. Witness reports, leaked documents, anonymous calls and obscure websites have long been part of UFO culture. *Majestic* did not merely reference those elements; it recreated them as gameplay.
 
@@ -303,7 +303,7 @@ UFO mythology has often depended on communication rather than direct observation
 
 This made UFO conspiracies unusually compatible with the communication tools used by *Majestic*. An email from an unknown source feels similar to a leaked document. A late-night phone message resembles the testimony of a frightened witness. A hidden website echoes the idea of secret archives waiting to be discovered.
 
-The game's title itself carried associations with UFO conspiracy culture. Many observers noted the connection to “Majestic-12”, the alleged secret committee said to have investigated extraterrestrial evidence after the [Roswell]({{ 'roswell/' | relative_url }}) incident. Historians and researchers generally regard the Majestic-12 documents as a hoax, but the story remains influential within UFO folklore. By invoking that name, the game immediately connected itself to one of the most famous narratives of hidden government knowledge about aliens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metagames0.com/2024/01/20/majestic-pc-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metagames0.com">[MetaGames]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metagames0.com</span><span class="citation-popover-title">majestic pc 2001</span><span class="citation-popover-snippet">MetaGamesMajestic (PC, 2001) – MetaGamesJanuary 20, 2024...</span><span class="citation-popover-meta">Published: January 20, 2024</span></span></span>
+The game's title itself carried associations with UFO conspiracy culture. Many observers noted the connection to “Majestic-12”, the alleged secret committee said to have investigated extraterrestrial evidence after the [Roswell]({{ 'roswell/' | relative_url }}) incident. Historians and researchers generally regard the Majestic-12 documents as a hoax, but the story remains influential within UFO folklore. By invoking that name, the game immediately connected itself to one of the most famous narratives of hidden government knowledge about aliens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://metagames0.com/2024/01/20/majestic-pc-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metagames0.com">[MetaGames]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metagames0.com</span><span class="citation-popover-title">majestic pc 2001</span><span class="citation-popover-snippet">MetaGamesMajestic (PC, 2001) – MetaGamesJanuary 20, 2024...</span><span class="citation-popover-meta">Published: January 20, 2024</span></span></span>
 
 The structure of *Majestic* therefore reflected a broader pattern in UFO-related science fiction. Instead of presenting aliens openly, it emphasised fragments, clues and uncertainty. Players assembled meaning from incomplete information, much as conspiracy [believers]({{ 'believers/' | relative_url }}) attempt to connect scattered pieces of evidence into a larger story.
 
@@ -311,13 +311,13 @@ The structure of *Majestic* therefore reflected a broader pattern in UFO-related
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-2-dark.svg" | relative_url }}" alt="Majestic ARG illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The risk of blurring fiction and reality
 
-The same features that made *Majestic* innovative also raised concerns. The game deliberately encouraged players to treat ordinary communication channels as part of a fictional conspiracy. Calls, messages and websites were designed to feel authentic, creating uncertainty about where the game ended and reality began. Scholars examining alternate reality games have pointed to this tension as one of the genre's defining characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.ulster.ac.uk">[Ulster University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.ulster.ac.uk</span><span class="citation-popover-snippet">Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</span><span class="citation-popover-meta">Published: April 20, 2017</span></span></span>
+The same features that made *Majestic* innovative also raised concerns. The game deliberately encouraged players to treat ordinary communication channels as part of a fictional conspiracy. Calls, messages and websites were designed to feel authentic, creating uncertainty about where the game ended and reality began. Scholars examining alternate reality games have pointed to this tension as one of the genre's defining characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.ulster.ac.uk">[Ulster University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.ulster.ac.uk</span><span class="citation-popover-snippet">Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</span><span class="citation-popover-meta">Published: April 20, 2017</span></span></span>
 
 For UFO themes, that ambiguity carried particular risks. UFO conspiracies already occupy a cultural space where genuine beliefs, rumours, [hoaxes]({{ 'hoaxes/' | relative_url }}) and entertainment frequently overlap. When a game adopts the language of secret evidence and hidden truths, some participants may temporarily suspend the distinction between fictional narrative and real-world claims.
 
-Critics have argued that such designs can encourage habits of interpretation associated with conspiracy thinking. Players are rewarded for finding hidden connections, questioning official [explanations]({{ 'explanations/' | relative_url }}) and treating fragments of information as clues to a larger secret. Those behaviours are useful within a game, but they resemble the methods used by real conspiracy communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.ulster.ac.uk">[Ulster University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.ulster.ac.uk</span><span class="citation-popover-snippet">Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</span><span class="citation-popover-meta">Published: April 20, 2017</span></span></span>
+Critics have argued that such designs can encourage habits of interpretation associated with conspiracy thinking. Players are rewarded for finding hidden connections, questioning official [explanations]({{ 'explanations/' | relative_url }}) and treating fragments of information as clues to a larger secret. Those behaviours are useful within a game, but they resemble the methods used by real conspiracy communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.ulster.ac.uk">[Ulster University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.ulster.ac.uk</span><span class="citation-popover-snippet">Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</span><span class="citation-popover-meta">Published: April 20, 2017</span></span></span>
 
-Timing also complicated *Majestic*'s reception. The game launched in 2001 and relied heavily on plots involving mysterious attacks, covert organisations and hidden threats. After the September 11 attacks, the atmosphere surrounding conspiracy narratives changed dramatically. Electronic Arts temporarily suspended parts of the experience, and the game's commercial momentum weakened. Although several factors contributed to its failure, the changing cultural environment made its playful treatment of paranoia and secret plots more difficult to sustain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://metagames0.com/2024/01/20/majestic-pc-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metagames0.com">[MetaGames]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metagames0.com</span><span class="citation-popover-title">majestic pc 2001</span><span class="citation-popover-snippet">MetaGamesMajestic (PC, 2001) – MetaGamesJanuary 20, 2024...</span><span class="citation-popover-meta">Published: January 20, 2024</span></span></span>
+Timing also complicated *Majestic*'s reception. The game launched in 2001 and relied heavily on plots involving mysterious attacks, covert organisations and hidden threats. After the September 11 attacks, the atmosphere surrounding conspiracy narratives changed dramatically. Electronic Arts temporarily suspended parts of the experience, and the game's commercial momentum weakened. Although several factors contributed to its failure, the changing cultural environment made its playful treatment of paranoia and secret plots more difficult to sustain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://metagames0.com/2024/01/20/majestic-pc-2001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metagames0.com">[MetaGames]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metagames0.com</span><span class="citation-popover-title">majestic pc 2001</span><span class="citation-popover-snippet">MetaGamesMajestic (PC, 2001) – MetaGamesJanuary 20, 2024...</span><span class="citation-popover-meta">Published: January 20, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4kUGrYoJDQw" title="The First 13 Minutes of Destroy All Humans on PS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4kUGrYoJDQw" target="_blank" rel="noopener noreferrer">The First 13 Minutes of Destroy All Humans on PS4</a></p><p class="youtube-embed-meta">Channel: IGN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4kUGrYoJDQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4kUGrYoJDQw">Open on YouTube</a></p></div></div></div>
@@ -329,200 +329,200 @@ Timing also complicated *Majestic*'s reception. The game launched in 2001 and re
 
 *Majestic* remains important not because it proved any UFO claim, but because it demonstrated a new way of experiencing UFO-inspired fiction. Earlier science-fiction stories asked audiences to imagine secret files and hidden communications. *Majestic* delivered those files and communications directly to players through everyday technology.
 
-In doing so, it revealed how naturally UFO conspiracy themes fit interactive media. The game transformed familiar motifs—anonymous informants, classified documents, [government secrecy]({{ 'secrecy/' | relative_url }}) and extraterrestrial rumours—into actions that unfolded through daily life. Its lasting significance lies in showing that the UFO myth could move beyond books, films and [television]({{ 'television/' | relative_url }}) and become an experience that appeared to follow the audience wherever their phone rang or their inbox received a new message. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
+In doing so, it revealed how naturally UFO conspiracy themes fit interactive media. The game transformed familiar motifs—anonymous informants, classified documents, [government secrecy]({{ 'secrecy/' | relative_url }}) and extraterrestrial rumours—into actions that unfolded through daily life. Its lasting significance lies in showing that the UFO myth could move beyond books, films and [television]({{ 'television/' | relative_url }}) and become an experience that appeared to follow the audience wherever their phone rang or their inbox received a new message.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-3-dark.svg" | relative_url }}" alt="Majestic ARG illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8_majestic_arg_conspir_f4c20f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The UFO conspiracy game that played outside the screen. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The UFO conspiracy game that played outside the screen. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Supports the UFO-conspiracy framework behind the game.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the UFO-conspiracy framework behind the game.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+is+Not+a+Game+by+Dave+Szulborski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This is Not a Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7-WO3qqogiUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This is Not a Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+is+Not+a+Game+by+Dave+Szulborski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This is Not a Game">This is Not a Game</a>
-        </h4>
-        <p class="fr-book-author">By Dave Szulborski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+is+Not+a+Game+by+Dave+Szulborski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This is Not a Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7-WO3qqogiUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for This is Not a Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+is+Not+a+Game+by+Dave+Szulborski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This is Not a Game">This is Not a Game</a>
+</h4>
+<p class="fr-book-author">By Dave Szulborski</p>
         
-        <p class="fr-book-desc">Directly addresses ARG design and player immersion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+is+Not+a+Game+by+Dave+Szulborski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses ARG design and player immersion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+is+Not+a+Game+by+Dave+Szulborski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Blends secrecy, belief, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Blends secrecy, belief, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explores the mindset behind conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explores the mindset behind conspiracy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+is+Not+a+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This is Not a Game</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+is+Not+a+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This is Not a Game</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="majestic-arg-the-ufo-conspiracy-game-that-played-outside-the-screen-relationships-betwee-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-ufo-conspiracy-game-that-played-outside-the-screen-ufo-art-print-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ In doing so, it revealed how naturally UFO conspiracy themes fit interactive med
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ In doing so, it revealed how naturally UFO conspiracy themes fit interactive med
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ In doing so, it revealed how naturally UFO conspiracy themes fit interactive med
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ In doing so, it revealed how naturally UFO conspiracy themes fit interactive med
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ In doing so, it revealed how naturally UFO conspiracy themes fit interactive med
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,51 +728,51 @@ In doing so, it revealed how naturally UFO conspiracy themes fit interactive med
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: Majestic Invades Your World  
-   Link: <a href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/05/majestic-invades-your-world</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</p></details>
+   Link:<a href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/05/majestic-invades-your-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike traditional games, Majestic blurs the line between reality and fiction by using various real-world communication devices such as p...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: taipeitimes.com  
    Title: Taipei Times`Majestic' brings reality to game world  
-   Link: <a href="https://www.taipeitimes.com/News/worldbiz/archives/2001/08/04/0000097169" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/worldbiz/archives/2001/08/04/0000097169</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taipei Times...</p></details>
+   Link:<a href="https://www.taipeitimes.com/News/worldbiz/archives/2001/08/04/0000097169" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/worldbiz/archives/2001/08/04/0000097169</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taipei Times...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pure.ulster.ac.uk  
-   Link: <a href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow">https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</p></details>
+   Link:<a href="https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2" target="_blank" rel="noopener noreferrer nofollow">https://pure.ulster.ac.uk/en/publications/the-game-did-not-take-placethis-is-not-a-game-and-blurring-the-li-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ulster UniversityThe Game Did Not Take Place—This Is Not A Game and blurring the Lines of Fiction - Ulster UniversityApril 20, 2017...</p></details>
    Published: April 20, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metagames0.com  
    Title: majestic pc 2001  
-   Link: <a href="https://metagames0.com/2024/01/20/majestic-pc-2001/" target="_blank" rel="noopener noreferrer nofollow">https://metagames0.com/2024/01/20/majestic-pc-2001/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetaGamesMajestic (PC, 2001) – MetaGamesJanuary 20, 2024...</p></details>
+   Link:<a href="https://metagames0.com/2024/01/20/majestic-pc-2001/" target="_blank" rel="noopener noreferrer nofollow">https://metagames0.com/2024/01/20/majestic-pc-2001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MetaGamesMajestic (PC, 2001) – MetaGamesJanuary 20, 2024...</p></details>
    Published: January 20, 2024  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Lost Media  
-   Link: <a href="https://www.youtube.com/watch?v=Ea_N5BxkbtM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ea_N5BxkbtM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s An ARG? - Inside A Mind...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ea_N5BxkbtM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ea_N5BxkbtM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s An ARG? - Inside A Mind...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yG0oY8obuGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yG0oY8obuGU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Forgotten ARG...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yG0oY8obuGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yG0oY8obuGU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Forgotten ARG...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: What's An ARG?  
-   Link: <a href="https://www.youtube.com/watch?v=4kUGrYoJDQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4kUGrYoJDQw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4kUGrYoJDQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4kUGrYoJDQw</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Forgotten ARG  
-   Link: <a href="https://www.youtube.com/watch?v=hLLUxqgcECw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hLLUxqgcECw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic the forgotten EA game...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hLLUxqgcECw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hLLUxqgcECw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic the forgotten EA game...</p></details>

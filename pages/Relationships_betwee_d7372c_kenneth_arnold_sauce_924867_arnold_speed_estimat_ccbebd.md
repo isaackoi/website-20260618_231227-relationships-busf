@@ -280,15 +280,15 @@ image: /assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_ar
 
 ## Introduction
 
-Kenneth Arnolds famous June 1947 sighting became a modern UFO story not simply because he reported unusual objects, but because he attached a startling number to them: roughly 1,200 miles per hour. In the summer of 1947, that figure placed the objects beyond the performance of known aircraft and into the emerging world of jets, [rockets]({{ 'rockets/' | relative_url }}) and experimental military technology. Instead of sounding like a traditional tale of mysterious lights, the report sounded like an aviation problem. Arnold framed what he saw in terms of distance, timing and speed, giving the story a technological character that connected directly to post-war fascination with advanced flight. That numerical claim helped make the sighting feel contemporary and scientific, even though the calculation itself rested on assumptions that later critics would challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+Kenneth Arnolds famous June 1947 sighting became a modern UFO story not simply because he reported unusual objects, but because he attached a startling number to them: roughly 1,200 miles per hour. In the summer of 1947, that figure placed the objects beyond the performance of known aircraft and into the emerging world of jets, [rockets]({{ 'rockets/' | relative_url }}) and experimental military technology. Instead of sounding like a traditional tale of mysterious lights, the report sounded like an aviation problem. Arnold framed what he saw in terms of distance, timing and speed, giving the story a technological character that connected directly to post-war fascination with advanced flight. That numerical claim helped make the sighting feel contemporary and scientific, even though the calculation itself rested on assumptions that later critics would challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-1-dark.svg" | relative_url }}" alt="Speed Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Arnold Estimated the Speed
 
-Arnold did not claim to know the speed of the objects by intuition. He attempted a pilots calculation. While flying near Mount Rainier, he watched the formation travel southward and timed how long it took to move between Mount Rainier and Mount Adams, two prominent landmarks roughly fifty miles apart. Based on a measured interval of about one minute and forty-two seconds, he concluded that the objects were moving at extraordinary speed. Depending on the exact assumptions used, his calculations produced figures ranging from about 1,200 to 1,700 miles per hour. National Air and Space Museum+2nicap.org <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+Arnold did not claim to know the speed of the objects by intuition. He attempted a pilots calculation. While flying near Mount Rainier, he watched the formation travel southward and timed how long it took to move between Mount Rainier and Mount Adams, two prominent landmarks roughly fifty miles apart. Based on a measured interval of about one minute and forty-two seconds, he concluded that the objects were moving at extraordinary speed. Depending on the exact assumptions used, his calculations produced figures ranging from about 1,200 to 1,700 miles per hour. National Air and Space Museum+2nicap.org<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
-What mattered culturally was not the mathematical precision. It was the method. Arnold presented himself as an experienced pilot using visible reference points, a watch and a distance estimate rather than relying on vague impressions. Newspapers repeatedly emphasised that he had clocked the objects. Readers encountered a witness who appeared to be making a technical measurement, not merely reporting a strange feeling or a fleeting light in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org+2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</span></span></span>
+What mattered culturally was not the mathematical precision. It was the method. Arnold presented himself as an experienced pilot using visible reference points, a watch and a distance estimate rather than relying on vague impressions. Newspapers repeatedly emphasised that he had clocked the objects. Readers encountered a witness who appeared to be making a technical measurement, not merely reporting a strange feeling or a fleeting light in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</span></span></span>
 
 This distinction helped separate the report from older folklore traditions. A ghost, phantom airship or mysterious omen might be described in narrative terms. Arnold instead spoke the language of aviation performance.
 
@@ -297,16 +297,16 @@ This distinction helped separate the report from older folklore traditions. A gh
 
 ## Why the Number Impressed 1947 Readers
 
-The speed estimate arrived at a moment when aviation was already reshaping public imagination. The Second World War had ended less than two years earlier. Jet aircraft were becoming symbols of the future, and military research programmes were pushing toward ever higher speeds. Yet Arnolds figure exceeded what most people believed aircraft could achieve. The Smithsonian notes that his estimate was roughly twice the speed of any known aeroplane at the time. Even the Bell X-1, which would later break the sound barrier, had not yet made its historic flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+The speed estimate arrived at a moment when aviation was already reshaping public imagination. The Second World War had ended less than two years earlier. Jet aircraft were becoming symbols of the future, and military research programmes were pushing toward ever higher speeds. Yet Arnolds figure exceeded what most people believed aircraft could achieve. The Smithsonian notes that his estimate was roughly twice the speed of any known aeroplane at the time. Even the Bell X-1, which would later break the sound barrier, had not yet made its historic flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
-That context transformed the sighting. Contemporary reports show aviation officials and military spokesmen responding not primarily to the objects appearance but to the claimed speed. One official remarked that nothing known travelled that fast except a V-2 rocket. The debate immediately shifted from What did he see? to Could anything fly that fast? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/time/1/9/4/7/06/26/Bequette_BoiseFlyerMaintainsHeSawEm_EastOregonian/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Boise Flyer Maintains He Saw &#x27;Em</span><span class="citation-popover-snippet">Boise Flyer Maintains He Saw &#x27;EmJune 26, 1947...</span><span class="citation-popover-meta">Published: June 26, 1947</span></span></span>
+That context transformed the sighting. Contemporary reports show aviation officials and military spokesmen responding not primarily to the objects appearance but to the claimed speed. One official remarked that nothing known travelled that fast except a V-2 rocket. The debate immediately shifted from What did he see? to Could anything fly that fast?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/time/1/9/4/7/06/26/Bequette_BoiseFlyerMaintainsHeSawEm_EastOregonian/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Boise Flyer Maintains He Saw &#x27;Em</span><span class="citation-popover-snippet">Boise Flyer Maintains He Saw &#x27;EmJune 26, 1947...</span><span class="citation-popover-meta">Published: June 26, 1947</span></span></span>
 
 The effect was to place the story within a distinctly modern framework:
 
 * It invoked advanced engineering rather than supernatural forces.
 * It suggested hidden military technology rather than legends or myths.
 * It encouraged readers to think about rockets, supersonic flight and secret research programmes.
-* It made the sighting seem relevant to the technological future unfolding after the war. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+* It made the sighting seem relevant to the technological future unfolding after the war.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 Within the broader relationship between UFOs and science fiction, this was crucial. Science-fiction magazines and films of the period increasingly featured advanced machines, futuristic aircraft and revolutionary propulsion systems. Arnolds speed estimate made his report sound as if it belonged in that same technological landscape.
 
@@ -314,11 +314,11 @@ Within the broader relationship between UFOs and science fiction, this was cruci
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-2-dark.svg" | relative_url }}" alt="Speed Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Fragile Calculations Became Cultural Proof
 
-The irony is that the speed estimate was also the most vulnerable part of Arnolds account. The calculation depended on several assumptions: the exact distance travelled, the position of the objects relative to the mountains, and the accuracy of Arnolds judgement about where they were located in space. Small errors in any of these variables could produce very different speeds. Later investigators argued that mistaken estimates of distance or size could reduce the apparent velocity dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">report on the ufo wave of 1947</span><span class="citation-popover-snippet">23, 1967...</span></span></span>
+The irony is that the speed estimate was also the most vulnerable part of Arnolds account. The calculation depended on several assumptions: the exact distance travelled, the position of the objects relative to the mountains, and the accuracy of Arnolds judgement about where they were located in space. Small errors in any of these variables could produce very different speeds. Later investigators argued that mistaken estimates of distance or size could reduce the apparent velocity dramatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">report on the ufo wave of 1947</span><span class="citation-popover-snippet">23, 1967...</span></span></span>
 
-Yet the public often treated the figure as evidence rather than as a hypothesis. Once newspapers printed 1,200 miles an hour, the number acquired authority. It looked objective. Readers could disagree about what the objects were, but the speed estimate gave the impression that the mystery had been measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</span></span></span>
+Yet the public often treated the figure as evidence rather than as a hypothesis. Once newspapers printed 1,200 miles an hour, the number acquired authority. It looked objective. Readers could disagree about what the objects were, but the speed estimate gave the impression that the mystery had been measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</span></span></span>
 
-This is one reason the Arnold case became so influential. The cultural power of the story did not come only from unusual objects in the sky. It came from attaching those objects to apparently quantitative data. A speculative observation became a technological anomaly. The number helped persuade many people that the event belonged in the age of radar, jet propulsion and scientific investigation rather than in the older world of marvels and legends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+This is one reason the Arnold case became so influential. The cultural power of the story did not come only from unusual objects in the sky. It came from attaching those objects to apparently quantitative data. A speculative observation became a technological anomaly. The number helped persuade many people that the event belonged in the age of radar, jet propulsion and scientific investigation rather than in the older world of marvels and legends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
@@ -328,186 +328,186 @@ This is one reason the Arnold case became so influential. The cultural power of 
 
 ## Why the Speed Claim Still Matters
 
-Arnolds speed estimate illustrates a recurring pattern in UFO history. Numerical claims often carry more persuasive force than visual descriptions, even when the underlying measurements are uncertain. In 1947, the assertion that the objects were travelling around 1,200 miles per hour transformed a regional sighting into a national story. Newspapers highlighted the speed because it implied a challenge to existing aviation knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</span></span></span>
+Arnolds speed estimate illustrates a recurring pattern in UFO history. Numerical claims often carry more persuasive force than visual descriptions, even when the underlying measurements are uncertain. In 1947, the assertion that the objects were travelling around 1,200 miles per hour transformed a regional sighting into a national story. Newspapers highlighted the speed because it implied a challenge to existing aviation knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</span></span></span>
 
-As a result, the sighting felt modern from the beginning. The objects were not presented as mysterious beings or supernatural apparitions. They were framed as machines apparently outperforming the most advanced technology of the day. That framing linked UFOs to the same future-oriented imagination that fuelled post-war science fiction, helping establish a lasting connection between [unidentified]({{ 'unidentified/' | relative_url }}) flying objects and visions of technological possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+As a result, the sighting felt modern from the beginning. The objects were not presented as mysterious beings or supernatural apparitions. They were framed as machines apparently outperforming the most advanced technology of the day. That framing linked UFOs to the same future-oriented imagination that fuelled post-war science fiction, helping establish a lasting connection between [unidentified]({{ 'unidentified/' | relative_url }}) flying objects and visions of technological possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space MuseumJune 24, 2022...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-3-dark.svg" | relative_url }}" alt="Speed Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_kenneth_arnold_sauce_924867_arnold_speed_estimat_ccbebd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Arnold&#x27;s Speed Claim Mattered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Arnold&#x27;s Speed Claim Mattered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for the early cases that followed Arnold&#x27;s sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the early cases that followed Arnold&#x27;s sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Begins with Kenneth Arnold and the birth of the flying saucer era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Begins with Kenneth Arnold and the birth of the flying saucer era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the public reaction to the post-Arnold saucer wave.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the public reaction to the post-Arnold saucer wave.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how reported forms and symbols change through culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reported forms and symbols change through culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="speed-claim-why-arnold-s-speed-claim-mattered-relationships-betwee-ufo-memorabilia-book-books-gerry-anderson-series-prog" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -523,7 +523,7 @@ As a result, the sighting felt modern from the beginning. The objects were not p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -543,7 +543,7 @@ As a result, the sighting felt modern from the beginning. The objects were not p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -575,7 +575,7 @@ As a result, the sighting felt modern from the beginning. The objects were not p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -627,7 +627,7 @@ As a result, the sighting felt modern from the beginning. The objects were not p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -672,7 +672,7 @@ As a result, the sighting felt modern from the beginning. The objects were not p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,81 +713,81 @@ As a result, the sighting felt modern from the beginning. The objects were not p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/470624arnold.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470624arnold.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/470624arnold.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470624arnold.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/eugeneguard26jun1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/eugeneguard26jun1947.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The Eugene Guard, Eugene, Oregon, USA, on page 1, on June 26, 1947...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/eugeneguard26jun1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/eugeneguard26jun1947.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Kenneth Arnold sighting reports in the Press, The Eugene Guard, Eugene, Oregon, USA, on page 1, on June 26, 1947...</p></details>
    Published: June 26, 1947  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: rr0.org  
    Title: Boise Flyer Maintains He Saw 'Em  
-   Link: <a href="https://rr0.org/time/1/9/4/7/06/26/Bequette_BoiseFlyerMaintainsHeSawEm_EastOregonian/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/1/9/4/7/06/26/Bequette_BoiseFlyerMaintainsHeSawEm_EastOregonian/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boise Flyer Maintains He Saw &#x27;EmJune 26, 1947...</p></details>
+   Link:<a href="https://rr0.org/time/1/9/4/7/06/26/Bequette_BoiseFlyerMaintainsHeSawEm_EastOregonian/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/1/9/4/7/06/26/Bequette_BoiseFlyerMaintainsHeSawEm_EastOregonian/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boise Flyer Maintains He Saw &#x27;EmJune 26, 1947...</p></details>
    Published: June 26, 1947  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dokumen.pub  
    Title: report on the ufo wave of 1947  
-   Link: <a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23, 1967...</p></details>
+   Link:<a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23, 1967...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rr0.org  
    Title: Une autre explication rate l'observation de Kenneth Arnold  
-   Link: <a href="https://rr0.org/time/1/9/9/7/Maccabee_AnotherFailedExplanationForTheKennethArnoldSighting/index_fr.html" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/1/9/9/7/Maccabee_AnotherFailedExplanationForTheKennethArnoldSighting/index_fr.html</a>  
+   Link:<a href="https://rr0.org/time/1/9/9/7/Maccabee_AnotherFailedExplanationForTheKennethArnoldSighting/index_fr.html" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/1/9/9/7/Maccabee_AnotherFailedExplanationForTheKennethArnoldSighting/index_fr.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airandspace.si.edu  
    Title: 1947 year [flying saucer](&#123;&#123; 'flying-saucer/' | relative_url &#125;&#125;)  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer | National Air and Space MuseumJune 24, 2022...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer | National Air and Space MuseumJune 24, 2022...</p></details>
    Published: June 24, 2022  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/1kqx1en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1kqx1en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sure this has been talked about a tonBut Ive been on a Kenneth Arnold rabbit hole trip and Ive never heard it mentio...</p></details>
+   Link:<a href="https://www.reddit.com/r/UAP/comments/1kqx1en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1kqx1en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sure this has been talked about a tonBut Ive been on a Kenneth Arnold rabbit hole trip and Ive never heard it mentio...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jqJzZ-V5Jv8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jqJzZ-V5Jv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
    Published: June 1947  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Where Did The Term 'Flying Saucer' Come From? | Mossback's Northwest  
-   Link: <a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211</a>  
+   Link:<a href="https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting, 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting, 1947...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
    Published: June 1947  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OarL8ymktIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OarL8ymktIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OarL8ymktIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OarL8ymktIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Music...</p></details>

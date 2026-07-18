@@ -455,7 +455,7 @@ The visual shorthand did not come from comics alone. It drew on pulp science fic
 
 ## Why the saucer became the easiest UFO to draw
 
-The modern flying-saucer image became famous after Kenneth Arnold’s 1947 sighting, but the common round-disc symbol was already a simplification. The Smithsonian National Air and Space Museum notes that Arnold’s later drawing for the US Air Force looked less like a neat dinner plate and more like a rounded, heel-like shape with a pointed trailing edge. The phrase “flying saucer” nevertheless stuck because it was memorable, repeatable and easy to picture. Once that phrase existed, artists had a ready-made icon: a shallow disc seen from below or in profile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying SaucerJune 24, 2022 — 24 Jun 2022 — A National Air and Space Museum aircraft, the V...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
+The modern flying-saucer image became famous after Kenneth Arnold’s 1947 sighting, but the common round-disc symbol was already a simplification. The Smithsonian National Air and Space Museum notes that Arnold’s later drawing for the US Air Force looked less like a neat dinner plate and more like a rounded, heel-like shape with a pointed trailing edge. The phrase “flying saucer” nevertheless stuck because it was memorable, repeatable and easy to picture. Once that phrase existed, artists had a ready-made icon: a shallow disc seen from below or in profile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying SaucerJune 24, 2022 — 24 Jun 2022 — A National Air and Space Museum aircraft, the V...</span><span class="citation-popover-meta">Published: June 24, 2022</span></span></span>
 
 Comics rewarded that kind of simplification. A saucer could be reduced to an oval, a rim and a dome, and it would still read instantly. In a small panel, that mattered more than technical plausibility. The drawing had to survive cheap printing, busy page layouts and rapid reading. A cigar-shaped craft, a strange light or a formation of objects might be closer to some witness reports, but a disc with a dome gave the reader a compact visual noun: “UFO”.
 
@@ -471,7 +471,7 @@ The strongest UFO shorthand in comics came from a small toolkit of repeated imag
 
 **The beam** translated invisible power into a visible cone. A beam could abduct a person, stop a car, lift an animal, scan a landscape or destroy a building. Its great advantage was narrative clarity: the reader could see both the UFO and its effect in one panel.
 
-**Speed lines and vibration marks** gave still images the feeling of motion. Comics scholars use terms such as motion lines and emanata for graphic marks that show things the eye would not literally see, including movement, impact, emotion or invisible force. Research on visual narratives describes motion lines as a common graphic device for showing the path of a moving object, especially in comics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4376351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe neurocognition of motion lines in visual narratives</span><span class="citation-popover-snippet">Motion lines appear ubiquitously in graphic representation to depict the path of a moving object, most popularly in comics.Read more...</span></span></span>
+**Speed lines and vibration marks** gave still images the feeling of motion. Comics scholars use terms such as motion lines and emanata for graphic marks that show things the eye would not literally see, including movement, impact, emotion or invisible force. Research on visual narratives describes motion lines as a common graphic device for showing the path of a moving object, especially in comics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4376351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe neurocognition of motion lines in visual narratives</span><span class="citation-popover-snippet">Motion lines appear ubiquitously in graphic representation to depict the path of a moving object, most popularly in comics.Read more...</span></span></span>
 
 **The ray gun** connected UFOs to older science-fiction adventure. Long before UFOs became an official investigative category, popular space stories had already normalised handheld beams, death rays and futuristic weapons. In comics, a ray gun was useful because it worked like a miniature UFO beam: it made advanced technology visible.
 
@@ -485,13 +485,13 @@ These symbols travelled well because they were modular. A comic did not need all
 
 The UFO in comics was rarely just an [unidentified]({{ 'unidentified/' | relative_url }}) object. Comics are built for action, so the object quickly became a participant in the story. It chased aircraft, landed in fields, released aliens, fired rays, pulled people into the sky or revealed hidden civilisations. This shifted UFO imagery away from uncertain observation and towards readable drama.
 
-EC Comics’ early-1950s science-fiction titles, including *Weird Science* and *Weird Fantasy*, are important here because they helped define the look of mid-century comic-book space horror and alien encounter stories. Grand Comics Database records *Weird Science* as an EC science-fiction comic running from 1950 to 1953, while later commentary on EC’s science-fiction line has emphasised its detailed alien monsters, dramatic covers and strong visual appeal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
+EC Comics’ early-1950s science-fiction titles, including *Weird Science* and *Weird Fantasy*, are important here because they helped define the look of mid-century comic-book space horror and alien encounter stories. Grand Comics Database records *Weird Science* as an EC science-fiction comic running from 1950 to 1953, while later commentary on EC’s science-fiction line has emphasised its detailed alien monsters, dramatic covers and strong visual appeal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weird Science (comics</span><span class="citation-popover-snippet">Weird Science (comics</span></span></span>
 
 Those EC stories were not all “UFO comics” in the narrow sense, but they built a visual neighbourhood around the saucer: alien planets, grotesque beings, [rockets]({{ 'rockets/' | relative_url }}), space helmets, control rooms, death rays and cosmic punishment. The reader learned to connect certain shapes and props with extraterrestrial possibility. A saucer entering that visual world did not need explanation; it belonged there.
 
-Gold Key’s *UFO Flying Saucers* made the connection more direct. Grand Comics Database identifies *UFO Flying Saucers* as a Western Publishing series beginning in 1968, with Gold Key branding across thirteen issues before the numbering continued into *UFO & Outer Space*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/series/1884/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Open source on comics.org.</span></span></span> MyComicShop describes the first issue as “tales of mystery and suspense related to the UFO phenomenon” and notes a 68-page, full-colour format with a “What Is a UFO?” article by Leo Dorfman. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mycomicshop.com/search?TID=193941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mycomicshop.com">[MyComicShop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mycomicshop.com</span><span class="citation-popover-snippet">Open source on mycomicshop.com.</span></span></span>
+Gold Key’s *UFO Flying Saucers* made the connection more direct. Grand Comics Database identifies *UFO Flying Saucers* as a Western Publishing series beginning in 1968, with Gold Key branding across thirteen issues before the numbering continued into *UFO & Outer Space*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/series/1884/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Open source on comics.org.</span></span></span> MyComicShop describes the first issue as “tales of mystery and suspense related to the UFO phenomenon” and notes a 68-page, full-colour format with a “What Is a UFO?” article by Leo Dorfman.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mycomicshop.com/search?TID=193941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mycomicshop.com">[MyComicShop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mycomicshop.com</span><span class="citation-popover-snippet">Open source on mycomicshop.com.</span></span></span>
 
-That series is especially revealing because it sat between documentary posture and comic-book spectacle. Its pages and covers could present “case” material, reader reports and supposedly mysterious incidents, but the visual treatment still relied on the same vocabulary of dramatic saucers, hovering lights, alien contact and frightened witnesses. Grand Comics Database entries for later issues list story keywords such as “flying saucer”, “UFO”, “first contact”, “invasion”, “aliens” and “eyewitness evidence”, showing how the series repeatedly organised UFO subject matter into recognisable comic-book situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Open source on comics.org.</span></span></span>
+That series is especially revealing because it sat between documentary posture and comic-book spectacle. Its pages and covers could present “case” material, reader reports and supposedly mysterious incidents, but the visual treatment still relied on the same vocabulary of dramatic saucers, hovering lights, alien contact and frightened witnesses. Grand Comics Database entries for later issues list story keywords such as “flying saucer”, “UFO”, “first contact”, “invasion”, “aliens” and “eyewitness evidence”, showing how the series repeatedly organised UFO subject matter into recognisable comic-book situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Open source on comics.org.</span></span></span>
 
 One reason beams became so central is that they solve a storytelling problem. A real UFO report may describe lights, movement, distance and uncertainty. A comic panel needs causality. A beam draws a line between cause and effect: the saucer is doing something to the human world. That “something” might be abduction, paralysis, communication, scanning or attack, but the visual syntax is the same.
 
@@ -502,7 +502,7 @@ One reason beams became so central is that they solve a storytelling problem. A 
 
 UFO reports often depend on ambiguity: an object is unidentified because the observer lacks enough reliable information. Comics tend to move in the opposite direction. They reduce ambiguity so the reader can follow the sequence. This does not mean every comic insisted that UFOs were real extraterrestrial craft, but it does mean comics trained audiences to recognise a standard encounter shape.
 
-The medium itself encourages this. Comics depend on panels, gaps and reader inference. The “gutter”, the space between panels, asks readers to connect one image to the next; comics theory commonly calls this process closure. A panel showing a saucer above a house, followed by a panel showing a missing child or a stunned witness, lets the reader infer the event between them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/the-basics/one/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-snippet">Open source on comicsdevices.com.</span></span></span>
+The medium itself encourages this. Comics depend on panels, gaps and reader inference. The “gutter”, the space between panels, asks readers to connect one image to the next; comics theory commonly calls this process closure. A panel showing a saucer above a house, followed by a panel showing a missing child or a stunned witness, lets the reader infer the event between them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://comicsdevices.com/the-basics/one/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comicsdevices.com">[Comics Devices Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comicsdevices.com</span><span class="citation-popover-snippet">Open source on comicsdevices.com.</span></span></span>
 
 That ability made UFO scenes especially efficient. A comic did not have to show every stage of an encounter. It could show the light, the beam, the empty room and the witness’s face. The reader completed the abduction. Or it could show a radar screen, a pilot’s alarmed expression and a saucer streaking past the cockpit. The reader completed the chase.
 
@@ -516,7 +516,7 @@ The “grey” alien later became one of UFO culture’s most recognisable figur
 
 The transition matters because it shows how UFO imagery became less tied to pulp monsters and more tied to encounter folklore. A bug-eyed monster says “space adventure” or “invasion”. A grey says “abduction”, “secret contact” or “government file”. The same saucer can support both meanings, but the occupant changes the tone.
 
-The Library of Congress’s discussion of UFOs and aliens in popular culture points to the way comic books and [television]({{ 'television/' | relative_url }}) reflected Cold War-era fears about hidden visitors and the possibility that extraterrestrials might already be among us. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span> Comics visualised that anxiety with remarkable economy: a human-looking neighbour, a shadowy figure at the window, a small alien in a doorway, or a saucer hidden behind a hill could all suggest infiltration.
+The Library of Congress’s discussion of UFOs and aliens in popular culture points to the way comic books and [television]({{ 'television/' | relative_url }}) reflected Cold War-era fears about hidden visitors and the possibility that extraterrestrials might already be among us.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Open source on loc.gov.</span></span></span> Comics visualised that anxiety with remarkable economy: a human-looking neighbour, a shadowy figure at the window, a small alien in a doorway, or a saucer hidden behind a hill could all suggest infiltration.
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab-Illustration-2-dark.svg" | relative_url }}" alt="Comics illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_comics_ufo_shorthand_316cab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -541,7 +541,7 @@ Comics are unusually good at creating this kind of repeatable sign because they 
 
 Not all UFO comics were pure fantasy. Some borrowed the tone of reports, files, sightings and testimony. Gold Key’s *UFO Flying Saucers* is the clearest example in mainstream American comics. It used the appeal of mystery and alleged evidence while packaging the material in a full-colour comic format. The result was neither a sober investigation nor a simple space opera. It was a hybrid: case-file atmosphere rendered through dramatic comic art.
 
-Grand Comics Database entries for individual issues show how the series mixed short features, reader reports and stories based on alleged incidents. One issue includes a synopsis for “A Story That Could Be True”, framed around the idea that almost everyone has imagined what seeing a UFO would be like; another includes reader sighting reports and stories tagged with “eyewitness evidence”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Open source on comics.org.</span></span></span>
+Grand Comics Database entries for individual issues show how the series mixed short features, reader reports and stories based on alleged incidents. One issue includes a synopsis for “A Story That Could Be True”, framed around the idea that almost everyone has imagined what seeing a UFO would be like; another includes reader sighting reports and stories tagged with “eyewitness evidence”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comics.org">[Grand Comics Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comics.org</span><span class="citation-popover-snippet">Open source on comics.org.</span></span></span>
 
 That hybrid form is important for the broader UFO-science-fiction relationship. It shows how comics could blur the boundary between reported mystery and genre expectation without needing to make a formal claim about proof. The artwork could make a case feel vivid even when the evidence behind it was uncertain. A witness report became a sequence of panels; a rumour became a cover image; an ambiguous light became a metallic craft.
 
@@ -552,7 +552,7 @@ This does not mean comics caused people to invent sightings wholesale. The more 
 
 ## The limits of the shorthand
 
-The same shorthand that made UFOs easy to recognise also narrowed how they were imagined. Real-world UAP discussions involve sensor quality, atmospheric effects, balloons, aircraft, drones, astronomical objects, witness reliability and incomplete data. NASA’s independent UAP report stressed that there is no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP and that the central difficulty is often the lack of high-quality data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The same shorthand that made UFOs easy to recognise also narrowed how they were imagined. Real-world UAP discussions involve sensor quality, atmospheric effects, balloons, aircraft, drones, astronomical objects, witness reliability and incomplete data. NASA’s independent UAP report stressed that there is no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP and that the central difficulty is often the lack of high-quality data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 Comic shorthand does almost the opposite. It makes the object visible, intentional and narratively meaningful. A drawn saucer is rarely just “unidentified”; it is a craft. A beam is rarely an artefact of perception; it is an action. An alien is rarely a misclassification; it is an occupant. These conventions are powerful for fiction but risky if unconsciously imported into discussion of actual reports.
 
@@ -569,194 +569,194 @@ The comic-book UFO is not a neutral record of sightings. It is a visual package 
 Within the relationship between UFOs and science fiction, comics therefore occupy a specific role. Novels could build the ideas; films could make them spectacular; television could serialise them. Comics made them instantly readable. They turned “something unidentified in the sky” into a visual language almost anyone could decode: the disc arrives, the beam descends, the witness points, and the story begins.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Comics Made UFOs Instantly Readable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Comics Made UFOs Instantly Readable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veNOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Carl Gustav Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=veNOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Carl Gustav Jung</p>
         
-        <p class="fr-book-desc">Directly examines UFOs as modern myths and cultural symbols.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines UFOs as modern myths and cultural symbols.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The EC Archives: Weird Science Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xu9KEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The EC Archives: Weird Science Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The EC Archives: Weird Science Volume 1">The EC Archives: Weird Science Volume 1</a>
-        </h4>
-        <p class="fr-book-author">By Bill Gaines, Al Feldstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The EC Archives: Weird Science Volume 1 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xu9KEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The EC Archives: Weird Science Volume 1" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The EC Archives: Weird Science Volume 1">The EC Archives: Weird Science Volume 1</a>
+</h4>
+<p class="fr-book-author">By Bill Gaines, Al Feldstein</p>
         
-        <p class="fr-book-desc">Shows the visual language that made UFO imagery recognizable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the visual language that made UFO imagery recognizable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1+by+Bill+Gaines&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of EC Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TUAszAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The History of EC Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of EC Comics">The History of EC Comics</a>
-        </h4>
-        <p class="fr-book-author">By Grant Geissman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The History of EC Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TUAszAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The History of EC Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The History of EC Comics">The History of EC Comics</a>
+</h4>
+<p class="fr-book-author">By Grant Geissman</p>
         
-        <p class="fr-book-desc">Explains EC&#x27;s influence on science-fiction imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains EC&#x27;s influence on science-fiction imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+History+of+EC+Comics+by+Grant+Geissman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
-        </h4>
-        <p class="fr-book-author">By Scott McCloud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Comics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z1s_AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Comics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Comics">Understanding Comics</a>
+</h4>
+<p class="fr-book-author">By Scott McCloud</p>
         
-        <p class="fr-book-desc">Explains visual shorthand and symbolic storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains visual shorthand and symbolic storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Comics+by+Scott+McCloud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The EC Archives: Weird Science Volume 1</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+EC+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of EC Comics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+EC+Archives%3A+Weird+Science+Volume+1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The EC Archives: Weird Science Volume 1</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+History+of+EC+Comics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The History of EC Comics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP"><img src="{{ '/assets/images/marketplace-covers/cb030376ffee8e848aa3.jpg' | relative_url }}" alt="Listing image for Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Buga Sphere UFO Model With Display Stand | 15cm (5.9&quot;) Diameter UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="comics-how-comics-made-ufos-instantly-readable-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -772,7 +772,7 @@ Within the relationship between UFOs and science fiction, comics therefore occup
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -792,7 +792,7 @@ Within the relationship between UFOs and science fiction, comics therefore occup
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -824,7 +824,7 @@ Within the relationship between UFOs and science fiction, comics therefore occup
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -876,7 +876,7 @@ Within the relationship between UFOs and science fiction, comics therefore occup
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -921,7 +921,7 @@ Within the relationship between UFOs and science fiction, comics therefore occup
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -962,207 +962,207 @@ Within the relationship between UFOs and science fiction, comics therefore occup
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe neurocognition of motion lines in visual narratives  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4376351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4376351/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Motion lines appear ubiquitously in graphic representation to depict the path of a moving object, most popularly in comics.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4376351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4376351/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motion lines appear ubiquitously in graphic representation to depict the path of a moving object, most popularly in comics.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Weird Science (comics)  
-   Link: <a href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weird_Science_%28comics%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weird_Science_%28comics%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/series/1884/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/series/1884/</a>  
+   Link:<a href="https://www.comics.org/series/1884/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/series/1884/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/series/12532/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/series/12532/</a>  
+   Link:<a href="https://www.comics.org/series/12532/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/series/12532/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mycomicshop.com  
-   Link: <a href="https://www.mycomicshop.com/search?TID=193941" target="_blank" rel="noopener noreferrer nofollow">https://www.mycomicshop.com/search?TID=193941</a>  
+   Link:<a href="https://www.mycomicshop.com/search?TID=193941" target="_blank" rel="noopener noreferrer nofollow">https://www.mycomicshop.com/search?TID=193941</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255557/</a>  
+   Link:<a href="https://www.comics.org/issue/255557/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255557/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255555/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255555/</a>  
+   Link:<a href="https://www.comics.org/issue/255555/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255555/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/8384/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/8384/</a>  
+   Link:<a href="https://www.comics.org/issue/8384/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/8384/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255552/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255552/</a>  
+   Link:<a href="https://www.comics.org/issue/255552/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255552/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255559/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255559/</a>  
+   Link:<a href="https://www.comics.org/issue/255559/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255559/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/series/1884/covers/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/series/1884/covers/</a>  
+   Link:<a href="https://www.comics.org/series/1884/covers/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/series/1884/covers/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: my.comics.org  
-   Link: <a href="https://my.comics.org/series/12532/" target="_blank" rel="noopener noreferrer nofollow">https://my.comics.org/series/12532/</a>  
+   Link:<a href="https://my.comics.org/series/12532/" target="_blank" rel="noopener noreferrer nofollow">https://my.comics.org/series/12532/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255554/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255554/</a>  
+   Link:<a href="https://www.comics.org/issue/255554/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255554/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: comics.org  
-   Link: <a href="https://www.comics.org/issue/255551/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255551/</a>  
+   Link:<a href="https://www.comics.org/issue/255551/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/255551/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
    Title: Better Icons by Reading Comics  
-   Link: <a href="https://medium.com/%40jan.seifert/better-icons-by-reading-comics-bad81ebb3468" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jan.seifert/better-icons-by-reading-comics-bad81ebb3468</a>  
+   Link:<a href="https://medium.com/%40jan.seifert/better-icons-by-reading-comics-bad81ebb3468" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jan.seifert/better-icons-by-reading-comics-bad81ebb3468</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40slkirkman855/the-invisible-art-revealed-an-analysis-of-understanding-comics-4bbec36b33f8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40slkirkman855/the-invisible-art-revealed-an-analysis-of-understanding-comics-4bbec36b33f8</a>  
+   Link:<a href="https://medium.com/%40slkirkman855/the-invisible-art-revealed-an-analysis-of-understanding-comics-4bbec36b33f8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40slkirkman855/the-invisible-art-revealed-an-analysis-of-understanding-comics-4bbec36b33f8</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Jack Kirby  
-   Link: <a href="https://en.wikipedia.org/wiki/Jack_Kirby" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jack_Kirby</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jack_Kirby" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jack_Kirby</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Understanding Comics  
-   Link: <a href="https://en.wikipedia.org/wiki/Understanding_Comics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Understanding_Comics</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Understanding_Comics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Understanding_Comics</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Glossary of comics terminology  
-   Link: <a href="https://en.wikipedia.org/wiki/Glossary_of_comics_terminology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glossary_of_comics_terminology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glossary_of_comics_terminology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glossary_of_comics_terminology</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying SaucerJune 24, 2022 — 24 Jun 2022 — A National Air and Space Museum aircraft, the V...</p></details>
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying SaucerJune 24, 2022 — 24 Jun 2022 — A National Air and Space Museum aircraft, the V...</p></details>
    Published: June 24, 2022  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: comicsdevices.com  
-   Link: <a href="https://comicsdevices.com/the-basics/one/" target="_blank" rel="noopener noreferrer nofollow">https://comicsdevices.com/the-basics/one/</a>  
+   Link:<a href="https://comicsdevices.com/the-basics/one/" target="_blank" rel="noopener noreferrer nofollow">https://comicsdevices.com/the-basics/one/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/</a>  
+   Link:<a href="https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: kirbymuseum.org  
-   Link: <a href="https://kirbymuseum.org/blogs/effect/" target="_blank" rel="noopener noreferrer nofollow">https://kirbymuseum.org/blogs/effect/</a>  
+   Link:<a href="https://kirbymuseum.org/blogs/effect/" target="_blank" rel="noopener noreferrer nofollow">https://kirbymuseum.org/blogs/effect/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: blogs.loc.gov  
    Title: of note eleanor roosevelt alien investigator  
-   Link: <a href="https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/</a>  
+   Link:<a href="https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/manuscripts/2024/05/of-note-eleanor-roosevelt-alien-investigator/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: classicsofsciencefiction.com  
    Title: weird science  
-   Link: <a href="https://classicsofsciencefiction.com/tag/weird-science/" target="_blank" rel="noopener noreferrer nofollow">https://classicsofsciencefiction.com/tag/weird-science/</a>  
+   Link:<a href="https://classicsofsciencefiction.com/tag/weird-science/" target="_blank" rel="noopener noreferrer nofollow">https://classicsofsciencefiction.com/tag/weird-science/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: historylink.org  
-   Link: <a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
+   Link:<a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: qualitycomix.com  
    Title: Weird Science  
-   Link: <a href="https://www.qualitycomix.com/comic-price-guide/weird-science" target="_blank" rel="noopener noreferrer nofollow">https://www.qualitycomix.com/comic-price-guide/weird-science</a>  
+   Link:<a href="https://www.qualitycomix.com/comic-price-guide/weird-science" target="_blank" rel="noopener noreferrer nofollow">https://www.qualitycomix.com/comic-price-guide/weird-science</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1611.05118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1611.05118</a>  
+   Link:<a href="https://arxiv.org/abs/1611.05118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1611.05118</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/435820846445944/posts/9839250992769502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/435820846445944/posts/9839250992769502/</a>  
+   Link:<a href="https://www.facebook.com/groups/435820846445944/posts/9839250992769502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/435820846445944/posts/9839250992769502/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: governmentattic.org  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: i-repository.net  
-   Link: <a href="https://www.i-repository.net/contents/osakacu/kiyo/111E0000020-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.i-repository.net/contents/osakacu/kiyo/111E0000020-7-1.pdf</a>  
+   Link:<a href="https://www.i-repository.net/contents/osakacu/kiyo/111E0000020-7-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.i-repository.net/contents/osakacu/kiyo/111E0000020-7-1.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ECFanAddict/posts/1609406592442516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ECFanAddict/posts/1609406592442516/</a>  
+   Link:<a href="https://www.facebook.com/groups/ECFanAddict/posts/1609406592442516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ECFanAddict/posts/1609406592442516/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/rv48om/do_we_have_any_explanation_on_how_jack_kirby/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rv48om/do_we_have_any_explanation_on_how_jack_kirby/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/rv48om/do_we_have_any_explanation_on_how_jack_kirby/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rv48om/do_we_have_any_explanation_on_how_jack_kirby/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/866753606/DD212-VN-Comics-and-Graphic-Novels" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/866753606/DD212-VN-Comics-and-Graphic-Novels</a>  
+   Link:<a href="https://www.scribd.com/document/866753606/DD212-VN-Comics-and-Graphic-Novels" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/866753606/DD212-VN-Comics-and-Graphic-Novels</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: whenitwascool.com  
-   Link: <a href="https://www.whenitwascool.com/ufo-flying-saucers-gold-key-comics" target="_blank" rel="noopener noreferrer nofollow">https://www.whenitwascool.com/ufo-flying-saucers-gold-key-comics</a>  
+   Link:<a href="https://www.whenitwascool.com/ufo-flying-saucers-gold-key-comics" target="_blank" rel="noopener noreferrer nofollow">https://www.whenitwascool.com/ufo-flying-saucers-gold-key-comics</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cennydd.com  
-   Link: <a href="https://cennydd.com/writing/understanding-comics" target="_blank" rel="noopener noreferrer nofollow">https://cennydd.com/writing/understanding-comics</a>  
+   Link:<a href="https://cennydd.com/writing/understanding-comics" target="_blank" rel="noopener noreferrer nofollow">https://cennydd.com/writing/understanding-comics</a>  

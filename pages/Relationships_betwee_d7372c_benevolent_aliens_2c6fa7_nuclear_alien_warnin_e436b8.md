@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_nucle
 
 ## Introduction
 
-One of the most distinctive features of early UFO contact stories was that the aliens were not conquerors. Instead, they arrived as concerned observers, warning humanity about the dangers of atomic weapons. This pattern emerged for a simple reason: the first great wave of [flying-saucer]({{ 'flying-saucer/' | relative_url }}) culture developed during the years when nuclear war seemed a genuine possibility. In the aftermath of Hiroshima and Nagasaki, and amid escalating Cold War tensions, many people feared that scientific progress had outrun human wisdom. [Benevolent aliens]({{ 'friendly-aliens/' | relative_url }}) offered a way to dramatise that anxiety. Rather than invading Earth, they acted as cosmic witnesses who could tell humanity what many people already feared—that nuclear weapons threatened not only nations but civilisation itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-title">sociology articles</span><span class="citation-popover-snippet">Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</span></span></span>
+One of the most distinctive features of early UFO contact stories was that the aliens were not conquerors. Instead, they arrived as concerned observers, warning humanity about the dangers of atomic weapons. This pattern emerged for a simple reason: the first great wave of [flying-saucer]({{ 'flying-saucer/' | relative_url }}) culture developed during the years when nuclear war seemed a genuine possibility. In the aftermath of Hiroshima and Nagasaki, and amid escalating Cold War tensions, many people feared that scientific progress had outrun human wisdom. [Benevolent aliens]({{ 'friendly-aliens/' | relative_url }}) offered a way to dramatise that anxiety. Rather than invading Earth, they acted as cosmic witnesses who could tell humanity what many people already feared—that nuclear weapons threatened not only nations but civilisation itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-title">sociology articles</span><span class="citation-popover-snippet">Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_nuclear_alien_warnin_e436b8-Illustration-1-dark.svg" | relative_url }}" alt="Nuclear Warnings illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_nuclear_alien_warnin_e436b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_benevolent_aliens_2c6fa7_nuclear_alien_warnin_e436b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,9 +290,9 @@ Within the broader relationship between UFOs and science fiction, this nuclear-w
 
 The early saucer era unfolded against a backdrop of unprecedented uncertainty. The Soviet Union's successful atomic test in 1949 ended the American nuclear monopoly, while public discussions increasingly focused on radioactive fallout, hydrogen bombs and the possibility of global destruction. Nuclear fear was not a specialised concern; it was part of everyday culture.
 
-Contactee accounts that emerged in the early 1950s reflected this atmosphere. Rather than claiming that aliens were interested in Earth's resources or territory, many [contactees]({{ 'contactees/' | relative_url }}) reported messages centred on peace, disarmament and humanity's survival. Scholars of the UFO movement note that the earliest contact narratives differed sharply from later alien-abduction stories. The visitors were generally portrayed as wise, compassionate and worried about human behaviour rather than threatening or hostile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-title">sociology articles</span><span class="citation-popover-snippet">Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</span></span></span>
+Contactee accounts that emerged in the early 1950s reflected this atmosphere. Rather than claiming that aliens were interested in Earth's resources or territory, many [contactees]({{ 'contactees/' | relative_url }}) reported messages centred on peace, disarmament and humanity's survival. Scholars of the UFO movement note that the earliest contact narratives differed sharply from later alien-abduction stories. The visitors were generally portrayed as wise, compassionate and worried about human behaviour rather than threatening or hostile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-title">sociology articles</span><span class="citation-popover-snippet">Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</span></span></span>
 
-George Adamski, the most famous contactee of the decade, claimed to have met a Venusian named Orthon in 1952. According to Adamski's account, the extraterrestrials were deeply concerned about nuclear testing and radioactive contamination. The message was not that Earth faced invasion, but that humanity risked destroying itself through irresponsible use of technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Contactees</span><span class="citation-popover-snippet">Center for UFO StudiesContactees - Center for UFO Studies...</span></span></span>
+George Adamski, the most famous contactee of the decade, claimed to have met a Venusian named Orthon in 1952. According to Adamski's account, the extraterrestrials were deeply concerned about nuclear testing and radioactive contamination. The message was not that Earth faced invasion, but that humanity risked destroying itself through irresponsible use of technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Contactees</span><span class="citation-popover-snippet">Center for UFO StudiesContactees - Center for UFO Studies...</span></span></span>
 
 This framing gave UFO stories a powerful emotional function. Nuclear fears that were difficult to process through ordinary political debate could be recast as a dramatic conversation with an advanced civilisation. The alien became a voice expressing anxieties that already existed within society.
 
@@ -303,7 +303,7 @@ This framing gave UFO stories a powerful emotional function. Nuclear fears that 
 
 A hostile alien warning about nuclear weapons would have produced a contradiction. If extraterrestrials were enemies, there would be little reason to trust their advice. The warning narrative therefore worked best when visitors appeared morally superior and fundamentally benevolent.
 
-In contactee stories, aliens often possessed advanced technology but rejected aggression. Their civilisation represented a future that humanity might reach if it overcame violence and nationalism. The contrast was deliberate. Earth had atomic bombs; the visitors had spacecraft capable of interplanetary travel. Yet the supposedly more advanced civilisation was also the more peaceful one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Contactees</span><span class="citation-popover-snippet">Center for UFO StudiesContactees - Center for UFO Studies...</span></span></span>
+In contactee stories, aliens often possessed advanced technology but rejected aggression. Their civilisation represented a future that humanity might reach if it overcame violence and nationalism. The contrast was deliberate. Earth had atomic bombs; the visitors had spacecraft capable of interplanetary travel. Yet the supposedly more advanced civilisation was also the more peaceful one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Contactees</span><span class="citation-popover-snippet">Center for UFO StudiesContactees - Center for UFO Studies...</span></span></span>
 
 This structure transformed technological superiority into moral superiority. The lesson was not merely that aliens were more intelligent. It was that genuine progress required ethical development alongside scientific achievement. Nuclear weapons became evidence that humanity had achieved immense power without equivalent wisdom.
 
@@ -331,16 +331,16 @@ This distinction mattered. If aliens simply removed nuclear weapons or imposed p
 
 That position allowed contact stories to function as moral allegories. The alien perspective made familiar political problems appear universal. Nuclear war was no longer merely a dispute between superpowers; it became a test of whether an intelligent species could survive its own technological development.
 
-The same pattern appears repeatedly in accounts of "Space Brothers" and other benevolent visitors. Their authority came from distance. Because they were not participants in Cold War rivalries, they could supposedly evaluate humanity's behaviour from a higher standpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Contactees</span><span class="citation-popover-snippet">Center for UFO StudiesContactees - Center for UFO Studies...</span></span></span>
+The same pattern appears repeatedly in accounts of "Space Brothers" and other benevolent visitors. Their authority came from distance. Because they were not participants in Cold War rivalries, they could supposedly evaluate humanity's behaviour from a higher standpoint.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Contactees</span><span class="citation-popover-snippet">Center for UFO StudiesContactees - Center for UFO Studies...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eh_LMjd_dZA" title="George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer">George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 12.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eh_LMjd_dZA">Open on YouTube</a></p></div></div></div>
 
 ## The Warning Story in Science Fiction
 
-Science fiction of the same period frequently explored similar themes. The most famous example is *The Day the Earth Stood Still* (1951), in which the alien emissary [Klaatu]({{ 'klaatu/' | relative_url }}) arrives not to conquer Earth but to deliver a warning. Humanity's violence and growing technological power threaten wider interplanetary stability. The visitor's role is therefore diplomatic and moral rather than military. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikiquote.org">[Wikiquote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikiquote.org</span><span class="citation-popover-title">The Day the Earth Stood Still (1951 film</span><span class="citation-popover-snippet">The Day the Earth Stood Still (1951 film) - WikiquoteMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+Science fiction of the same period frequently explored similar themes. The most famous example is *The Day the Earth Stood Still* (1951), in which the alien emissary [Klaatu]({{ 'klaatu/' | relative_url }}) arrives not to conquer Earth but to deliver a warning. Humanity's violence and growing technological power threaten wider interplanetary stability. The visitor's role is therefore diplomatic and moral rather than military.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikiquote.org">[Wikiquote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikiquote.org</span><span class="citation-popover-title">The Day the Earth Stood Still (1951 film</span><span class="citation-popover-snippet">The Day the Earth Stood Still (1951 film) - WikiquoteMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
-The film's central idea closely paralleled the logic of contactee narratives. An advanced civilisation observes humanity's dangerous trajectory and intervenes with a message. The alien functions less as a monster and more as an external conscience. Klaatu's warning reflected contemporary concerns about atomic weapons and global insecurity, themes that resonated strongly with Cold War audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikiquote.org">[Wikiquote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikiquote.org</span><span class="citation-popover-title">The Day the Earth Stood Still (1951 film</span><span class="citation-popover-snippet">The Day the Earth Stood Still (1951 film) - WikiquoteMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+The film's central idea closely paralleled the logic of contactee narratives. An advanced civilisation observes humanity's dangerous trajectory and intervenes with a message. The alien functions less as a monster and more as an external conscience. Klaatu's warning reflected contemporary concerns about atomic weapons and global insecurity, themes that resonated strongly with Cold War audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikiquote.org">[Wikiquote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikiquote.org</span><span class="citation-popover-title">The Day the Earth Stood Still (1951 film</span><span class="citation-popover-snippet">The Day the Earth Stood Still (1951 film) - WikiquoteMarch 25, 2026...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
 Science fiction and UFO culture reinforced one another here. Contactee stories gave apparently real-world examples of benevolent extraterrestrials warning humanity about nuclear danger, while films and novels popularised the same narrative structure for mass audiences. The result was a shared cultural image: the wise visitor from the stars arriving to tell humanity that its greatest threat came not from aliens, but from itself.
 
@@ -352,201 +352,201 @@ The nuclear-warning motif survived because it addressed a deeper question than t
 
 Friendly alien warnings transformed [Cold War fears]({{ 'cold-war-fear/' | relative_url }}) into a story with moral clarity. Instead of random catastrophe, there was a lesson. Instead of helplessness, there was a choice. The benevolent extraterrestrial became a narrative device through which societies could discuss nuclear anxiety, scientific responsibility and the future of humanity.
 
-For that reason, the image of the compassionate alien observer became one of the defining links between UFO culture and science fiction. In both forms, the visitor from space was often less interested in proving that aliens existed than in asking what kind of civilisation humanity wished to become. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons+2Wikiquote]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-title">sociology articles</span><span class="citation-popover-snippet">Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</span></span></span>
+For that reason, the image of the compassionate alien observer became one of the defining links between UFO culture and science fiction. In both forms, the visitor from space was often less interested in proving that aliens existed than in asking what kind of civilisation humanity wished to become.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[chapman.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-title">sociology articles</span><span class="citation-popover-snippet">Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vP43ny3q0V8" title="The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer">The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Today I Found Out</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vP43ny3q0V8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Friendly Aliens Warned About Bombs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Friendly Aliens Warned About Bombs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l40bAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contact experiences and benevolent-visitor themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+Doctrine+by+Helena+Petrovna+Blavatsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Doctrine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qKuiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Secret Doctrine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+Doctrine+by+Helena+Petrovna+Blavatsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Doctrine">The Secret Doctrine</a>
-        </h4>
-        <p class="fr-book-author">By Helena Petrovna Blavatsky</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+Doctrine+by+Helena+Petrovna+Blavatsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Doctrine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qKuiEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Secret Doctrine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+Doctrine+by+Helena+Petrovna+Blavatsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Doctrine">The Secret Doctrine</a>
+</h4>
+<p class="fr-book-author">By Helena Petrovna Blavatsky</p>
         
-        <p class="fr-book-desc">Influenced ideas about advanced beings guiding humanity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+Doctrine+by+Helena+Petrovna+Blavatsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Influenced ideas about advanced beings guiding humanity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+Doctrine+by+Helena+Petrovna+Blavatsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO contact narratives shifted toward cultural and mythic encounter stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Aquarian Gospel of Jesus the Christ on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aquarian Gospel of Jesus the Christ">The Aquarian Gospel of Jesus the Christ</a>
-        </h4>
-        <p class="fr-book-author">By Levi Dowling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Aquarian Gospel of Jesus the Christ on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aquarian Gospel of Jesus the Christ">The Aquarian Gospel of Jesus the Christ</a>
+</h4>
+<p class="fr-book-author">By Levi Dowling</p>
         
-        <p class="fr-book-desc">Illustrates spiritual-guide traditions that predate Space Brothers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates spiritual-guide traditions that predate Space Brothers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Aquarian+Gospel+of+Jesus+the+Christ+by+Levi+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Doctrine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Doctrine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Doctrine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Doctrine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999"><img src="{{ '/assets/images/marketplace-covers/7fc22c635184ddfebaa6.jpg' | relative_url }}" alt="Listing image for Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Skateboarder Alien Invasion Poster - Vintage MGL Meiklejohn Graphics 1999</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/5d8cba8f92baa79346fb.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ZOMBIE DRAGON WALL ART PRINT A3 A4 SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4"><img src="{{ '/assets/images/marketplace-covers/4aedd0b11b1c92700339.jpg' | relative_url }}" alt="Listing image for TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">TRIPPY PSYCHEDELIC ALIEN INVASION POSTER ABSTRACT ART PRINT SIZE A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4"><img src="{{ '/assets/images/marketplace-covers/7a5bcef3657880a9810c.jpg' | relative_url }}" alt="Listing image for ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN POSTER WALL ART TRIPPY SPACE INVASION PRINT SIZE -A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien invasion poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien invasion poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+invasion+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien invasion poster" data-ebay-reference="nuclear-warnings-why-friendly-aliens-warned-about-bombs-relationships-betwee-alien-invasion-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ For that reason, the image of the compassionate alien observer became one of the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ For that reason, the image of the compassionate alien observer became one of the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ For that reason, the image of the compassionate alien observer became one of the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ For that reason, the image of the compassionate alien observer became one of the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ For that reason, the image of the compassionate alien observer became one of the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,78 +752,78 @@ For that reason, the image of the compassionate alien observer became one of the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalcommons.chapman.edu  
    Title: sociology articles  
-   Link: <a href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/sociology_articles/3/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/sociology_articles/3/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/sociology_articles/3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapman University Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Present...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikiquote.org  
    Title: The Day the Earth Stood Still (1951 film)  
-   Link: <a href="https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951 film) - WikiquoteMarch 25, 2026...</p></details>
+   Link:<a href="https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikiquote.org/wiki/The_Day_the_Earth_Stood_Still_%281951_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Earth Stood Still (1951 film) - WikiquoteMarch 25, 2026...</p></details>
    Published: March 25, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Contactees  
-   Link: <a href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/types-of-ufos/contactees/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesContactees - Center for UFO Studies...</p></details>
+   Link:<a href="https://cufos.org/types-of-ufos/contactees/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/types-of-ufos/contactees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesContactees - Center for UFO Studies...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchnow.flinders.edu.au  
    Title: the day the earth stood still robert wise 1951 alienating the ali 2  
-   Link: <a href="https://researchnow.flinders.edu.au/en/publications/the-day-the-earth-stood-still-robert-wise-1951-alienating-the-ali-2/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/the-day-the-earth-stood-still-robert-wise-1951-alienating-the-ali-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research @ FlindersThe Day the Earth Stood Still (Robert Wise, 1951) – Alienating the Aliens - Research @ Flinders...</p></details>
+   Link:<a href="https://researchnow.flinders.edu.au/en/publications/the-day-the-earth-stood-still-robert-wise-1951-alienating-the-ali-2/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/the-day-the-earth-stood-still-robert-wise-1951-alienating-the-ali-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research @ FlindersThe Day the Earth Stood Still (Robert Wise, 1951) – Alienating the Aliens - Research @ Flinders...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchnow.flinders.edu.au  
    Title: robert wises the day the earth stood still 1951 and interplanetar  
-   Link: <a href="https://researchnow.flinders.edu.au/en/publications/robert-wises-the-day-the-earth-stood-still-1951-and-interplanetar/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/robert-wises-the-day-the-earth-stood-still-1951-and-interplanetar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research @ FlindersRobert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary Klaatu Are Not Anti-Atomic: A Reassessm...</p></details>
+   Link:<a href="https://researchnow.flinders.edu.au/en/publications/robert-wises-the-day-the-earth-stood-still-1951-and-interplanetar/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/robert-wises-the-day-the-earth-stood-still-1951-and-interplanetar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research @ FlindersRobert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary Klaatu Are Not Anti-Atomic: A Reassessm...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/915468" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/915468</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/915468" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/915468</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Very Real Top Secret Cold War Project That Gave Us the Roswell Incident  
-   Link: <a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP43ny3q0V8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold War Mystery of the Space Race Era...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vP43ny3q0V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP43ny3q0V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold War Mystery of the Space Race Era...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newsweek.com  
    Title: www.newsweek.com‘The Day the Earth Stood Still’  
-   Link: <a href="https://www.newsweek.com/day-earth-stood-still-221366" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/day-earth-stood-still-221366</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2008...</p></details>
+   Link:<a href="https://www.newsweek.com/day-earth-stood-still-221366" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/day-earth-stood-still-221366</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2008...</p></details>
    Published: December 11, 2008  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: George Adamski: Alien Contactee!  
-   Link: <a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarQuest Media...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarQuest Media...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: encyclopedia.com  
    Title: UF O Religions | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
+   Link:<a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UF O reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Cold War Mystery of the Space Race Era  
-   Link: <a href="https://www.youtube.com/watch?v=TJnbEwnXA5s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJnbEwnXA5s</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TJnbEwnXA5s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJnbEwnXA5s</a>  

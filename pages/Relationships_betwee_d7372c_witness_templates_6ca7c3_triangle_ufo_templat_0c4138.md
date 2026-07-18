@@ -274,7 +274,7 @@ image: /assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_trian
 
 ## Introduction
 
-Triangular UFOs occupy a distinctive place in modern UFO culture because they sit directly between two competing interpretations. Unlike classic [flying saucers]({{ 'flying-saucer/' | relative_url }}), a large black triangle with lights at its corners can seem both extraterrestrial and entirely human-made. To many witnesses, the shape suggests advanced engineering rather than fantasy. At the same time, its apparent silence, size, and unusual movement often exceed what observers expect from known aircraft. This ambiguity has made the triangular UFO one of the strongest examples of how science-fiction imagery, military technology, and witness testimony can reinforce one another. Reports of large triangular craft became especially prominent from the 1980s onward, a period that also saw public awareness of stealth aircraft and rumours of secret aerospace projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Belgium UFO Wave</span><span class="citation-popover-snippet">Belgium UFO Wave - UFOs Wiki...</span></span></span>
+Triangular UFOs occupy a distinctive place in modern UFO culture because they sit directly between two competing interpretations. Unlike classic [flying saucers]({{ 'flying-saucer/' | relative_url }}), a large black triangle with lights at its corners can seem both extraterrestrial and entirely human-made. To many witnesses, the shape suggests advanced engineering rather than fantasy. At the same time, its apparent silence, size, and unusual movement often exceed what observers expect from known aircraft. This ambiguity has made the triangular UFO one of the strongest examples of how science-fiction imagery, military technology, and witness testimony can reinforce one another. Reports of large triangular craft became especially prominent from the 1980s onward, a period that also saw public awareness of stealth aircraft and rumours of secret aerospace projects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Belgium UFO Wave</span><span class="citation-popover-snippet">Belgium UFO Wave - UFOs Wiki...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-1-dark.svg" | relative_url }}" alt="Triangles illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ Triangular UFOs occupy a distinctive place in modern UFO culture because they si
 
 The triangle is not a random shape in UFO reports. It carries powerful technological associations. A disc may look alien because it is unfamiliar, but a triangle often looks engineered. It resembles a vehicle designed by aerospace engineers rather than a magical object.
 
-This matters because witnesses rarely describe only a shape. They also describe expectations. Large triangular objects are commonly reported as silent, dark, and equipped with bright lights at the corners. In some databases of detailed UFO reports, triangles appear among the most frequently described structured craft and are often associated with hovering and an apparent lack of engine noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcaucus.com/research/the-reported-shape-size-kinematics-electromagnetic-effects-and-presence-of-sound-of-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcaucus.com">[uapcaucus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcaucus.com</span><span class="citation-popover-snippet">The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of UAPDecember 7, 2023...</span><span class="citation-popover-meta">Published: December 7, 2023</span></span></span>
+This matters because witnesses rarely describe only a shape. They also describe expectations. Large triangular objects are commonly reported as silent, dark, and equipped with bright lights at the corners. In some databases of detailed UFO reports, triangles appear among the most frequently described structured craft and are often associated with hovering and an apparent lack of engine noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uapcaucus.com/research/the-reported-shape-size-kinematics-electromagnetic-effects-and-presence-of-sound-of-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcaucus.com">[uapcaucus.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcaucus.com</span><span class="citation-popover-snippet">The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of UAPDecember 7, 2023...</span><span class="citation-popover-meta">Published: December 7, 2023</span></span></span>
 
-The shape also aligns with a broader cultural image of advanced military aviation. Since the late Cold War, the public has become familiar with aircraft that looked radically different from earlier designs. Stealth aircraft such as the flying-wing bomber and other classified aerospace programmes demonstrated that real military technology could appear decades ahead of public expectations. As a result, when witnesses encounter something unusual in the sky, a triangular form can seem plausibly connected to hidden technology rather than requiring an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
+The shape also aligns with a broader cultural image of advanced military aviation. Since the late Cold War, the public has become familiar with aircraft that looked radically different from earlier designs. Stealth aircraft such as the flying-wing bomber and other classified aerospace programmes demonstrated that real military technology could appear decades ahead of public expectations. As a result, when witnesses encounter something unusual in the sky, a triangular form can seem plausibly connected to hidden technology rather than requiring an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
 
 Within the broader relationship between UFOs and science fiction, this is important because the triangle functions as a hybrid template. It combines the mystery traditionally associated with alien spacecraft and the [secrecy]({{ 'secrecy/' | relative_url }}) associated with black-budget military projects.
 
@@ -295,7 +295,7 @@ Within the broader relationship between UFOs and science fiction, this is import
 
 The idea that triangular UFOs might be [secret aircraft]({{ 'secret-aircraft/' | relative_url }}) gained momentum during the 1980s and 1990s. Public revelations about previously classified aircraft created a historical lesson: governments really did possess advanced aircraft that ordinary observers had not known existed.
 
-When the public learned about aircraft such as the stealth fighter and flying-wing bomber, many people concluded that at least some UFO sightings could be linked to undisclosed military technology. The existence of genuine secret aviation projects made rumours of even more advanced aircraft seem plausible. Aviation publications and popular magazines discussed alleged triangular reconnaissance aircraft and other speculative “black projects”, helping to establish a cultural template in which mysterious triangles became associated with hidden military development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
+When the public learned about aircraft such as the stealth fighter and flying-wing bomber, many people concluded that at least some UFO sightings could be linked to undisclosed military technology. The existence of genuine secret aviation projects made rumours of even more advanced aircraft seem plausible. Aviation publications and popular magazines discussed alleged triangular reconnaissance aircraft and other speculative “black projects”, helping to establish a cultural template in which mysterious triangles became associated with hidden military development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
 
 This template affects witness interpretation. A person who sees a distant triangular pattern of lights may not simply report lights. They may report a secret aircraft because the cultural category already exists. The sighting is filtered through expectations created by real stealth programmes, aerospace journalism, novels, films, documentaries, and UFO literature.
 
@@ -318,13 +318,13 @@ This does not mean witnesses are inventing experiences. Rather, it illustrates h
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-2-dark.svg" | relative_url }}" alt="Triangles illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Belgian Wave and the Power of the Triangle Image
 
-No discussion of triangular UFOs is complete without the Belgian UFO wave of 1989–1990. Thousands of witnesses reported large triangular objects with lights at the corners and a central light. Reports came from civilians, police officers, and military personnel, making the episode one of the most influential triangle-UFO cases in history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[UFOs Wiki+2ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Belgium UFO Wave</span><span class="citation-popover-snippet">Belgium UFO Wave - UFOs Wiki...</span></span></span>
+No discussion of triangular UFOs is complete without the Belgian UFO wave of 1989–1990. Thousands of witnesses reported large triangular objects with lights at the corners and a central light. Reports came from civilians, police officers, and military personnel, making the episode one of the most influential triangle-UFO cases in history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[ufos.wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Belgium UFO Wave</span><span class="citation-popover-snippet">Belgium UFO Wave - UFOs Wiki...</span></span></span>
 
-The Belgian wave became especially significant because it seemed to resist simple explanations. Witnesses repeatedly described similar forms, and Belgian Air Force investigations included radar-related incidents involving F-16 fighters. The case therefore became a focal point for both [believers]({{ 'believers/' | relative_url }}) and sceptics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Belgium UFO Wave</span><span class="citation-popover-snippet">Belgium UFO Wave - UFOs Wiki...</span></span></span>
+The Belgian wave became especially significant because it seemed to resist simple explanations. Witnesses repeatedly described similar forms, and Belgian Air Force investigations included radar-related incidents involving F-16 fighters. The case therefore became a focal point for both [believers]({{ 'believers/' | relative_url }}) and sceptics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos.wiki">[UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos.wiki</span><span class="citation-popover-title">Wiki Belgium UFO Wave</span><span class="citation-popover-snippet">Belgium UFO Wave - UFOs Wiki...</span></span></span>
 
 For believers, the consistency of the descriptions suggested a real unknown craft. For others, the case demonstrated how a powerful visual template can spread through a population once a particular image becomes widely recognised.
 
-What matters in the context of science-fiction influence is that the Belgian wave helped standardise the appearance of the modern triangular UFO. After the wave, reports from other countries often echoed the same imagery: a dark triangular craft, corner lights, immense size, slow movement, and silence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/Belgium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com+2UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">The Belgium UFO Wave, 1989, UFO Casebook Case Files...</span></span></span>
+What matters in the context of science-fiction influence is that the Belgian wave helped standardise the appearance of the modern triangular UFO. After the wave, reports from other countries often echoed the same imagery: a dark triangular craft, corner lights, immense size, slow movement, and silence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufocasebook.com/Belgium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">The Belgium UFO Wave, 1989, UFO Casebook Case Files...</span></span></span>
 
 The triangle became a recognisable cultural object in its own right, much as the flying saucer had decades earlier.
 
@@ -339,7 +339,7 @@ At night, humans infer structure from patterns of lights. Three bright lights ca
 
 The challenge is that witnesses often report more than a simple arrangement of lights. Many describe a dark mass between the lights, apparent hovering, or movements that seem inconsistent with conventional aircraft. Because such observations usually occur at night and without reliable distance measurements, it can be difficult to determine whether the perceived shape reflects an actual object or the way the visual system organises sparse information.
 
-This ambiguity illustrates a broader problem highlighted in scientific and governmental discussions of [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena: eyewitness reports can be valuable, but they are often insufficient on their own to establish the nature of an observed object. Better sensor data is usually needed to move beyond competing interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
+This ambiguity illustrates a broader problem highlighted in scientific and governmental discussions of [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena: eyewitness reports can be valuable, but they are often insufficient on their own to establish the nature of an observed object. Better sensor data is usually needed to move beyond competing interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-3-dark.svg" | relative_url }}" alt="Triangles illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_witness_templates_6ca7c3_triangle_ufo_templat_0c4138-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,185 +356,185 @@ Unlike a saucer, a triangle can signify two different futures at once:
 
 That dual meaning is why the image remains so durable. A witness who sees a triangle does not have to choose immediately between extraterrestrial and terrestrial explanations. The shape naturally supports both narratives.
 
-As a result, triangular UFOs occupy a unique position within UFO testimony. They are not merely reports of unusual aerial objects. They are reports filtered through one of the most powerful modern science-fiction templates: the idea that somewhere, beyond public knowledge, there exists an aircraft far more advanced than anything officially acknowledged. Whether interpreted as alien craft, secret military technology, or misidentified lights, the triangle endures because it preserves uncertainty while still looking technologically believable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UFOs Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
+As a result, triangular UFOs occupy a unique position within UFO testimony. They are not merely reports of unusual aerial objects. They are reports filtered through one of the most powerful modern science-fiction templates: the idea that somewhere, beyond public knowledge, there exists an aircraft far more advanced than anything officially acknowledged. Whether interpreted as alien craft, secret military technology, or misidentified lights, the triangle endures because it preserves uncertainty while still looking technologically believable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zAt9V65RKPA" title="Has the US been flying black triangle UFOs since DESERT STORM?!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zAt9V65RKPA" target="_blank" rel="noopener noreferrer">Has the US been flying black triangle UFOs since DESERT STORM?!</a></p><p class="youtube-embed-meta">Channel: Sandboxx</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zAt9V65RKPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zAt9V65RKPA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Triangle UFOs Alien or Military?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Triangle UFOs Alien or Military?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses common witness reports involving lights and unidentified aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses common witness reports involving lights and unidentified aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers the flying-saucer era and how terminology shaped reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the flying-saucer era and how terminology shaped reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for UFO witness reports and how testimony is evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UFO witness reports and how testimony is evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains perception, evidence, belief, and how people interpret ambiguous experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains perception, evidence, belief, and how people interpret ambiguous experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="triangles-are-triangle-ufos-alien-or-military-relationships-betwee-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ As a result, triangular UFOs occupy a unique position within UFO testimony. They
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ As a result, triangular UFOs occupy a unique position within UFO testimony. They
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ As a result, triangular UFOs occupy a unique position within UFO testimony. They
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ As a result, triangular UFOs occupy a unique position within UFO testimony. They
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ As a result, triangular UFOs occupy a unique position within UFO testimony. They
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,110 +740,110 @@ As a result, triangular UFOs occupy a unique position within UFO testimony. They
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufos.wiki  
    Title: Wiki Belgium UFO Wave  
-   Link: <a href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/case/belgium-ufo-wave/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium UFO Wave - UFOs Wiki...</p></details>
+   Link:<a href="https://ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://ufos.wiki/case/belgium-ufo-wave/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium UFO Wave - UFOs Wiki...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uapcaucus.com  
-   Link: <a href="https://www.uapcaucus.com/research/the-reported-shape-size-kinematics-electromagnetic-effects-and-presence-of-sound-of-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/research/the-reported-shape-size-kinematics-electromagnetic-effects-and-presence-of-sound-of-uap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of UAPDecember 7, 2023...</p></details>
+   Link:<a href="https://www.uapcaucus.com/research/the-reported-shape-size-kinematics-electromagnetic-effects-and-presence-of-sound-of-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/research/the-reported-shape-size-kinematics-electromagnetic-effects-and-presence-of-sound-of-uap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of UAPDecember 7, 2023...</p></details>
    Published: December 7, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/Belgium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Belgium.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO Wave, 1989, UFO Casebook Case Files...</p></details>
+   Link:<a href="https://www.ufocasebook.com/Belgium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Belgium.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO Wave, 1989, UFO Casebook Case Files...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: NASA Didn't Find Aliens-but if You See Any UFOs, Holler  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/aeronautics/aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/aircraft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Aircraft...</p></details>
+   Link:<a href="https://www.nasa.gov/aeronautics/aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/aeronautics/aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Aircraft...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
    Title: www.nasa.gov NAS A’s ER-2 Aircraft Flies High to Investigate Lightning  
-   Link: <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-er-2-aircraft-flies-high-to-investigate-lightning/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/armstrong/nasas-er-2-aircraft-flies-high-to-investigate-lightning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.nasa.govNASA’s ER-2 Aircraft Flies High to Investigate Lightning - NASAJuly 27, 2023...</p></details>
+   Link:<a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-er-2-aircraft-flies-high-to-investigate-lightning/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/centers-and-facilities/armstrong/nasas-er-2-aircraft-flies-high-to-investigate-lightning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.nasa.govNASA’s ER-2 Aircraft Flies High to Investigate Lightning - NASAJuly 27, 2023...</p></details>
    Published: July 27, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufofiles.app  
    Title: Belgian UFO Wave | UFOFiles.app  
-   Link: <a href="https://ufofiles.app/case-files/belgian-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/case-files/belgian-ufo-wave/</a>  
+   Link:<a href="https://ufofiles.app/case-files/belgian-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/case-files/belgian-ufo-wave/</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Several reports describe sightings of red orbs, some tethered together, with vivid descriptions such as a “white plasma sun” at the cente...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several reports describe sightings of red orbs, some tethered together, with vivid descriptions such as a “white plasma sun” at the cente...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nhpr.org  
-   Link: <a href="https://www.nhpr.org/2026-05-13/an-astrophysicists-take-on-the-governments-uap-files-just-more-fuzzy-blob-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2026-05-13/an-astrophysicists-take-on-the-governments-uap-files-just-more-fuzzy-blob-videos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>astrophysicist&#x27;s take on the government&#x27;s UAP files: &#x27;Just more fuzzy blob videos&#x27; | New Hampshire Public RadioMay 13, 2026...</p></details>
+   Link:<a href="https://www.nhpr.org/2026-05-13/an-astrophysicists-take-on-the-governments-uap-files-just-more-fuzzy-blob-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2026-05-13/an-astrophysicists-take-on-the-governments-uap-files-just-more-fuzzy-blob-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>astrophysicist&#x27;s take on the government&#x27;s UAP files: &#x27;Just more fuzzy blob videos&#x27; | New Hampshire Public RadioMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thesun.co.uk  
    Title: www.thesun.co.uk Floating BRAINS, boomerangs and flying jellyfish  
-   Link: <a href="https://www.thesun.co.uk/news/31736450/floating-brains-boomerangs-jellyfish-bombshell-ufos-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/31736450/floating-brains-boomerangs-jellyfish-bombshell-ufos-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The whistle-blower document, discussed at a Congressional hearing, lists numerous UFO reports collected between 1991 and 2022, including...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/31736450/floating-brains-boomerangs-jellyfish-bombshell-ufos-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/31736450/floating-brains-boomerangs-jellyfish-bombshell-ufos-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The whistle-blower document, discussed at a Congressional hearing, lists numerous UFO reports collected between 1991 and 2022, including...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: barstoolsports.com  
-   Link: <a href="https://www.barstoolsports.com/blog/3432087/someone-captured-incredible-footage-of-a-flying-triangle-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.barstoolsports.com/blog/3432087/someone-captured-incredible-footage-of-a-flying-triangle-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured Incredible Footage of a &#x27;Flying Triangle&#x27; UFO | Barstool SportsSeptember 7, 2022...</p></details>
+   Link:<a href="https://www.barstoolsports.com/blog/3432087/someone-captured-incredible-footage-of-a-flying-triangle-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.barstoolsports.com/blog/3432087/someone-captured-incredible-footage-of-a-flying-triangle-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Captured Incredible Footage of a &#x27;Flying Triangle&#x27; UFO | Barstool SportsSeptember 7, 2022...</p></details>
    Published: September 7, 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Finds No Evidence of Extraterrestrial Origin for UFO SightingsSeptember 15, 2023...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/nasa-report-finds-no-evidence-of-extraterrestrial-origin-for-ufo-sightings-180982907/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report Finds No Evidence of Extraterrestrial Origin for UFO SightingsSeptember 15, 2023...</p></details>
    Published: September 15, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: etonnants-voyageurs.com  
    Title: www.etonnants-voyageurs.com Enquêtes sur les ovnis  
-   Link: <a href="https://www.etonnants-voyageurs.com/Enquetes-sur-les-ovnis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.etonnants-voyageurs.com/Enquetes-sur-les-ovnis.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.etonnants-voyageurs.comEnquêtes sur les ovnis - Etonnants Voyageurs...</p></details>
+   Link:<a href="https://www.etonnants-voyageurs.com/Enquetes-sur-les-ovnis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.etonnants-voyageurs.com/Enquetes-sur-les-ovnis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.etonnants-voyageurs.comEnquêtes sur les ovnis - Etonnants Voyageurs...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Has the US been flying black triangle UFOs since DESERT STORM?!  
-   Link: <a href="https://www.youtube.com/watch?v=zAt9V65RKPA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zAt9V65RKPA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of Black Triangles: UFO Myths vs. Facts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zAt9V65RKPA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zAt9V65RKPA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of Black Triangles: UFO Myths vs. Facts...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The longstanding mystery of BLACK TRIANGLE UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wkm3KxIyZDE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has the US been flying black triangle UFOs since DESERT STORM?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wkm3KxIyZDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has the US been flying black triangle UFOs since DESERT STORM?...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Mystery of Black Triangles: UFO Myths vs. Facts  
-   Link: <a href="https://www.youtube.com/watch?v=YYv6Ylir6b0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YYv6Ylir6b0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Secret Anti-Gravity Spy Plane - TR3b Black Manta...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YYv6Ylir6b0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YYv6Ylir6b0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top Secret Anti-Gravity Spy Plane - TR3b Black Manta...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalgeographic.com  
-   Link: <a href="https://www.nationalgeographic.com/travel/article/heres-where-earthbound-travelers-can-search-for-extraterrestrial-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/travel/article/heres-where-earthbound-travelers-can-search-for-extraterrestrial-ufos</a>  
+   Link:<a href="https://www.nationalgeographic.com/travel/article/heres-where-earthbound-travelers-can-search-for-extraterrestrial-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/travel/article/heres-where-earthbound-travelers-can-search-for-extraterrestrial-ufos</a>  

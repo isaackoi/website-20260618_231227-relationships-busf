@@ -280,13 +280,13 @@ image: /assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_
 
 ## Introduction
 
-[Project Blue Book]({{ 'blue-book/' | relative_url }}) became valuable to science fiction not because it resolved the UFO question, but because it left behind a vast collection of official-looking mysteries. Once the [Air Force files]({{ 'air-force-files/' | relative_url }}) were declassified and transferred to public archives, writers gained access to thousands of pages of case reports, witness statements, photographs, memoranda and investigative summaries. The records carried the authority of government paperwork while preserving uncertainty around many incidents. That combination—bureaucratic detail mixed with unresolved questions—made the archive an unusually rich source of story material. Rather than inventing an entire mythology from scratch, authors could draw on documents that already looked authentic and then imagine what might exist beyond the pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+[Project Blue Book]({{ 'blue-book/' | relative_url }}) became valuable to science fiction not because it resolved the UFO question, but because it left behind a vast collection of official-looking mysteries. Once the [Air Force files]({{ 'air-force-files/' | relative_url }}) were declassified and transferred to public archives, writers gained access to thousands of pages of case reports, witness statements, photographs, memoranda and investigative summaries. The records carried the authority of government paperwork while preserving uncertainty around many incidents. That combination—bureaucratic detail mixed with unresolved questions—made the archive an unusually rich source of story material. Rather than inventing an entire mythology from scratch, authors could draw on documents that already looked authentic and then imagine what might exist beyond the pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-1-dark.svg" | relative_url }}" alt="Story Files illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the declassified archive made visible
 
-When Project Blue Book records entered public custody, readers could examine much more than simple sighting summaries. The archive included chronological case files, administrative correspondence, investigative records and indexes that allowed individual incidents to be traced through official channels. The National Archives describes tens of thousands of pages organised around specific reports and locations, creating a documentary landscape that resembled the raw material of a detective novel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+When Project Blue Book records entered public custody, readers could examine much more than simple sighting summaries. The archive included chronological case files, administrative correspondence, investigative records and indexes that allowed individual incidents to be traced through official channels. The National Archives describes tens of thousands of pages organised around specific reports and locations, creating a documentary landscape that resembled the raw material of a detective novel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 For science-fiction writers, the attraction was not merely the sightings themselves. The files revealed how institutions reacted to unexplained events. A typical case might include:
 
@@ -303,7 +303,7 @@ For science-fiction writers, the attraction was not merely the sightings themsel
 
 This structure supplied a ready-made narrative framework. Instead of beginning with an alien encounter, a writer could begin with a file folder, a case number or a forgotten report. The story then emerged through investigation, discovery and reinterpretation.
 
-The accessibility of the archive expanded this creative potential. Digitised collections and searchable databases now allow readers to browse thousands of declassified documents, search by location or keyword, and follow specific incidents through multiple records. The archive effectively became a publicly available library of plot seeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[theprojectbluebookarchive.org+2Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">The Project Blue Book Archive</span><span class="citation-popover-snippet">The Project Blue Book Archive</span></span></span>
+The accessibility of the archive expanded this creative potential. Digitised collections and searchable databases now allow readers to browse thousands of declassified documents, search by location or keyword, and follow specific incidents through multiple records. The archive effectively became a publicly available library of plot seeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[theprojectbluebookarchive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">The Project Blue Book Archive</span><span class="citation-popover-snippet">The Project Blue Book Archive</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 391 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ Official reports tend to contain dates, signatures, classifications, technical d
 
 Science-fiction authors learned to replicate this documentary style. Stories increasingly appeared as collections of reports, recovered files, intelligence briefings and investigative dossiers. The dramatic question shifted from “Did aliens arrive?” to “What does this file really mean?” The Blue Book archive demonstrated how suspense could be generated through paperwork itself.
 
-The effect is especially powerful because many Blue Book cases end without dramatic conclusions. The archive contains numerous ordinary [explanations]({{ 'explanations/' | relative_url }}), but it also contains reports that remained unresolved. The existence of officially designated “[unidentified]({{ 'unidentified/' | relative_url }})” cases allowed fiction writers to operate in a space between certainty and speculation. The government had not confirmed extraordinary explanations, yet it had not eliminated every mystery either. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+The effect is especially powerful because many Blue Book cases end without dramatic conclusions. The archive contains numerous ordinary [explanations]({{ 'explanations/' | relative_url }}), but it also contains reports that remained unresolved. The existence of officially designated “[unidentified]({{ 'unidentified/' | relative_url }})” cases allowed fiction writers to operate in a space between certainty and speculation. The government had not confirmed extraordinary explanations, yet it had not eliminated every mystery either.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-2-dark.svg" | relative_url }}" alt="Story Files illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -360,7 +360,7 @@ Importantly, the archive offers these motifs in documentary form rather than as 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-3-dark.svg" | relative_url }}" alt="Story Files illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_story_mate_09b658-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From public records to fictional worlds
 
-The broader significance of the declassified Blue Book archive lies in how it blurred the boundary between historical record and imaginative storytelling. The files provided factual artefacts—dates, locations, interviews, classifications and conclusions—that could be quoted, adapted or reinterpreted. Yet they also preserved ambiguity. The Air Force's official position was that no evidence demonstrated extraterrestrial visitors, but the archive's [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) ensured that questions remained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+The broader significance of the declassified Blue Book archive lies in how it blurred the boundary between historical record and imaginative storytelling. The files provided factual artefacts—dates, locations, interviews, classifications and conclusions—that could be quoted, adapted or reinterpreted. Yet they also preserved ambiguity. The Air Force's official position was that no evidence demonstrated extraterrestrial visitors, but the archive's [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) ensured that questions remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 For science fiction, that combination was ideal. A fully solved archive would have offered little room for invention. A completely fabricated mythology would have lacked documentary weight. Blue Book occupied the middle ground: a genuine government record set filled with enough uncertainty to invite narrative expansion. The result was a durable source of fiction fuel, where case numbers, memoranda, witness reports and official denials became building blocks for stories about hidden knowledge, secret investigations and possibilities that official files never quite closed.
 
@@ -369,185 +369,185 @@ For science fiction, that combination was ideal. A fully solved archive would ha
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Official UFO Files Became Fiction Fuel. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Official UFO Files Became Fiction Fuel. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly connects Project Blue Book, unexplained cases, and their long-term legacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects Project Blue Book, unexplained cases, and their long-term legacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how UFO reports were assessed and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO reports were assessed and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Centres on conventional explanations for reported UFO events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on conventional explanations for reported UFO events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+Exposed+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book Exposed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=il-PHAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book Exposed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+Exposed+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book Exposed">Project Blue Book Exposed</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+Exposed+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book Exposed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=il-PHAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book Exposed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+Exposed+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book Exposed">Project Blue Book Exposed</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Examines Blue Book records and their historical significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+Exposed+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines Blue Book records and their historical significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+Exposed+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theprojectbluebookarchive.org  
    Title: The Project Blue Book Archive  
-   Link: <a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
+   Link:<a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theprojectbluebookarchive.org  
    Title: www.theprojectbluebookarchive.org The Project Blue Book Archive  
-   Link: <a href="https://www.theprojectbluebookarchive.org/archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive...</p></details>
+   Link:<a href="https://www.theprojectbluebookarchive.org/archive" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Garrett M. Graff — UFO - with David Ignatius...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Garrett M. Graff — UFO - with David Ignatius...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/17637</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</p></details>
+   Link:<a href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/17637</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/13994" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/13994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</p></details>
+   Link:<a href="https://bluebookfiles.org/doc/13994" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/13994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveProject Blue Book Archive — Declassified UFO Documents 1947-1969...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: disclosdex.com  
    Title: Project BLUE BOOK  
-   Link: <a href="https://disclosdex.com/links/project-blue-book-national-archives" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/links/project-blue-book-national-archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Records Guide | DisclosdexJune 25, 2024...</p></details>
+   Link:<a href="https://disclosdex.com/links/project-blue-book-national-archives" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/links/project-blue-book-national-archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Records Guide | DisclosdexJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/1rspczs/the_3_declassified_unknowns_from_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1rspczs/the_3_declassified_unknowns_from_project_blue/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 declassified &quot;Unknowns&quot; from Project Blue Book: When physical trace evidence and radar data completely defied the official explanations...</p></details>
+   Link:<a href="https://www.reddit.com/r/UAP/comments/1rspczs/the_3_declassified_unknowns_from_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1rspczs/the_3_declassified_unknowns_from_project_blue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 declassified &quot;Unknowns&quot; from Project Blue Book: When physical trace evidence and radar data completely defied the official explanations...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED CIA and KGB FILES Shocking intelligence cases that shouldn&#x27;t have existed! | Sleep...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DECLASSIFIED CIA and KGB FILES Shocking intelligence cases that shouldn&#x27;t have existed! | Sleep...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: legalclarity.org  
    Title: Legal Clarity National Archives UFO Records: Accessing Project Blue Book  
-   Link: <a href="https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UFO Records: Accessing Project Blue Book - LegalClarity...</p></details>
+   Link:<a href="https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://legalclarity.org/national-archives-ufo-records-accessing-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives UFO Records: Accessing Project Blue Book - LegalClarity...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
    Title: www.cia.gov EXTRACT S FROM SSU FILES | CIA FOIA (foia.cia.gov)  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81-00706r000100260045-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81-00706r000100260045-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FROM SSU FILES | CIA FOIA (foia.cia.gov)April 10, 1947...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81-00706r000100260045-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81-00706r000100260045-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FROM SSU FILES | CIA FOIA (foia.cia.gov)April 10, 1947...</p></details>
    Published: April 10, 1947  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: 25 Declassified Government Projects That Sound Like Science Fiction  
-   Link: <a href="https://www.youtube.com/watch?v=JaqduCP5yVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JaqduCP5yVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JaqduCP5yVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JaqduCP5yVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and Project Blue Book...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952-08-8756976-Case Files of Individual Sightings.pdf - Wikimedia CommonsAugust 1, 1952...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8756976-Case_Files_of_Individual_Sightings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952-08-8756976-Case Files of Individual Sightings.pdf - Wikimedia CommonsAugust 1, 1952...</p></details>
    Published: August 1, 1952  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Garrett M. Graff — UFO  
-   Link: <a href="https://www.youtube.com/watch?v=8tLX00F5LgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8tLX00F5LgQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Declassified Government Projects That Sound Like Science Fiction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8tLX00F5LgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8tLX00F5LgQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Declassified Government Projects That Sound Like Science Fiction...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: xfiles.agency  
    Title: www.xfiles.agency X-Files  
-   Link: <a href="https://www.xfiles.agency/" target="_blank" rel="noopener noreferrer nofollow">https://www.xfiles.agency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.xfiles.agencyX-Files - Unidentified Aerial Phenomena...</p></details>
+   Link:<a href="https://www.xfiles.agency/" target="_blank" rel="noopener noreferrer nofollow">https://www.xfiles.agency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.xfiles.agencyX-Files - Unidentified Aerial Phenomena...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z3Fd2SJufn4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z3Fd2SJufn4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Z3Fd2SJufn4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z3Fd2SJufn4</a>  

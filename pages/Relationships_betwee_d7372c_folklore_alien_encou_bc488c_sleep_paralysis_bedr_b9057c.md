@@ -280,15 +280,15 @@ image: /assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sl
 
 ## Introduction
 
-Many of the most famous alien abduction stories begin in an ordinary bedroom. The witness wakes suddenly, cannot move, senses a presence nearby, sees [strange lights]({{ 'strange-lights/' | relative_url }}) or figures, hears buzzing sounds, and feels overwhelming fear. In modern UFO culture, these experiences are often interpreted as evidence of extraterrestrial intrusion. Sleep researchers, however, have long noted that the same cluster of sensations closely matches a recognised sleep phenomenon known as sleep paralysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
+Many of the most famous alien abduction stories begin in an ordinary bedroom. The witness wakes suddenly, cannot move, senses a presence nearby, sees [strange lights]({{ 'strange-lights/' | relative_url }}) or figures, hears buzzing sounds, and feels overwhelming fear. In modern UFO culture, these experiences are often interpreted as evidence of extraterrestrial intrusion. Sleep researchers, however, have long noted that the same cluster of sensations closely matches a recognised sleep phenomenon known as sleep paralysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-1-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every reported alien encounter can be reduced to sleep paralysis. Rather, sleep paralysis provides a powerful mechanism that helps explain why bedroom encounters have such a consistent structure across cultures and historical periods. The same underlying experience has been described as a demon attack, a witch visitation, an assault by spirits, an encounter with fairies, and, in the space age, an alien abduction. The changing interpretation reflects cultural expectations, while the core experience remains remarkably stable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+This does not mean every reported alien encounter can be reduced to sleep paralysis. Rather, sleep paralysis provides a powerful mechanism that helps explain why bedroom encounters have such a consistent structure across cultures and historical periods. The same underlying experience has been described as a demon attack, a witch visitation, an assault by spirits, an encounter with fairies, and, in the space age, an alien abduction. The changing interpretation reflects cultural expectations, while the core experience remains remarkably stable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 ## What Sleep Paralysis Feels Like During an Episode
 
-Sleep paralysis occurs when a person becomes conscious while the body's normal REM-sleep muscle paralysis is still active. The individual is awake enough to perceive the room but unable to move or speak. Episodes typically last seconds or minutes and are often accompanied by vivid sensory experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">Health Sleep paralysis: Causes, symptoms, and treatments</span><span class="citation-popover-snippet">Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</span></span></span>
+Sleep paralysis occurs when a person becomes conscious while the body's normal REM-sleep muscle paralysis is still active. The individual is awake enough to perceive the room but unable to move or speak. Episodes typically last seconds or minutes and are often accompanied by vivid sensory experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">Health Sleep paralysis: Causes, symptoms, and treatments</span><span class="citation-popover-snippet">Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</span></span></span>
 
 Researchers have identified several recurring features that appear again and again in reports:
 
@@ -301,13 +301,13 @@ Researchers have identified several recurring features that appear again and aga
 * Buzzing, humming or electrical sounds.
 * Visual apparitions near the bed.
 * Sensations of floating, levitating or being pulled.
-* Feelings of being touched, restrained or examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+* Feelings of being touched, restrained or examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 </div>
 
 These details are striking because they overlap so closely with classic alien abduction narratives. A person who wakes paralysed, sees figures beside the bed, feels unable to resist, and experiences floating sensations already possesses most of the ingredients needed for an alien encounter story. The interpretation comes afterwards.
 
-James Cheyne and colleagues proposed that sleep paralysis experiences often fall into three overlapping categories: an "intruder" experience involving a sensed presence, an "incubus" experience involving chest pressure and fear, and vestibular-motor experiences involving movement, floating or out-of-body sensations. Each of these maps neatly onto common features of alien abduction reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+James Cheyne and colleagues proposed that sleep paralysis experiences often fall into three overlapping categories: an "intruder" experience involving a sensed presence, an "incubus" experience involving chest pressure and fear, and vestibular-motor experiences involving movement, floating or out-of-body sensations. Each of these maps neatly onto common features of alien abduction reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0itEOM8oxkE" title="What &quot;Alien Abductions&quot; Say About Our Brains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0itEOM8oxkE" target="_blank" rel="noopener noreferrer">What &quot;Alien Abductions&quot; Say About Our Brains</a></p><p class="youtube-embed-meta">Channel: SciShow Psych &middot; Views: 120.1K &middot; Uploaded: September 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0itEOM8oxkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0itEOM8oxkE">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ James Cheyne and colleagues proposed that sleep paralysis experiences often fall
 
 The connection between sleep paralysis and supernatural encounter stories did not begin with UFOs. Long before science fiction popularised extraterrestrials, people interpreted the same frightening experiences through local folklore.
 
-Across Europe, sufferers described visits from demons, witches, spirits or the "Old Hag"—a terrifying being that sat on the sleeper's chest and prevented movement. Similar traditions appeared worldwide. Brazilian folklore speaks of the Pisadeira, a supernatural crone who attacks people while they sleep. Other cultures blamed spirits, ghosts or malevolent entities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review</span><span class="citation-popover-snippet">Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</span></span></span>
+Across Europe, sufferers described visits from demons, witches, spirits or the "Old Hag"—a terrifying being that sat on the sleeper's chest and prevented movement. Similar traditions appeared worldwide. Brazilian folklore speaks of the Pisadeira, a supernatural crone who attacks people while they sleep. Other cultures blamed spirits, ghosts or malevolent entities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review</span><span class="citation-popover-snippet">Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</span></span></span>
 
 What makes these traditions important is their consistency. The cultural explanation changes, but the underlying report remains familiar:
 
@@ -328,11 +328,11 @@ What makes these traditions important is their consistency. The cultural explana
 * A threatening presence is perceived.
 * Fear escalates rapidly.
 * Strange visual or auditory experiences occur.
-* The event ends abruptly, leaving confusion and vivid memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+* The event ends abruptly, leaving confusion and vivid memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 </div>
 
-Folklorists have therefore argued that sleep paralysis functions as a bridge between biological experience and cultural storytelling. People experience something genuinely frightening and unusual, then interpret it using the most convincing framework available in their society. In medieval Europe that framework involved demons and witches. In a technological age shaped by space travel, extraterrestrials become the more familiar explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review</span><span class="citation-popover-snippet">Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</span></span></span>
+Folklorists have therefore argued that sleep paralysis functions as a bridge between biological experience and cultural storytelling. People experience something genuinely frightening and unusual, then interpret it using the most convincing framework available in their society. In medieval Europe that framework involved demons and witches. In a technological age shaped by space travel, extraterrestrials become the more familiar explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review</span><span class="citation-popover-snippet">Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-2-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,9 +340,9 @@ Folklorists have therefore argued that sleep paralysis functions as a bridge bet
 
 The rise of science fiction and UFO culture supplied new imagery for an old experience. Instead of horns, claws or magical beings, modern witnesses often report small grey humanoids, examination tables, bright beams and advanced technology.
 
-Researchers studying alien abduction claims have repeatedly noted that sleep paralysis alone does not determine what people see. Cultural expectations play a major role in shaping the content of hallucinations and memories. The same neurological state can produce different interpretations depending on what a person already knows, fears or expects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
+Researchers studying alien abduction claims have repeatedly noted that sleep paralysis alone does not determine what people see. Cultural expectations play a major role in shaping the content of hallucinations and memories. The same neurological state can produce different interpretations depending on what a person already knows, fears or expects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
 
-This helps explain why the stereotypical "grey alien" became so common after decades of UFO films, [television]({{ 'television/' | relative_url }}) programmes, books and popular reporting. Once a cultural template exists, ambiguous experiences can be organised around it. A shadowy figure beside the bed may be interpreted as an extraterrestrial visitor rather than a ghost. A sensation of floating may become transportation into a spacecraft rather than a journey into fairyland. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://johnemackinstitute.org/2005/06/reality-check-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnemackinstitute.org">[John Mack Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnemackinstitute.org</span><span class="citation-popover-title">John Mack Institute Reality Check: Alien Encounters</span><span class="citation-popover-snippet">John Mack InstituteReality Check: Alien Encounters - John Mack InstituteJune 1, 2005...</span><span class="citation-popover-meta">Published: June 1, 2005</span></span></span>
+This helps explain why the stereotypical "grey alien" became so common after decades of UFO films, [television]({{ 'television/' | relative_url }}) programmes, books and popular reporting. Once a cultural template exists, ambiguous experiences can be organised around it. A shadowy figure beside the bed may be interpreted as an extraterrestrial visitor rather than a ghost. A sensation of floating may become transportation into a spacecraft rather than a journey into fairyland.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://johnemackinstitute.org/2005/06/reality-check-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnemackinstitute.org">[John Mack Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnemackinstitute.org</span><span class="citation-popover-title">John Mack Institute Reality Check: Alien Encounters</span><span class="citation-popover-snippet">John Mack InstituteReality Check: Alien Encounters - John Mack InstituteJune 1, 2005...</span><span class="citation-popover-meta">Published: June 1, 2005</span></span></span>
 
 The process mirrors the broader relationship between UFO narratives and science fiction. Science fiction does not necessarily create the underlying experience, but it supplies imagery, language and expectations that influence how people describe it afterwards.
 
@@ -351,217 +351,217 @@ The process mirrors the broader relationship between UFO narratives and science 
 
 ## Why Bedroom Encounters Are So Common
 
-One of the strongest arguments for the role of sleep paralysis is the location of many reported encounters. Abduction narratives frequently begin while the witness is falling asleep, waking up, or lying in bed at night. These are precisely the periods when sleep paralysis is most likely to occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">Health Sleep paralysis: Causes, symptoms, and treatments</span><span class="citation-popover-snippet">Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</span></span></span>
+One of the strongest arguments for the role of sleep paralysis is the location of many reported encounters. Abduction narratives frequently begin while the witness is falling asleep, waking up, or lying in bed at night. These are precisely the periods when sleep paralysis is most likely to occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">Health Sleep paralysis: Causes, symptoms, and treatments</span><span class="citation-popover-snippet">Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</span></span></span>
 
-Harvard researchers Richard McNally and Susan Clancy examined individuals who believed they had experienced alien abductions and found that some reports were closely linked to episodes of sleep paralysis accompanied by vivid hallucinations. Their work suggested that people may later interpret these frightening events as literal encounters, particularly when the experience feels more real than an ordinary dream. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</span><span class="citation-popover-meta">Published: March 1, 2005</span></span></span>
+Harvard researchers Richard McNally and Susan Clancy examined individuals who believed they had experienced alien abductions and found that some reports were closely linked to episodes of sleep paralysis accompanied by vivid hallucinations. Their work suggested that people may later interpret these frightening events as literal encounters, particularly when the experience feels more real than an ordinary dream.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</span><span class="citation-popover-meta">Published: March 1, 2005</span></span></span>
 
-The realism is important. Unlike a typical nightmare, sleep paralysis often occurs when the person feels awake and aware of their actual surroundings. The bedroom appears real because it is real. Hallucinatory elements become layered onto that real environment, creating an experience that can feel more convincing than a dream. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">Health Sleep paralysis: Causes, symptoms, and treatments</span><span class="citation-popover-snippet">Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</span></span></span>
+The realism is important. Unlike a typical nightmare, sleep paralysis often occurs when the person feels awake and aware of their actual surroundings. The bedroom appears real because it is real. Hallucinatory elements become layered onto that real environment, creating an experience that can feel more convincing than a dream.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">Health Sleep paralysis: Causes, symptoms, and treatments</span><span class="citation-popover-snippet">Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zsax2q1p-Qg" title="Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer">Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)</a></p><p class="youtube-embed-meta">Channel: Nerdist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zsax2q1p-Qg">Open on YouTube</a></p></div></div></div>
 
 ## What Sleep Paralysis Explains—and What It Does Not
 
-Among scientists and sleep researchers, sleep paralysis is one of the strongest naturalistic [explanations]({{ 'explanations/' | relative_url }}) for bedroom alien encounters because it accounts for many of their most common features: paralysis, fear, sensed presences, lights, buzzing sounds, restraint and levitation sensations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
+Among scientists and sleep researchers, sleep paralysis is one of the strongest naturalistic [explanations]({{ 'explanations/' | relative_url }}) for bedroom alien encounters because it accounts for many of their most common features: paralysis, fear, sensed presences, lights, buzzing sounds, restraint and levitation sensations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</span><span class="citation-popover-meta">Published: April 19, 2026</span></span></span>
 
-However, the debate does not end there. Some alien encounter researchers argue that sleep paralysis cannot explain every report, especially accounts involving multiple witnesses, daytime experiences or complex narratives extending beyond the bedroom. Critics of the sleep-paralysis explanation contend that it addresses only one subset of encounter reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://johnemackinstitute.org/1999/07/alien-abduction-reductionists-call-it-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnemackinstitute.org">[John Mack Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnemackinstitute.org</span><span class="citation-popover-title">John Mack Institute Alien Abduction? Reductionists Call It Sleep Paralysis</span><span class="citation-popover-snippet">John Mack InstituteAlien Abduction? Reductionists Call It Sleep Paralysis - John Mack InstituteJuly 6, 1999...</span><span class="citation-popover-meta">Published: July 6, 1999</span></span></span>
+However, the debate does not end there. Some alien encounter researchers argue that sleep paralysis cannot explain every report, especially accounts involving multiple witnesses, daytime experiences or complex narratives extending beyond the bedroom. Critics of the sleep-paralysis explanation contend that it addresses only one subset of encounter reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://johnemackinstitute.org/1999/07/alien-abduction-reductionists-call-it-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnemackinstitute.org">[John Mack Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnemackinstitute.org</span><span class="citation-popover-title">John Mack Institute Alien Abduction? Reductionists Call It Sleep Paralysis</span><span class="citation-popover-snippet">John Mack InstituteAlien Abduction? Reductionists Call It Sleep Paralysis - John Mack InstituteJuly 6, 1999...</span><span class="citation-popover-meta">Published: July 6, 1999</span></span></span>
 
-For the specific category of nocturnal bedroom encounters, though, the overlap remains difficult to ignore. The same combination of immobility, fear, sensed presences and vivid imagery appears in centuries of folklore, in modern clinical descriptions of sleep paralysis, and in many classic alien abduction narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+For the specific category of nocturnal bedroom encounters, though, the overlap remains difficult to ignore. The same combination of immobility, fear, sensed presences and vivid imagery appears in centuries of folklore, in modern clinical descriptions of sleep paralysis, and in many classic alien abduction narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
-Seen from the perspective of folklore roots, sleep paralysis helps explain why alien encounter stories feel both modern and ancient at the same time. The beings have changed from witches and spirits to extraterrestrials, and the magical journey has become a technological abduction, but the terrifying moment in the bedroom remains remarkably familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review</span><span class="citation-popover-snippet">Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</span></span></span>
+Seen from the perspective of folklore roots, sleep paralysis helps explain why alien encounter stories feel both modern and ancient at the same time. The beings have changed from witches and spirits to extraterrestrials, and the magical journey has become a technological abduction, but the terrifying moment in the bedroom remains remarkably familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review</span><span class="citation-popover-snippet">Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-3-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_sleep_paralysis_bedr_b9057c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Nightmares Become Alien Encounters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Nightmares Become Alien Encounters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly connects flying saucer reports with folklore traditions, matching the page&#x27;s focus on folklore and alien encounter narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects flying saucer reports with folklore traditions, matching the page&#x27;s focus on folklore and alien encounter narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gdw_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines non-traditional interpretations of alien encounters, including links to older mythic and folkloric experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines non-traditional interpretations of alien encounters, including links to older mythic and folkloric experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS"><img src="https://i.ebayimg.com/images/g/sPYAAeSwx-5pi1Jl/s-l225.jpg" alt="Listing image for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Time Great Movie Posters Classic Modern Cinema Poster Wall Art A4 to A2"><img src="https://i.ebayimg.com/images/g/BV4AAOSwMJ1llD7S/s-l225.jpg" alt="Listing image for All Time Great Movie Posters Classic Modern Cinema Poster Wall Art A4 to A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer">All Time Great Movie Posters Classic Modern Cinema Poster Wall Art A4 to A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="https://i.ebayimg.com/images/g/a7YAAOSw8iNn75WY/s-l225.jpg" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sleep-paralysis-22853d-when-nightmares-become-alien-encounters-relationships-betwee-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/ceUAAOSwPYdn6vV8/s-l225.jpg" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="relationships-betwee-d7372c-folklore-alien-encou-bc488c-sleep-paralysis-bedr-b9057c-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ Seen from the perspective of folklore roots, sleep paralysis helps explain why a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ Seen from the perspective of folklore roots, sleep paralysis helps explain why a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ Seen from the perspective of folklore roots, sleep paralysis helps explain why a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ Seen from the perspective of folklore roots, sleep paralysis helps explain why a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ Seen from the perspective of folklore roots, sleep paralysis helps explain why a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,128 +767,128 @@ Seen from the perspective of folklore roots, sleep paralysis helps explain why a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: health.harvard.edu  
    Title: Health Sleep paralysis: Causes, symptoms, and treatments  
-   Link: <a href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</p></details>
+   Link:<a href="https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/diseases-and-conditions/sleep-paralysis-causes-symptoms-and-treatments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard HealthSleep paralysis: Causes, symptoms, and treatments - Harvard Health...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.harvard.edu  
    Title: Gazette Alien abduction claims examined — Harvard Gazette  
-   Link: <a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteAlien abduction claims examined — Harvard Gazette...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteAlien abduction claims examined — Harvard Gazette...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02604027.2026.2656121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The Neuroscience and Psychology of the Alien Abduction Phenomenon: A ReviewApril 19, 2026...</p></details>
    Published: April 19, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27656151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/27656151/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27656151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis in Brazilian Folklore and Other Cultures: A Brief Review - PubMed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Sleep paralysis and folklore  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/2054270415598091" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/2054270415598091</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep paralysis and folklore - Ann M Cox, 2015...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/2054270415598091" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/2054270415598091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep paralysis and folklore - Ann M Cox, 2015...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01294/full</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: johnemackinstitute.org  
    Title: John Mack Institute Reality Check: Alien Encounters  
-   Link: <a href="https://johnemackinstitute.org/2005/06/reality-check-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://johnemackinstitute.org/2005/06/reality-check-alien-encounters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack InstituteReality Check: Alien Encounters - John Mack InstituteJune 1, 2005...</p></details>
+   Link:<a href="https://johnemackinstitute.org/2005/06/reality-check-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://johnemackinstitute.org/2005/06/reality-check-alien-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack InstituteReality Check: Alien Encounters - John Mack InstituteJune 1, 2005...</p></details>
    Published: June 1, 2005  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1363461505050715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1363461505050715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</p></details>
    Published: March 1, 2005  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: johnemackinstitute.org  
    Title: John Mack Institute Alien Abduction? Reductionists Call It Sleep Paralysis  
-   Link: <a href="https://johnemackinstitute.org/1999/07/alien-abduction-reductionists-call-it-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://johnemackinstitute.org/1999/07/alien-abduction-reductionists-call-it-sleep-paralysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack InstituteAlien Abduction? Reductionists Call It Sleep Paralysis - John Mack InstituteJuly 6, 1999...</p></details>
+   Link:<a href="https://johnemackinstitute.org/1999/07/alien-abduction-reductionists-call-it-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://johnemackinstitute.org/1999/07/alien-abduction-reductionists-call-it-sleep-paralysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack InstituteAlien Abduction? Reductionists Call It Sleep Paralysis - John Mack InstituteJuly 6, 1999...</p></details>
    Published: July 6, 1999  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Alien abduction: a medical hypothesis  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18834282/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18834282/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18834282/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18834282/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
    Title: Sleep Paralysis, Sexual Abuse, and Space Alien Abduction  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard J. McNally, Susan A. Clancy, 2005...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard J. McNally, Susan A. Clancy, 2005...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/kdh48s" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/kdh48s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>there any case studies on individuals who have experienced both sleep paralysis and alien abduction and can tell the difference?December...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/kdh48s" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/kdh48s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>there any case studies on individuals who have experienced both sleep paralysis and alien abduction and can tell the difference?December...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)  
-   Link: <a href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zsax2q1p-Qg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Causes People to Claim Alien Abduction? | What is Sleep Paralysis?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zsax2q1p-Qg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Causes People to Claim Alien Abduction? | What is Sleep Paralysis?...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: What Causes People to Claim Alien Abduction? | What is Sleep Paralysis?  
-   Link: <a href="https://www.youtube.com/watch?v=GBt5q7F7rAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GBt5q7F7rAI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GBt5q7F7rAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GBt5q7F7rAI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533  
-   Link: <a href="https://www.youtube.com/watch?v=T_seRpqUJDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_seRpqUJDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What &quot;Alien Abductions&quot; Say About Our Brains...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T_seRpqUJDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_seRpqUJDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What &quot;Alien Abductions&quot; Say About Our Brains...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Was I Abducted or Did I Have a Sleep Anomaly  
-   Link: <a href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJfR2iBzunc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJfR2iBzunc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pure.royalholloway.ac.uk  
    Title: A systematic review of variables associated with sleep paralysis  
-   Link: <a href="https://pure.royalholloway.ac.uk/en/publications/a-systematic-review-of-variables-associated-with-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/en/publications/a-systematic-review-of-variables-associated-with-sleep-paralysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Holloway Research Portal...</p></details>
+   Link:<a href="https://pure.royalholloway.ac.uk/en/publications/a-systematic-review-of-variables-associated-with-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/en/publications/a-systematic-review-of-variables-associated-with-sleep-paralysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Holloway Research Portal...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: www.reddit.com John Mack's "Abduction"  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/10879ng" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/10879ng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mack&#x27;s &quot;Abduction&quot;January 10, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/10879ng" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/10879ng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mack&#x27;s &quot;Abduction&quot;January 10, 2023...</p></details>
    Published: January 10, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nhs.uk  
    Title: www.nhs.uk Narcolepsy  
-   Link: <a href="https://www.nhs.uk/conditions/narcolepsy/symptoms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/narcolepsy/symptoms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SymptomsDecember 30, 2022...</p></details>
+   Link:<a href="https://www.nhs.uk/conditions/narcolepsy/symptoms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/narcolepsy/symptoms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SymptomsDecember 30, 2022...</p></details>
    Published: December 30, 2022  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: What "Alien Abductions" Say About Our Brains  
-   Link: <a href="https://www.youtube.com/watch?v=0itEOM8oxkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0itEOM8oxkE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=0itEOM8oxkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0itEOM8oxkE</a>  

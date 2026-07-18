@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-martian/
 description: Focused pages that expand on Mars Myths.
-date: '2026-06-18'
+date: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_martian_civilization_772d5e
 parent_title: Mars Myths
@@ -16,7 +16,7 @@ parent_permalink: /mars-myths/
 
 # Explore Topics in Mars Myths
 
-The following pages expand on the main **[Mars Myths]({{ '/mars-myths/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Mars Myths]({{ '/mars-myths/' | relative_url }})** page and cover its key branches in.
 
 - [Barsoom]({{ '/barsoom/' | relative_url }})
 - [Canali]({{ '/canali/' | relative_url }})

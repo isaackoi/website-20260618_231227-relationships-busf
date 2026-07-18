@@ -451,17 +451,17 @@ Games turn UFO myths from stories people watch into systems people operate. Inst
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8-overview.webp" | relative_url }}" alt="Overview image for Games" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean games prove anything about UFOs. Official and scientific sources remain careful about that boundary: NASA’s UAP work has stressed that there is no conclusive evidence in peer-reviewed science for an extraterrestrial origin of [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena, while the US Air Force’s [Project Blue Book]({{ 'blue-book/' | relative_url }}) records ended with no evidence that unidentified sightings were extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Games matter here for a cultural reason. They teach audiences how UFO stories feel from the inside: as suspicion, escalation, resource pressure, stealth, survival, discovery, or power fantasy.
+This does not mean games prove anything about UFOs. Official and scientific sources remain careful about that boundary: NASA’s UAP work has stressed that there is no conclusive evidence in peer-reviewed science for an extraterrestrial origin of [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena, while the US Air Force’s [Project Blue Book]({{ 'blue-book/' | relative_url }}) records ended with no evidence that unidentified sightings were extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Games matter here for a cultural reason. They teach audiences how UFO stories feel from the inside: as suspicion, escalation, resource pressure, stealth, survival, discovery, or power fantasy.
 
 ## Player Roles in UFO Stories
 
 The most important change games make to UFO mythology is role assignment. A film can show an investigator, an invader, a pilot, or an abductee; a game can ask the player to become one. That choice changes the myth. UFO lore is no longer only a set of claims about lights, discs, [secrecy]({{ 'secrecy/' | relative_url }}) and aliens. It becomes a playable job.
 
-In **XCOM: Enemy Unknown**, the player is not a witness looking up at the sky but the commander of a global defence organisation. The official description is explicit about the loop: create a base, research alien technologies, plan combat missions, and control soldiers in battle against an unknown extraterrestrial enemy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://2k.com/games/xcom/enemy-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2k.com">[2K Games]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2k.com</span><span class="citation-popover-snippet">Open source on 2k.com.</span></span></span> This turns a classic UFO narrative into management pressure. The saucer is not just a symbol of mystery; it is a trigger for interception, autopsy, engineering, panic control and tactical loss. The player learns the UFO myth as bureaucracy under attack.
+In **XCOM: Enemy Unknown**, the player is not a witness looking up at the sky but the commander of a global defence organisation. The official description is explicit about the loop: create a base, research alien technologies, plan combat missions, and control soldiers in battle against an unknown extraterrestrial enemy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://2k.com/games/xcom/enemy-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2k.com">[2K Games]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2k.com</span><span class="citation-popover-snippet">Open source on 2k.com.</span></span></span> This turns a classic UFO narrative into management pressure. The saucer is not just a symbol of mystery; it is a trigger for interception, autopsy, engineering, panic control and tactical loss. The player learns the UFO myth as bureaucracy under attack.
 
-**[Destroy All Humans]({{ 'saucer-parody/' | relative_url }})!** reverses the moral camera. Instead of defending Earth from the saucer, the player becomes the alien Crypto-137, terrorising 1950s Earth, harvesting DNA, using psychic powers, and reducing cities with a flying saucer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destroyallhumans.thqnordic.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destroyallhumans.thqnordic.com">[Destroy All Humans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destroyallhumans.thqnordic.com</span><span class="citation-popover-snippet">Open source on thqnordic.com.</span></span></span> The result is not belief-building but parody. It makes visible how strongly UFO imagery had fused with 1950s Americana, Cold War paranoia, government secrecy and B-movie invasion comedy. The joke works because the imagery is already familiar: little green men, secret agencies, rural panic, ray guns and the saucer overhead.
+**[Destroy All Humans]({{ 'saucer-parody/' | relative_url }})!** reverses the moral camera. Instead of defending Earth from the saucer, the player becomes the alien Crypto-137, terrorising 1950s Earth, harvesting DNA, using psychic powers, and reducing cities with a flying saucer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://destroyallhumans.thqnordic.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destroyallhumans.thqnordic.com">[Destroy All Humans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destroyallhumans.thqnordic.com</span><span class="citation-popover-snippet">Open source on thqnordic.com.</span></span></span> The result is not belief-building but parody. It makes visible how strongly UFO imagery had fused with 1950s Americana, Cold War paranoia, government secrecy and B-movie invasion comedy. The joke works because the imagery is already familiar: little green men, secret agencies, rural panic, ray guns and the saucer overhead.
 
-Other games shift the role again. **They Are Here: Alien [Abduction Horror]({{ 'abduction-horror/' | relative_url }})** casts the player as a local journalist investigating disturbing events at a remote farm, while the developer’s own description emphasises searching for artefacts, reading records, examining photos, and using camera or video equipment to record evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://store.steampowered.com/app/1547540/They_Are_Here_Alien_Abduction_Horror/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: store.steampowered.com">[Steam Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">store.steampowered.com</span><span class="citation-popover-title">They Are Here Alien Abduction Horror</span><span class="citation-popover-snippet">They Are Here Alien Abduction Horror</span></span></span> That is the UFO myth as fieldwork horror. The player does not command armies or fire ray guns. They document, trespass, listen, hide and try to survive the feeling that the ordinary countryside has become a staged encounter.
+Other games shift the role again. **They Are Here: Alien [Abduction Horror]({{ 'abduction-horror/' | relative_url }})** casts the player as a local journalist investigating disturbing events at a remote farm, while the developer’s own description emphasises searching for artefacts, reading records, examining photos, and using camera or video equipment to record evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://store.steampowered.com/app/1547540/They_Are_Here_Alien_Abduction_Horror/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: store.steampowered.com">[Steam Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">store.steampowered.com</span><span class="citation-popover-title">They Are Here Alien Abduction Horror</span><span class="citation-popover-snippet">They Are Here Alien Abduction Horror</span></span></span> That is the UFO myth as fieldwork horror. The player does not command armies or fire ray guns. They document, trespass, listen, hide and try to survive the feeling that the ordinary countryside has become a staged encounter.
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8-Illustration-1-dark.svg" | relative_url }}" alt="Games illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -471,11 +471,11 @@ The familiar UFO story is often built from a sequence: strange light, witness ac
 
 The **investigation loop** is built around evidence. A game gives the player traces: recordings, documents, photographs, locations, anomalous objects, witness statements and hidden links. This pattern suits UFO stories because the subject already lives in the tension between proof and interpretation. A blurry photograph, a locked facility or a missing file is not just decoration; it is the kind of object UFO culture has trained audiences to treat as meaningful.
 
-The **invasion loop** turns the UFO into a strategic pressure point. Space Invaders did not use modern abduction lore, but it established a durable game grammar for extraterrestrial threat: descending aliens, defensive barriers, repeated waves and rising speed. The modern Arcade Archives description still presents the 1978 Taito game as the “origin” of a landmark shooting game, while historical accounts note that its waves of aliens and defensive structure helped define the fixed-shooter form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arcadearchives.com/en/title/aca-392/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arcadearchives.com">[Arcade Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arcadearchives.com</span><span class="citation-popover-title">aca 392</span><span class="citation-popover-snippet">aca 392</span></span></span> The aliens’ meaning is simple but powerful: they are coming down, and the player’s task is to hold the line.
+The **invasion loop** turns the UFO into a strategic pressure point. Space Invaders did not use modern abduction lore, but it established a durable game grammar for extraterrestrial threat: descending aliens, defensive barriers, repeated waves and rising speed. The modern Arcade Archives description still presents the 1978 Taito game as the “origin” of a landmark shooting game, while historical accounts note that its waves of aliens and defensive structure helped define the fixed-shooter form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arcadearchives.com/en/title/aca-392/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arcadearchives.com">[Arcade Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arcadearchives.com</span><span class="citation-popover-title">aca 392</span><span class="citation-popover-snippet">aca 392</span></span></span> The aliens’ meaning is simple but powerful: they are coming down, and the player’s task is to hold the line.
 
 The **survival loop** moves from global defence to bodily vulnerability. In alien abduction horror, the UFO myth is not primarily about geopolitics but helplessness: the farmhouse at night, strange lights, missing people, surveillance, paralysis and the sense that the investigator has entered an environment already controlled by something else. This is where interactive design can intensify a familiar UFO image. A film can show a beam of light entering a room; a game can make the player choose whether to keep filming, hide, search the next room, or run.
 
-The **exploration loop** is gentler but still relevant. **No Man’s Sky** presents a galaxy of procedurally generated planets, alien lifeforms, spacecraft, danger and discovery, drawing openly on classic science-fiction adventure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://store.steampowered.com/app/275850/No_Mans_Sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: store.steampowered.com">[Steam Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">store.steampowered.com</span><span class="citation-popover-snippet">Open source on steampowered.com.</span></span></span> It is not a UFO-investigation game in the narrow sense, but it shows how the same cultural bridge works in the other direction. The unknowable light in the sky becomes the player’s destination. The alien planet is no longer rumour, report or threat; it is terrain.
+The **exploration loop** is gentler but still relevant. **No Man’s Sky** presents a galaxy of procedurally generated planets, alien lifeforms, spacecraft, danger and discovery, drawing openly on classic science-fiction adventure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://store.steampowered.com/app/275850/No_Mans_Sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: store.steampowered.com">[Steam Store]</a><span class="citation-popover" role="note"><span class="citation-popover-source">store.steampowered.com</span><span class="citation-popover-snippet">Open source on steampowered.com.</span></span></span> It is not a UFO-investigation game in the narrow sense, but it shows how the same cultural bridge works in the other direction. The unknowable light in the sky becomes the player’s destination. The alien planet is no longer rumour, report or threat; it is terrain.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
@@ -505,11 +505,11 @@ These patterns matter because games do not simply illustrate UFO myths; they tra
 
 UFO myths have always had a special relationship with documents: leaked memos, [redacted files]({{ 'redacted-files/' | relative_url }}), blurry images, government archives and claims about hidden programmes. Interactive media can exploit that more directly than cinema because it can deliver information through the same channels people use in everyday life.
 
-Electronic Arts’ **Majestic** is a key example. The Science Fiction Encyclopedia describes it as one of the first alternate reality games, promoted with the phrase “The Game That Plays You”, and designed to blur the line between fiction and reality by intruding into players’ daily lives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/majestic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-snippet">Open source on sf-encyclopedia.com.</span></span></span> Contemporary coverage described the game using phone calls, faxes, instant messages, emails, web pages, PDAs and mobile phones to deliver its conspiracy-thriller story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">The story begins with mysterious events at a high-tech firm, and players must gather clues, solve puzzles, and uncover answers through fr...</span></span></span>
+Electronic Arts’ **Majestic** is a key example. The Science Fiction Encyclopedia describes it as one of the first alternate reality games, promoted with the phrase “The Game That Plays You”, and designed to blur the line between fiction and reality by intruding into players’ daily lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sf-encyclopedia.com/entry/majestic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sf-encyclopedia.com">[SF Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sf-encyclopedia.com</span><span class="citation-popover-snippet">Open source on sf-encyclopedia.com.</span></span></span> Contemporary coverage described the game using phone calls, faxes, instant messages, emails, web pages, PDAs and mobile phones to deliver its conspiracy-thriller story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Majestic Invades Your World</span><span class="citation-popover-snippet">The story begins with mysterious events at a high-tech firm, and players must gather clues, solve puzzles, and uncover answers through fr...</span></span></span>
 
 This matters for UFO mythology because the form matched the content. A conspiracy about hidden knowledge becomes more persuasive as a game when clues arrive through apparently ordinary channels. The player is not just reading about secrecy; they are sorting messages, checking websites, comparing clues and asking whether the next communication belongs to the fiction or to real life.
 
-Tabletop role-playing games use a related method with different tools. **Delta Green** presents itself as a role-playing game of Lovecraftian horror and conspiracy, and its publications include scenarios where UFO mysteries lead to deeper horrors in rural 1990s Tennessee. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.delta-green.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: delta-green.com">[DELTA GREEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">delta-green.com</span><span class="citation-popover-snippet">Open source on delta-green.com.</span></span></span> Around a table, players do not merely consume a UFO conspiracy; they improvise its consequences. The game master controls fragments of the hidden world, while players test theories, interrogate witnesses, mishandle evidence and decide how much truth their characters can survive.
+Tabletop role-playing games use a related method with different tools. **Delta Green** presents itself as a role-playing game of Lovecraftian horror and conspiracy, and its publications include scenarios where UFO mysteries lead to deeper horrors in rural 1990s Tennessee.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.delta-green.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: delta-green.com">[DELTA GREEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">delta-green.com</span><span class="citation-popover-snippet">Open source on delta-green.com.</span></span></span> Around a table, players do not merely consume a UFO conspiracy; they improvise its consequences. The game master controls fragments of the hidden world, while players test theories, interrogate witnesses, mishandle evidence and decide how much truth their characters can survive.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jJA4rAUPsiQ" title="Delta Green: The Conspiracy Reviewed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jJA4rAUPsiQ" target="_blank" rel="noopener noreferrer">Delta Green: The Conspiracy Reviewed</a></p><p class="youtube-embed-meta">Channel: The Gaming Gang</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jJA4rAUPsiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jJA4rAUPsiQ">Open on YouTube</a></p></div></div></div>
@@ -530,7 +530,7 @@ Third, games make UFO mythology **reversible**. Destroy All Humans! shows how ea
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8-Illustration-3-dark.svg" | relative_url }}" alt="Games illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_games_interactive_uf_8739e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Interactive UFO Myths Usually Leave Out
 
-Games are powerful at turning UFO stories into action, but they also simplify. Real unidentified sightings often involve ambiguous data, misperception, sensor limits, ordinary aircraft, atmospheric effects, classified technology, unreliable memory, or unresolved evidence without dramatic closure. Official sources repeatedly stress uncertainty rather than cinematic certainty: NASA’s UAP material emphasises better data and scientific methods, while Project Blue Book’s archival history is about investigation records rather than proof of alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Games are powerful at turning UFO stories into action, but they also simplify. Real unidentified sightings often involve ambiguous data, misperception, sensor limits, ordinary aircraft, atmospheric effects, classified technology, unreliable memory, or unresolved evidence without dramatic closure. Official sources repeatedly stress uncertainty rather than cinematic certainty: NASA’s UAP material emphasises better data and scientific methods, while Project Blue Book’s archival history is about investigation records rather than proof of alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 Games usually need stronger feedback than reality provides. A strategy game rewards research with better weapons. A horror game makes the farmhouse dangerous. A conspiracy game needs the hidden pattern to be discoverable. An arcade shooter needs aliens to arrive in waves. These are satisfying designs, but they can also teach a misleading habit: the expectation that every anomaly must be part of a coherent plot.
 
@@ -547,194 +547,194 @@ That is the distinctive contribution of games to the relationship between UFOs a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Games Turn UFO Myths Into Play. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Games Turn UFO Myths Into Play. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Background on myths games often adapt.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Background on myths games often adapt.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Masters of Doom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ltQ6LYHpmQEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Masters of Doom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Masters of Doom">Masters of Doom</a>
-        </h4>
-        <p class="fr-book-author">By David Kushner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Masters of Doom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ltQ6LYHpmQEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Masters of Doom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Masters of Doom">Masters of Doom</a>
+</h4>
+<p class="fr-book-author">By David Kushner</p>
         
-        <p class="fr-book-desc">Provides context for how games turn ideas into play.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how games turn ideas into play.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Masters+of+Doom+by+David+Kushner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reality+is+Broken+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reality is Broken on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Aa4j6YC1Vu8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Reality is Broken" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reality+is+Broken+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reality is Broken">Reality is Broken</a>
-        </h4>
-        <p class="fr-book-author">By Jane McGonigal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reality+is+Broken+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reality is Broken on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Aa4j6YC1Vu8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Reality is Broken" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reality+is+Broken+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reality is Broken">Reality is Broken</a>
+</h4>
+<p class="fr-book-author">By Jane McGonigal</p>
         
-        <p class="fr-book-desc">Explains why interactive systems are compelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reality+is+Broken+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why interactive systems are compelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reality+is+Broken+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extra+Lives%3A+Why+Video+Games+Matter+by+Tom+Bissell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extra Lives: Why Video Games Matter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vDKyzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Extra Lives: Why Video Games Matter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extra+Lives%3A+Why+Video+Games+Matter+by+Tom+Bissell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extra Lives: Why Video Games Matter">Extra Lives: Why Video Games Matter</a>
-        </h4>
-        <p class="fr-book-author">By Tom Bissell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extra+Lives%3A+Why+Video+Games+Matter+by+Tom+Bissell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extra Lives: Why Video Games Matter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vDKyzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Extra Lives: Why Video Games Matter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extra+Lives%3A+Why+Video+Games+Matter+by+Tom+Bissell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extra Lives: Why Video Games Matter">Extra Lives: Why Video Games Matter</a>
+</h4>
+<p class="fr-book-author">By Tom Bissell</p>
         
-        <p class="fr-book-desc">Explores how games create meaning through participation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extra+Lives%3A+Why+Video+Games+Matter+by+Tom+Bissell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how games create meaning through participation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extra+Lives%3A+Why+Video+Games+Matter+by+Tom+Bissell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Masters+of+Doom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Masters of Doom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reality+is+Broken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reality is Broken</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Masters+of+Doom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Masters of Doom</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reality+is+Broken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reality is Broken</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="games-how-games-turn-ufo-myths-into-play-relationships-betwee-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -750,7 +750,7 @@ That is the distinctive contribution of games to the relationship between UFOs a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -770,7 +770,7 @@ That is the distinctive contribution of games to the relationship between UFOs a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -802,7 +802,7 @@ That is the distinctive contribution of games to the relationship between UFOs a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -854,7 +854,7 @@ That is the distinctive contribution of games to the relationship between UFOs a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -899,7 +899,7 @@ That is the distinctive contribution of games to the relationship between UFOs a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -940,213 +940,213 @@ That is the distinctive contribution of games to the relationship between UFOs a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sf-encyclopedia.com  
-   Link: <a href="https://sf-encyclopedia.com/entry/majestic" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/majestic</a>  
+   Link:<a href="https://sf-encyclopedia.com/entry/majestic" target="_blank" rel="noopener noreferrer nofollow">https://sf-encyclopedia.com/entry/majestic</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: Majestic Invades Your World  
-   Link: <a href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/05/majestic-invades-your-world</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The story begins with mysterious events at a high-tech firm, and players must gather clues, solve puzzles, and uncover answers through fr...</p></details>
+   Link:<a href="https://www.wired.com/2001/05/majestic-invades-your-world" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/05/majestic-invades-your-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story begins with mysterious events at a high-tech firm, and players must gather clues, solve puzzles, and uncover answers through fr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: delta-green.com  
-   Link: <a href="https://www.delta-green.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.delta-green.com/</a>  
+   Link:<a href="https://www.delta-green.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.delta-green.com/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: delta-green.com  
-   Link: <a href="https://www.delta-green.com/publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.delta-green.com/publications/</a>  
+   Link:<a href="https://www.delta-green.com/publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.delta-green.com/publications/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: best alien invasion games  
-   Link: <a href="https://www.space.com/best-alien-invasion-games" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/best-alien-invasion-games</a>  
+   Link:<a href="https://www.space.com/best-alien-invasion-games" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/best-alien-invasion-games</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: XCOM: Enemy Unknown Interactive Gameplay Trailer  
-   Link: <a href="https://www.youtube.com/watch?v=uQ3B7XPpPmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uQ3B7XPpPmI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destroy All Humans! (2020) - Release Trailer | PS4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uQ3B7XPpPmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uQ3B7XPpPmI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Destroy All Humans! (2020) - Release Trailer | PS4...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0blRcUrAXZo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0blRcUrAXZo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Strangest Unsolved Alien &amp; UFO Mysteries in Video Games...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0blRcUrAXZo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0blRcUrAXZo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Strangest Unsolved Alien &amp; UFO Mysteries in Video Games...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 2k.com  
-   Link: <a href="https://2k.com/games/xcom/enemy-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://2k.com/games/xcom/enemy-unknown/</a>  
+   Link:<a href="https://2k.com/games/xcom/enemy-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://2k.com/games/xcom/enemy-unknown/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: destroyallhumans.thqnordic.com  
-   Link: <a href="https://destroyallhumans.thqnordic.com/" target="_blank" rel="noopener noreferrer nofollow">https://destroyallhumans.thqnordic.com/</a>  
+   Link:<a href="https://destroyallhumans.thqnordic.com/" target="_blank" rel="noopener noreferrer nofollow">https://destroyallhumans.thqnordic.com/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: store.steampowered.com  
    Title: They Are Here Alien Abduction Horror  
-   Link: <a href="https://store.steampowered.com/app/1547540/They_Are_Here_Alien_Abduction_Horror/" target="_blank" rel="noopener noreferrer nofollow">https://store.steampowered.com/app/1547540/They_Are_Here_Alien_Abduction_Horror/</a>  
+   Link:<a href="https://store.steampowered.com/app/1547540/They_Are_Here_Alien_Abduction_Horror/" target="_blank" rel="noopener noreferrer nofollow">https://store.steampowered.com/app/1547540/They_Are_Here_Alien_Abduction_Horror/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arcadearchives.com  
    Title: aca 392  
-   Link: <a href="https://www.arcadearchives.com/en/title/aca-392/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcadearchives.com/en/title/aca-392/</a>  
+   Link:<a href="https://www.arcadearchives.com/en/title/aca-392/" target="_blank" rel="noopener noreferrer nofollow">https://www.arcadearchives.com/en/title/aca-392/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Space Invaders  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_Invaders" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Invaders</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_Invaders" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Invaders</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: store.steampowered.com  
-   Link: <a href="https://store.steampowered.com/app/275850/No_Mans_Sky/" target="_blank" rel="noopener noreferrer nofollow">https://store.steampowered.com/app/275850/No_Mans_Sky/</a>  
+   Link:<a href="https://store.steampowered.com/app/275850/No_Mans_Sky/" target="_blank" rel="noopener noreferrer nofollow">https://store.steampowered.com/app/275850/No_Mans_Sky/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/rpg/comments/1s5a0cr/delta_green_edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/rpg/comments/1s5a0cr/delta_green_edition/</a>  
+   Link:<a href="https://www.reddit.com/r/rpg/comments/1s5a0cr/delta_green_edition/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/rpg/comments/1s5a0cr/delta_green_edition/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Destroy All Humans! (2005 video game)  
-   Link: <a href="https://en.wikipedia.org/wiki/Destroy_All_Humans%21_%282005_video_game%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Destroy_All_Humans%21_%282005_video_game%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Destroy_All_Humans%21_%282005_video_game%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Destroy_All_Humans%21_%282005_video_game%29</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Delta Green  
-   Link: <a href="https://en.wikipedia.org/wiki/Delta_Green" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Delta_Green</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Delta_Green" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Delta_Green</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Space Invaders  
-   Link: <a href="https://de.wikipedia.org/wiki/Space_Invaders" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Space_Invaders</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Space_Invaders" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Space_Invaders</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: obscuritory.com  
-   Link: <a href="https://obscuritory.com/other/majestic/" target="_blank" rel="noopener noreferrer nofollow">https://obscuritory.com/other/majestic/</a>  
+   Link:<a href="https://obscuritory.com/other/majestic/" target="_blank" rel="noopener noreferrer nofollow">https://obscuritory.com/other/majestic/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: destroy-all-humans.fandom.com  
-   Link: <a href="https://destroy-all-humans.fandom.com/wiki/Saucer" target="_blank" rel="noopener noreferrer nofollow">https://destroy-all-humans.fandom.com/wiki/Saucer</a>  
+   Link:<a href="https://destroy-all-humans.fandom.com/wiki/Saucer" target="_blank" rel="noopener noreferrer nofollow">https://destroy-all-humans.fandom.com/wiki/Saucer</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gamicus.fandom.com  
-   Link: <a href="https://gamicus.fandom.com/wiki/Majestic" target="_blank" rel="noopener noreferrer nofollow">https://gamicus.fandom.com/wiki/Majestic</a>  
+   Link:<a href="https://gamicus.fandom.com/wiki/Majestic" target="_blank" rel="noopener noreferrer nofollow">https://gamicus.fandom.com/wiki/Majestic</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: 2k.com  
-   Link: <a href="https://2k.com/games/xcom/" target="_blank" rel="noopener noreferrer nofollow">https://2k.com/games/xcom/</a>  
+   Link:<a href="https://2k.com/games/xcom/" target="_blank" rel="noopener noreferrer nofollow">https://2k.com/games/xcom/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jJA4rAUPsiQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jJA4rAUPsiQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jJA4rAUPsiQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jJA4rAUPsiQ</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b3BQsCCwo8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b3BQsCCwo8w</a>  
+   Link:<a href="https://www.youtube.com/watch?v=b3BQsCCwo8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b3BQsCCwo8w</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DKLLDJZmxl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DKLLDJZmxl4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DKLLDJZmxl4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DKLLDJZmxl4</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gideonsgaming.com  
    Title: destroy all humans review the 2020 alien invasion  
-   Link: <a href="https://gideonsgaming.com/destroy-all-humans-review-the-2020-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://gideonsgaming.com/destroy-all-humans-review-the-2020-alien-invasion/</a>  
+   Link:<a href="https://gideonsgaming.com/destroy-all-humans-review-the-2020-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://gideonsgaming.com/destroy-all-humans-review-the-2020-alien-invasion/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: mobygames.com  
-   Link: <a href="https://www.mobygames.com/game/4637/majestic/" target="_blank" rel="noopener noreferrer nofollow">https://www.mobygames.com/game/4637/majestic/</a>  
+   Link:<a href="https://www.mobygames.com/game/4637/majestic/" target="_blank" rel="noopener noreferrer nofollow">https://www.mobygames.com/game/4637/majestic/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nookgaming.com  
    Title: Destroy All Humans  
-   Link: <a href="https://www.nookgaming.com/destroy-all-humans-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.nookgaming.com/destroy-all-humans-review/</a>  
+   Link:<a href="https://www.nookgaming.com/destroy-all-humans-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.nookgaming.com/destroy-all-humans-review/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: museumofplay.org  
    Title: space invaders  
-   Link: <a href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumofplay.org/games/space-invaders/</a>  
+   Link:<a href="https://www.museumofplay.org/games/space-invaders/" target="_blank" rel="noopener noreferrer nofollow">https://www.museumofplay.org/games/space-invaders/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40pauljones_85805/delta-green-uncovering-the-shadows-in-gaming-7bf10976f48f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/delta-green-uncovering-the-shadows-in-gaming-7bf10976f48f</a>  
+   Link:<a href="https://medium.com/%40pauljones_85805/delta-green-uncovering-the-shadows-in-gaming-7bf10976f48f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/delta-green-uncovering-the-shadows-in-gaming-7bf10976f48f</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/gamingsuggestions/comments/14pv8vz/any_video_games_regarding_aliensufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/gamingsuggestions/comments/14pv8vz/any_video_games_regarding_aliensufos/</a>  
+   Link:<a href="https://www.reddit.com/r/gamingsuggestions/comments/14pv8vz/any_video_games_regarding_aliensufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/gamingsuggestions/comments/14pv8vz/any_video_games_regarding_aliensufos/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1277721139645865/posts/1820689925348981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1277721139645865/posts/1820689925348981/</a>  
+   Link:<a href="https://www.facebook.com/groups/1277721139645865/posts/1820689925348981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1277721139645865/posts/1820689925348981/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: myabandonware.com  
-   Link: <a href="https://www.myabandonware.com/game/majestic-10jk" target="_blank" rel="noopener noreferrer nofollow">https://www.myabandonware.com/game/majestic-10jk</a>  
+   Link:<a href="https://www.myabandonware.com/game/majestic-10jk" target="_blank" rel="noopener noreferrer nofollow">https://www.myabandonware.com/game/majestic-10jk</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ARG/comments/28sxv5/eas_the_majestic_was_my_first_and_only_arg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ARG/comments/28sxv5/eas_the_majestic_was_my_first_and_only_arg/</a>  
+   Link:<a href="https://www.reddit.com/r/ARG/comments/28sxv5/eas_the_majestic_was_my_first_and_only_arg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ARG/comments/28sxv5/eas_the_majestic_was_my_first_and_only_arg/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DNggpTYv6-O/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNggpTYv6-O/</a>  
+   Link:<a href="https://www.instagram.com/reel/DNggpTYv6-O/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNggpTYv6-O/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DeltaGreenRPG/comments/ypdiw3/i_pretty_much_agree_with_majestic_does_this_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DeltaGreenRPG/comments/ypdiw3/i_pretty_much_agree_with_majestic_does_this_mean/</a>  
+   Link:<a href="https://www.reddit.com/r/DeltaGreenRPG/comments/ypdiw3/i_pretty_much_agree_with_majestic_does_this_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DeltaGreenRPG/comments/ypdiw3/i_pretty_much_agree_with_majestic_does_this_mean/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: startplaying.games  
-   Link: <a href="https://startplaying.games/adventure/cm3q0mahm000eqs4xjprbdsgu" target="_blank" rel="noopener noreferrer nofollow">https://startplaying.games/adventure/cm3q0mahm000eqs4xjprbdsgu</a>  
+   Link:<a href="https://startplaying.games/adventure/cm3q0mahm000eqs4xjprbdsgu" target="_blank" rel="noopener noreferrer nofollow">https://startplaying.games/adventure/cm3q0mahm000eqs4xjprbdsgu</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Xcom/comments/39kubt/long_wars_learning_cliff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Xcom/comments/39kubt/long_wars_learning_cliff/</a>  
+   Link:<a href="https://www.reddit.com/r/Xcom/comments/39kubt/long_wars_learning_cliff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Xcom/comments/39kubt/long_wars_learning_cliff/</a>  

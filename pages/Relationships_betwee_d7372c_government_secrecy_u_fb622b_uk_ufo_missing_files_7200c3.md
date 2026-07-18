@@ -284,15 +284,15 @@ The British UFO record contains an unusual paradox. On one hand, the United King
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_uk_ufo_missing_files_7200c3-Illustration-1-dark.svg" | relative_url }}" alt="Missing Files illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_uk_ufo_missing_files_7200c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_uk_ufo_missing_files_7200c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the wider relationship between UFOs and science fiction, these gaps matter because they encourage a familiar narrative structure: fragments of evidence, unexplained absences, and the suspicion that the most important information has vanished. Whether the losses resulted from ordinary bureaucracy or something more deliberate is precisely the question that fuels decades of speculation. The historical record strongly supports the existence of file destruction policies; what remains disputed is what, if anything, those missing files once contained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
+Within the wider relationship between UFOs and science fiction, these gaps matter because they encourage a familiar narrative structure: fragments of evidence, unexplained absences, and the suspicion that the most important information has vanished. Whether the losses resulted from ordinary bureaucracy or something more deliberate is precisely the question that fuels decades of speculation. The historical record strongly supports the existence of file destruction policies; what remains disputed is what, if anything, those missing files once contained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
 
 ## What Happened to Early UK UFO Records?
 
-One of the most important facts in the British UFO archive is surprisingly mundane. According to the UK's National Archives, the Ministry of Defence began collecting and analysing UFO reports in the early 1950s. However, until 1967, MoD policy was to destroy UFO files at five-year intervals. As a result, many early records did not survive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
+One of the most important facts in the British UFO archive is surprisingly mundane. According to the UK's National Archives, the Ministry of Defence began collecting and analysing UFO reports in the early 1950s. However, until 1967, MoD policy was to destroy UFO files at five-year intervals. As a result, many early records did not survive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
 
-This policy was not presented as a special UFO [secrecy]({{ 'secrecy/' | relative_url }}) measure. It reflected ordinary records-management practices used across government departments. Yet when later researchers attempted to reconstruct the history of official UFO investigations, they discovered that significant portions of the archive were simply gone. The surviving collection therefore begins with substantial gaps already built into it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
+This policy was not presented as a special UFO [secrecy]({{ 'secrecy/' | relative_url }}) measure. It reflected ordinary records-management practices used across government departments. Yet when later researchers attempted to reconstruct the history of official UFO investigations, they discovered that significant portions of the archive were simply gone. The surviving collection therefore begins with substantial gaps already built into it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
 
-The situation changed after 1970. Growing public interest encouraged the preservation and eventual transfer of surviving files to the National Archives. Over time, large collections of MoD correspondence, policy papers and sighting reports were reviewed for release. The result was unusual transparency compared with many countries, but transparency arrived after decades in which earlier material had already been destroyed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
+The situation changed after 1970. Growing public interest encouraged the preservation and eventual transfer of surviving files to the National Archives. Over time, large collections of MoD correspondence, policy papers and sighting reports were reviewed for release. The result was unusual transparency compared with many countries, but transparency arrived after decades in which earlier material had already been destroyed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
 
 For historians, the consequence is straightforward: there is no complete documentary chain from the beginning of official British UFO reporting. For UFO enthusiasts, however, the consequence is more provocative. Missing records invite questions that surviving records cannot answer.
 
@@ -308,11 +308,11 @@ This distinction is crucial in UFO culture. When researchers encounter a missing
 * **Administrative explanation:** the file disappeared because of routine retention schedules, disposal rules or later archival decisions.
 * **Concealment explanation:** the file was removed because it contained information too sensitive to release.
 
-The British UFO archive provides examples that support the first explanation. The destruction policy itself is documented, and many surviving files reveal ordinary bureaucratic concerns rather than extraordinary discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
+The British UFO archive provides examples that support the first explanation. The destruction policy itself is documented, and many surviving files reveal ordinary bureaucratic concerns rather than extraordinary discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
 
 Yet the second explanation remains attractive because missing material cannot be independently checked. Every absent document becomes a blank space into which theories can be projected. The less information available, the more room there is for speculation.
 
-A further complication is that archives sometimes produce genuine surprises. Researchers occasionally discover that documents believed lost, destroyed or inaccessible still exist in another form. The later recovery of material connected with the MoD's secret Project Condign study illustrates how uncertainty about archival status can generate years of suspicion before records are located and reviewed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17az93j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">LOST AND FOUND: Project Condign: The UK Mo D&#x27;s Secret UFO study</span><span class="citation-popover-snippet">LOST AND FOUND: Project Condign: The UK MoD&#x27;s Secret UFO study - thought destroyed, has now been recovered / David ClarkeOctober 1...</span></span></span>
+A further complication is that archives sometimes produce genuine surprises. Researchers occasionally discover that documents believed lost, destroyed or inaccessible still exist in another form. The later recovery of material connected with the MoD's secret Project Condign study illustrates how uncertainty about archival status can generate years of suspicion before records are located and reviewed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/17az93j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">LOST AND FOUND: Project Condign: The UK Mo D&#x27;s Secret UFO study</span><span class="citation-popover-snippet">LOST AND FOUND: Project Condign: The UK MoD&#x27;s Secret UFO study - thought destroyed, has now been recovered / David ClarkeOctober 1...</span></span></span>
 
 This does not demonstrate a cover-up. It does demonstrate how confusion over records management can resemble concealment from the outside.
 
@@ -322,7 +322,7 @@ This does not demonstrate a cover-up. It does demonstrate how confusion over rec
 
 A curious pattern appears in many UFO controversies: the absence of evidence becomes more culturally powerful than the evidence itself.
 
-The surviving British UFO files contain thousands of pages of correspondence, investigations and policy discussions. Much of the material concerns ordinary sightings, administrative procedures and public inquiries. Yet public attention often concentrates on documents that are unavailable, redacted or presumed lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+The surviving British UFO files contain thousands of pages of correspondence, investigations and policy discussions. Much of the material concerns ordinary sightings, administrative procedures and public inquiries. Yet public attention often concentrates on documents that are unavailable, redacted or presumed lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 This shift changes the nature of the debate. Instead of asking, "What do the records show?" people begin asking, "What was removed?" The focus moves from documented events to hypothetical ones.
 
@@ -337,7 +337,7 @@ Science fiction has long recognised the narrative power of incomplete archives.
 
 The classic UFO conspiracy story rarely begins with a complete set of records. Instead, it starts with fragments: a damaged memo, a missing report, an unexplained redaction, or a witness referring to documents that no longer exist. The British experience provides a real-world example of why this storytelling device feels believable.
 
-When audiences learn that early MoD UFO files were destroyed, the idea of a vanished "true story" becomes easier to imagine. The actual historical explanation may be ordinary records disposal, but fiction thrives on alternative possibilities. A destroyed file becomes the perfect narrative object because nobody can definitively inspect it and settle the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
+When audiences learn that early MoD UFO files were destroyed, the idea of a vanished "true story" becomes easier to imagine. The actual historical explanation may be ordinary records disposal, but fiction thrives on alternative possibilities. A destroyed file becomes the perfect narrative object because nobody can definitively inspect it and settle the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
 
 This mechanism appears repeatedly across UFO novels, [television]({{ 'television/' | relative_url }}) dramas and conspiracy thrillers. The hidden archive functions as a source of dramatic tension. Characters search for records that have been erased, transferred, classified or misplaced. The mystery survives precisely because the evidence is incomplete.
 
@@ -347,7 +347,7 @@ In that sense, Britain's missing UFO records contribute to UFO storytelling even
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_uk_ufo_missing_files_7200c3-Illustration-3-dark.svg" | relative_url }}" alt="Missing Files illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_uk_ufo_missing_files_7200c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_uk_ufo_missing_files_7200c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Historical Lesson
 
-The strongest evidence from the British case points to a documented policy of destroying UFO files before 1967 rather than proof of a secret extraterrestrial programme. The National Archives openly acknowledges that many records were lost through this process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
+The strongest evidence from the British case points to a documented policy of destroying UFO files before 1967 rather than proof of a secret extraterrestrial programme. The National Archives openly acknowledges that many records were lost through this process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFOs</span><span class="citation-popover-snippet">The National ArchivesUFOs - The National Archives...</span></span></span>
 
 Yet the cultural impact of those losses extends far beyond archival administration. Missing records create uncertainty, and uncertainty is fertile ground for narrative. In UFO culture, every gap invites interpretation. In science fiction, those interpretations become plots.
 
@@ -360,194 +360,194 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Missing UFO Files Become the Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Missing UFO Files Become the Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documentary evidence, reports and official sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documentary evidence, reports and official sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly addresses British UFO records, official files and declassification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses British UFO records, official files and declassification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YS1XrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Provides direct insight into British official UFO handling and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides direct insight into British official UFO handling and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Offers broader context for how classified programs and missing records inspire speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader context for how classified programs and missing records inspire speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Official Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f53239cf724de7d09093.jpg' | relative_url }}" alt="Listing image for Genuine Official Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine Official Star Wars Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Official Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f53239cf724de7d09093.jpg' | relative_url }}" alt="Listing image for Genuine Official Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine Official Star Wars Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="missing-files-when-missing-ufo-files-become-the-story-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,100 +753,100 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: LOST AND FOUND: Project Condign: The UK Mo D's Secret UFO study  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17az93j" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOST AND FOUND: Project Condign: The UK MoD&#x27;s Secret UFO study - thought destroyed, has now been recovered / David ClarkeOctober 1...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17az93j" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17az93j</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOST AND FOUND: Project Condign: The UK MoD&#x27;s Secret UFO study - thought destroyed, has now been recovered / David ClarkeOctober 1...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1rzjcrt/national_archives_unveils_an_extensive_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rzjcrt/national_archives_unveils_an_extensive_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Unveils an Extensive UFO Collection: [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), Roswell, [Area 51](&amp;#123;&amp;#123; &#x27;area-51/&#x27; | relative_url &amp;#125;&amp;#125;), and Related MaterialsMarch 21, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rzjcrt/national_archives_unveils_an_extensive_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rzjcrt/national_archives_unveils_an_extensive_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Unveils an Extensive UFO Collection: [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), Roswell, [Area 51](&amp;#123;&amp;#123; &#x27;area-51/&#x27; | relative_url &amp;#125;&amp;#125;), and Related MaterialsMarch 21, 2026...</p></details>
    Published: March 21, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFOs  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOs - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOs - The National Archives...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/Details?uri=C13442641" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/Details?uri=C13442641</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital copy of DEFE 24/2628: UFO correspondence; with redactions | The National Archives...</p></details>
+   Link:<a href="https://discovery.nationalarchives.gov.uk/Details?uri=C13442641" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/Details?uri=C13442641</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital copy of DEFE 24/2628: UFO correspondence; with redactions | The National Archives...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/search/results/?_q=ministry+of+defence" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ministry+of+defence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>search results: ministry of defence | The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/search/results/?_q=ministry+of+defence" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/search/results/?_q=ministry+of+defence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>search results: ministry of defence | The National Archives...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: discovery.nationalarchives.gov.uk  
    Title: AI R 2. UFO reports | The National Archives  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C2645849" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C2645849</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C2645849" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C2645849</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/37809732/mod-ufo-probe-army/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/37809732/mod-ufo-probe-army/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memos from the Ministry of Defence in 1997 suggest that the sightings were taken seriously, with claims that such phenomena could potenti...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/37809732/mod-ufo-probe-army/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/37809732/mod-ufo-probe-army/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memos from the Ministry of Defence in 1997 suggest that the sightings were taken seriously, with claims that such phenomena could potenti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=U3cO7ARD--Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U3cO7ARD--Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U3cO7ARD--Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U3cO7ARD--Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Calvine UFO Sighting - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Mysteries Unearthed as the Mo D Releases UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sh-d3Bghbf4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sh-d3Bghbf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sh-d3Bghbf4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
    Published: May 2008  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MN4g2aEBxdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MN4g2aEBxdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Unearthed as the MoD Releases UFO Files...</p></details>
    Published: February 2010  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4_zUiIEnkEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4_zUiIEnkEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
    Published: March 2009  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yfpeN_12UFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yfpeN_12UFo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=yfpeN_12UFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yfpeN_12UFo</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain Releases Secret UFO Sighting Documents...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FD6dCwx6tpg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FD6dCwx6tpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain Releases Secret UFO Sighting Documents...</p></details>
    Published: August 2011  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: New UFO Files From UK Government  
-   Link: <a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGxftZwdWsM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Nick Pope: Inside the UK&#x27;s UFO Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yGxftZwdWsM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGxftZwdWsM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Nick Pope: Inside the UK&#x27;s UFO Files...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KbzbK905kwc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KbzbK905kwc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
    Published: October 2008  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Nick Pope Secret UFO Files  
-   Link: <a href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dwZGlFL0PHI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dwZGlFL0PHI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010: UFO Files Released by UK Government...</p></details>

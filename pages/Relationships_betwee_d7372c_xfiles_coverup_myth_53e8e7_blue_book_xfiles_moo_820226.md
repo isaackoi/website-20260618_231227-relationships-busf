@@ -280,19 +280,19 @@ image: /assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blu
 
 ## Introduction
 
-[Project Blue Book]({{ 'blue-book/' | relative_url }}) helped create the cultural atmosphere that made *The X-Files* feel plausible. The Air Force's long-running UFO investigation programme did not simply dismiss every sighting. Instead, it produced a more complicated legacy: thousands of reports, hundreds of [unresolved cases]({{ 'unresolved-cases/' | relative_url }}), and official conclusions that insisted there was no evidence of extraterrestrial craft. That combination of openness and closure created a tension that television writers could exploit. By the time *The X-Files* arrived in 1993, the public could consult real government UFO files while still finding cases that remained unexplained. The result was a perfect foundation for stories in which official answers appeared to leave the most interesting questions untouched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+[Project Blue Book]({{ 'blue-book/' | relative_url }}) helped create the cultural atmosphere that made *The X-Files* feel plausible. The Air Force's long-running UFO investigation programme did not simply dismiss every sighting. Instead, it produced a more complicated legacy: thousands of reports, hundreds of [unresolved cases]({{ 'unresolved-cases/' | relative_url }}), and official conclusions that insisted there was no evidence of extraterrestrial craft. That combination of openness and closure created a tension that television writers could exploit. By the time *The X-Files* arrived in 1993, the public could consult real government UFO files while still finding cases that remained unexplained. The result was a perfect foundation for stories in which official answers appeared to leave the most interesting questions untouched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book Mood illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader relationship between UFOs and science fiction, Project Blue Book supplied something especially valuable: a documented archive that looked authoritative yet incomplete. Fiction no longer had to invent secret files from scratch. It could build suspense around the possibility that governments knew more than they admitted, a theme that became central to *[The X-Files]({{ 'the-x-files/' | relative_url }})* and to the modern cover-up myth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://foxandhoward.co.uk/book/how-ufos-conquered-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxandhoward.co.uk">[Fox &amp; Howard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxandhoward.co.uk</span><span class="citation-popover-title">Fox &amp; Howard How UFOs Conquered the World</span><span class="citation-popover-snippet">Fox &amp; HowardHow UFOs Conquered the World - Fox &amp; Howard...</span></span></span>
+Within the broader relationship between UFOs and science fiction, Project Blue Book supplied something especially valuable: a documented archive that looked authoritative yet incomplete. Fiction no longer had to invent secret files from scratch. It could build suspense around the possibility that governments knew more than they admitted, a theme that became central to *[The X-Files]({{ 'the-x-files/' | relative_url }})* and to the modern cover-up myth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://foxandhoward.co.uk/book/how-ufos-conquered-the-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxandhoward.co.uk">[Fox &amp; Howard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxandhoward.co.uk</span><span class="citation-popover-title">Fox &amp; Howard How UFOs Conquered the World</span><span class="citation-popover-snippet">Fox &amp; HowardHow UFOs Conquered the World - Fox &amp; Howard...</span></span></span>
 
 ## What Blue Book said and left open
 
-From 1947 to 1969, the United States Air Force investigated UFO reports through a succession of programmes that culminated in Project Blue Book. When the project was terminated, officials stated that no investigated UFO posed a national-security threat, that no evidence pointed to technology beyond known science, and that there was no evidence of extraterrestrial vehicles. The Air Force considered the matter sufficiently settled to end the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
+From 1947 to 1969, the United States Air Force investigated UFO reports through a succession of programmes that culminated in Project Blue Book. When the project was terminated, officials stated that no investigated UFO posed a national-security threat, that no evidence pointed to technology beyond known science, and that there was no evidence of extraterrestrial vehicles. The Air Force considered the matter sufficiently settled to end the programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
 
-Yet the same official record contained a detail that proved culturally powerful: out of 12,618 reported sightings, 701 remained classified as "[unidentified]({{ 'unidentified/' | relative_url }})". These were not necessarily alien spacecraft, but they were cases that investigators could not satisfactorily explain using the information available to them. The existence of those unresolved files sat uneasily beside the certainty of the project's final conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
+Yet the same official record contained a detail that proved culturally powerful: out of 12,618 reported sightings, 701 remained classified as "[unidentified]({{ 'unidentified/' | relative_url }})". These were not necessarily alien spacecraft, but they were cases that investigators could not satisfactorily explain using the information available to them. The existence of those unresolved files sat uneasily beside the certainty of the project's final conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
 
-For later audiences, the contradiction was striking. If hundreds of cases remained unexplained, how could officials sound so confident? Blue Book's defenders argued that an unexplained report is not evidence of aliens. Critics countered that the unexplained cases suggested important gaps in knowledge. Regardless of which interpretation one preferred, the archive preserved an enduring ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
+For later audiences, the contradiction was striking. If hundreds of cases remained unexplained, how could officials sound so confident? Blue Book's defenders argued that an unexplained report is not evidence of aliens. Critics countered that the unexplained cases suggested important gaps in knowledge. Regardless of which interpretation one preferred, the archive preserved an enduring ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 391 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
@@ -301,14 +301,14 @@ For later audiences, the contradiction was striking. If hundreds of cases remain
 
 The key contribution of Project Blue Book to cover-up culture was not proof of extraterrestrial visitation. It was the appearance of unfinished business.
 
-A closed investigation usually reduces public curiosity when it provides a convincing answer. Blue Book did something different. It offered a formal conclusion while simultaneously preserving hundreds of unresolved incidents. That structure encouraged a recurring question: were the unexplained cases simply difficult puzzles, or evidence that authorities were withholding information? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
+A closed investigation usually reduces public curiosity when it provides a convincing answer. Blue Book did something different. It offered a formal conclusion while simultaneously preserving hundreds of unresolved incidents. That structure encouraged a recurring question: were the unexplained cases simply difficult puzzles, or evidence that authorities were withholding information?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
 
-Several features of the Blue Book archive strengthened this suspicion: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Project Blue Book: America&#x27;s Obsession with UFOs</span><span class="citation-popover-snippet">2 Project Blue Book...</span></span></span>
+Several features of the Blue Book archive strengthened this suspicion:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Project Blue Book: America&#x27;s Obsession with UFOs</span><span class="citation-popover-snippet">2 Project Blue Book...</span></span></span>
 
-* **The cases were official.** They came from a government investigation rather than purely from folklore or rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
-* **The records survived.** Researchers could examine files, photographs and reports rather than relying solely on second-hand stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
-* **The unresolved category remained visible.** The public could see that some incidents had not received definitive [explanations]({{ 'explanations/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
-* **The programme ended despite lingering mysteries.** For [believers]({{ 'believers/' | relative_url }}), closure looked premature; for sceptics, it reflected a lack of scientific value. Either way, debate continued. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
+* **The cases were official.** They came from a government investigation rather than purely from folklore or rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* **The records survived.** Researchers could examine files, photographs and reports rather than relying solely on second-hand stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+* **The unresolved category remained visible.** The public could see that some incidents had not received definitive [explanations]({{ 'explanations/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
+* **The programme ended despite lingering mysteries.** For [believers]({{ 'believers/' | relative_url }}), closure looked premature; for sceptics, it reflected a lack of scientific value. Either way, debate continued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
 
 This dynamic closely resembles the narrative engine of *The X-Files*. Mulder rarely encounters conclusive proof that survives official scrutiny. Instead, he repeatedly discovers fragments, anomalies and partially explained events. The drama depends on the sense that institutional accounts never fully resolve what has happened. Blue Book unintentionally demonstrated how powerful that pattern could be in real life.
 
@@ -316,7 +316,7 @@ This dynamic closely resembles the narrative engine of *The X-Files*. Mulder rar
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book Mood illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official language became story fuel
 
-The most influential aspect of Blue Book was arguably its language. Government statements did not claim that every report had been solved. Rather, they stressed what investigators had not found: no threat, no advanced technology beyond known science, no evidence of extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
+The most influential aspect of Blue Book was arguably its language. Government statements did not claim that every report had been solved. Rather, they stressed what investigators had not found: no threat, no advanced technology beyond known science, no evidence of extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-title">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span><span class="citation-popover-snippet">Project Blue Book &gt; Air Force Declassification Office &gt; Display</span></span></span>
 
 For a scientist, that wording is cautious. For a conspiracy-minded audience, it can sound evasive. The distinction between "no evidence" and "proof that something does not exist" became fertile ground for speculation. *The X-Files* repeatedly dramatised precisely this gap. Officials in the series rarely deny events outright; instead, they redirect, classify, minimise or compartmentalise information. The show's famous atmosphere emerged from the idea that bureaucratic language can conceal as much as it reveals.
 
@@ -333,7 +333,7 @@ Blue Book also familiarised the public with recurring motifs that later became s
 
 </div>
 
-These elements gave *The X-Files* a ready-made vocabulary. Rather than inventing a culture of secret UFO dossiers, the series inherited one that already existed in public archives and decades of debate surrounding them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+These elements gave *The X-Files* a ready-made vocabulary. Rather than inventing a culture of secret UFO dossiers, the series inherited one that already existed in public archives and decades of debate surrounding them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
@@ -353,200 +353,200 @@ Project Blue Book did not create UFO conspiracy culture by itself, nor did it pr
 
 For viewers of *The X-Files*, the show's central premise already felt familiar. Governments had investigated UFOs. Files existed. Some cases remained unexplained. Authorities insisted no extraordinary conclusion followed. Whether one accepted that explanation or doubted it, the tension remained alive.
 
-That tension was the emotional core of the series. Blue Book supplied the historical template: a real archive whose official conclusions seemed final, yet whose surviving mysteries encouraged generations of readers, researchers and television audiences to [wonder]({{ 'wonder/' | relative_url }}) whether the last word had really been spoken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2secretsdeclassified.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+That tension was the emotional core of the series. Blue Book supplied the historical template: a real archive whose official conclusions seemed final, yet whose surviving mysteries encouraged generations of readers, researchers and television audiences to [wonder]({{ 'wonder/' | relative_url }}) whether the last word had really been spoken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book Mood illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_blue_book_xfiles_moo_820226-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When official answers created bigger questions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When official answers created bigger questions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The X-Files: The Official Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WxSJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The X-Files: The Official Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The X-Files: The Official Archives">The X-Files: The Official Archives</a>
-        </h4>
-        <p class="fr-book-author">By Paul Terry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The X-Files: The Official Archives on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WxSJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The X-Files: The Official Archives" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The X-Files: The Official Archives">The X-Files: The Official Archives</a>
+</h4>
+<p class="fr-book-author">By Paul Terry</p>
         
-        <p class="fr-book-desc">Covers major mythology characters including the Cigarette Smoking Man.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major mythology characters including the Cigarette Smoking Man.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+X-Files%3A+The+Official+Archives+by+Paul+Terry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
+</h4>
+<p class="fr-book-author">By Jesse Walker</p>
         
-        <p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rl0LAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete X-Files">The Complete X-Files</a>
-        </h4>
-        <p class="fr-book-author">By Matt Hurwitz, Chris Knowles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rl0LAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete X-Files">The Complete X-Files</a>
+</h4>
+<p class="fr-book-author">By Matt Hurwitz, Chris Knowles</p>
         
-        <p class="fr-book-desc">Explains the conspiracy mythology and recurring antagonists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the conspiracy mythology and recurring antagonists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QapJgNWilDoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Culture">Conspiracy Culture</a>
-        </h4>
-        <p class="fr-book-author">By Dr Peter Knight, Peter Knight</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QapJgNWilDoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Culture">Conspiracy Culture</a>
+</h4>
+<p class="fr-book-author">By Dr Peter Knight, Peter Knight</p>
         
-        <p class="fr-book-desc">Directly connects modern conspiracy thinking with The X-Files era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects modern conspiracy thinking with The X-Files era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+X+Files%3A+The+Official+Archives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The X Files: The Official Archives</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+X+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete X Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+X+Files%3A+The+Official+Archives&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The X Files: The Official Archives</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+X+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete X Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Official Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f53239cf724de7d09093.jpg' | relative_url }}" alt="Listing image for Genuine Official Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine Official Star Wars Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Official Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f53239cf724de7d09093.jpg' | relative_url }}" alt="Listing image for Genuine Official Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine Official Star Wars Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="blue-book-mood-when-official-answers-created-bigger-questions-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ That tension was the emotional core of the series. Blue Book supplied the histor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ That tension was the emotional core of the series. Blue Book supplied the histor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ That tension was the emotional core of the series. Blue Book supplied the histor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ That tension was the emotional core of the series. Blue Book supplied the histor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ That tension was the emotional core of the series. Blue Book supplied the histor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,82 +752,82 @@ That tension was the emotional core of the series. Blue Book supplied the histor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: secretsdeclassified.af.mil  
    Title: Project Blue Book > Air Force Declassification Office > Display  
-   Link: <a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
+   Link:<a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Project Blue Book...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Disclosure Day&#x27;s Real UFO Mysteries Make Spielberg&#x27;s Movie Scarier...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Disclosure Day&#x27;s Real UFO Mysteries Make Spielberg&#x27;s Movie Scarier...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: foxandhoward.co.uk  
    Title: Fox & Howard How UFOs Conquered the World  
-   Link: <a href="https://foxandhoward.co.uk/book/how-ufos-conquered-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://foxandhoward.co.uk/book/how-ufos-conquered-the-world/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox &amp; HowardHow UFOs Conquered the World - Fox &amp; Howard...</p></details>
+   Link:<a href="https://foxandhoward.co.uk/book/how-ufos-conquered-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://foxandhoward.co.uk/book/how-ufos-conquered-the-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fox &amp; HowardHow UFOs Conquered the World - Fox &amp; Howard...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: paranormaldictionary.com  
    Title: www.paranormaldictionary.com Project Blue Book | Www.paranormaldictionary.com  
-   Link: <a href="https://www.paranormaldictionary.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldictionary.com/project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book | Www.paranormaldictionary.com...</p></details>
+   Link:<a href="https://www.paranormaldictionary.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormaldictionary.com/project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book | Www.paranormaldictionary.com...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cambridge.org  
    Title: University Press & Assessment THE TRUTH IS OUT THERE | Think | Cambridge Core  
-   Link: <a href="https://www.cambridge.org/core/journals/think/article/abs/truth-is-out-there/1676C8CC0635D6D4651A99334554C58B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/think/article/abs/truth-is-out-there/1676C8CC0635D6D4651A99334554C58B</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentTHE TRUTH IS OUT THERE | Think | Cambridge Core...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/think/article/abs/truth-is-out-there/1676C8CC0635D6D4651A99334554C58B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/think/article/abs/truth-is-out-there/1676C8CC0635D6D4651A99334554C58B</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentTHE TRUTH IS OUT THERE | Think | Cambridge Core...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: docslib.org  
    Title: Unidentified Flying Objects and Air Force Project Blue Book  
-   Link: <a href="https://docslib.org/doc/3458695/unidentified-flying-objects-and-air-force-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://docslib.org/doc/3458695/unidentified-flying-objects-and-air-force-project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book - DocsLib...</p></details>
+   Link:<a href="https://docslib.org/doc/3458695/unidentified-flying-objects-and-air-force-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://docslib.org/doc/3458695/unidentified-flying-objects-and-air-force-project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book - DocsLib...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/dzr0d4" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/dzr0d4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2019...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/dzr0d4" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/dzr0d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2019...</p></details>
    Published: November 21, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unexplainedsightings.com  
    Title: Unexplained Sightings Project Blue Book Explained | Unexplained Sightings  
-   Link: <a href="https://unexplainedsightings.com/project-blue-book-explained/" target="_blank" rel="noopener noreferrer nofollow">https://unexplainedsightings.com/project-blue-book-explained/</a>  
+   Link:<a href="https://unexplainedsightings.com/project-blue-book-explained/" target="_blank" rel="noopener noreferrer nofollow">https://unexplainedsightings.com/project-blue-book-explained/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Disclosure Day's Real UFO Mysteries Make Spielberg's Movie Scarier  
-   Link: <a href="https://www.youtube.com/watch?v=bIv6wobz3LM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bIv6wobz3LM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bIv6wobz3LM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bIv6wobz3LM</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: The X-Files: I Want to Believe  
-   Link: <a href="https://en.wikipedia.org/wiki/The_X-Files%3A_I_Want_to_Believe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_X-Files%3A_I_Want_to_Believe</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_X-Files%3A_I_Want_to_Believe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_X-Files%3A_I_Want_to_Believe</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book_%28TV_series%29</a>  

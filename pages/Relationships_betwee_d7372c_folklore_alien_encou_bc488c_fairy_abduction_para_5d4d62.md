@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fa
 
 ## Introduction
 
-One reason alien abduction stories feel strangely familiar is that many of their central features closely resemble much older accounts of fairy abductions. Long before spacecraft, extraterrestrials and [flying saucers]({{ 'flying-saucer/' | relative_url }}) became part of popular culture, European folklore described people being taken by non-human beings into hidden realms, losing track of time, returning with unusual memories, and struggling to explain what had happened. Folklorists have repeatedly noted these parallels, not as evidence that fairies and aliens are the same thing, but as evidence that cultures often use recurring narrative patterns to describe encounters with the unknown. Modern UFO stories can therefore be read as a technological version of older encounter traditions, with spacecraft replacing enchanted journeys and extraterrestrials replacing fairy folk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
+One reason alien abduction stories feel strangely familiar is that many of their central features closely resemble much older accounts of fairy abductions. Long before spacecraft, extraterrestrials and [flying saucers]({{ 'flying-saucer/' | relative_url }}) became part of popular culture, European folklore described people being taken by non-human beings into hidden realms, losing track of time, returning with unusual memories, and struggling to explain what had happened. Folklorists have repeatedly noted these parallels, not as evidence that fairies and aliens are the same thing, but as evidence that cultures often use recurring narrative patterns to describe encounters with the unknown. Modern UFO stories can therefore be read as a technological version of older encounter traditions, with spacecraft replacing enchanted journeys and extraterrestrials replacing fairy folk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-1-dark.svg" | relative_url }}" alt="Fairy Abductions illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ One reason alien abduction stories feel strangely familiar is that many of their
 
 The strongest similarity between fairy abduction traditions and modern alien abduction reports is the structure of the experience itself.
 
-In many fairy legends from Ireland, Scotland, Wales and other parts of Europe, an ordinary person is suddenly taken from familiar surroundings into a hidden realm. This otherworld may exist beneath hills, inside fairy mounds, beyond a forest boundary or in an invisible parallel landscape. The abducted person often experiences strange events and then returns to discover that far more time has passed than expected. Folklore collections repeatedly describe travellers who believe they were away for only hours but return to find days, years or even generations have elapsed. Fairyland was commonly portrayed as a separate domain operating under different rules of time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/art/fairyland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fairyland &#124; folklore &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Fairyland &#124; folklore &#124; Britannica</span></span></span>
+In many fairy legends from Ireland, Scotland, Wales and other parts of Europe, an ordinary person is suddenly taken from familiar surroundings into a hidden realm. This otherworld may exist beneath hills, inside fairy mounds, beyond a forest boundary or in an invisible parallel landscape. The abducted person often experiences strange events and then returns to discover that far more time has passed than expected. Folklore collections repeatedly describe travellers who believe they were away for only hours but return to find days, years or even generations have elapsed. Fairyland was commonly portrayed as a separate domain operating under different rules of time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/art/fairyland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fairyland &#124; folklore &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Fairyland &#124; folklore &#124; Britannica</span></span></span>
 
-Alien abduction narratives frequently employ the same narrative mechanism. Witnesses report being taken into an unfamiliar environment, often described as a spacecraft or enclosed chamber. After the encounter they discover periods of "missing time" that they cannot account for. They may remember only fragments of the experience and reconstruct the rest later through reflection, dreams or hypnosis. The pattern of departure, journey into an inaccessible realm, altered perception of time and uneasy return mirrors older fairy-abduction motifs remarkably closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
+Alien abduction narratives frequently employ the same narrative mechanism. Witnesses report being taken into an unfamiliar environment, often described as a spacecraft or enclosed chamber. After the encounter they discover periods of "missing time" that they cannot account for. They may remember only fragments of the experience and reconstruct the rest later through reflection, dreams or hypnosis. The pattern of departure, journey into an inaccessible realm, altered perception of time and uneasy return mirrors older fairy-abduction motifs remarkably closely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
 
 The similarity is significant because it concerns story structure rather than superficial details. The hidden realm has changed from fairyland to a spacecraft, but the narrative role remains much the same: a temporary removal from ordinary reality into a place governed by unfamiliar rules.
 
@@ -301,21 +301,21 @@ The similarity is significant because it concerns story structure rather than su
 
 The resemblance extends beyond missing time.
 
-Traditional fairy lore often describes encounters with unusual beings who appear human-like yet distinctly different. They may be unusually small or tall, possess strange eyes, emit light, move silently, or communicate in unsettling ways. Folklore also includes reports of physical traces after encounters: unexplained weakness, lingering marks, altered health, disturbed sleep or psychological distress. Some stories describe abductees being warned not to speak about what they witnessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/art/fairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fairy &#124; Origins, Beliefs &amp; Legends &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Fairy &#124; Origins, Beliefs &amp; Legends &#124; Britannica</span></span></span>
+Traditional fairy lore often describes encounters with unusual beings who appear human-like yet distinctly different. They may be unusually small or tall, possess strange eyes, emit light, move silently, or communicate in unsettling ways. Folklore also includes reports of physical traces after encounters: unexplained weakness, lingering marks, altered health, disturbed sleep or psychological distress. Some stories describe abductees being warned not to speak about what they witnessed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/art/fairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Fairy &#124; Origins, Beliefs &amp; Legends &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Fairy &#124; Origins, Beliefs &amp; Legends &#124; Britannica</span></span></span>
 
-Modern alien abduction accounts contain analogous features. Witnesses frequently describe non-human beings with distinctive physical characteristics, unusual communication methods and an ability to induce paralysis or altered consciousness. Reports often include memories of examinations, physical marks on the body, intense emotional reactions and a belief that information was deliberately concealed or that discussion of the event was discouraged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
+Modern alien abduction accounts contain analogous features. Witnesses frequently describe non-human beings with distinctive physical characteristics, unusual communication methods and an ability to induce paralysis or altered consciousness. Reports often include memories of examinations, physical marks on the body, intense emotional reactions and a belief that information was deliberately concealed or that discussion of the event was discouraged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
 
-The changeling tradition provides another notable parallel. In fairy folklore, people sometimes believed that a child or adult had been secretly taken and replaced by an imitation. These stories reflected fears about identity, bodily change and unexplained transformations. Although alien-abduction narratives do not usually involve literal changelings, they often feature concerns about genetic alteration, hybridisation or unexplained bodily changes after an encounter. The themes differ in detail but share a common concern: the possibility that an external non-human force has interfered with a person's body or identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://technotink.net/lore/changeling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: technotink.net">[Techno Tink Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">technotink.net</span><span class="citation-popover-title">Techno Tink Media CHANGELING &#124; Faerie Lore and Legends</span><span class="citation-popover-snippet">Techno Tink MediaCHANGELING &#124; Faerie Lore and LegendsJune 15, 2024...</span><span class="citation-popover-meta">Published: June 15, 2024</span></span></span>
+The changeling tradition provides another notable parallel. In fairy folklore, people sometimes believed that a child or adult had been secretly taken and replaced by an imitation. These stories reflected fears about identity, bodily change and unexplained transformations. Although alien-abduction narratives do not usually involve literal changelings, they often feature concerns about genetic alteration, hybridisation or unexplained bodily changes after an encounter. The themes differ in detail but share a common concern: the possibility that an external non-human force has interfered with a person's body or identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://technotink.net/lore/changeling/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: technotink.net">[Techno Tink Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">technotink.net</span><span class="citation-popover-title">Techno Tink Media CHANGELING &#124; Faerie Lore and Legends</span><span class="citation-popover-snippet">Techno Tink MediaCHANGELING &#124; Faerie Lore and LegendsJune 15, 2024...</span><span class="citation-popover-meta">Published: June 15, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-2-dark.svg" | relative_url }}" alt="Fairy Abductions illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Similarities Matter
 
-The comparison became especially influential through the work of researchers such as Jacques Vallée, whose book *Passport to [Magonia]({{ 'magonia/' | relative_url }})* argued that modern UFO encounters share important motifs with older folklore traditions. Vallée's argument was not simply that ancient fairies were misunderstood aliens. Rather, he suggested that reports of extraordinary encounters repeatedly adopt the symbolic language available in a given era. In a society shaped by folklore, strange beings are interpreted as fairies. In a society shaped by [rockets]({{ 'rockets/' | relative_url }}), astronomy and science fiction, similar experiences are interpreted as extraterrestrials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Passport to Magonia: On UFOs, Folklore, and Parallel Worlds</span><span class="citation-popover-snippet">Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques Vallee - Google Books...</span></span></span>
+The comparison became especially influential through the work of researchers such as Jacques Vallée, whose book *Passport to [Magonia]({{ 'magonia/' | relative_url }})* argued that modern UFO encounters share important motifs with older folklore traditions. Vallée's argument was not simply that ancient fairies were misunderstood aliens. Rather, he suggested that reports of extraordinary encounters repeatedly adopt the symbolic language available in a given era. In a society shaped by folklore, strange beings are interpreted as fairies. In a society shaped by [rockets]({{ 'rockets/' | relative_url }}), astronomy and science fiction, similar experiences are interpreted as extraterrestrials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Passport to Magonia: On UFOs, Folklore, and Parallel Worlds</span><span class="citation-popover-snippet">Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques Vallee - Google Books...</span></span></span>
 
-Folklorists examining alien abduction narratives have often reached a related conclusion. The recurring patterns suggest that abduction stories function partly as modern myths: culturally meaningful narratives that help people organise extraordinary, confusing or emotionally powerful experiences. The details evolve, but the underlying narrative framework remains recognisable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
+Folklorists examining alien abduction narratives have often reached a related conclusion. The recurring patterns suggest that abduction stories function partly as modern myths: culturally meaningful narratives that help people organise extraordinary, confusing or emotionally powerful experiences. The details evolve, but the underlying narrative framework remains recognisable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
 
-This perspective also helps explain why alien encounter reports changed over time. Nineteenth-century witnesses rarely described medical examinations aboard spacecraft because spacecraft were not yet part of everyday imagination. Twentieth-century witnesses, living in an age of advanced technology, space exploration and science-fiction media, naturally drew upon different symbols and expectations. The encounter remained extraordinary, but its imagery became technological rather than magical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
+This perspective also helps explain why alien encounter reports changed over time. Nineteenth-century witnesses rarely described medical examinations aboard spacecraft because spacecraft were not yet part of everyday imagination. Twentieth-century witnesses, living in an age of advanced technology, space exploration and science-fiction media, naturally drew upon different symbols and expectations. The encounter remained extraordinary, but its imagery became technological rather than magical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0PcOpYHbWDQ" title="Fairies and Aliens: The Missing Link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0PcOpYHbWDQ" target="_blank" rel="noopener noreferrer">Fairies and Aliens: The Missing Link</a></p><p class="youtube-embed-meta">Channel: Catherine Warr</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0PcOpYHbWDQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0PcOpYHbWDQ">Open on YouTube</a></p></div></div></div>
@@ -327,202 +327,202 @@ This perspective also helps explain why alien encounter reports changed over tim
 
 A common misunderstanding is that identifying parallels between fairy stories and alien abductions implies that both describe the same objective phenomenon. Most historians and folklorists do not make that claim.
 
-The comparison is valuable because it reveals how cultures shape accounts of extraordinary experiences. Similar stories can emerge without requiring fairies to be extraterrestrials or aliens to be disguised fairies. Narrative traditions often preserve recurring themes because they address enduring human concerns: fear of disappearance, loss of control, altered states of consciousness, encounters with the unknown and uncertainty about the boundaries between ordinary reality and another world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
+The comparison is valuable because it reveals how cultures shape accounts of extraordinary experiences. Similar stories can emerge without requiring fairies to be extraterrestrials or aliens to be disguised fairies. Narrative traditions often preserve recurring themes because they address enduring human concerns: fear of disappearance, loss of control, altered states of consciousness, encounters with the unknown and uncertainty about the boundaries between ordinary reality and another world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</span><span class="citation-popover-meta">Published: October 7, 2010</span></span></span>
 
-Seen in this way, fairy abductions and alien abductions are connected less by the identity of the beings involved than by the role those beings play in human storytelling. Both traditions place an ordinary person in contact with an unsettling "other", remove them temporarily from the familiar world, and return them changed. That continuity helps explain why modern UFO narratives often sound ancient despite their futuristic imagery. Within the broader relationship between UFO culture and science fiction, fairy lore provides one of the clearest examples of how older folklore patterns can survive by adopting a modern technological vocabulary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Passport to Magonia: On UFOs, Folklore, and Parallel Worlds</span><span class="citation-popover-snippet">Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques Vallee - Google Books...</span></span></span>
+Seen in this way, fairy abductions and alien abductions are connected less by the identity of the beings involved than by the role those beings play in human storytelling. Both traditions place an ordinary person in contact with an unsettling "other", remove them temporarily from the familiar world, and return them changed. That continuity helps explain why modern UFO narratives often sound ancient despite their futuristic imagery. Within the broader relationship between UFO culture and science fiction, fairy lore provides one of the clearest examples of how older folklore patterns can survive by adopting a modern technological vocabulary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Passport to Magonia: On UFOs, Folklore, and Parallel Worlds</span><span class="citation-popover-snippet">Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques Vallee - Google Books...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-3-dark.svg" | relative_url }}" alt="Fairy Abductions illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_fairy_abduction_para_5d4d62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Alien Abductions Sound Like Fairy Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Alien Abductions Sound Like Fairy Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly connects flying saucer reports with folklore traditions, matching the page&#x27;s focus on folklore and alien encounter narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects flying saucer reports with folklore traditions, matching the page&#x27;s focus on folklore and alien encounter narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-vBNAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reports of strange aerial phenomena across centuries, connecting historical accounts with modern UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how technological and extraterrestrial narratives function similarly to older religious and mythic frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how technological and extraterrestrial narratives function similarly to older religious and mythic frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Romulus figure Book Holder"><img src="{{ '/assets/images/marketplace-covers/0d1aced632009889f7b4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Romulus figure Book Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Romulus figure Book Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="fairy-abductions-why-alien-abductions-sound-like-fairy-stories-relationships-betwee-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Seen in this way, fairy abductions and alien abductions are connected less by th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Seen in this way, fairy abductions and alien abductions are connected less by th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Seen in this way, fairy abductions and alien abductions are connected less by th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Seen in this way, fairy abductions and alien abductions are connected less by th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Seen in this way, fairy abductions and alien abductions are connected less by th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,82 +728,82 @@ Seen in this way, fairy abductions and alien abductions are connected less by th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: books.google.com  
    Title: Books Passport to Magonia: On UFOs, Folklore, and Parallel Worlds  
-   Link: <a href="https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques [Vallee](&amp;#123;&amp;#123; &#x27;vallee/&#x27; | relative_url &amp;#125;&amp;#125;) - Google Books...</p></details>
+   Link:<a href="https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques [Vallee](&amp;#123;&amp;#123; &#x27;vallee/&#x27; | relative_url &amp;#125;&amp;#125;) - Google Books...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Fairyland | folklore | Britannica  
-   Link: <a href="https://www.britannica.com/art/fairyland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/fairyland</a>  
+   Link:<a href="https://www.britannica.com/art/fairyland" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/fairyland</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Fairy | Origins, Beliefs & Legends | Britannica  
-   Link: <a href="https://www.britannica.com/art/fairy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/fairy</a>  
+   Link:<a href="https://www.britannica.com/art/fairy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/art/fairy</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: www.britannica.com Banshee | Irish Mythology, Supernatural, Wailing | Britannica  
-   Link: <a href="https://www.britannica.com/topic/banshee" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/banshee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Irish Mythology, Supernatural, Wailing | Britannica...</p></details>
+   Link:<a href="https://www.britannica.com/topic/banshee" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/banshee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Irish Mythology, Supernatural, Wailing | Britannica...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Aliens vs Fairies: Are They The Same Thing in Disguise?  
-   Link: <a href="https://www.youtube.com/watch?v=V3f9xQNaj2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3f9xQNaj2M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée - Joe Rogan Experience #2288...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V3f9xQNaj2M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3f9xQNaj2M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée - Joe Rogan Experience #2288...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vZEcVY2iZsk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairies Weren&#x27;t What You Think | The Dark Truth Behind British &amp; Irish Folklore...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vZEcVY2iZsk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fairies Weren&#x27;t What You Think | The Dark Truth Behind British &amp; Irish Folklore...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01463370600878545</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/01463370600878545" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01463370600878545</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineMythmaking in Alien Abduction Narratives: Communication Quarterly: Vol 54, No 3October 7, 2010...</p></details>
    Published: October 7, 2010  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: technotink.net  
    Title: Techno Tink Media CHANGELING | Faerie Lore and Legends  
-   Link: <a href="https://technotink.net/lore/changeling/" target="_blank" rel="noopener noreferrer nofollow">https://technotink.net/lore/changeling/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Techno Tink MediaCHANGELING | Faerie Lore and LegendsJune 15, 2024...</p></details>
+   Link:<a href="https://technotink.net/lore/changeling/" target="_blank" rel="noopener noreferrer nofollow">https://technotink.net/lore/changeling/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Techno Tink MediaCHANGELING | Faerie Lore and LegendsJune 15, 2024...</p></details>
    Published: June 15, 2024  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Implications of UFO Phenomena with Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6We0GMqqoko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens vs Fairies: Are They The Same Thing in Disguise?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6We0GMqqoko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens vs Fairies: Are They The Same Thing in Disguise?...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.phil.muni.cz  
-   Link: <a href="https://journals.phil.muni.cz/bse/article/view/21828" target="_blank" rel="noopener noreferrer nofollow">https://journals.phil.muni.cz/bse/article/view/21828</a>  
+   Link:<a href="https://journals.phil.muni.cz/bse/article/view/21828" target="_blank" rel="noopener noreferrer nofollow">https://journals.phil.muni.cz/bse/article/view/21828</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Fairies and Aliens: The Missing Link  
-   Link: <a href="https://www.youtube.com/watch?v=0PcOpYHbWDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0PcOpYHbWDQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of UFO Phenomena with Jacques Vallée...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0PcOpYHbWDQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0PcOpYHbWDQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of UFO Phenomena with Jacques Vallée...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dead-but-dreaming.com  
    Title: deadbutdreaming Shamans, Faeries, Aliens and DMT – deadbutdreaming  
-   Link: <a href="https://dead-but-dreaming.com/2016/08/11/shamans-faeries-aliens-and-dmt-3/" target="_blank" rel="noopener noreferrer nofollow">https://dead-but-dreaming.com/2016/08/11/shamans-faeries-aliens-and-dmt-3/</a>  
+   Link:<a href="https://dead-but-dreaming.com/2016/08/11/shamans-faeries-aliens-and-dmt-3/" target="_blank" rel="noopener noreferrer nofollow">https://dead-but-dreaming.com/2016/08/11/shamans-faeries-aliens-and-dmt-3/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Fairies Weren't What You Think | The Dark Truth Behind British & Irish Folklore  
-   Link: <a href="https://www.youtube.com/watch?v=FVcj7PbaPrs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FVcj7PbaPrs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=FVcj7PbaPrs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FVcj7PbaPrs</a>  

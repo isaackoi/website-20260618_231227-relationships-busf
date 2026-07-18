@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_hollywood_invasion_s_2182e1_bl
 
 ## Introduction
 
-[Project Blue Book]({{ 'blue-book/' | relative_url }}) rarely appeared by name in 1950s science-fiction films, yet its influence was visible across the decade’s cinema. The United States Air Force created Project Blue Book in 1952 to investigate [unidentified]({{ 'unidentified/' | relative_url }}) flying objects amid growing public concern and national-security worries. As newspapers reported sightings, radar incidents and official investigations, Hollywood found that audiences already understood a crucial premise: strange objects in the sky might be more than a curiosity. They might signal a security threat. The result was a cycle of invasion and saucer films filled with radar operators, military briefings, intelligence officers and anxious officials trying to interpret incomplete information. Rather than proving that aliens existed, these films borrowed the atmosphere of official uncertainty that surrounded real UFO investigations. That atmosphere helped make screen panic believable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
+[Project Blue Book]({{ 'blue-book/' | relative_url }}) rarely appeared by name in 1950s science-fiction films, yet its influence was visible across the decade’s cinema. The United States Air Force created Project Blue Book in 1952 to investigate [unidentified]({{ 'unidentified/' | relative_url }}) flying objects amid growing public concern and national-security worries. As newspapers reported sightings, radar incidents and official investigations, Hollywood found that audiences already understood a crucial premise: strange objects in the sky might be more than a curiosity. They might signal a security threat. The result was a cycle of invasion and saucer films filled with radar operators, military briefings, intelligence officers and anxious officials trying to interpret incomplete information. Rather than proving that aliens existed, these films borrowed the atmosphere of official uncertainty that surrounded real UFO investigations. That atmosphere helped make screen panic believable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_hollywood_invasion_s_2182e1_blue_book_screen_pan_4a4845-Illustration-1-dark.svg" | relative_url }}" alt="Official Anxiety illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_hollywood_invasion_s_2182e1_blue_book_screen_pan_4a4845-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_hollywood_invasion_s_2182e1_blue_book_screen_pan_4a4845-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ image: /assets/images/Relationships_betwee_d7372c_hollywood_invasion_s_2182e1_bl
 
 ### From sightings to security questions
 
-The significance of Project Blue Book was not that it confirmed extraterrestrial visitors. Its importance for cinema was that the United States government treated unexplained aerial reports as matters worth investigating. Blue Book emerged from security concerns during the Cold War, when officials could not automatically dismiss unusual sightings because secret Soviet technology was a genuine possibility. The programme became a public sign that unidentified objects in the sky were connected to defence, intelligence and surveillance rather than merely folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
+The significance of Project Blue Book was not that it confirmed extraterrestrial visitors. Its importance for cinema was that the United States government treated unexplained aerial reports as matters worth investigating. Blue Book emerged from security concerns during the Cold War, when officials could not automatically dismiss unusual sightings because secret Soviet technology was a genuine possibility. The programme became a public sign that unidentified objects in the sky were connected to defence, intelligence and surveillance rather than merely folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 This official attention created a narrative pattern that filmmakers could immediately exploit. A typical 1950s invasion film begins not with direct contact between humans and aliens, but with reports: unusual lights, strange radar returns, unexplained aircraft movements or confused witness testimony. That structure closely resembled the way UFO cases entered public discussion. Audiences had seen newspaper stories describing sightings and investigations, so cinematic reports of mysterious aerial objects felt plausible even when the stories soon moved into fantasy.
 
@@ -301,7 +301,7 @@ Films such as *The War of the Worlds* (1953), *Earth vs. the [Flying Saucers]({{
 
 One of the most recognisable visual conventions of 1950s science fiction was the command centre: radar screens glowing in dark rooms, officers examining reports, telephones ringing and military personnel attempting to assemble fragmentary evidence.
 
-These scenes were effective because radar had become a symbol of national vigilance. During the Cold War, radar networks were associated with bomber detection and early warning systems. At the same time, UFO reports increasingly involved radar observations and discussions of air defence. Project Blue Book itself collected and evaluated reports from military and civilian sources, reinforcing the idea that unexplained aerial objects belonged within a defence framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
+These scenes were effective because radar had become a symbol of national vigilance. During the Cold War, radar networks were associated with bomber detection and early warning systems. At the same time, UFO reports increasingly involved radar observations and discussions of air defence. Project Blue Book itself collected and evaluated reports from military and civilian sources, reinforcing the idea that unexplained aerial objects belonged within a defence framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 Hollywood repeatedly translated this environment into visual drama:
 
@@ -321,7 +321,7 @@ The famous 1952 Washington, D.C., UFO incidents, in which unidentified radar con
 
 The most important contribution of Project Blue Book anxiety to 1950s cinema was not evidence but ambiguity.
 
-Official investigations rarely produced dramatic conclusions. Most sightings received conventional explanations, while some remained unresolved. That mixture of explanation and uncertainty proved more useful to filmmakers than definitive answers would have been. A mystery that remained partly open invited audiences to imagine possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
+Official investigations rarely produced dramatic conclusions. Most sightings received conventional explanations, while some remained unresolved. That mixture of explanation and uncertainty proved more useful to filmmakers than definitive answers would have been. A mystery that remained partly open invited audiences to imagine possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 In many invasion films, the suspense comes from delayed identification. Authorities suspect natural phenomena, foreign weapons or observational errors before recognising a larger threat. The audience experiences the same uncertainty as the characters. If an alien invasion had been obvious from the opening scene, much of the tension would disappear.
 
@@ -347,7 +347,7 @@ The connection between Project Blue Book and 1950s cinema is best understood as 
 
 </div>
 
-Historical studies of Blue Book describe it as a product of Cold War security concerns as much as public fascination with extraterrestrials. That same combination appears repeatedly in invasion cinema, where alien craft function simultaneously as scientific mysteries and national-security emergencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
+Historical studies of Blue Book describe it as a product of Cold War security concerns as much as public fascination with extraterrestrials. That same combination appears repeatedly in invasion cinema, where alien craft function simultaneously as scientific mysteries and national-security emergencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 The result was a distinctive form of screen realism. Audiences were not asked to believe that aliens certainly existed. They were asked to imagine what might happen if the unexplained reports already appearing in newspapers turned out to have extraordinary consequences. By borrowing the language of investigations, briefings and surveillance, Hollywood transformed official UFO anxiety into one of the defining visual and narrative styles of 1950s science-fiction cinema.
 
@@ -357,201 +357,201 @@ The result was a distinctive form of screen realism. Audiences were not asked to
 
 Project Blue Book's greatest cinematic legacy was psychological rather than factual. It helped establish the idea that unidentified objects in the sky deserved attention from serious institutions. Once that premise entered public culture, invasion films could build elaborate stories upon it without appearing completely detached from reality.
 
-In the relationship between UFOs and science fiction, this was a crucial development. The flying saucer became more than a fantasy vehicle. It became an object already embedded in public discussion, government investigations and national-security debates. Hollywood amplified that atmosphere, turning bureaucratic uncertainty into suspense and transforming official questions into cinematic panic. The enduring image of anxious officers staring at radar screens while waiting for answers emerged directly from that intersection of UFO investigations and Cold War imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
+In the relationship between UFOs and science fiction, this was a crucial development. The flying saucer became more than a fantasy vehicle. It became an object already embedded in public discussion, government investigations and national-security debates. Hollywood amplified that atmosphere, turning bureaucratic uncertainty into suspense and transforming official questions into cinematic panic. The enduring image of anxious officers staring at radar screens while waiting for answers emerged directly from that intersection of UFO investigations and Cold War imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[osu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q6yKf54gxTg" title="Cold War Paranoia in Science Fiction: The 27th Day vs. Red Planet Mars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q6yKf54gxTg" target="_blank" rel="noopener noreferrer">Cold War Paranoia in Science Fiction: The 27th Day vs. Red Planet Mars</a></p><p class="youtube-embed-meta">Channel: Terry Talks Movies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q6yKf54gxTg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q6yKf54gxTg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Files Fed Screen Panic. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Files Fed Screen Panic. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the early flying-saucer era that fed Hollywood invasion narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the early flying-saucer era that fed Hollywood invasion narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Directly explains how flying saucers evolved into a major cultural and cinematic myth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how flying saucers evolved into a major cultural and cinematic myth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Body+Snatchers+by+Jack+Finney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Body Snatchers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kdxo8SYiXjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Body Snatchers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Body+Snatchers+by+Jack+Finney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body Snatchers">The Body Snatchers</a>
-        </h4>
-        <p class="fr-book-author">By Jack Finney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Body+Snatchers+by+Jack+Finney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Body Snatchers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Kdxo8SYiXjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Body Snatchers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Body+Snatchers+by+Jack+Finney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body Snatchers">The Body Snatchers</a>
+</h4>
+<p class="fr-book-author">By Jack Finney</p>
         
-        <p class="fr-book-desc">Directly inspired Invasion of the Body Snatchers and its themes of replacement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Body+Snatchers+by+Jack+Finney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly inspired Invasion of the Body Snatchers and its themes of replacement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Body+Snatchers+by+Jack+Finney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Farewell to the Master on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AWd4kgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Farewell to the Master" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Farewell to the Master">Farewell to the Master</a>
-        </h4>
-        <p class="fr-book-author">By Harry Bates, Dennis Herrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Farewell to the Master on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AWd4kgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Farewell to the Master" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Farewell to the Master">Farewell to the Master</a>
+</h4>
+<p class="fr-book-author">By Harry Bates, Dennis Herrick</p>
         
-        <p class="fr-book-desc">The short story that inspired The Day the Earth Stood Still.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The short story that inspired The Day the Earth Stood Still.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Farewell+to+the+Master+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Body+Snatchers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Body Snatchers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Body+Snatchers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Body Snatchers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT"><img src="{{ '/assets/images/marketplace-covers/1358eda344a955fd0c9d.jpg' | relative_url }}" alt="Listing image for VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS UFO MOVIE POSTER A4 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/71ce2c283250a78916dc.jpg' | relative_url }}" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo movie poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo movie poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+movie+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo movie poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="official-anxiety-how-ufo-files-fed-screen-panic-relationships-betwee-ufo-movie-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ In the relationship between UFOs and science fiction, this was a crucial develop
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ In the relationship between UFOs and science fiction, this was a crucial develop
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ In the relationship between UFOs and science fiction, this was a crucial develop
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ In the relationship between UFOs and science fiction, this was a crucial develop
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ In the relationship between UFOs and science fiction, this was a crucial develop
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,59 +757,59 @@ In the relationship between UFOs and science fiction, this was a crucial develop
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: origins.osu.edu  
    Title: Origins The Air Force Investigation into UFOs | Origins  
-   Link: <a href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/index.php/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/index.php/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/index.php/read/air-force-investigation-ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFOs  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOs - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOs - The National Archives...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: disclosdex.com  
    Title: Project BLUE BOOK  
-   Link: <a href="https://disclosdex.com/links/project-blue-book-national-archives" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/links/project-blue-book-national-archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - National Archives Records Guide | Disclosdex...</p></details>
+   Link:<a href="https://disclosdex.com/links/project-blue-book-national-archives" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/links/project-blue-book-national-archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - National Archives Records Guide | Disclosdex...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema Secrets You Missed in 1950s Alien Invasion Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema Secrets You Missed in 1950s Alien Invasion Movies...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and Project Blue Book...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_bLMi1nqDQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bLMi1nqDQQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War Paranoia in Science Fiction: The 27th Day vs. Red Planet Mars...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_bLMi1nqDQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bLMi1nqDQQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War Paranoia in Science Fiction: The 27th Day vs. Red Planet Mars...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s Flying Saucer, UFO, and Alien Encounter Movies...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.navy.mil  
    Title: Naval History and Heritage Command U-2s, UFOs, and Operation Blue Book  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: explore.britannica.com  
    Title: Cold War Policies, Propaganda, & Speeches  
-   Link: <a href="https://explore.britannica.com/study/cold-war-policies-propaganda-and-speeches" target="_blank" rel="noopener noreferrer nofollow">https://explore.britannica.com/study/cold-war-policies-propaganda-and-speeches</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Center | Britannica.com...</p></details>
+   Link:<a href="https://explore.britannica.com/study/cold-war-policies-propaganda-and-speeches" target="_blank" rel="noopener noreferrer nofollow">https://explore.britannica.com/study/cold-war-policies-propaganda-and-speeches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Student Center | Britannica.com...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Cold War Paranoia in Science Fiction: The 27th Day vs. Red Planet Mars  
-   Link: <a href="https://www.youtube.com/watch?v=Q6yKf54gxTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q6yKf54gxTg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Q6yKf54gxTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q6yKf54gxTg</a>  

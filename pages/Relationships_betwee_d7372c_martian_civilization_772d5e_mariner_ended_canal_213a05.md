@@ -280,19 +280,19 @@ image: /assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_ma
 
 ## Introduction
 
-For decades, the idea of a canal-covered Mars helped sustain the belief that the planet might host an intelligent civilisation. Telescopic observers such as Percival [Lowell]({{ 'lowell/' | relative_url }}) interpreted faint linear markings as immense engineering works built by Martians struggling to distribute water across a drying world. By the middle of the twentieth century, however, the canal hypothesis survived more as a cultural image than as a strong scientific theory. The decisive blow came from NASA’s Mariner spacecraft. Between 1965 and the early 1970s, Mariner missions replaced speculative telescopic interpretations with direct images from close range. What they revealed was not a planet crossed by artificial waterways, but a cold, thin-aired world marked by craters, deserts and complex natural geology. The result was the collapse of the classical “canal Mars” that had influenced both science fiction and later ideas about extraterrestrial intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
+For decades, the idea of a canal-covered Mars helped sustain the belief that the planet might host an intelligent civilisation. Telescopic observers such as Percival [Lowell]({{ 'lowell/' | relative_url }}) interpreted faint linear markings as immense engineering works built by Martians struggling to distribute water across a drying world. By the middle of the twentieth century, however, the canal hypothesis survived more as a cultural image than as a strong scientific theory. The decisive blow came from NASA’s Mariner spacecraft. Between 1965 and the early 1970s, Mariner missions replaced speculative telescopic interpretations with direct images from close range. What they revealed was not a planet crossed by artificial waterways, but a cold, thin-aired world marked by craters, deserts and complex natural geology. The result was the collapse of the classical “canal Mars” that had influenced both science fiction and later ideas about extraterrestrial intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_mariner_ended_canal_213a05-Illustration-1-dark.svg" | relative_url }}" alt="Mariner illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_mariner_ended_canal_213a05-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_martian_civilization_772d5e_mariner_ended_canal_213a05-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Mariner 4 Changed in 1965
 
-When NASA’s Mariner 4 flew past Mars in July 1965, it became the first spacecraft to return close-up images of another planet. The mission transmitted 21 photographs of the Martian surface from a distance impossible for Earth-based telescopes to match. Instead of revealing geometric networks or signs of planetary engineering, the images showed a heavily cratered landscape more reminiscent of the Moon than of Lowell’s inhabited world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Advances in NASA Imaging Changed How World Sees Mars</span><span class="citation-popover-snippet">Advances in NASA Imaging Changed How World Sees Mars - NASA...</span></span></span>
+When NASA’s Mariner 4 flew past Mars in July 1965, it became the first spacecraft to return close-up images of another planet. The mission transmitted 21 photographs of the Martian surface from a distance impossible for Earth-based telescopes to match. Instead of revealing geometric networks or signs of planetary engineering, the images showed a heavily cratered landscape more reminiscent of the Moon than of Lowell’s inhabited world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Advances in NASA Imaging Changed How World Sees Mars</span><span class="citation-popover-snippet">Advances in NASA Imaging Changed How World Sees Mars - NASA...</span></span></span>
 
-The importance of these photographs lay not simply in what they showed, but in what they failed to show. Canal advocates had long argued that the linear markings seen through telescopes represented real physical structures. Yet Mariner 4 found no vast artificial waterways and no organised network of straight lines crossing the planet. The spacecraft’s images offered direct observational evidence that superseded decades of interpretation based on distant viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
+The importance of these photographs lay not simply in what they showed, but in what they failed to show. Canal advocates had long argued that the linear markings seen through telescopes represented real physical structures. Yet Mariner 4 found no vast artificial waterways and no organised network of straight lines crossing the planet. The spacecraft’s images offered direct observational evidence that superseded decades of interpretation based on distant viewing conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
 
-Mariner 4 also returned measurements indicating that Mars possessed a much thinner atmosphere than many earlier models had assumed. A thin atmosphere reduced the likelihood of extensive surface water and made the vision of a thriving civilisation maintaining a global irrigation system increasingly implausible. The spacecraft therefore challenged not only the canals themselves but also the broader environmental assumptions that had supported the idea of an inhabited Mars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3949257/mars-photos-mariner-iv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">See the First Close-Up Photo of Mars Ever Taken</span><span class="citation-popover-snippet">This monumental achievement came after early malfunctions and last-minute fears of camera failure. Unlike modern digital images, each pho...</span></span></span>
+Mariner 4 also returned measurements indicating that Mars possessed a much thinner atmosphere than many earlier models had assumed. A thin atmosphere reduced the likelihood of extensive surface water and made the vision of a thriving civilisation maintaining a global irrigation system increasingly implausible. The spacecraft therefore challenged not only the canals themselves but also the broader environmental assumptions that had supported the idea of an inhabited Mars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3949257/mars-photos-mariner-iv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">See the First Close-Up Photo of Mars Ever Taken</span><span class="citation-popover-snippet">This monumental achievement came after early malfunctions and last-minute fears of camera failure. Unlike modern digital images, each pho...</span></span></span>
 
-A note of caution is necessary. Mariner 4 photographed only a tiny fraction of the planet. Some scientists initially worried that the spacecraft had merely sampled an unusually barren region. Nevertheless, the mission shifted the burden of proof. After 1965, supporters of canal Mars could no longer point to a lack of direct evidence; spacecraft observations had begun to test the hypothesis directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2012/11/early-candidate-viking-landing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">early candidate viking landing sites</span><span class="citation-popover-snippet">Congress. The Viking mission, scheduled for 1973, included two missions, each with an orbiter and a lander. Early debates on the lander d...</span></span></span>
+A note of caution is necessary. Mariner 4 photographed only a tiny fraction of the planet. Some scientists initially worried that the spacecraft had merely sampled an unusually barren region. Nevertheless, the mission shifted the burden of proof. After 1965, supporters of canal Mars could no longer point to a lack of direct evidence; spacecraft observations had begun to test the hypothesis directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2012/11/early-candidate-viking-landing-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">early candidate viking landing sites</span><span class="citation-popover-snippet">Congress. The Viking mission, scheduled for 1973, included two missions, each with an orbiter and a lander. Early debates on the lander d...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bYKhmLzcCHc" title="The Launch That Changed Mars Forever 🚀 | Mariner 9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bYKhmLzcCHc" target="_blank" rel="noopener noreferrer">The Launch That Changed Mars Forever 🚀 | Mariner 9</a></p><p class="youtube-embed-meta">Channel: thenarayanagroup</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bYKhmLzcCHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bYKhmLzcCHc">Open on YouTube</a></p></div></div></div>
@@ -301,13 +301,13 @@ A note of caution is necessary. Mariner 4 photographed only a tiny fraction of t
 
 If Mariner 4 opened the case against canal Mars, later Mariner missions effectively closed it.
 
-The twin flyby missions Mariner 6 and Mariner 7 reached Mars in 1969 and returned hundreds of additional images from different regions of the planet. These observations expanded scientific knowledge far beyond the limited coverage of Mariner 4 and continued to reveal natural geological features rather than artificial linear systems. The more terrain that was photographed, the harder it became to argue that a planetary network of canals existed but had somehow escaped detection. NASA Science+2NASA Jet Propulsion Laboratory (JPL) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/mariner-6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Mariner 6</span><span class="citation-popover-snippet">NASA ScienceMariner 6 - NASA ScienceNovember 2, 2024...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+The twin flyby missions Mariner 6 and Mariner 7 reached Mars in 1969 and returned hundreds of additional images from different regions of the planet. These observations expanded scientific knowledge far beyond the limited coverage of Mariner 4 and continued to reveal natural geological features rather than artificial linear systems. The more terrain that was photographed, the harder it became to argue that a planetary network of canals existed but had somehow escaped detection. NASA Science+2NASA Jet Propulsion Laboratory (JPL)<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/mission/mariner-6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Mariner 6</span><span class="citation-popover-snippet">NASA ScienceMariner 6 - NASA ScienceNovember 2, 2024...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
-The decisive stage came with Mariner 9, which entered orbit around Mars in 1971. Unlike the earlier flyby missions, Mariner 9 was able to map most of the planet. It revealed enormous volcanoes, gigantic canyon systems, impact craters, dust-covered plains and evidence of ancient geological processes. These discoveries transformed understanding of Mars from a world supposedly shaped by intelligent engineers into a world shaped by natural planetary forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/mariner/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Mariner - NASA...</span></span></span>
+The decisive stage came with Mariner 9, which entered orbit around Mars in 1971. Unlike the earlier flyby missions, Mariner 9 was able to map most of the planet. It revealed enormous volcanoes, gigantic canyon systems, impact craters, dust-covered plains and evidence of ancient geological processes. These discoveries transformed understanding of Mars from a world supposedly shaped by intelligent engineers into a world shaped by natural planetary forces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/mariner/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Mariner - NASA...</span></span></span>
 
-Crucially, improved imaging demonstrated why the canal observations had arisen in the first place. Features that appeared as straight lines through nineteenth-century telescopes dissolved into disconnected natural formations when viewed at higher resolution. Human observers had unconsciously connected faint patches and contrasts into orderly patterns. What looked like a global network from Earth was largely a product of visual perception and observational limits. The Library of Congress notes that spacecraft photography ultimately showed there were no canals to be explained and that the supposed structures had been an optical illusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
+Crucially, improved imaging demonstrated why the canal observations had arisen in the first place. Features that appeared as straight lines through nineteenth-century telescopes dissolved into disconnected natural formations when viewed at higher resolution. Human observers had unconsciously connected faint patches and contrasts into orderly patterns. What looked like a global network from Earth was largely a product of visual perception and observational limits. The Library of Congress notes that spacecraft photography ultimately showed there were no canals to be explained and that the supposed structures had been an optical illusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
 
-This represented a broader lesson in scientific methodology. The canal controversy became a classic example of how expectations can shape interpretation when data are ambiguous. Spacecraft did not merely provide more information; they changed the quality of evidence available, replacing inference with direct observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
+This represented a broader lesson in scientific methodology. The canal controversy became a classic example of how expectations can shape interpretation when data are ambiguous. Spacecraft did not merely provide more information; they changed the quality of evidence available, replacing inference with direct observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hTfn0MSNTCc" title="MARS Mariner IV NASA&#x27;s Vidicon Tube Camera (First MARS close-up photos 1965)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hTfn0MSNTCc" target="_blank" rel="noopener noreferrer">MARS Mariner IV NASA&#x27;s Vidicon Tube Camera (First MARS close-up photos 1965)</a></p><p class="youtube-embed-meta">Channel: Computer History Archives Project  (&quot;CHAP&quot;)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hTfn0MSNTCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hTfn0MSNTCc">Open on YouTube</a></p></div></div></div>
@@ -320,205 +320,205 @@ This represented a broader lesson in scientific methodology. The canal controver
 
 Although the Mariner missions destroyed the scientific credibility of canal Mars, they did not erase its cultural influence.
 
-For generations, the canal hypothesis had provided one of the most convincing images of intelligent extraterrestrial life available to the public. It encouraged readers, writers and filmmakers to imagine technologically advanced beings living on a neighbouring planet. Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became part of popular culture, Mars had already accustomed audiences to the possibility that alien intelligence might leave visible technological traces. The canals functioned as an early model for interpreting mysterious observations as evidence of non-human engineering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
+For generations, the canal hypothesis had provided one of the most convincing images of intelligent extraterrestrial life available to the public. It encouraged readers, writers and filmmakers to imagine technologically advanced beings living on a neighbouring planet. Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became part of popular culture, Mars had already accustomed audiences to the possibility that alien intelligence might leave visible technological traces. The canals functioned as an early model for interpreting mysterious observations as evidence of non-human engineering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
 
-The collapse of canal Mars also helped redirect science fiction. Earlier stories often depicted Martians as inhabitants of a declining but sophisticated civilisation. After the Mariner missions, writers increasingly had to confront a harsher and less hospitable Mars. The focus shifted from living Martian societies toward ancient life, lost civilisations, hidden artefacts or human exploration. The dream of a populated Mars did not disappear, but it became harder to present as a straightforward extension of contemporary astronomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Advances in NASA Imaging Changed How World Sees Mars</span><span class="citation-popover-snippet">Advances in NASA Imaging Changed How World Sees Mars - NASA...</span></span></span>
+The collapse of canal Mars also helped redirect science fiction. Earlier stories often depicted Martians as inhabitants of a declining but sophisticated civilisation. After the Mariner missions, writers increasingly had to confront a harsher and less hospitable Mars. The focus shifted from living Martian societies toward ancient life, lost civilisations, hidden artefacts or human exploration. The dream of a populated Mars did not disappear, but it became harder to present as a straightforward extension of contemporary astronomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Advances in NASA Imaging Changed How World Sees Mars</span><span class="citation-popover-snippet">Advances in NASA Imaging Changed How World Sees Mars - NASA...</span></span></span>
 
-In the wider history of UFO beliefs and science fiction, the Mariner findings marked an important transition. They demonstrated that appealing extraterrestrial narratives could persist for decades despite weak evidence, yet they also showed that new technologies could overturn deeply rooted assumptions. The spacecraft did more than photograph a planet. They ended one of the most influential visions of extraterrestrial civilisation ever attached to a real astronomical world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
+In the wider history of UFO beliefs and science fiction, the Mariner findings marked an important transition. They demonstrated that appealing extraterrestrial narratives could persist for decades despite weak evidence, yet they also showed that new technologies could overturn deeply rooted assumptions. The spacecraft did more than photograph a planet. They ended one of the most influential visions of extraterrestrial civilisation ever attached to a real astronomical world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[loc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">lileo to Sagan and Beyond &#124; Digital Collections &#124; Library of Congress...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OTn0_XA6mwU" title="Mariner 4 Anniversary - 60 years at Mars, by NASA/JPL-Caltech" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OTn0_XA6mwU" target="_blank" rel="noopener noreferrer">Mariner 4 Anniversary - 60 years at Mars, by NASA/JPL-Caltech</a></p><p class="youtube-embed-meta">Channel: MechDesignTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OTn0_XA6mwU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OTn0_XA6mwU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Spacecraft That Closed Canal Mars. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Spacecraft That Closed Canal Mars. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oelOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Path Between the Seas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
-        </h4>
-        <p class="fr-book-author">By David G. McCullough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Path Between the Seas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oelOAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Path Between the Seas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Path Between the Seas">The Path Between the Seas</a>
+</h4>
+<p class="fr-book-author">By David G. McCullough</p>
         
-        <p class="fr-book-desc">Provides essential context for why canal-building seemed plausible on Mars.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for why canal-building seemed plausible on Mars.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Path+Between+the+Seas+by+David+G.+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mars and Its Canals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yeDCtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mars and Its Canals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mars and Its Canals">Mars and Its Canals</a>
-        </h4>
-        <p class="fr-book-author">By Percival Lowell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mars and Its Canals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yeDCtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mars and Its Canals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mars and Its Canals">Mars and Its Canals</a>
+</h4>
+<p class="fr-book-author">By Percival Lowell</p>
         
-        <p class="fr-book-desc">Directly examines the canal interpretations that grew from the canali translation issue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the canal interpretations that grew from the canali translation issue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mars+and+Its+Canals+by+Percival+Lowell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H.G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8BaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H.G. Wells</p>
         
-        <p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly reflects the era when Mars and intelligent Martians shaped public expectations about extraterrestrial life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Bridge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOM93rb22YEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Bridge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Bridge">The Great Bridge</a>
-        </h4>
-        <p class="fr-book-author">By David McCullough</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Captures the era&#x27;s faith in monumental engineering achievements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Bridge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOM93rb22YEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Great Bridge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Bridge">The Great Bridge</a>
+</h4>
+<p class="fr-book-author">By David McCullough</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Captures the era&#x27;s faith in monumental engineering achievements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Bridge+by+David+McCullough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mars+and+Its+Canals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mars and Its Canals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Path+Between+the+Seas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Path Between the Seas</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mars+and+Its+Canals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mars and Its Canals</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARS Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/44e2ec368097a919b226.jpg' | relative_url }}" alt="Listing image for MARS Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">MARS Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mars poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mars poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruno Mars, 24K Magic, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/9dc4531d171972201854.jpg' | relative_url }}" alt="Listing image for Bruno Mars, 24K Magic, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Bruno Mars, 24K Magic, Album Art Poster, Print, Music, Tracklist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mars poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mars poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life on Mars Excellent Gift Ideas Printed Framed Autograph A3 Poster for TV Fans"><img src="{{ '/assets/images/marketplace-covers/93245e4199674e93fbc5.jpg' | relative_url }}" alt="Listing image for Life on Mars Excellent Gift Ideas Printed Framed Autograph A3 Poster for TV Fans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Life on Mars Excellent Gift Ideas Printed Framed Autograph A3 Poster for TV Fans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mars poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mars poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mars Space Vintage travel retro decoration print poster A3 A4 #2"><img src="{{ '/assets/images/marketplace-covers/4632fa8ea2f7b0ccb5fa.jpg' | relative_url }}" alt="Listing image for Mars Space Vintage travel retro decoration print poster A3 A4 #2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mars Space Vintage travel retro decoration print poster A3 A4 #2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mars poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Mars poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mars+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mars poster -book -books" data-ebay-reference="mariner-the-spacecraft-that-closed-canal-mars-relationships-betwee-mars-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="relationships-betwee-d7372c-martian-civilization-772d5e-mariner-ended-canal-213a05-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ In the wider history of UFO beliefs and science fiction, the Mariner findings ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ In the wider history of UFO beliefs and science fiction, the Mariner findings ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ In the wider history of UFO beliefs and science fiction, the Mariner findings ma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ In the wider history of UFO beliefs and science fiction, the Mariner findings ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ In the wider history of UFO beliefs and science fiction, the Mariner findings ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,97 +724,97 @@ In the wider history of UFO beliefs and science fiction, the Mariner findings ma
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lileo to Sagan and Beyond | Digital Collections | Library of Congress...</p></details>
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/seeing-and-interpreting-martian-oceans-and-canals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lileo to Sagan and Beyond | Digital Collections | Library of Congress...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: Advances in NASA Imaging Changed How World Sees Mars  
-   Link: <a href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in NASA Imaging Changed How World Sees Mars - NASA...</p></details>
+   Link:<a href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in NASA Imaging Changed How World Sees Mars - NASA...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jpl.nasa.gov  
    Title: pia01685 mariner 4 meets mars global surveyor mariner crater 1965 and 1999  
-   Link: <a href="https://www.jpl.nasa.gov/images/pia01685-mariner-4-meets-mars-global-surveyor-mariner-crater-1965-and-1999/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia01685-mariner-4-meets-mars-global-surveyor-mariner-crater-1965-and-1999/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Mariner 4 Meets Mars Global Surveyor -- Mariner Crater 1965 and 1999 | NASA Jet Propulsion Laboratory...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/images/pia01685-mariner-4-meets-mars-global-surveyor-mariner-crater-1965-and-1999/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia01685-mariner-4-meets-mars-global-surveyor-mariner-crater-1965-and-1999/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Mariner 4 Meets Mars Global Surveyor -- Mariner Crater 1965 and 1999 | NASA Jet Propulsion Laboratory...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: See the First Close-Up Photo of Mars Ever Taken  
-   Link: <a href="https://time.com/3949257/mars-photos-mariner-iv/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3949257/mars-photos-mariner-iv/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This monumental achievement came after early malfunctions and last-minute fears of camera failure. Unlike modern digital images, each pho...</p></details>
+   Link:<a href="https://time.com/3949257/mars-photos-mariner-iv/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3949257/mars-photos-mariner-iv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This monumental achievement came after early malfunctions and last-minute fears of camera failure. Unlike modern digital images, each pho...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: early candidate viking landing sites  
-   Link: <a href="https://www.wired.com/2012/11/early-candidate-viking-landing-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/11/early-candidate-viking-landing-sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress. The Viking mission, scheduled for 1973, included two missions, each with an orbiter and a lander. Early debates on the lander d...</p></details>
+   Link:<a href="https://www.wired.com/2012/11/early-candidate-viking-landing-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/11/early-candidate-viking-landing-sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congress. The Viking mission, scheduled for 1973, included two missions, each with an orbiter and a lander. Early debates on the lander d...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Mariner 6  
-   Link: <a href="https://science.nasa.gov/mission/mariner-6/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/mariner-6/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMariner 6 - NASA ScienceNovember 2, 2024...</p></details>
+   Link:<a href="https://science.nasa.gov/mission/mariner-6/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/mariner-6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMariner 6 - NASA ScienceNovember 2, 2024...</p></details>
    Published: November 2, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jpl.nasa.gov  
    Title: Jet Propulsion Laboratory (JPL)Mariner 7  
-   Link: <a href="https://www.jpl.nasa.gov/missions/mariner-7/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/missions/mariner-7/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Mariner 7 - Mars Missions - NASA Jet Propulsion Laboratory | NASA Jet Propulsion Laboratory (JPL)...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/missions/mariner-7/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/missions/mariner-7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)Mariner 7 - Mars Missions - NASA Jet Propulsion Laboratory | NASA Jet Propulsion Laboratory (JPL)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/missions/mariner/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/mariner/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mariner - NASA...</p></details>
+   Link:<a href="https://www.nasa.gov/missions/mariner/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/mariner/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mariner - NASA...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Mariner 4 Anniversary  
-   Link: <a href="https://www.youtube.com/watch?v=OTn0_XA6mwU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OTn0_XA6mwU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Launch That Changed Mars Forever | Mariner 9...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OTn0_XA6mwU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OTn0_XA6mwU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Launch That Changed Mars Forever | Mariner 9...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Images from Deep Space: Mariner 4  
-   Link: <a href="https://www.youtube.com/watch?v=ia5TxWSiMLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ia5TxWSiMLE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mariner 4 Anniversary - 60 years at Mars, by NASA/JPL-Caltech...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ia5TxWSiMLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ia5TxWSiMLE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mariner 4 Anniversary - 60 years at Mars, by NASA/JPL-Caltech...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/vymw97" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/vymw97</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 flys by Mars in 1965 taking the first ever pictures of the Red planet and transmitting back to Earth.July 14, 2022...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/vymw97" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/vymw97</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 flys by Mars in 1965 taking the first ever pictures of the Red planet and transmitting back to Earth.July 14, 2022...</p></details>
    Published: July 14, 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hTfn0MSNTCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hTfn0MSNTCc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Images from Deep Space: Mariner 4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hTfn0MSNTCc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hTfn0MSNTCc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Images from Deep Space: Mariner 4...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a5M8DtKkkTo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5M8DtKkkTo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Mars Flyby (1965/07/15) - Mars images on a modern map - First images from Mars - YouTubeJuly 14, 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a5M8DtKkkTo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a5M8DtKkkTo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Mars Flyby (1965/07/15) - Mars images on a modern map - First images from Mars - YouTubeJuly 14, 2020...</p></details>
    Published: July 14, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Mars (Lowell)/Chapter 4  
-   Link: <a href="https://en.wikisource.org/wiki/Mars_%28Lowell%29/Chapter_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Mars_%28Lowell%29/Chapter_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Mars_%28Lowell%29/Chapter_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Mars_%28Lowell%29/Chapter_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikisource, the free online library...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Launch That Changed Mars Forever | Mariner 9  
-   Link: <a href="https://www.youtube.com/watch?v=bYKhmLzcCHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bYKhmLzcCHc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mariner IV Visits Mars...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bYKhmLzcCHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bYKhmLzcCHc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mariner IV Visits Mars...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mariner IV Visits Mars  
-   Link: <a href="https://www.youtube.com/watch?v=hPloHHC5j64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hPloHHC5j64</a>  
+   Link:<a href="https://www.youtube.com/watch?v=hPloHHC5j64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hPloHHC5j64</a>  

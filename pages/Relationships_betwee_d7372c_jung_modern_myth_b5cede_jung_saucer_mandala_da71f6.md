@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_s
 
 ## Introduction
 
-Carl Jung did not think the popularity of [flying saucers]({{ 'flying-saucer/' | relative_url }}) could be explained simply by reports of strange objects in the sky. He believed the distinctive round shape of the saucer carried a deeper symbolic force. To Jung, the disc resembled a mandala: a circular image that, across many cultures and religious traditions, had represented unity, balance and psychic wholeness. In an era marked by Cold War anxiety, nuclear fears and rapid technological change, he argued that such images acquired unusual emotional power. The flying saucer therefore mattered not only as a possible object but as a symbol. It looked modern and technological, yet it activated patterns of meaning far older than aviation or space travel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
+Carl Jung did not think the popularity of [flying saucers]({{ 'flying-saucer/' | relative_url }}) could be explained simply by reports of strange objects in the sky. He believed the distinctive round shape of the saucer carried a deeper symbolic force. To Jung, the disc resembled a mandala: a circular image that, across many cultures and religious traditions, had represented unity, balance and psychic wholeness. In an era marked by Cold War anxiety, nuclear fears and rapid technological change, he argued that such images acquired unusual emotional power. The flying saucer therefore mattered not only as a possible object but as a symbol. It looked modern and technological, yet it activated patterns of meaning far older than aviation or space travel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-1-dark.svg" | relative_url }}" alt="Mandala Shape illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,41 +288,41 @@ Within Jung's broader interpretation of UFOs as a modern myth, the mandala idea 
 
 ## The Circle as a Symbol of Wholeness
 
-For Jung, the circle was one of humanity's most persistent symbolic forms. In his work on mandalas, he argued that circular patterns frequently appeared in dreams, visions, religious art and spontaneous drawings during periods of psychological tension. He interpreted these forms as expressions of the psyche's attempt to create order when consciousness felt fragmented or threatened. The mandala represented what he called psychic totality: the image of a self that gathers conflicting forces into a meaningful whole. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jungbythesea.co.uk">[Jung by the Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jungbythesea.co.uk</span><span class="citation-popover-title">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span><span class="citation-popover-snippet">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span></span></span>
+For Jung, the circle was one of humanity's most persistent symbolic forms. In his work on mandalas, he argued that circular patterns frequently appeared in dreams, visions, religious art and spontaneous drawings during periods of psychological tension. He interpreted these forms as expressions of the psyche's attempt to create order when consciousness felt fragmented or threatened. The mandala represented what he called psychic totality: the image of a self that gathers conflicting forces into a meaningful whole.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jungbythesea.co.uk">[Jung by the Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jungbythesea.co.uk</span><span class="citation-popover-title">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span><span class="citation-popover-snippet">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span></span></span>
 
-This background shaped his reading of UFO reports. The striking circularity of the classic flying saucer was not, in his view, an accidental detail. A bright disc suspended in the sky resembled symbolic forms that had long carried associations with completeness, harmony and transcendence. When such images appeared repeatedly in public imagination, Jung saw them as signs that a society was unconsciously searching for unity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dseti.org">[dseti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dseti.org</span><span class="citation-popover-title">Vision of the Mandala as Protective Circle</span><span class="citation-popover-snippet">D-SETI Dreamwork...</span></span></span>
+This background shaped his reading of UFO reports. The striking circularity of the classic flying saucer was not, in his view, an accidental detail. A bright disc suspended in the sky resembled symbolic forms that had long carried associations with completeness, harmony and transcendence. When such images appeared repeatedly in public imagination, Jung saw them as signs that a society was unconsciously searching for unity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dseti.org">[dseti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dseti.org</span><span class="citation-popover-title">Vision of the Mandala as Protective Circle</span><span class="citation-popover-snippet">D-SETI Dreamwork...</span></span></span>
 
-The key point is that Jung did not claim witnesses consciously invented [saucers]({{ 'saucers/' | relative_url }}) because they knew mandala symbolism. Rather, he believed that certain shapes possess enduring psychological resonance. The circular UFO image spread so effectively because it matched patterns already embedded in human symbolic life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jungbythesea.co.uk">[Jung by the Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jungbythesea.co.uk</span><span class="citation-popover-title">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span><span class="citation-popover-snippet">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span></span></span>
+The key point is that Jung did not claim witnesses consciously invented [saucers]({{ 'saucers/' | relative_url }}) because they knew mandala symbolism. Rather, he believed that certain shapes possess enduring psychological resonance. The circular UFO image spread so effectively because it matched patterns already embedded in human symbolic life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jungbythesea.co.uk">[Jung by the Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jungbythesea.co.uk</span><span class="citation-popover-title">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span><span class="citation-popover-snippet">Jung by the Sea The Mandala &#124; VOD &#124; Jung by the Sea</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ASnRs1ri44o" title="Carl Jung on UFOs: A Modern Myth of Hope and Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer">Carl Jung on UFOs: A Modern Myth of Hope and Fear</a></p><p class="youtube-embed-meta">Channel: Eternalised &middot; Views: 233.3K &middot; Uploaded: July 2024 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ASnRs1ri44o">Open on YouTube</a></p></div></div></div>
 
 ## Why a Machine Could Look Sacred
 
-One of Jung's most unusual insights was that a technological object could perform a role previously associated with religious symbols. Traditional societies often imagined heavenly signs, divine wheels, radiant circles or celestial messengers. Modern industrial societies increasingly looked to science and technology for meaning, yet the psychological need for symbols did not disappear. According to Jung, the flying saucer occupied this intersection between machine and myth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
+One of Jung's most unusual insights was that a technological object could perform a role previously associated with religious symbols. Traditional societies often imagined heavenly signs, divine wheels, radiant circles or celestial messengers. Modern industrial societies increasingly looked to science and technology for meaning, yet the psychological need for symbols did not disappear. According to Jung, the flying saucer occupied this intersection between machine and myth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
 
-The saucer looked engineered rather than supernatural. It seemed compatible with radar, [rockets]({{ 'rockets/' | relative_url }}), aviation and the emerging space age. At the same time, it retained qualities associated with older sacred imagery. It descended from the heavens, appeared unexpectedly, suggested superior intelligence and inspired awe. The result was a symbol that felt scientifically plausible while carrying emotional and spiritual significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
+The saucer looked engineered rather than supernatural. It seemed compatible with radar, [rockets]({{ 'rockets/' | relative_url }}), aviation and the emerging space age. At the same time, it retained qualities associated with older sacred imagery. It descended from the heavens, appeared unexpectedly, suggested superior intelligence and inspired awe. The result was a symbol that felt scientifically plausible while carrying emotional and spiritual significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
 
-This helps explain why Jung described flying saucers as part of a "quasi-religious" phenomenon. People were not necessarily worshipping UFOs, but many stories surrounding them involved salvation, warning, higher wisdom or intervention from beyond ordinary human society. The technological shell concealed functions that earlier cultures might have attached to angels, omens or divine signs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Science: Dr. Jung &amp; the Saucers</span><span class="citation-popover-snippet">Science: Dr. Jung &amp; the Saucers...</span></span></span>
+This helps explain why Jung described flying saucers as part of a "quasi-religious" phenomenon. People were not necessarily worshipping UFOs, but many stories surrounding them involved salvation, warning, higher wisdom or intervention from beyond ordinary human society. The technological shell concealed functions that earlier cultures might have attached to angels, omens or divine signs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Science: Dr. Jung &amp; the Saucers</span><span class="citation-popover-snippet">Science: Dr. Jung &amp; the Saucers...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-2-dark.svg" | relative_url }}" alt="Mandala Shape illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Symbol Appeared When It Did
 
-Jung linked the rise of the saucer image to the historical conditions of the late 1940s and 1950s. The world had experienced global war, genocide, nuclear weapons and the beginning of the Cold War. Scientific achievement had reached extraordinary heights, yet it had also revealed unprecedented destructive power. Many people felt both admiration and fear toward technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressUFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Gali...</span></span></span>
+Jung linked the rise of the saucer image to the historical conditions of the late 1940s and 1950s. The world had experienced global war, genocide, nuclear weapons and the beginning of the Cold War. Scientific achievement had reached extraordinary heights, yet it had also revealed unprecedented destructive power. Many people felt both admiration and fear toward technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressUFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Gali...</span></span></span>
 
-In Jung's theory, mandala-like symbols tend to emerge during periods of collective uncertainty because they compensate for experiences of disorder. The more fragmented and threatening the world appears, the more attractive images of unity become. The flying saucer's circular form therefore acquired significance beyond its reported physical appearance. It symbolised the possibility that a larger order existed beyond political conflict, ideological division and nuclear danger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dseti.org">[dseti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dseti.org</span><span class="citation-popover-title">Vision of the Mandala as Protective Circle</span><span class="citation-popover-snippet">D-SETI Dreamwork...</span></span></span>
+In Jung's theory, mandala-like symbols tend to emerge during periods of collective uncertainty because they compensate for experiences of disorder. The more fragmented and threatening the world appears, the more attractive images of unity become. The flying saucer's circular form therefore acquired significance beyond its reported physical appearance. It symbolised the possibility that a larger order existed beyond political conflict, ideological division and nuclear danger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dseti.org">[dseti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dseti.org</span><span class="citation-popover-title">Vision of the Mandala as Protective Circle</span><span class="citation-popover-snippet">D-SETI Dreamwork...</span></span></span>
 
-This interpretation did not require UFOs to be either entirely real or entirely imaginary. Jung was interested in the psychological fact that the image itself had become meaningful. Even rumours, reports and cultural expectations could reveal collective [hopes and fears]({{ 'hopes-and-fears/' | relative_url }}). That was why he called UFOs a modern myth in formation rather than merely a mistaken belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
+This interpretation did not require UFOs to be either entirely real or entirely imaginary. Jung was interested in the psychological fact that the image itself had become meaningful. Even rumours, reports and cultural expectations could reveal collective [hopes and fears]({{ 'hopes-and-fears/' | relative_url }}). That was why he called UFOs a modern myth in formation rather than merely a mistaken belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8LEt2jrkdRI" title="Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer">Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook</a></p><p class="youtube-embed-meta">Channel: Altrusian Grace Media &middot; Views: 11.6K &middot; Uploaded: March 2024 &middot; Length: 4 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8LEt2jrkdRI">Open on YouTube</a></p></div></div></div>
 
 ## How the Round Craft Became Science-Fiction Shorthand
 
-Jung's mandala interpretation also helps explain why the saucer became one of the most recognisable images in science fiction. The disc-shaped craft was visually simple, instantly identifiable and rich in symbolic associations. It could represent invasion, rescue, superior intelligence, cosmic judgement or humanity's future. Its power came not only from its supposed technological capabilities but from the emotional meanings attached to its form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/myth-mind-and-the-screen/transforming-the-final-ghost-the-god-within/35F1EE48FFF196F153B92AECD9E0A1E0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentTransforming the final ghost: the god within (Chapter 10) - Myth, Mind and the ScreenSeptember 22...</span></span></span>
+Jung's mandala interpretation also helps explain why the saucer became one of the most recognisable images in science fiction. The disc-shaped craft was visually simple, instantly identifiable and rich in symbolic associations. It could represent invasion, rescue, superior intelligence, cosmic judgement or humanity's future. Its power came not only from its supposed technological capabilities but from the emotional meanings attached to its form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/myth-mind-and-the-screen/transforming-the-final-ghost-the-god-within/35F1EE48FFF196F153B92AECD9E0A1E0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentTransforming the final ghost: the god within (Chapter 10) - Myth, Mind and the ScreenSeptember 22...</span></span></span>
 
-Science-fiction films, magazines and illustrations quickly adopted the round craft as a visual shorthand for contact with something beyond ordinary human experience. The saucer looked futuristic while remaining strangely familiar. Audiences could interpret it as a machine, yet its circular perfection also suggested mystery and transcendence. This combination made it unusually adaptable as a cultural symbol. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressUFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Gali...</span></span></span>
+Science-fiction films, magazines and illustrations quickly adopted the round craft as a visual shorthand for contact with something beyond ordinary human experience. The saucer looked futuristic while remaining strangely familiar. Audiences could interpret it as a machine, yet its circular perfection also suggested mystery and transcendence. This combination made it unusually adaptable as a cultural symbol.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressUFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Gali...</span></span></span>
 
 From a Jungian perspective, the success of the flying saucer in popular culture was therefore not simply a matter of design. The shape resonated because it joined ancient symbolic patterns to modern technological imagination. In the age of rockets and atomic power, the mandala had returned—but now it appeared as a spacecraft.
 
@@ -330,203 +330,203 @@ From a Jungian perspective, the success of the flying saucer in popular culture 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-3-dark.svg" | relative_url }}" alt="Mandala Shape illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_jung_modern_myth_b5cede_jung_saucer_mandala_da71f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Saucer Shape Mattered to Jung
 
-The central mechanism in Jung's interpretation is straightforward: the saucer's circular form activated meanings that long predated the UFO era. The disc was not merely a silhouette reported by witnesses. It functioned as a modern mandala, an image of order and wholeness appearing in a period marked by uncertainty, fragmentation and technological awe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dseti.org">[dseti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dseti.org</span><span class="citation-popover-title">Vision of the Mandala as Protective Circle</span><span class="citation-popover-snippet">D-SETI Dreamwork...</span></span></span>
+The central mechanism in Jung's interpretation is straightforward: the saucer's circular form activated meanings that long predated the UFO era. The disc was not merely a silhouette reported by witnesses. It functioned as a modern mandala, an image of order and wholeness appearing in a period marked by uncertainty, fragmentation and technological awe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dseti.org">[dseti.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dseti.org</span><span class="citation-popover-title">Vision of the Mandala as Protective Circle</span><span class="citation-popover-snippet">D-SETI Dreamwork...</span></span></span>
 
-That is why Jung focused so much attention on shape. For him, the round flying saucer revealed how modern societies could express ancient psychological needs through contemporary imagery. The symbol looked like advanced machinery, but its cultural force came from much older patterns of meaning. In that sense, the flying saucer stood at the meeting point of mythology, psychology and science fiction—a sacred circle redesigned for the technological age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
+That is why Jung focused so much attention on shape. For him, the round flying saucer revealed how modern societies could express ancient psychological needs through contemporary imagery. The symbol looked like advanced machinery, but its cultural force came from much older patterns of meaning. In that sense, the flying saucer stood at the meeting point of mythology, psychology and science fiction—a sacred circle redesigned for the technological age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Flying Saucers: A Modern Myth of Things Seen in the Sky</span><span class="citation-popover-snippet">Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tf6twnB5Ftw" title="Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer">Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture</a></p><p class="youtube-embed-meta">Channel: Manly Hall Society</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tf6twnB5Ftw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Saucer Shape Mattered to Jung. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Saucer Shape Mattered to Jung. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m_yiPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Carl Gustav Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m_yiPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Carl Gustav Jung</p>
         
-        <p class="fr-book-desc">Directly explains Jung&#x27;s argument that UFOs function as modern myths and visionary rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains Jung&#x27;s argument that UFOs function as modern myths and visionary rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Carl+Gustav+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO narratives operate in modern society, complementing and updating Jungian questions about meaning and myth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO narratives operate in modern society, complementing and updating Jungian questions about meaning and myth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
-        </h4>
-        <p class="fr-book-author">By Carl G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man and His Symbols on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HnaTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man and His Symbols" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man and His Symbols">Man and His Symbols</a>
+</h4>
+<p class="fr-book-author">By Carl G. Jung</p>
         
-        <p class="fr-book-desc">Provides the symbolic and archetypal framework Jung used when interpreting UFO imagery and collective beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the symbolic and archetypal framework Jung used when interpreting UFO imagery and collective beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Man+and+His+Symbols+by+Carl+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+by+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hero with a Thousand Faces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PlvXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hero with a Thousand Faces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+by+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hero with a Thousand Faces">The Hero with a Thousand Faces</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+by+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hero with a Thousand Faces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PlvXAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hero with a Thousand Faces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+by+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hero with a Thousand Faces">The Hero with a Thousand Faces</a>
+</h4>
+<p class="fr-book-author">By Joseph Campbell</p>
         
-        <p class="fr-book-desc">Explains how myths emerge, spread, and gain cultural power, complementing Jung&#x27;s analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+by+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how myths emerge, spread, and gain cultural power, complementing Jung&#x27;s analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+by+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children"><img src="https://i.ebayimg.com/images/g/CjkAAeSwzkBpBQDU/s-l225.jpg" alt="Listing image for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)"><img src="https://i.ebayimg.com/images/g/BTsAAeSwMD1n-6x4/s-l225.jpg" alt="Listing image for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Stepped Pyramid Desktop Model ! (G)"><img src="https://i.ebayimg.com/images/g/JwcAAeSw469o2EMJ/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Stepped Pyramid Desktop Model ! (G)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Stepped Pyramid Desktop Model ! (G)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mandala-shape-why-the-saucer-shape-mattered-to-jung-relationships-betwee-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - Large"><img src="https://i.ebayimg.com/images/g/Sl8AAOSwLURnNqFc/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="relationships-betwee-d7372c-jung-modern-myth-b5cede-jung-saucer-mandala-da71f6-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ That is why Jung focused so much attention on shape. For him, the round flying s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ That is why Jung focused so much attention on shape. For him, the round flying s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ That is why Jung focused so much attention on shape. For him, the round flying s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ That is why Jung focused so much attention on shape. For him, the round flying s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ That is why Jung focused so much attention on shape. For him, the round flying s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,73 +732,73 @@ That is why Jung focused so much attention on shape. For him, the round flying s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: routledge.com  
    Title: Flying Saucers: A Modern Myth of Things Seen in the Sky  
-   Link: <a href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</p></details>
+   Link:<a href="https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Flying-Saucers-A-Modern-Myth-of-Things-Seen-in-the-Sky/Jung/p/book/9780415278379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth of Things Seen in the Sky - 2nd Edition...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dseti.org  
    Title: Vision of the Mandala as Protective Circle  
-   Link: <a href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow">https://dseti.org/dream/jung-mandala-protective-circle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>D-SETI Dreamwork...</p></details>
+   Link:<a href="https://dseti.org/dream/jung-mandala-protective-circle/" target="_blank" rel="noopener noreferrer nofollow">https://dseti.org/dream/jung-mandala-protective-circle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>D-SETI Dreamwork...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: Science: Dr. Jung & the Saucers  
-   Link: <a href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6888244/science-dr-jung-the-saucers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science: Dr. Jung &amp; the Saucers...</p></details>
+   Link:<a href="https://time.com/archive/6888244/science-dr-jung-the-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6888244/science-dr-jung-the-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science: Dr. Jung &amp; the Saucers...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/myth-mind-and-the-screen/transforming-the-final-ghost-the-god-within/35F1EE48FFF196F153B92AECD9E0A1E0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/myth-mind-and-the-screen/transforming-the-final-ghost-the-god-within/35F1EE48FFF196F153B92AECD9E0A1E0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentTransforming the final ghost: the god within (Chapter 10) - Myth, Mind and the ScreenSeptember 22...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/myth-mind-and-the-screen/transforming-the-final-ghost-the-god-within/35F1EE48FFF196F153B92AECD9E0A1E0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/myth-mind-and-the-screen/transforming-the-final-ghost-the-god-within/35F1EE48FFF196F153B92AECD9E0A1E0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentTransforming the final ghost: the god within (Chapter 10) - Myth, Mind and the ScreenSeptember 22...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jungbythesea.co.uk  
    Title: Jung by the Sea The Mandala | VOD | Jung by the Sea  
-   Link: <a href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow">https://www.jungbythesea.co.uk/mandala</a>  
+   Link:<a href="https://www.jungbythesea.co.uk/mandala" target="_blank" rel="noopener noreferrer nofollow">https://www.jungbythesea.co.uk/mandala</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressUFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Gali...</p></details>
+   Link:<a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressUFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Gali...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Flying Saucers: A Modern Myth Of Things Seen In The Sky  
-   Link: <a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8LEt2jrkdRI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8LEt2jrkdRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8LEt2jrkdRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers - Audio Lecture...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hatchards.co.uk  
    Title: www.hatchards.co.uk Flying Saucers by C.G. Jung | Hatchards  
-   Link: <a href="https://www.hatchards.co.uk/book/flying-saucers/c-g-jung/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.hatchards.co.uk/book/flying-saucers/c-g-jung/9780415278379</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers by C.G. Jung | HatchardsApril 11, 2002...</p></details>
+   Link:<a href="https://www.hatchards.co.uk/book/flying-saucers/c-g-jung/9780415278379" target="_blank" rel="noopener noreferrer nofollow">https://www.hatchards.co.uk/book/flying-saucers/c-g-jung/9780415278379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers by C.G. Jung | HatchardsApril 11, 2002...</p></details>
    Published: April 11, 2002  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Carl Jung on UFOs: A Modern Myth of Hope and Fear  
-   Link: <a href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASnRs1ri44o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ASnRs1ri44o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ASnRs1ri44o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers: A Modern Myth Of Things Seen In The Sky - C.G. Jung - Full UFO Audiobook...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Manly P. Hall, Dr. Carl Jung, UFOs and the Flying Saucers  
-   Link: <a href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tf6twnB5Ftw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=tf6twnB5Ftw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tf6twnB5Ftw</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: www.reddit.com First edition  
-   Link: <a href="https://www.reddit.com/r/Jung/comments/oat2wb" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Jung/comments/oat2wb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/Jung/comments/oat2wb" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Jung/comments/oat2wb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30, 2021...</p></details>
    Published: June 30, 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Flying Saucers (magazine)  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_Saucers_%28magazine%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_%28magazine%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_Saucers_%28magazine%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_Saucers_%28magazine%29</a>  

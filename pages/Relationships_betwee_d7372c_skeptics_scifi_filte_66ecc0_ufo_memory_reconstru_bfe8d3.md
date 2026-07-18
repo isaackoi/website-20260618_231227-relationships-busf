@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_uf
 
 ## Introduction
 
-Many UFO reports begin with a genuinely limited experience: a distant light, an unusual shape glimpsed for a few seconds, or an unexpected movement seen under poor viewing conditions. Skeptical analyses do not usually argue that witnesses invent these experiences from nothing. Instead, they focus on a well-established feature of human memory: it is reconstructive rather than photographic. When an event is brief, surprising and difficult to interpret, people often remember fragments and later fill gaps using inference, expectation, conversation and later information. Research in cognitive psychology shows that memories can gain detail, coherence and confidence over time even when accuracy does not improve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
+Many UFO reports begin with a genuinely limited experience: a distant light, an unusual shape glimpsed for a few seconds, or an unexpected movement seen under poor viewing conditions. Skeptical analyses do not usually argue that witnesses invent these experiences from nothing. Instead, they focus on a well-established feature of human memory: it is reconstructive rather than photographic. When an event is brief, surprising and difficult to interpret, people often remember fragments and later fill gaps using inference, expectation, conversation and later information. Research in cognitive psychology shows that memories can gain detail, coherence and confidence over time even when accuracy does not improve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_ufo_memory_reconstru_bfe8d3-Illustration-1-dark.svg" | relative_url }}" alt="Memory Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_ufo_memory_reconstru_bfe8d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_ufo_memory_reconstru_bfe8d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ This matters to discussions of UFOs and science fiction because many sightings l
 
 ## Why Short Sightings Leave Incomplete Records
 
-Human perception is selective even under ideal conditions. During a fleeting sighting, observers often lack stable reference points, clear lighting, multiple viewing angles or enough time to inspect what they are seeing. The result is usually an incomplete memory trace rather than a detailed mental recording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
+Human perception is selective even under ideal conditions. During a fleeting sighting, observers often lack stable reference points, clear lighting, multiple viewing angles or enough time to inspect what they are seeing. The result is usually an incomplete memory trace rather than a detailed mental recording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
 
-Psychologists have long argued that memory operates by combining fragments of stored information with prior knowledge and expectations. The classic work of Frederic Bartlett showed that people tend to reshape memories into forms that make sense within familiar cultural frameworks. Over repeated recollections, uncertain details may disappear while coherent and meaningful details are added. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
+Psychologists have long argued that memory operates by combining fragments of stored information with prior knowledge and expectations. The classic work of Frederic Bartlett showed that people tend to reshape memories into forms that make sense within familiar cultural frameworks. Over repeated recollections, uncertain details may disappear while coherent and meaningful details are added.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
 
 For UFO reports, this means that the most important fact may be what was *not* observed. If a witness saw only a bright object crossing the sky for a few seconds, the memory contains gaps from the beginning. Later descriptions may feel complete because the mind naturally attempts to create a coherent account from incomplete evidence.
 
@@ -303,7 +303,7 @@ For UFO reports, this means that the most important fact may be what was *not* o
 
 A sighting often becomes more structured through [retelling]({{ 'retelling/' | relative_url }}). The witness tells family members, speaks with investigators, sketches the object, reads media coverage or encounters similar reports. Each retelling requires transforming a brief experience into a narrative.
 
-Memory research suggests that reconstruction occurs rapidly. Experiments have shown that people can incorporate inferred details into their recollections within seconds when an event strongly implies what must have happened, even if the crucial moment was never actually seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027711001259" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Event completion: Event based inferences distort memory in a matter of seconds - ScienceDirect...</span></span></span>
+Memory research suggests that reconstruction occurs rapidly. Experiments have shown that people can incorporate inferred details into their recollections within seconds when an event strongly implies what must have happened, even if the crucial moment was never actually seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027711001259" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Event completion: Event based inferences distort memory in a matter of seconds - ScienceDirect...</span></span></span>
 
 In UFO cases, a witness who saw a distant light might later remember a craft because a craft seems the most sensible explanation for the observed movement. The inference can become psychologically difficult to separate from the original perception.
 
@@ -312,17 +312,17 @@ In UFO cases, a witness who saw a distant light might later remember a craft bec
 
 ### The Influence of Later Information
 
-Post-event information is one of the best-documented sources of memory distortion. Research associated with Elizabeth Loftus and many later investigators demonstrated that wording, questions and later exposure to information can alter what witnesses remember. Details encountered after an event may become integrated into memory and eventually feel like part of the original experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
+Post-event information is one of the best-documented sources of memory distortion. Research associated with Elizabeth Loftus and many later investigators demonstrated that wording, questions and later exposure to information can alter what witnesses remember. Details encountered after an event may become integrated into memory and eventually feel like part of the original experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
 
-This is particularly relevant when a UFO sighting receives media attention. A witness who initially reported an unusual light may later encounter drawings, news stories, [television]({{ 'television/' | relative_url }}) programmes or science-fiction imagery that provide concrete visual models. These models can help organise memory, but they can also make uncertain aspects of the event appear more definite than they originally were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
+This is particularly relevant when a UFO sighting receives media attention. A witness who initially reported an unusual light may later encounter drawings, news stories, [television]({{ 'television/' | relative_url }}) programmes or science-fiction imagery that provide concrete visual models. These models can help organise memory, but they can also make uncertain aspects of the event appear more definite than they originally were.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
 
 Within the broader science-fiction filter discussed by [skeptics]({{ 'skeptics/' | relative_url }}), popular images of [flying saucers]({{ 'flying-saucer/' | relative_url }}), triangular craft or alien visitors can function as ready-made templates. They do not have to create the sighting itself to influence how its remembered details evolve.
 
 ### Confidence Can Increase Even When Accuracy Does Not
 
-One of the most counterintuitive findings in memory research is that confidence and accuracy do not always move together. Studies of highly emotional public events have found that people often remain extremely confident in vivid memories even as consistency declines over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological ScienceConfidence, Not Consistency, Characterizes Flashbulb Memories - Psychological Science - APS...</span></span></span>
+One of the most counterintuitive findings in memory research is that confidence and accuracy do not always move together. Studies of highly emotional public events have found that people often remain extremely confident in vivid memories even as consistency declines over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological ScienceConfidence, Not Consistency, Characterizes Flashbulb Memories - Psychological Science - APS...</span></span></span>
 
-This creates a challenge in UFO investigations. A witness who provides a detailed account years after a sighting may be entirely sincere and highly confident. Yet confidence alone cannot establish that every remembered feature was present in the original observation. The growth of certainty may reflect repeated rehearsal and reconstruction rather than improved accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological ScienceConfidence, Not Consistency, Characterizes Flashbulb Memories - Psychological Science - APS...</span></span></span>
+This creates a challenge in UFO investigations. A witness who provides a detailed account years after a sighting may be entirely sincere and highly confident. Yet confidence alone cannot establish that every remembered feature was present in the original observation. The growth of certainty may reflect repeated rehearsal and reconstruction rather than improved accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological ScienceConfidence, Not Consistency, Characterizes Flashbulb Memories - Psychological Science - APS...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_ufo_memory_reconstru_bfe8d3-Illustration-2-dark.svg" | relative_url }}" alt="Memory Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_ufo_memory_reconstru_bfe8d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_ufo_memory_reconstru_bfe8d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,7 +330,7 @@ This creates a challenge in UFO investigations. A witness who provides a detaile
 
 UFO experiences are often described as unexpected and startling. Surprise can make an event memorable, but it can also create conditions under which memories are updated.
 
-Research on memory reconsolidation suggests that recalling a memory can temporarily make it susceptible to modification. New information encountered during or after recall may become incorporated into the remembered event. Experiments involving interrupted or surprising events have shown that memory can be altered through this updating process, producing false recollections that feel authentic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6049395/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Research on memory reconsolidation suggests that recalling a memory can temporarily make it susceptible to modification. New information encountered during or after recall may become incorporated into the remembered event. Experiments involving interrupted or surprising events have shown that memory can be altered through this updating process, producing false recollections that feel authentic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6049395/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 A brief anomalous sighting is especially vulnerable because the original information is sparse. When people later encounter [explanations]({{ 'explanations/' | relative_url }}), images or discussions that seem to fit what they saw, those elements may become woven into the memory itself. The witness is not necessarily fabricating details; the memory has genuinely changed.
 
@@ -354,7 +354,7 @@ Useful questions include:
 
 </div>
 
-These questions arise from mainstream eyewitness-memory research rather than from any special theory about UFOs. The same principles are applied in criminal investigations, accident inquiries and historical testimony analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
+These questions arise from mainstream eyewitness-memory research rather than from any special theory about UFOs. The same principles are applied in criminal investigations, accident inquiries and historical testimony analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
 
 A sighting that grows increasingly detailed over months or years is not automatically false. However, from a critical perspective, later precision should be treated cautiously unless it can be traced to information recorded close to the original event.
 
@@ -364,197 +364,197 @@ A sighting that grows increasingly detailed over months or years is not automati
 
 The skeptical argument is ultimately about risk rather than certainty. A brief UFO sighting leaves gaps. Human memory naturally fills gaps. Popular culture supplies images and narratives that can help organise those memories. Over time, a report may evolve from a record of an ambiguous observation into a vivid story with sharply defined features.
 
-This does not prove that every detailed UFO account is a memory distortion. It does explain why investigators concerned with reliability pay close attention to the earliest descriptions. In cases built on fleeting observations, the most valuable evidence is often the least dramatic: the original notes, first interviews and immediate sketches created before memory had many opportunities to grow sharper than the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iResearchNet+2ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
+This does not prove that every detailed UFO account is a memory distortion. It does explain why investigators concerned with reliability pay close attention to the earliest descriptions. In cases built on fleeting observations, the most valuable evidence is often the least dramatic: the original notes, first interviews and immediate sketches created before memory had many opportunities to grow sharper than the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.iresearchnet.com">[iresearchnet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.iresearchnet.com</span><span class="citation-popover-title">i Research Net Reconstructive Memory</span><span class="citation-popover-snippet">Reconstructive Memory - Eyewitness Memory - iResearchNet...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Memories Can Grow Sharper Later. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Memories Can Grow Sharper Later. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to skeptical interpretations of UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to skeptical interpretations of UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abducted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WUkvEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abducted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abducted">Abducted</a>
-        </h4>
-        <p class="fr-book-author">By Susan A. Clancy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abducted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WUkvEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abducted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abducted">Abducted</a>
+</h4>
+<p class="fr-book-author">By Susan A. Clancy</p>
         
-        <p class="fr-book-desc">Examines reconstruction of alien-abduction narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reconstruction of alien-abduction narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cbgWg8LxgQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cbgWg8LxgQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Shows how memory can change over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how memory can change over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6l1DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6l1DAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Julia Shaw</p>
         
-        <p class="fr-book-desc">Directly addresses reconstructed and false memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses reconstructed and false memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abducted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abducted</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abducted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abducted</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed"><img src="{{ '/assets/images/marketplace-covers/dd0901642ceb5d38e826.jpg' | relative_url }}" alt="Listing image for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed"><img src="{{ '/assets/images/marketplace-covers/dd0901642ceb5d38e826.jpg' | relative_url }}" alt="Listing image for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="memory-gaps-why-ufo-memories-can-grow-sharper-later-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ This does not prove that every detailed UFO account is a memory distortion. It d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ This does not prove that every detailed UFO account is a memory distortion. It d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ This does not prove that every detailed UFO account is a memory distortion. It d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ This does not prove that every detailed UFO account is a memory distortion. It d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ This does not prove that every detailed UFO account is a memory distortion. It d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,87 +760,87 @@ This does not prove that every detailed UFO account is a memory distortion. It d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psychology.iresearchnet.com  
    Title: i Research Net Reconstructive Memory  
-   Link: <a href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructive Memory - Eyewitness Memory - iResearchNet...</p></details>
+   Link:<a href="https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.iresearchnet.com/forensic-psychology/eyewitness-memory/reconstructive-memory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructive Memory - Eyewitness Memory - iResearchNet...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027711001259" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027711001259</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Event completion: Event based inferences distort memory in a matter of seconds - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027711001259" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027711001259</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Event completion: Event based inferences distort memory in a matter of seconds - ScienceDirect...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027711001259" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027711001259</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Event completion: Event based inferences distort memory in a matter of seconds - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027711001259" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027711001259</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Event completion: Event based inferences distort memory in a matter of seconds - ScienceDirect...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6049395/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6049395/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6049395/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6049395/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Pentagon UFO files show no alien evidence, analyst says  
-   Link: <a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus - Eyewitness Testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus - Eyewitness Testimony...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Elizabeth Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=syo1tOH0rfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syo1tOH0rfw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This video by a pioneering memory researcher explains the psychological principles of how the human brain reconstructs incomplete memorie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=syo1tOH0rfw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syo1tOH0rfw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video by a pioneering memory researcher explains the psychological principles of how the human brain reconstructs incomplete memorie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Fiction of Memory | Elizabeth Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=8-zj0czji-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8-zj0czji-A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus - Eyewitness Testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8-zj0czji-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8-zj0czji-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus - Eyewitness Testimony...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceConfidence, Not Consistency, Characterizes Flashbulb Memories - Psychological Science - APS...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/psychological-science/1467-9280.02453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceConfidence, Not Consistency, Characterizes Flashbulb Memories - Psychological Science - APS...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: www.reddit.com UF O Sightings: A History of Reports, Psychology, and Credibility  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1salz5k/ufo_sightings_a_history_of_reports_psychology_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1salz5k/ufo_sightings_a_history_of_reports_psychology_and/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings: A History of Reports, Psychology, and CredibilityApril 2, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1salz5k/ufo_sightings_a_history_of_reports_psychology_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1salz5k/ufo_sightings_a_history_of_reports_psychology_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings: A History of Reports, Psychology, and CredibilityApril 2, 2026...</p></details>
    Published: April 2, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Elizabeth Loftus: False Memories, Testimony  
-   Link: <a href="https://www.youtube.com/watch?v=EvBHvCbqICI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EvBHvCbqICI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EvBHvCbqICI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EvBHvCbqICI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Videos Explained: Mick West's Expert Analysis  
-   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus: False Memories, Testimony - UC Irvine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus: False Memories, Testimony - UC Irvine...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/ie/blog/the-forensic-view/202108/how-we-might-best-challenge-eyewitness-account-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ie/blog/the-forensic-view/202108/how-we-might-best-challenge-eyewitness-account-ufo</a>  
+   Link:<a href="https://www.psychologytoday.com/ie/blog/the-forensic-view/202108/how-we-might-best-challenge-eyewitness-account-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ie/blog/the-forensic-view/202108/how-we-might-best-challenge-eyewitness-account-ufo</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Why eyewitnesses fail | Thomas Albright | TEDx San Diego  
-   Link: <a href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l05NGp_z6TI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fiction of Memory | Elizabeth Loftus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l05NGp_z6TI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fiction of Memory | Elizabeth Loftus...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How reliable is your memory? | Elizabeth Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Are they aliens?  
-   Link: <a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q0HRS_IzTmU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q0HRS_IzTmU</a>  

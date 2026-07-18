@@ -278,16 +278,16 @@ The Cigarette Smoking Man became the face of [secrecy]({{ 'secrecy/' | relative_
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_cigarette_smoking_ma_36764f-Illustration-1-dark.svg" | relative_url }}" alt="Smoking Man illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_cigarette_smoking_ma_36764f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_cigarette_smoking_ma_36764f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the wider relationship between UFOs and science fiction, this was a crucial shift. The series suggested that the most frightening force was not necessarily the unknown visitor from space but the familiar official who controlled what the public was allowed to know. Over time, the Cigarette Smoking Man became a cultural shorthand for hidden authority, helping define the modern image of the UFO cover-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapes.inc">[Shapes, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapes.inc</span><span class="citation-popover-title">, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes</span><span class="citation-popover-snippet">Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes...</span></span></span>
+Within the wider relationship between UFOs and science fiction, this was a crucial shift. The series suggested that the most frightening force was not necessarily the unknown visitor from space but the familiar official who controlled what the public was allowed to know. Over time, the Cigarette Smoking Man became a cultural shorthand for hidden authority, helping define the modern image of the UFO cover-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapes.inc">[Shapes, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapes.inc</span><span class="citation-popover-title">, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes</span><span class="citation-popover-snippet">Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62vWbkYhP8A" title="The Cigarette Smoking Man + The Syndicate (THE X-FILES) Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62vWbkYhP8A" target="_blank" rel="noopener noreferrer">The Cigarette Smoking Man + The Syndicate (THE X-FILES) Explained</a></p><p class="youtube-embed-meta">Channel: FilmComicsExplained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62vWbkYhP8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62vWbkYhP8A">Open on YouTube</a></p></div></div></div>
 
 ## A villain built from access and denial
 
-The Cigarette Smoking Man was not originally introduced as a grand antagonist. In the pilot episode he appears almost silently, watching events from the edge of the frame. His power came from implication rather than action. Viewers were never told exactly who he worked for, what his title was or where his authority ended. That ambiguity became one of the character's greatest strengths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span><span class="citation-popover-snippet">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span></span></span>
+The Cigarette Smoking Man was not originally introduced as a grand antagonist. In the pilot episode he appears almost silently, watching events from the edge of the frame. His power came from implication rather than action. Viewers were never told exactly who he worked for, what his title was or where his authority ended. That ambiguity became one of the character's greatest strengths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span><span class="citation-popover-snippet">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span></span></span>
 
-Unlike traditional science-fiction villains, he rarely conquered anything openly. Instead, he controlled information. Witnesses disappeared, documents vanished, investigations stalled and official [explanations]({{ 'explanations/' | relative_url }}) replaced inconvenient facts. In a series built around mysteries, he represented the mechanism that kept mysteries unresolved. The audience learned that whenever evidence emerged, he would be somewhere nearby ensuring that certainty remained out of reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapes.inc">[Shapes, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapes.inc</span><span class="citation-popover-title">, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes</span><span class="citation-popover-snippet">Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes...</span></span></span>
+Unlike traditional science-fiction villains, he rarely conquered anything openly. Instead, he controlled information. Witnesses disappeared, documents vanished, investigations stalled and official [explanations]({{ 'explanations/' | relative_url }}) replaced inconvenient facts. In a series built around mysteries, he represented the mechanism that kept mysteries unresolved. The audience learned that whenever evidence emerged, he would be somewhere nearby ensuring that certainty remained out of reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapes.inc">[Shapes, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapes.inc</span><span class="citation-popover-title">, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes</span><span class="citation-popover-snippet">Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes...</span></span></span>
 
 This made him a particularly effective symbol of conspiracy culture. A conspiracy theory often depends less on visible power than on invisible access: the belief that somebody behind the scenes knows more than everyone else. The Cigarette Smoking Man embodied exactly that fear. He seemed connected to government agencies, intelligence networks and secret committees, yet remained personally anonymous. The contradiction made him memorable. He was simultaneously everywhere and nowhere.
 
@@ -298,7 +298,7 @@ This made him a particularly effective symbol of conspiracy culture. A conspirac
 
 One of *The X-Files*' most influential choices was to make institutional secrecy more emotionally compelling than extraterrestrial life itself. UFOs appeared intermittently, but the Cigarette Smoking Man appeared constantly. As a result, viewers often spent more time worrying about what governments were hiding than about what aliens might be doing.
 
-This reflected a broader cultural mood. By the 1990s, public distrust of institutions had been shaped by Cold War secrecy, intelligence scandals and political deception. UFO rumours increasingly focused on [cover-ups]({{ 'cover-ups/' | relative_url }}) rather than sightings alone. Stories about Roswell, [Area 51]({{ 'area-51/' | relative_url }}) and classified programmes were often built around the assumption that officials possessed hidden knowledge. *The X-Files* dramatised that assumption by giving it a human face. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/air-space-magazine/interview-chris-carter-180958438/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine For Chris Carter, the Truth is Still Out There</span><span class="citation-popover-snippet">Smithsonian Magazine For Chris Carter, the Truth is Still Out There</span></span></span>
+This reflected a broader cultural mood. By the 1990s, public distrust of institutions had been shaped by Cold War secrecy, intelligence scandals and political deception. UFO rumours increasingly focused on [cover-ups]({{ 'cover-ups/' | relative_url }}) rather than sightings alone. Stories about Roswell, [Area 51]({{ 'area-51/' | relative_url }}) and classified programmes were often built around the assumption that officials possessed hidden knowledge. *The X-Files* dramatised that assumption by giving it a human face.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/air-space-magazine/interview-chris-carter-180958438/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine For Chris Carter, the Truth is Still Out There</span><span class="citation-popover-snippet">Smithsonian Magazine For Chris Carter, the Truth is Still Out There</span></span></span>
 
 The Cigarette Smoking Man therefore served a narrative purpose larger than a single villain. He connected alien mythology to familiar bureaucratic behaviour. A spacecraft was extraordinary; a government official refusing to answer questions was recognisable. By combining the fantastic with the ordinary, the show made its conspiracies feel more plausible than they would have if aliens alone had driven the story.
 
@@ -312,9 +312,9 @@ The Cigarette Smoking Man's most distinctive contribution to UFO fiction was tur
 
 In political language, plausible deniability refers to structures that allow powerful actors to avoid responsibility by obscuring direct involvement. *The X-Files* converted that concept into drama. The Cigarette Smoking Man constantly occupied a position between knowledge and ignorance. He knew enough to influence events but rarely enough to be held accountable. He gave orders indirectly, communicated through intermediaries and left few traces behind.
 
-This created a recurring tension for Mulder. The problem was rarely proving that something strange had happened. The problem was proving who had hidden it. Each investigation became a struggle against a system designed to prevent certainty. The Cigarette Smoking Man represented that system in human form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapes.inc">[Shapes, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapes.inc</span><span class="citation-popover-title">, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes</span><span class="citation-popover-snippet">Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes...</span></span></span>
+This created a recurring tension for Mulder. The problem was rarely proving that something strange had happened. The problem was proving who had hidden it. Each investigation became a struggle against a system designed to prevent certainty. The Cigarette Smoking Man represented that system in human form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapes.inc">[Shapes, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapes.inc</span><span class="citation-popover-title">, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes</span><span class="citation-popover-snippet">Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile &#124; Shapes...</span></span></span>
 
-The show's mythology occasionally even questioned whether the conspiracy itself was exactly what Mulder believed. Chris Carter later described storylines that explored the possibility that parts of the conspiracy concealed ordinary human wrongdoing rather than extraterrestrial truths. That uncertainty strengthened the character's role. He was not merely guarding one secret; he was guarding the distinction between truth and falsehood itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Redux_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Redux (The X-Files</span><span class="citation-popover-snippet">Redux (The X-Files</span></span></span>
+The show's mythology occasionally even questioned whether the conspiracy itself was exactly what Mulder believed. Chris Carter later described storylines that explored the possibility that parts of the conspiracy concealed ordinary human wrongdoing rather than extraterrestrial truths. That uncertainty strengthened the character's role. He was not merely guarding one secret; he was guarding the distinction between truth and falsehood itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Redux_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Redux (The X-Files</span><span class="citation-popover-snippet">Redux (The X-Files</span></span></span>
 
 Because he operated through ambiguity, audiences could project almost any hidden agenda onto him. He became less an individual than a narrative device for institutional mistrust. Every unanswered question seemed to lead back to him.
 
@@ -327,168 +327,168 @@ Many science-fiction villains are remembered for spectacular abilities, distinct
 
 His dark suit, cigarettes, government offices and quiet conversations communicated that secrecy did not need futuristic machinery. It could exist inside everyday institutions. That image proved highly influential because it aligned with a growing strain of UFO fiction in which the central threat was not invasion but concealment.
 
-The character's endurance demonstrates how effectively *The X-Files* linked UFO mythology to distrust of authority. Long after specific plot details faded from memory, viewers remembered the silhouette of a man standing in a smoky room while denying knowledge of events he clearly understood. In the modern cover-up myth, that image became more powerful than many of the aliens themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[SlashFilm+2Shapes, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span><span class="citation-popover-snippet">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span></span></span>
+The character's endurance demonstrates how effectively *The X-Files* linked UFO mythology to distrust of authority. Long after specific plot details faded from memory, viewers remembered the silhouette of a man standing in a smoky room while denying knowledge of events he clearly understood. In the modern cover-up myth, that image became more powerful than many of the aliens themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slashfilm.com">[slashfilm.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slashfilm.com</span><span class="citation-popover-title">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span><span class="citation-popover-snippet">Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_cigarette_smoking_ma_36764f-Illustration-3-dark.svg" | relative_url }}" alt="Smoking Man illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_cigarette_smoking_ma_36764f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_cigarette_smoking_ma_36764f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The man who made secrecy look ordinary. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The man who made secrecy look ordinary. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
+</h4>
+<p class="fr-book-author">By Jesse Walker</p>
         
-        <p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines secrecy, classified programmes and archival mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines secrecy, classified programmes and archival mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rl0LAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete X-Files">The Complete X-Files</a>
-        </h4>
-        <p class="fr-book-author">By Matt Hurwitz, Chris Knowles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rl0LAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Complete X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete X-Files">The Complete X-Files</a>
+</h4>
+<p class="fr-book-author">By Matt Hurwitz, Chris Knowles</p>
         
-        <p class="fr-book-desc">Provides extensive coverage of the Mulder-Scully dynamic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides extensive coverage of the Mulder-Scully dynamic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+X-Files+by+Matt+Hurwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QapJgNWilDoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Culture">Conspiracy Culture</a>
-        </h4>
-        <p class="fr-book-author">By Dr Peter Knight, Peter Knight</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QapJgNWilDoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conspiracy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy Culture">Conspiracy Culture</a>
+</h4>
+<p class="fr-book-author">By Dr Peter Knight, Peter Knight</p>
         
-        <p class="fr-book-desc">Directly connects modern conspiracy thinking with The X-Files era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects modern conspiracy thinking with The X-Files era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy+Culture+by+Dr+Peter+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+X+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete X Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+X+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete X Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction poster" data-ebay-reference="smoking-man-the-man-who-made-secrecy-look-ordinary-relationships-betwee-science-fiction-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -504,7 +504,7 @@ The character's endurance demonstrates how effectively *The X-Files* linked UFO 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -524,7 +524,7 @@ The character's endurance demonstrates how effectively *The X-Files* linked UFO 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -556,7 +556,7 @@ The character's endurance demonstrates how effectively *The X-Files* linked UFO 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -608,7 +608,7 @@ The character's endurance demonstrates how effectively *The X-Files* linked UFO 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -653,7 +653,7 @@ The character's endurance demonstrates how effectively *The X-Files* linked UFO 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -694,109 +694,109 @@ The character's endurance demonstrates how effectively *The X-Files* linked UFO 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: shapes.inc  
    Title: , Inc.The Cigarette Smoking Man from The X-Files: A Character Profile | Shapes  
-   Link: <a href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile | Shapes...</p></details>
+   Link:<a href="https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://shapes.inc/characters/cigarette-smoking-man-from-the-x-files-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shapes, Inc.The Cigarette Smoking Man from The X-Files: A Character Profile | Shapes...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: slashfilm.com  
    Title: Slash Film How The X-Files Created A Fan-Favorite Character Out Of Thin Air  
-   Link: <a href="https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/</a>  
+   Link:<a href="https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashfilm.com/831359/how-the-x-files-created-a-fan-favorite-character-out-of-thin-air/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Redux (The X-Files)  
-   Link: <a href="https://en.wikipedia.org/wiki/Redux_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Redux_%28The_X-Files%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Redux_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Redux_%28The_X-Files%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: X (The X-Files)  
-   Link: <a href="https://en.wikipedia.org/wiki/X_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/X_%28The_X-Files%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/X_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/X_%28The_X-Files%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Brand X (The X-Files)  
-   Link: <a href="https://en.wikipedia.org/wiki/Brand_X_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brand_X_%28The_X-Files%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Brand_X_%28The_X-Files%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brand_X_%28The_X-Files%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The X-Files Smoking Man Interview  
-   Link: <a href="https://www.youtube.com/watch?v=i13O4PbLx7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i13O4PbLx7E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files - The Event Series &quot;4345 The Making Of A Struggle - Cigarette Smoking Man&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i13O4PbLx7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i13O4PbLx7E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files - The Event Series &quot;4345 The Making Of A Struggle - Cigarette Smoking Man&quot;...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The X-Files  
-   Link: <a href="https://www.youtube.com/watch?v=9NFAXLCgyMc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9NFAXLCgyMc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9NFAXLCgyMc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9NFAXLCgyMc</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine For Chris Carter, the Truth is Still Out There  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/interview-chris-carter-180958438/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/interview-chris-carter-180958438/</a>  
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/interview-chris-carter-180958438/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/interview-chris-carter-180958438/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/yes-united-states-certainly-did-land-humans-moon-180972161/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/yes-united-states-certainly-did-land-humans-moon-180972161/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.smithsonianmag.comYes, the United States Certainly DID Land Humans on the MoonMay 16, 2019...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/yes-united-states-certainly-did-land-humans-moon-180972161/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/yes-united-states-certainly-did-land-humans-moon-180972161/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.smithsonianmag.comYes, the United States Certainly DID Land Humans on the MoonMay 16, 2019...</p></details>
    Published: May 16, 2019  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2008/07/q-and-a-x-fil-1" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/q-and-a-x-fil-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both Carter and his writing partner, Frank Spotnize, completed the film&#x27;s script in November and swiftly moved into production during the...</p></details>
+   Link:<a href="https://www.wired.com/2008/07/q-and-a-x-fil-1" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/q-and-a-x-fil-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Both Carter and his writing partner, Frank Spotnize, completed the film&#x27;s script in November and swiftly moved into production during the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2008/03/frank-digiaco-6" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2008/03/frank-digiaco-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paley [Television](&amp;#123;&amp;#123; &#x27;television/&#x27; | relative_url &amp;#125;&amp;#125;) Festival in Los Angeles, Chris Carter debuted the trailer for the second X-Files film, set for release on July 25. The f...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2008/03/frank-digiaco-6" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2008/03/frank-digiaco-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paley [Television](&amp;#123;&amp;#123; &#x27;television/&#x27; | relative_url &amp;#125;&amp;#125;) Festival in Los Angeles, Chris Carter debuted the trailer for the second X-Files film, set for release on July 25. The f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/books/2016/oct/06/the-history-of-thieves-by-ian-cobain-review" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/oct/06/the-history-of-thieves-by-ian-cobain-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History Thieves by Ian Cobain review – how Britain covered up its imperial crimes | History books | The GuardianOctober 6, 2016...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2016/oct/06/the-history-of-thieves-by-ian-cobain-review" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/oct/06/the-history-of-thieves-by-ian-cobain-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History Thieves by Ian Cobain review – how Britain covered up its imperial crimes | History books | The GuardianOctober 6, 2016...</p></details>
    Published: October 6, 2016  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cinemablend.com  
-   Link: <a href="https://www.cinemablend.com/television/1753730/why-the-x-files-season-premiere-went-with-that-devastating-twist-according-to-chris-carter" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/1753730/why-the-x-files-season-premiere-went-with-that-devastating-twist-according-to-chris-carter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files Went With That Devastating Cigarette-Smoking Man Twist, According To Chris Carter | CinemablendJanuary 4, 2018...</p></details>
+   Link:<a href="https://www.cinemablend.com/television/1753730/why-the-x-files-season-premiere-went-with-that-devastating-twist-according-to-chris-carter" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/1753730/why-the-x-files-season-premiere-went-with-that-devastating-twist-according-to-chris-carter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files Went With That Devastating Cigarette-Smoking Man Twist, According To Chris Carter | CinemablendJanuary 4, 2018...</p></details>
    Published: January 4, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cbr.com  
-   Link: <a href="https://www.cbr.com/the-x-files-cigarette-smoking-man-fan-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbr.com/the-x-files-cigarette-smoking-man-fan-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X-Files Theory May Explain 1 of the Biggest Mysteries Surrounding the Show&#x27;s Best VillainJune 10, 2025...</p></details>
+   Link:<a href="https://www.cbr.com/the-x-files-cigarette-smoking-man-fan-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbr.com/the-x-files-cigarette-smoking-man-fan-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X-Files Theory May Explain 1 of the Biggest Mysteries Surrounding the Show&#x27;s Best VillainJune 10, 2025...</p></details>
    Published: June 10, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: everythingisscary.com  
-   Link: <a href="https://www.everythingisscary.com/screen/far-more-absurd-things-the-x-files-my-struggle-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.everythingisscary.com/screen/far-more-absurd-things-the-x-files-my-struggle-iii</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Absurd Things: The X-Files, &#x27;My Struggle III&#x27; — Everything is ScaryJanuary 5, 2018...</p></details>
+   Link:<a href="https://www.everythingisscary.com/screen/far-more-absurd-things-the-x-files-my-struggle-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.everythingisscary.com/screen/far-more-absurd-things-the-x-files-my-struggle-iii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Absurd Things: The X-Files, &#x27;My Struggle III&#x27; — Everything is ScaryJanuary 5, 2018...</p></details>
    Published: January 5, 2018  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wired.com  
    Title: x files season 10 lone gunmen  
-   Link: <a href="https://www.wired.com/2013/07/x-files-season-10-lone-gunmen" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2013/07/x-files-season-10-lone-gunmen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Series creator Chris Carter and star Gillian Anderson participated in a Comic-Con panel to discuss the new developments in the series, wh...</p></details>
+   Link:<a href="https://www.wired.com/2013/07/x-files-season-10-lone-gunmen" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2013/07/x-files-season-10-lone-gunmen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Series creator Chris Carter and star Gillian Anderson participated in a Comic-Con panel to discuss the new developments in the series, wh...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=h-FAzEYiN5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h-FAzEYiN5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files Smoking Man Interview - William B Davis on X-Files Sequel &amp; Continuum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h-FAzEYiN5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h-FAzEYiN5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files Smoking Man Interview - William B Davis on X-Files Sequel &amp; Continuum...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Inside the Mind of the Smoking Man William B. Davis Interview  
-   Link: <a href="https://www.youtube.com/watch?v=CmZXGV8SIPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CmZXGV8SIPE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files&#x27; Cigarette Smoking Man, Canadian actor William B. Davis, 1999...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CmZXGV8SIPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CmZXGV8SIPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The X-Files&#x27; Cigarette Smoking Man, Canadian actor William B. Davis, 1999...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Cigarette Smoking Man + The Syndicate (THE X-FILES) Explained  
-   Link: <a href="https://www.youtube.com/watch?v=62vWbkYhP8A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62vWbkYhP8A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mind of the Smoking Man William B. Davis Interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=62vWbkYhP8A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62vWbkYhP8A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mind of the Smoking Man William B. Davis Interview...</p></details>

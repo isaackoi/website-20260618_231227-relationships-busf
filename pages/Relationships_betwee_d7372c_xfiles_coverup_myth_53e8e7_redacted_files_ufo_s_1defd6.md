@@ -284,7 +284,7 @@ One of the most effective ways *[The X-Files]({{ 'the-x-files/' | relative_url }
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_redacted_files_ufo_s_1defd6-Illustration-1-dark.svg" | relative_url }}" alt="Redacted Files illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_redacted_files_ufo_s_1defd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_xfiles_coverup_myth_53e8e7_redacted_files_ufo_s_1defd6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach mattered because it linked science fiction to familiar bureaucratic realities. Governments genuinely classify records, release heavily censored documents and sometimes lose or destroy archives. When *The X-Files* transformed those ordinary administrative practices into clues within a UFO narrative, it created a mechanism through which absence itself could appear meaningful. The result was a form of science fiction that felt grounded in the everyday experience of official [secrecy]({{ 'secrecy/' | relative_url }}) rather than in distant fantasy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</span></span></span>
+This approach mattered because it linked science fiction to familiar bureaucratic realities. Governments genuinely classify records, release heavily censored documents and sometimes lose or destroy archives. When *The X-Files* transformed those ordinary administrative practices into clues within a UFO narrative, it created a mechanism through which absence itself could appear meaningful. The result was a form of science fiction that felt grounded in the everyday experience of official [secrecy]({{ 'secrecy/' | relative_url }}) rather than in distant fantasy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</span></span></span>
 
 ## The File as a Science Fiction Object
 
@@ -292,7 +292,7 @@ Earlier UFO fiction often focused on spaceships, alien encounters or military co
 
 The show's mythology repeatedly placed Mulder in pursuit of records rather than creatures. He searched databases, recovered hidden reports, followed paper trails and encountered evidence that appeared incomplete or deliberately obscured. The document itself became a narrative device. A file suggested that someone, somewhere, already knew the truth. The mystery was not whether information existed but why access to it was restricted.
 
-This idea resonated because it mirrored real-world UFO investigations. Since the Cold War, public interest in UFOs has been closely tied to official records. The US Air Force's [Project Blue Book]({{ 'blue-book/' | relative_url }}) generated thousands of pages of case files, while British Ministry of Defence UFO reports accumulated in government archives. Decades later, the release of these records created public fascination not merely because of what they contained but because they had once been secret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+This idea resonated because it mirrored real-world UFO investigations. Since the Cold War, public interest in UFOs has been closely tied to official records. The US Air Force's [Project Blue Book]({{ 'blue-book/' | relative_url }}) generated thousands of pages of case files, while British Ministry of Defence UFO reports accumulated in government archives. Decades later, the release of these records created public fascination not merely because of what they contained but because they had once been secret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 By treating government paperwork as a source of mystery, *The X-Files* gave UFO stories a material form. A document looked tangible, official and authentic even when its contents remained uncertain.
 
@@ -305,7 +305,7 @@ A fully explained mystery often ends a story. A redacted document does the oppos
 
 Black bars across text imply that information exists but remains hidden. Viewers are invited to imagine what lies beneath the missing words. This is psychologically powerful because the audience participates in constructing the mystery. The unknown becomes more compelling than a complete explanation.
 
-Real government records frequently contain such redactions. Contemporary UAP and UFO collections released through national archives continue to include withheld sections where agencies judge information sensitive or exempt from disclosure. Freedom of Information Act releases have long accustomed the public to seeing pages marked by omissions and censorship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</span></span></span>
+Real government records frequently contain such redactions. Contemporary UAP and UFO collections released through national archives continue to include withheld sections where agencies judge information sensitive or exempt from disclosure. Freedom of Information Act releases have long accustomed the public to seeing pages marked by omissions and censorship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</span></span></span>
 
 *The X-Files* recognised the dramatic value of this visual language. A heavily censored report signalled three things simultaneously:
 
@@ -357,7 +357,7 @@ In traditional investigations, absent evidence weakens a claim. In conspiracy-or
 
 *The X-Files* repeatedly dramatised this inversion. Characters would discover erased records, encounter sealed government repositories or learn that relevant documents had been removed. Rather than ending the investigation, these discoveries deepened it.
 
-Real UFO culture contains many comparable examples. Public interest has often focused on supposedly lost records, withheld military documents and disputed archives. The continuing fascination with declassified UFO material reflects not only what is released but also what remains unavailable. Researchers, journalists and enthusiasts frequently scrutinise redactions, classification decisions and gaps in documentary records for clues about official knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blackvault.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackvault.com">[Black Vault+2Fox &amp; Howard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackvault.com</span><span class="citation-popover-title">Black Vault The Black Vault – Document Archive</span><span class="citation-popover-snippet">Black VaultThe Black Vault – Document Archive - The Black VaultMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Real UFO culture contains many comparable examples. Public interest has often focused on supposedly lost records, withheld military documents and disputed archives. The continuing fascination with declassified UFO material reflects not only what is released but also what remains unavailable. Researchers, journalists and enthusiasts frequently scrutinise redactions, classification decisions and gaps in documentary records for clues about official knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.blackvault.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackvault.com">[blackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackvault.com</span><span class="citation-popover-title">Black Vault The Black Vault – Document Archive</span><span class="citation-popover-snippet">Black VaultThe Black Vault – Document Archive - The Black VaultMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 The dramatic lesson absorbed by audiences was subtle but powerful: missing information could be interpreted as a trace of hidden information. In narrative terms, absence became presence.
 
@@ -371,201 +371,201 @@ This did not make UFO claims more scientifically credible. Instead, it made them
 
 Because viewers already knew that classified records, Freedom of Information requests and declassified archives were real phenomena, *The X-Files* could present extraordinary possibilities through familiar forms. The file folder became a bridge between documented reality and speculative fiction.
 
-That was the programme's enduring innovation. It transformed paperwork into mystery and bureaucracy into suspense. In the process, it helped establish one of the defining features of the modern UFO cover-up myth: the feeling that the most persuasive evidence is often the evidence that cannot quite be seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</span></span></span>
+That was the programme's enduring innovation. It transformed paperwork into mystery and bureaucracy into suspense. In the process, it helped establish one of the defining features of the modern UFO cover-up myth: the feeling that the most persuasive evidence is often the evidence that cannot quite be seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CUWIARQtFuQ" title="16 X-FILES Production Secrets That Made The Show LEGENDARY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CUWIARQtFuQ" target="_blank" rel="noopener noreferrer">16 X-FILES Production Secrets That Made The Show LEGENDARY</a></p><p class="youtube-embed-meta">Channel: Late Night Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CUWIARQtFuQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CUWIARQtFuQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why missing files felt like evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why missing files felt like evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Written by Blue Book&#x27;s first director and closely tied to the topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by Blue Book&#x27;s first director and closely tied to the topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
-        </h4>
-        <p class="fr-book-author">By Jesse Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The United States of Paranoia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A7PtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The United States of Paranoia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Paranoia">The United States of Paranoia</a>
+</h4>
+<p class="fr-book-author">By Jesse Walker</p>
         
-        <p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how conspiracy narratives became embedded in American culture, matching the article&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+United+States+of+Paranoia+by+Jesse+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Hynek was Blue Book&#x27;s scientific consultant and a key historical figure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Hynek was Blue Book&#x27;s scientific consultant and a key historical figure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Philosophy+of+The+X-Files+by+Dean+Kowalski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Philosophy of The X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YcNvyyEqfMAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Philosophy of The X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Philosophy+of+The+X-Files+by+Dean+Kowalski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Philosophy of The X-Files">The Philosophy of The X-Files</a>
-        </h4>
-        <p class="fr-book-author">By Dean Kowalski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Philosophy+of+The+X-Files+by+Dean+Kowalski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Philosophy of The X-Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YcNvyyEqfMAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Philosophy of The X-Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Philosophy+of+The+X-Files+by+Dean+Kowalski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Philosophy of The X-Files">The Philosophy of The X-Files</a>
+</h4>
+<p class="fr-book-author">By Dean Kowalski</p>
         
-        <p class="fr-book-desc">Explores truth, skepticism, authority, evidence, and belief within The X-Files mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Philosophy+of+The+X-Files+by+Dean+Kowalski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores truth, skepticism, authority, evidence, and belief within The X-Files mythology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Philosophy+of+The+X-Files+by+Dean+Kowalski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Paranoia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Paranoia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Memorabilia A4 Vintage Magazine Poster"><img src="{{ '/assets/images/marketplace-covers/b47b2607f628cfda94f4.jpg' | relative_url }}" alt="Listing image for The X-Files Memorabilia A4 Vintage Magazine Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Memorabilia A4 Vintage Magazine Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Memorabilia A4 Vintage Magazine Poster"><img src="{{ '/assets/images/marketplace-covers/b47b2607f628cfda94f4.jpg' | relative_url }}" alt="Listing image for The X-Files Memorabilia A4 Vintage Magazine Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Memorabilia A4 Vintage Magazine Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6d32fac58a7b8813b2f2.jpg' | relative_url }}" alt="Listing image for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia"><img src="{{ '/assets/images/marketplace-covers/6d32fac58a7b8813b2f2.jpg' | relative_url }}" alt="Listing image for The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Postcard Book: Unexplained Phenomena Book 1 997 Complete Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files - 3D Shop Display Collection Sign Collectors Display"><img src="{{ '/assets/images/marketplace-covers/ed2f7e16c7b0bf9d073f.jpg' | relative_url }}" alt="Listing image for The X Files - 3D Shop Display Collection Sign Collectors Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X Files - 3D Shop Display Collection Sign Collectors Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files - 3D Shop Display Collection Sign Collectors Display"><img src="{{ '/assets/images/marketplace-covers/ed2f7e16c7b0bf9d073f.jpg' | relative_url }}" alt="Listing image for The X Files - 3D Shop Display Collection Sign Collectors Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X Files - 3D Shop Display Collection Sign Collectors Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1"><img src="{{ '/assets/images/marketplace-covers/ff8d557e5edfa8b036e0.jpg' | relative_url }}" alt="Listing image for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1"><img src="{{ '/assets/images/marketplace-covers/ff8d557e5edfa8b036e0.jpg' | relative_url }}" alt="Listing image for The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The X-Files Script- Squeeze &amp; Tooms- Signed- Autograph Reprints- 2 in 1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for x files memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: x files memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=x+files+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="x files memorabilia" data-ebay-reference="redacted-files-why-missing-files-felt-like-evidence-relationships-betwee-x-files-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ That was the programme's enduring innovation. It transformed paperwork into myst
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ That was the programme's enduring innovation. It transformed paperwork into myst
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ That was the programme's enduring innovation. It transformed paperwork into myst
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ That was the programme's enduring innovation. It transformed paperwork into myst
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ That was the programme's enduring innovation. It transformed paperwork into myst
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,105 +771,105 @@ That was the programme's enduring innovation. It transformed paperwork into myst
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
+   Link:<a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/r/C13442620" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C13442620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital copy of DEFE 24/2450: UFOs: Freedom of Information (FOI) requests; with redactions | The National Archives...</p></details>
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/r/C13442620" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/r/C13442620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital copy of DEFE 24/2450: UFOs: Freedom of Information (FOI) requests; with redactions | The National Archives...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blackvault.com  
    Title: Black Vault The Black Vault – Document Archive  
-   Link: <a href="https://www.blackvault.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackvault.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Black VaultThe Black Vault – Document Archive - The Black VaultMay 11, 2026...</p></details>
+   Link:<a href="https://www.blackvault.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackvault.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black VaultThe Black Vault – Document Archive - The Black VaultMay 11, 2026...</p></details>
    Published: May 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: foxandhoward.co.uk  
    Title: Fox & Howard The UFO Files  
-   Link: <a href="https://foxandhoward.co.uk/book/the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://foxandhoward.co.uk/book/the-ufo-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox &amp; HowardThe UFO Files - Fox &amp; Howard...</p></details>
+   Link:<a href="https://foxandhoward.co.uk/book/the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://foxandhoward.co.uk/book/the-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fox &amp; HowardThe UFO Files - Fox &amp; Howard...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nypost.com  
    Title: Newly released secret government files detail UFO encounter with 13 fighter jets  
-   Link: <a href="https://nypost.com/2026/05/22/us-news/newly-released-secret-government-files-detail-ufo-encounter-with-13-fighter-jets/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/22/us-news/newly-released-secret-government-files-detail-ufo-encounter-with-13-fighter-jets/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These records, marked &quot;TOP SECRET UMBRA,&quot; were disclosed by the Disclosure Foundation following a successful Freedom of Information Act a...</p></details>
+   Link:<a href="https://nypost.com/2026/05/22/us-news/newly-released-secret-government-files-detail-ufo-encounter-with-13-fighter-jets/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/22/us-news/newly-released-secret-government-files-detail-ufo-encounter-with-13-fighter-jets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These records, marked &quot;TOP SECRET UMBRA,&quot; were disclosed by the Disclosure Foundation following a successful Freedom of Information Act a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: www.reddit.com Revealed: the guide the Mo D uses to keep its secrets … secret  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j6rvbv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j6rvbv</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.comRevealed: the guide the MoD uses to keep its secrets … secret - Files deemed sensitive in 144-page manual include those dea...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1j6rvbv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j6rvbv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.comRevealed: the guide the MoD uses to keep its secrets … secret - Files deemed sensitive in 144-page manual include those dea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/XFiles/comments/p0nu03" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/p0nu03</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anyone know if there are any planned sequels to the official archives book?August 8, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/XFiles/comments/p0nu03" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/p0nu03</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anyone know if there are any planned sequels to the official archives book?August 8, 2021...</p></details>
    Published: August 8, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Have you seen them? New declassified UFO files released  
-   Link: <a href="https://www.youtube.com/watch?v=PrMkp9TGAks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PrMkp9TGAks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO files paint &#x27;very clear&#x27; picture of alien contact | NewsNation Prime...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PrMkp9TGAks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PrMkp9TGAks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO files paint &#x27;very clear&#x27; picture of alien contact | NewsNation Prime...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: 16 X-FILES Production Secrets That Made The Show LEGENDARY  
-   Link: <a href="https://www.youtube.com/watch?v=CUWIARQtFuQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CUWIARQtFuQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen them? New declassified UFO files released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CUWIARQtFuQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CUWIARQtFuQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you seen them? New declassified UFO files released...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: www.reddit.com TH E TRUTH IS  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/ew17xn" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ew17xn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRUTH IS - NOT - IN HERE...January 30, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/ew17xn" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ew17xn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TRUTH IS - NOT - IN HERE...January 30, 2020...</p></details>
    Published: January 30, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: foxnews.com  
    Title: Fox News UFO intrigue: How the UK dealt with 'real-life X-Files' | Fox News  
-   Link: <a href="https://www.foxnews.com/science/ufo-intrigue-how-the-uk-dealt-with-real-life-x-files.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/ufo-intrigue-how-the-uk-dealt-with-real-life-x-files.amp</a>  
+   Link:<a href="https://www.foxnews.com/science/ufo-intrigue-how-the-uk-dealt-with-real-life-x-files.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/ufo-intrigue-how-the-uk-dealt-with-real-life-x-files.amp</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: www.reddit.com Is there any legit X-Files?  
-   Link: <a href="https://www.reddit.com/r/XFiles/comments/1dfb5in" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/1dfb5in</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>there any legit X-Files?June 13, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/XFiles/comments/1dfb5in" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/XFiles/comments/1dfb5in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>there any legit X-Files?June 13, 2024...</p></details>
    Published: June 13, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: New UFO files paint 'very clear' picture of alien contact | News Nation Prime  
-   Link: <a href="https://www.youtube.com/watch?v=4Hyx1i9Qppg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Hyx1i9Qppg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4Hyx1i9Qppg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Hyx1i9Qppg</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: books.google.com  
    Title: The UFO Files: The Inside Story of Real-life Sightings  
-   Link: <a href="https://books.google.com/books/about/The_UFO_Files.html?id=51nCAwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_UFO_Files.html?id=51nCAwAAQBAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Clarke - Google BooksSeptember 15, 2009...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_UFO_Files.html?id=51nCAwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_UFO_Files.html?id=51nCAwAAQBAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Clarke - Google BooksSeptember 15, 2009...</p></details>
    Published: September 15, 2009  

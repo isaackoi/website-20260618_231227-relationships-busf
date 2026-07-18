@@ -451,27 +451,27 @@ Before UFO stories travelled through online feeds, they moved through radio bull
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40-overview.webp" | relative_url }}" alt="Overview image for Radio Rumors" loading="eager" decoding="sync" fetchpriority="high">
-The pattern was visible from the start of the modern UFO era in 1947. Kenneth Arnold’s report near Mount Rainier became a press and radio event within days, and the phrase “flying saucer” gave scattered sightings a shared name. Once that label existed, repetition did cultural work: each new report seemed to confirm the last, even when the evidence remained fragmentary, mistaken, playful or unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
+The pattern was visible from the start of the modern UFO era in 1947. Kenneth Arnold’s report near Mount Rainier became a press and radio event within days, and the phrase “flying saucer” gave scattered sightings a shared name. Once that label existed, repetition did cultural work: each new report seemed to confirm the last, even when the evidence remained fragmentary, mistaken, playful or unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
 ## Radio made UFO stories feel immediate
 
-Radio mattered in early UFO culture because it could make distant events feel present. A newspaper story had to be printed, distributed and read; a radio bulletin could interrupt ordinary life and arrive as a voice in the room. By the late 1930s and 1940s, Americans already understood radio as a medium that could blur entertainment, emergency reporting and public anxiety. The most famous pre-UFO example was Orson Welles’s 1938 adaptation of *The War of the Worlds*, which used music interrupted by mock news bulletins to dramatise a Martian invasion. The National Archives notes that CBS identified the broadcast as drama several times, but many listeners still contacted police, newspapers, radio stations and the Federal Communications Commission because the format sounded like urgent news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/publications/prologue/2003/fall/war-of-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives“Jitterbugs” and “Crack-pots”</span><span class="citation-popover-snippet">National Archives“Jitterbugs” and “Crack-pots”</span></span></span>
+Radio mattered in early UFO culture because it could make distant events feel present. A newspaper story had to be printed, distributed and read; a radio bulletin could interrupt ordinary life and arrive as a voice in the room. By the late 1930s and 1940s, Americans already understood radio as a medium that could blur entertainment, emergency reporting and public anxiety. The most famous pre-UFO example was Orson Welles’s 1938 adaptation of *The War of the Worlds*, which used music interrupted by mock news bulletins to dramatise a Martian invasion. The National Archives notes that CBS identified the broadcast as drama several times, but many listeners still contacted police, newspapers, radio stations and the Federal Communications Commission because the format sounded like urgent news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/publications/prologue/2003/fall/war-of-worlds.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives“Jitterbugs” and “Crack-pots”</span><span class="citation-popover-snippet">National Archives“Jitterbugs” and “Crack-pots”</span></span></span>
 
-That does not mean the 1938 broadcast simply “caused” UFO belief in 1947. The connection is subtler. *The War of the Worlds* showed that science-fictional material could travel through a trusted news-like form, and that listeners might test frightening or astonishing information by ringing newspapers, authorities and acquaintances. The Library of Congress has also noted that later accounts helped mythologise the scale of the panic, with sensational newspaper coverage helping to establish the idea that radio could produce mass belief almost instantly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">lcm page from the past war of the worlds</span><span class="citation-popover-snippet">lcm page from the past war of the worlds</span></span></span>
+That does not mean the 1938 broadcast simply “caused” UFO belief in 1947. The connection is subtler. *The War of the Worlds* showed that science-fictional material could travel through a trusted news-like form, and that listeners might test frightening or astonishing information by ringing newspapers, authorities and acquaintances. The Library of Congress has also noted that later accounts helped mythologise the scale of the panic, with sensational newspaper coverage helping to establish the idea that radio could produce mass belief almost instantly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.loc.gov</span><span class="citation-popover-title">lcm page from the past war of the worlds</span><span class="citation-popover-snippet">lcm page from the past war of the worlds</span></span></span>
 
 By the time “flying [saucers]({{ 'saucers/' | relative_url }})” entered public language, radio had already taught audiences a habit of reception: a voice reporting strange events from somewhere else could feel like evidence, especially when it sounded topical and was repeated by respectable outlets. Science fiction did not need to be named openly. The format itself carried expectations of invasion, secret weapons, Martians, cosmic danger and emergency knowledge.
 
-The Arnold case shows the speed of this process. The Smithsonian National Air and Space Museum records that a radio host interviewing Arnold on 26 June 1947 remarked that the Associated Press and United Press were pursuing the story across the country, that it had been “on every newscast” and in every newspaper he knew of. In other words, Arnold’s sighting had already become a circulating media event before many listeners could have read a full account for themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
+The Arnold case shows the speed of this process. The Smithsonian National Air and Space Museum records that a radio host interviewing Arnold on 26 June 1947 remarked that the Associated Press and United Press were pursuing the story across the country, that it had been “on every newscast” and in every newspaper he knew of. In other words, Arnold’s sighting had already become a circulating media event before many listeners could have read a full account for themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40-Illustration-1-dark.svg" | relative_url }}" alt="Radio Rumors illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1947 saucer wave was a media chain reaction
 
-Kenneth Arnold reported seeing nine bright, fast-moving objects near Mount Rainier on 24 June 1947. He described their motion as like saucers skipping across water, but press language quickly hardened into “flying saucers” and “flying discs”. The Smithsonian stresses that Arnold spent much of his later life trying to explain what he had meant, while the public inherited a simpler image: disc-shaped craft in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
+Kenneth Arnold reported seeing nine bright, fast-moving objects near Mount Rainier on 24 June 1947. He described their motion as like saucers skipping across water, but press language quickly hardened into “flying saucers” and “flying discs”. The Smithsonian stresses that Arnold spent much of his later life trying to explain what he had meant, while the public inherited a simpler image: disc-shaped craft in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
-The important point for rumour history is not just whether Arnold saw aircraft, birds, atmospheric effects or something unexplained. It is that a vivid phrase gave later reports a ready-made form. Once newspapers and newscasts repeated “flying saucers”, witnesses had a category into which [ambiguous lights]({{ 'ambiguous-lights/' | relative_url }}), reflections, balloons, aircraft and jokes could be placed. Time’s account of the cultural aftermath puts the mechanism plainly: by early July 1947, newspapers were reporting hundreds of flying-saucer claims across the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span></span></span>
+The important point for rumour history is not just whether Arnold saw aircraft, birds, atmospheric effects or something unexplained. It is that a vivid phrase gave later reports a ready-made form. Once newspapers and newscasts repeated “flying saucers”, witnesses had a category into which [ambiguous lights]({{ 'ambiguous-lights/' | relative_url }}), reflections, balloons, aircraft and jokes could be placed. Time’s account of the cultural aftermath puts the mechanism plainly: by early July 1947, newspapers were reporting hundreds of flying-saucer claims across the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span></span></span>
 
-The wave was not a slow accumulation of case files. It was an event-time window: a few crowded weeks in which sightings, corrections, [hoaxes]({{ 'hoaxes/' | relative_url }}), military comments and local memories were bundled together by the press. The broad 1947 flying-disc craze is commonly described as beginning with Arnold’s report, spreading through national media, peaking around 7 July and declining soon after as hoaxes and mundane [explanations]({{ 'explanations/' | relative_url }}) accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+The wave was not a slow accumulation of case files. It was an event-time window: a few crowded weeks in which sightings, corrections, [hoaxes]({{ 'hoaxes/' | relative_url }}), military comments and local memories were bundled together by the press. The broad 1947 flying-disc craze is commonly described as beginning with Arnold’s report, spreading through national media, peaking around 7 July and declining soon after as hoaxes and mundane [explanations]({{ 'explanations/' | relative_url }}) accumulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 That compression made the [saucer wave]({{ 'saucer-wave/' | relative_url }}) feel more coherent than it really was. A carpenter, a pilot, a housewife, a railway worker and an airport employee might each report different things in different places under different viewing conditions. But once those reports appeared under the same headline vocabulary, they seemed to belong to one phenomenon. The category came first, and the evidence was sorted into it afterwards.
 
@@ -482,13 +482,13 @@ That compression made the [saucer wave]({{ 'saucer-wave/' | relative_url }}) fee
 
 Early UFO rumour did not move in one direction from “the media” to “the public”. It moved in loops. Local people spoke to friends, police, sheriffs, reporters, airfields or radio stations. Local papers printed short items. Wire services selected the most interesting reports. National coverage then encouraged more local reporting, because witnesses who might previously have dismissed a strange light now had a public script for it.
 
-This looping process is visible in the 1947 coverage. Newspaper databases and later histories show that after Arnold’s report, papers quickly carried additional claims from Oklahoma City, Kansas City, Eugene, Seattle, El Paso, Silver City, Joliet and other places. These reports were not all equally detailed or credible, but the cumulative effect was powerful: the country appeared to be seeing the same mystery at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+This looping process is visible in the 1947 coverage. Newspaper databases and later histories show that after Arnold’s report, papers quickly carried additional claims from Oklahoma City, Kansas City, Eugene, Seattle, El Paso, Silver City, Joliet and other places. These reports were not all equally detailed or credible, but the cumulative effect was powerful: the country appeared to be seeing the same mystery at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-Roswell illustrates the same mechanism from a different angle. Rancher W. W. “Mac” Brazel found debris in New Mexico in July 1947, and later accounts emphasise that he had initially been relatively isolated from the flying-disc craze. Time’s historical account notes that Brazel had no radio in his ranch shack and only became aware of the saucer reports when he went into town. The famous Roswell story then entered the media cycle through local authorities and Roswell Army Air Field’s press release, which briefly announced the recovery of a “flying disc” before the explanation shifted to balloon debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">did aliens really land</span></span></span>
+Roswell illustrates the same mechanism from a different angle. Rancher W. W. “Mac” Brazel found debris in New Mexico in July 1947, and later accounts emphasise that he had initially been relatively isolated from the flying-disc craze. Time’s historical account notes that Brazel had no radio in his ranch shack and only became aware of the saucer reports when he went into town. The famous Roswell story then entered the media cycle through local authorities and Roswell Army Air Field’s press release, which briefly announced the recovery of a “flying disc” before the explanation shifted to balloon debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">did aliens really land</span><span class="citation-popover-snippet">did aliens really land</span></span></span>
 
 This is why local talk mattered. Rumour did not require everyone to hear the same broadcast at the same moment. It required enough contact points: a rancher hearing town talk, a sheriff contacting a base, a public information officer issuing a statement, a paper printing a headline, another station repeating it. Each step added a layer of authority, even when later evidence weakened the extraordinary interpretation.
 
-The Air Force’s later Roswell reports identified the debris with classified balloon work rather than a spacecraft, but the original 1947 media sequence had already done lasting cultural work. A local discovery had briefly passed through official language as a “disc”, and that was enough for later UFO culture to treat the episode as a foundational rumour of concealment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">AFD 101201 038</span><span class="citation-popover-snippet">AFD 101201 038</span></span></span>
+The Air Force’s later Roswell reports identified the debris with classified balloon work rather than a spacecraft, but the original 1947 media sequence had already done lasting cultural work. A local discovery had briefly passed through official language as a “disc”, and that was enough for later UFO culture to treat the episode as a foundational rumour of concealment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-title">AFD 101201 038</span><span class="citation-popover-snippet">AFD 101201 038</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40-Illustration-2-dark.svg" | relative_url }}" alt="Radio Rumors illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_radio_rumor_ufo_bd4a40-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -496,7 +496,7 @@ The Air Force’s later Roswell reports identified the debris with classified ba
 
 Repetition is not the same as verification, but in early UFO culture it often felt like it. A single odd sighting could be dismissed as a mistake. Ten similar-sounding reports in different newspapers could feel like corroboration. The catch was that similarity might come from the shared media label rather than from the objects themselves.
 
-The phrase “flying saucer” is the clearest example. Arnold’s description was mediated through reporters, headline writers and radio discussion; after that, later witnesses and readers encountered the phrase as if it named a real class of object. Journalism scholars Phillip Hutchison and Herbert Strentz argue that early American news organisations were deeply involved in creating and perpetuating the flying-saucer label, and that UFO reportage developed in a mutually reinforcing relationship with entertainment culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
+The phrase “flying saucer” is the clearest example. Arnold’s description was mediated through reporters, headline writers and radio discussion; after that, later witnesses and readers encountered the phrase as if it named a real class of object. Journalism scholars Phillip Hutchison and Herbert Strentz argue that early American news organisations were deeply involved in creating and perpetuating the flying-saucer label, and that UFO reportage developed in a mutually reinforcing relationship with entertainment culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Open source on tandfonline.com.</span></span></span>
 
 This does not mean every report was invented by journalists. It means that journalism supplied the sorting frame. Once a national audience had heard that “saucers” were being seen, later ambiguous experiences were more likely to be remembered, reported and edited in saucer-like terms. A witness might say “round”, “shiny”, “fast”, “flat”, “disc-like”, “like a plate” or simply “strange”; the headline could make those variations look more uniform than they were.
 
@@ -518,13 +518,13 @@ This is where UFO culture and science fiction came closest without becoming iden
 
 ## Radio and newspapers shaped official concern too
 
-Government interest in early UFOs was not only concern about objects in the sky. It was also concern about reports, public pressure and communication overload. [Project Blue Book]({{ 'blue-book/' | relative_url }}), the best-known United States Air Force UFO investigation, later became the public face of official UFO inquiry; the National Archives notes that its records were declassified and that the project closed in 1969. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Government interest in early UFOs was not only concern about objects in the sky. It was also concern about reports, public pressure and communication overload. [Project Blue Book]({{ 'blue-book/' | relative_url }}), the best-known United States Air Force UFO investigation, later became the public face of official UFO inquiry; the National Archives notes that its records were declassified and that the project closed in 1969.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The media problem became especially clear after the 1952 Washington, D.C. sightings, when radar returns and visual reports over the capital produced intense public attention. The CIA-sponsored Robertson Panel, convened in January 1953, concluded that UFOs did not appear to be a direct national-security threat, but that public excitement could create an indirect threat by clogging communication channels and weakening the ability to recognise real hostile activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The media problem became especially clear after the 1952 Washington, D.C. sightings, when radar returns and visual reports over the capital produced intense public attention. The CIA-sponsored Robertson Panel, convened in January 1953, concluded that UFOs did not appear to be a direct national-security threat, but that public excitement could create an indirect threat by clogging communication channels and weakening the ability to recognise real hostile activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 That finding is important for understanding rumour. Officials were not simply asking, “Are saucers real craft?” They were also asking, “What happens when thousands of people believe saucers may be real craft?” In a Cold War setting of air defence, radar networks, atomic anxiety and secret aircraft, mass reporting could itself become a practical problem. A false alarm still used phones, operators, military attention and newspaper space.
 
-The Robertson Panel’s recommendation for public education and debunking also shows how closely UFOs were tied to media management. It suggested reducing the “aura of mystery” around UFOs through public information, mass media and training, precisely because repeated mysterious coverage made the subject feel larger and more threatening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How UFO Sightings Became an American Obsession</span><span class="citation-popover-snippet">How UFO Sightings Became an American Obsession</span></span></span>
+The Robertson Panel’s recommendation for public education and debunking also shows how closely UFOs were tied to media management. It suggested reducing the “aura of mystery” around UFOs through public information, mass media and training, precisely because repeated mysterious coverage made the subject feel larger and more threatening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">How UFO Sightings Became an American Obsession</span><span class="citation-popover-snippet">How UFO Sightings Became an American Obsession</span></span></span>
 
 That official response fed a further rumour loop. When authorities tried to calm public interest, UFO believers often read calm as concealment. When officials said reports were misidentifications, sceptics heard mundane explanation, while believers heard dismissal. Radio and newspapers had made UFOs public; official attempts to manage the story made the management itself part of the story.
 
@@ -534,7 +534,7 @@ That official response fed a further rumour loop. When authorities tried to calm
 
 Early UFO rumours spread so quickly because they arrived in a culture already prepared to imagine strange aerial visitors. By 1947, audiences had absorbed decades of fiction about Mars, rockets, alien invasion, advanced machines and future war. Radio had brought some of those ideas into living rooms in especially vivid form, and newspapers had already learned that stories about cosmic danger could sell.
 
-The Library of Congress connects flying-saucer culture to older speculation about life on other worlds and to Cold War fears that made hidden visitors or secret threats especially resonant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span> The key point is not that science fiction made people hallucinate saucers. It is that science fiction gave people a mental menu of explanations when ordinary categories seemed inadequate.
+The Library of Congress connects flying-saucer culture to older speculation about life on other worlds and to Cold War fears that made hidden visitors or secret threats especially resonant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span> The key point is not that science fiction made people hallucinate saucers. It is that science fiction gave people a mental menu of explanations when ordinary categories seemed inadequate.
 
 In 1947, many early explanations were not alien-centred. Some reports were discussed as possible secret aircraft, guided missiles, jet effects, atmospheric phenomena, balloons, hoaxes or mass excitement. Yet even when extraterrestrials were not the first explanation, the language of invasion and advanced non-human technology was close at hand. The science-fiction frame made the question “Could they be from elsewhere?” publicly intelligible.
 
@@ -552,194 +552,194 @@ Radio and newspapers did not merely report UFO culture after it existed. They he
 That pre-digital speed matters for the broader relationship between UFOs and science fiction. It shows that the feedback loop was already mature before television UFO documentaries, online forums or social media. Science fiction supplied some of the imaginative shapes; radio and rumour supplied the circulation system; newspapers supplied the labels; official responses supplied further tension. Together, they turned strange sky reports into one of the twentieth century’s most durable modern myths.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Rumors Spread Before the Internet. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Rumors Spread Before the Internet. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how reports circulated and were investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reports circulated and were investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald E. Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers are Real on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QJzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Flying Saucers are Real" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers are Real">The Flying Saucers are Real</a>
+</h4>
+<p class="fr-book-author">By Donald E. Keyhoe</p>
         
-        <p class="fr-book-desc">Shows how UFO stories spread in early mass media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how UFO stories spread in early mass media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real+by+Donald+E.+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Barkun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Barkun</p>
         
-        <p class="fr-book-desc">Examines rumor, belief, and information networks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines rumor, belief, and information networks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses why repeated stories can seem convincing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses why repeated stories can seem convincing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucers+are+Real&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucers are Real</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display"><img src="{{ '/assets/images/marketplace-covers/3ccfc0d32b189563b8e0.jpg' | relative_url }}" alt="Listing image for UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">UFO Model – Belgium Wave 1989 Triangular UAP Craft | Sci-Fi Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model"><img src="{{ '/assets/images/marketplace-covers/b626ecf0eef6236661c6.jpg' | relative_url }}" alt="Listing image for Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Phoenix Lights UFO Model | 1997 UAP Model Display | UFO Sighting | Display Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift"><img src="{{ '/assets/images/marketplace-covers/e3822e61b859bc0e7376.jpg' | relative_url }}" alt="Listing image for Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">Varginha Alien Bust Display Model – UFO Lore Figure with Red Eyes | Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+display+model+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO display model -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="radio-rumors-how-ufo-rumors-spread-before-the-internet-relationships-betwee-ufo-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -755,7 +755,7 @@ That pre-digital speed matters for the broader relationship between UFOs and sci
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -775,7 +775,7 @@ That pre-digital speed matters for the broader relationship between UFOs and sci
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -807,7 +807,7 @@ That pre-digital speed matters for the broader relationship between UFOs and sci
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -859,7 +859,7 @@ That pre-digital speed matters for the broader relationship between UFOs and sci
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -904,7 +904,7 @@ That pre-digital speed matters for the broader relationship between UFOs and sci
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -945,295 +945,295 @@ That pre-digital speed matters for the broader relationship between UFOs and sci
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives“Jitterbugs” and “Crack-pots”  
-   Link: <a href="https://www.archives.gov/publications/prologue/2003/fall/war-of-worlds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/2003/fall/war-of-worlds.html</a>  
+   Link:<a href="https://www.archives.gov/publications/prologue/2003/fall/war-of-worlds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/2003/fall/war-of-worlds.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: This Is Why People Think UFOs Look Like 'Flying Saucers'  
-   Link: <a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
+   Link:<a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: did aliens really land  
-   Link: <a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
+   Link:<a href="https://time.com/archive/6731010/did-aliens-really-land/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6731010/did-aliens-really-land/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: 0708army announces roswell new mexico ufo sighting  
-   Link: <a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting</a>  
+   Link:<a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dafhistory.af.mil  
    Title: AFD 101201 038  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: How UFO Sightings Became an American Obsession  
-   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
+   Link:<a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: The War of the Worlds (1938 radio drama)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_War_of_the_Worlds_%281938_radio_drama%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: The War of the Worlds (hoorspel)  
-   Link: <a href="https://nl.wikipedia.org/wiki/The_War_of_the_Worlds_%28hoorspel%29" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/The_War_of_the_Worlds_%28hoorspel%29</a>  
+   Link:<a href="https://nl.wikipedia.org/wiki/The_War_of_the_Worlds_%28hoorspel%29" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/The_War_of_the_Worlds_%28hoorspel%29</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C., UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C.%2C_UFO_incident</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Frank Edwards (writer and broadcaster)  
-   Link: <a href="https://en.wikipedia.org/wiki/Frank_Edwards_%28writer_and_broadcaster%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frank_Edwards_%28writer_and_broadcaster%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Frank_Edwards_%28writer_and_broadcaster%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Frank_Edwards_%28writer_and_broadcaster%29</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100030027 0  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newspapers.com  
    Title: corvallis gazette times kenneth arnold u  
-   Link: <a href="https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/</a>  
+   Link:<a href="https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/commerce.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/commerce.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/commerce.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/commerce.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/agriculture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/agriculture.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/agriculture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/agriculture.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
+   Link:<a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: history.com  
    Title: ufos washington dc news reports  
-   Link: <a href="https://www.history.com/articles/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-washington-dc-news-reports</a>  
+   Link:<a href="https://www.history.com/articles/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-washington-dc-news-reports</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-[Unidentified</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-[Unidentified</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956</a>  
+   Link:<a href="https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Orson Welles  
-   Link: <a href="https://www.youtube.com/watch?v=Xs0K4ApWl4g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xs0K4ApWl4g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 1 | War of the Worlds | AMERICAN EXPERIENCE | PBS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xs0K4ApWl4g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xs0K4ApWl4g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 1 | War of the Worlds | AMERICAN EXPERIENCE | PBS...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: War Of The Worlds  
-   Link: <a href="https://www.youtube.com/watch?v=9q7tN7MhQ4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9q7tN7MhQ4I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9q7tN7MhQ4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9q7tN7MhQ4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: blogs.loc.gov  
    Title: lcm page from the past war of the worlds  
-   Link: <a href="https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/</a>  
+   Link:<a href="https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418</a>  
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08821127.2019.1602418</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: loc.gov  
    Title: april 2025 collections connections  
-   Link: <a href="https://www.loc.gov/nls/new-materials/collections-connections/april-2025-collections-connections/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/nls/new-materials/collections-connections/april-2025-collections-connections/</a>  
+   Link:<a href="https://www.loc.gov/nls/new-materials/collections-connections/april-2025-collections-connections/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/nls/new-materials/collections-connections/april-2025-collections-connections/</a>  
    Published: april 2025  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TheWaroftheWorlds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TheWaroftheWorlds.pdf</a>  
+   Link:<a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TheWaroftheWorlds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/TheWaroftheWorlds.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: loc.gov  
    Title: LCM 2016 0708  
-   Link: <a href="https://loc.gov/lcm/pdf/LCM_2016_0708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://loc.gov/lcm/pdf/LCM_2016_0708.pdf</a>  
+   Link:<a href="https://loc.gov/lcm/pdf/LCM_2016_0708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://loc.gov/lcm/pdf/LCM_2016_0708.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: blogs.loc.gov  
    Title: halloween heartthrob the chicken heart that gobbled up the globe  
-   Link: <a href="https://blogs.loc.gov/loc/2024/10/halloween-heartthrob-the-chicken-heart-that-gobbled-up-the-globe/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/loc/2024/10/halloween-heartthrob-the-chicken-heart-that-gobbled-up-the-globe/</a>  
+   Link:<a href="https://blogs.loc.gov/loc/2024/10/halloween-heartthrob-the-chicken-heart-that-gobbled-up-the-globe/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/loc/2024/10/halloween-heartthrob-the-chicken-heart-that-gobbled-up-the-globe/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/programs/national-film-preservation-board/film-registry/films-not-yet-named-to-the-registry/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-film-preservation-board/film-registry/films-not-yet-named-to-the-registry/</a>  
+   Link:<a href="https://www.loc.gov/programs/national-film-preservation-board/film-registry/films-not-yet-named-to-the-registry/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/programs/national-film-preservation-board/film-registry/films-not-yet-named-to-the-registry/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/87/69/2021758769/2021758769.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/87/69/2021758769/2021758769.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/87/69/2021758769/2021758769.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/87/69/2021758769/2021758769.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/47/40/05/2019474005/2019474005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/47/40/05/2019474005/2019474005.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/47/40/05/2019474005/2019474005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/47/40/05/2019474005/2019474005.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/master/pnp/habshaer/id/id0200/id0249/data/id0249data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/pnp/habshaer/id/id0200/id0249/data/id0249data.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/master/pnp/habshaer/id/id0200/id0249/data/id0249data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/pnp/habshaer/id/id0200/id0249/data/id0249data.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/84/17/2021758417/2021758417.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/84/17/2021758417/2021758417.pdf</a>  
+   Link:<a href="https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/84/17/2021758417/2021758417.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/84/17/2021758417/2021758417.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: airandspace.si.edu  
    Title: reports ufos 1947 roswell incident  
-   Link: <a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
+   Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/14794012.2014.928032" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14794012.2014.928032</a>  
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/14794012.2014.928032" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14794012.2014.928032</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/WarOfTheWorlds1938RadioBroadcast256kbps" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/WarOfTheWorlds1938RadioBroadcast256kbps</a>  
+   Link:<a href="https://archive.org/details/WarOfTheWorlds1938RadioBroadcast256kbps" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/WarOfTheWorlds1938RadioBroadcast256kbps</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: bookriot.com  
    Title: war of the worlds  
-   Link: <a href="https://bookriot.com/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://bookriot.com/war-of-the-worlds/</a>  
+   Link:<a href="https://bookriot.com/war-of-the-worlds/" target="_blank" rel="noopener noreferrer nofollow">https://bookriot.com/war-of-the-worlds/</a>  
 
 ### Additional References
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WP1RCBV7axk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WP1RCBV7axk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WP1RCBV7axk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WP1RCBV7axk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
    Published: July 1947  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bretHCA89bQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bretHCA89bQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News Radio flashback: Orson Welles&#x27; 1938 &quot;War of the Worlds&quot; broadcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bretHCA89bQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bretHCA89bQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News Radio flashback: Orson Welles&#x27; 1938 &quot;War of the Worlds&quot; broadcast...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
    Title: HISTORY OF UFOs AND ALIENS COMPILATION  
-   Link: <a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: Chapter 1 | War of the Worlds | AMERICAN EXPERIENCE | PBS  
-   Link: <a href="https://www.youtube.com/watch?v=9ZMW69kgrD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ZMW69kgrD8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1938) – Orson Welles&#x27; Legendary Radio Broadcast | Full Audio &amp; AI Visuals...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9ZMW69kgrD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ZMW69kgrD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War of the Worlds (1938) – Orson Welles&#x27; Legendary Radio Broadcast | Full Audio &amp; AI Visuals...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0jyvCrvVWNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jyvCrvVWNc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the 1947 UFO Craze and Flying Saucers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0jyvCrvVWNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jyvCrvVWNc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of the 1947 UFO Craze and Flying Saucers...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: The War Of The Worlds: The Original  
-   Link: <a href="https://www.youtube.com/watch?v=crPGFZiFjfs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=crPGFZiFjfs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=crPGFZiFjfs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=crPGFZiFjfs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
    Published: October 30, 1938  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: neh.gov  
-   Link: <a href="https://www.neh.gov/article/fake-news-orson-welles-war-worlds-80" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/article/fake-news-orson-welles-war-worlds-80</a>  
+   Link:<a href="https://www.neh.gov/article/fake-news-orson-welles-war-worlds-80" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/article/fake-news-orson-welles-war-worlds-80</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
    Title: Where Did The Term 'Flying Saucer' Come From? | Mossback's Northwest  
-   Link: <a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Roswell UFO Incident of 1947...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ap0whDDDU1Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Roswell UFO Incident of 1947...</p></details>
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: youtube.com  
    Title: War of the Worlds: The Hoax of a Century  
-   Link: <a href="https://www.youtube.com/watch?v=bTzxle6YE0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bTzxle6YE0k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News Radio flashback: Orson Welles&#x27; 1938 &quot;War of the Worlds&quot; broadcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bTzxle6YE0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bTzxle6YE0k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News Radio flashback: Orson Welles&#x27; 1938 &quot;War of the Worlds&quot; broadcast...</p></details>

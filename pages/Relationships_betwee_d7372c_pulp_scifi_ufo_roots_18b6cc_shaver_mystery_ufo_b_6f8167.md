@@ -274,42 +274,42 @@ image: /assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_sh
 
 ## Introduction
 
-Among the many strange currents running through pre-1947 science-fiction magazines, none blurred the line between fiction and testimony more dramatically than the Shaver Mystery. Published in *[Amazing Stories]({{ 'amazing-stories/' | relative_url }})* under editor Ray Palmer, the series presented Richard Shaver’s tales of ancient underground civilisations, hidden machines and malevolent subterranean beings not simply as entertainment but as reports based on real experiences. Readers were encouraged to treat the stories as possible revelations rather than straightforward fiction. That ambiguity mattered. Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became a national news story, the Shaver Mystery created a publishing model in which extraordinary claims, personal testimony, editorial endorsement and reader participation mixed together. When the UFO wave erupted in June 1947, many of the cultural habits associated with later saucer belief were already visible in miniature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
+Among the many strange currents running through pre-1947 science-fiction magazines, none blurred the line between fiction and testimony more dramatically than the Shaver Mystery. Published in *[Amazing Stories]({{ 'amazing-stories/' | relative_url }})* under editor Ray Palmer, the series presented Richard Shaver’s tales of ancient underground civilisations, hidden machines and malevolent subterranean beings not simply as entertainment but as reports based on real experiences. Readers were encouraged to treat the stories as possible revelations rather than straightforward fiction. That ambiguity mattered. Long before [flying saucers]({{ 'flying-saucer/' | relative_url }}) became a national news story, the Shaver Mystery created a publishing model in which extraordinary claims, personal testimony, editorial endorsement and reader participation mixed together. When the UFO wave erupted in June 1947, many of the cultural habits associated with later saucer belief were already visible in miniature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-1-dark.svg" | relative_url }}" alt="Shaver Mystery illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Richard Shaver, Ray Palmer and hidden underground machines
 
-The Shaver Mystery began when Richard Shaver, a factory worker and aspiring writer, sent unusual material to *Amazing Stories*. He claimed that remnants of an ancient civilisation had retreated underground long ago, leaving behind advanced technologies. According to Shaver, degraded descendants known as “Deros” used hidden machines and harmful rays to torment humanity from vast cavern systems beneath the Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
+The Shaver Mystery began when Richard Shaver, a factory worker and aspiring writer, sent unusual material to *Amazing Stories*. He claimed that remnants of an ancient civilisation had retreated underground long ago, leaving behind advanced technologies. According to Shaver, degraded descendants known as “Deros” used hidden machines and harmful rays to torment humanity from vast cavern systems beneath the Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
 
-Editor Ray Palmer recognised something unusual in the submission. Rather than publishing it as ordinary fiction, he heavily revised and promoted it as material that might contain genuine revelations. The resulting story, “I Remember Lemuria”, appeared in 1945 and triggered an extraordinary response. Palmer continued publishing Shaver material and related stories, increasingly presenting the mystery as something readers should investigate rather than merely enjoy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
+Editor Ray Palmer recognised something unusual in the submission. Rather than publishing it as ordinary fiction, he heavily revised and promoted it as material that might contain genuine revelations. The resulting story, “I Remember Lemuria”, appeared in 1945 and triggered an extraordinary response. Palmer continued publishing Shaver material and related stories, increasingly presenting the mystery as something readers should investigate rather than merely enjoy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
 
-This was the crucial innovation. Earlier pulp magazines had encouraged speculation about future science, lost worlds and alien life, but the Shaver Mystery invited readers to ask a different question: what if these stories were true? Palmer repeatedly blurred editorial categories, presenting alleged evidence, correspondence and commentary alongside narrative material. The result was neither conventional journalism nor conventional fiction. It occupied an unstable middle ground that would later become familiar in UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
+This was the crucial innovation. Earlier pulp magazines had encouraged speculation about future science, lost worlds and alien life, but the Shaver Mystery invited readers to ask a different question: what if these stories were true? Palmer repeatedly blurred editorial categories, presenting alleged evidence, correspondence and commentary alongside narrative material. The result was neither conventional journalism nor conventional fiction. It occupied an unstable middle ground that would later become familiar in UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LDREY4CHk0c" title="Richard Shaver Mystery | Ray Palmer (1977)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LDREY4CHk0c" target="_blank" rel="noopener noreferrer">Richard Shaver Mystery | Ray Palmer (1977)</a></p><p class="youtube-embed-meta">Channel: The Unknown Archive 🇱🇰</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LDREY4CHk0c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LDREY4CHk0c">Open on YouTube</a></p></div></div></div>
 
 ## Reader letters turned a story into a movement
 
-The most important feature of the Shaver Mystery may not have been the stories themselves but the reaction they generated. Readers flooded *Amazing Stories* with letters claiming personal experiences that seemed to support Shaver's claims. Some described [strange lights]({{ 'strange-lights/' | relative_url }}), mysterious voices, harmful rays or encounters with unexplained phenomena. Palmer published many of these accounts, creating the impression that independent witnesses were confirming the mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
+The most important feature of the Shaver Mystery may not have been the stories themselves but the reaction they generated. Readers flooded *Amazing Stories* with letters claiming personal experiences that seemed to support Shaver's claims. Some described [strange lights]({{ 'strange-lights/' | relative_url }}), mysterious voices, harmful rays or encounters with unexplained phenomena. Palmer published many of these accounts, creating the impression that independent witnesses were confirming the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
 
-This feedback loop transformed the magazine. Instead of a one-way relationship between writer and audience, readers became participants. Personal testimony acquired a status almost equal to fictional narrative. Claims were rarely subjected to rigorous verification, yet their accumulation created a sense of collective evidence. The magazine increasingly resembled a forum for [believers]({{ 'believers/' | relative_url }}) as much as a science-fiction publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
+This feedback loop transformed the magazine. Instead of a one-way relationship between writer and audience, readers became participants. Personal testimony acquired a status almost equal to fictional narrative. Claims were rarely subjected to rigorous verification, yet their accumulation created a sense of collective evidence. The magazine increasingly resembled a forum for [believers]({{ 'believers/' | relative_url }}) as much as a science-fiction publication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
 
-The circulation impact was dramatic. Contemporary accounts report that *Amazing Stories* rose from roughly 125,000 copies per issue before the Shaver phenomenon to figures approaching or exceeding 200,000 copies as reader interest surged. The success encouraged Palmer to devote large amounts of editorial space to the mystery and to recruit additional writers to contribute related material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
+The circulation impact was dramatic. Contemporary accounts report that *Amazing Stories* rose from roughly 125,000 copies per issue before the Shaver phenomenon to figures approaching or exceeding 200,000 copies as reader interest surged. The success encouraged Palmer to devote large amounts of editorial space to the mystery and to recruit additional writers to contribute related material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
 
-Yet the same process generated criticism. Some readers and commentators worried that the magazine was encouraging vulnerable people to treat fantasy as reality. One published critic warned that readers might accept the claims as factual and pointed to letters describing underground radiations and mysterious aerial phenomena as evidence that the boundary between fiction and belief had become dangerously unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
+Yet the same process generated criticism. Some readers and commentators worried that the magazine was encouraging vulnerable people to treat fantasy as reality. One published critic warned that readers might accept the claims as factual and pointed to letters describing underground radiations and mysterious aerial phenomena as evidence that the boundary between fiction and belief had become dangerously unclear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelivingmoon.com">[thelivingmoon.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelivingmoon.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">First Flying Saucer Sighting June 1947...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-2-dark.svg" | relative_url }}" alt="Shaver Mystery illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why June 1947 made the overlap hard to ignore
 
-The timing of the Shaver Mystery's peak proved historically significant. In June 1947, *Amazing Stories* published an issue devoted entirely to Shaver-related material. It appeared during the high-water mark of Palmer's campaign to present the mystery as something more than fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
+The timing of the Shaver Mystery's peak proved historically significant. In June 1947, *Amazing Stories* published an issue devoted entirely to Shaver-related material. It appeared during the high-water mark of Palmer's campaign to present the mystery as something more than fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
 
-That same month, Kenneth Arnold reported seeing nine unusual objects near Mount Rainier on 24 June 1947, an event widely regarded as the beginning of the modern flying-saucer era. Newspapers across the United States suddenly filled with reports of strange craft in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
+That same month, Kenneth Arnold reported seeing nine unusual objects near Mount Rainier on 24 June 1947, an event widely regarded as the beginning of the modern flying-saucer era. Newspapers across the United States suddenly filled with reports of strange craft in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
 
-The coincidence did not go unnoticed. Palmer quickly connected himself to the emerging saucer story and later became deeply involved in UFO publishing. For observers looking back, June 1947 became a symbolic moment when two previously separate streams—science-fiction pulp culture and public UFO testimony—appeared to converge. A magazine that had spent years publishing hidden-world claims, mysterious rays and reader witness reports reached its most intense phase just as the flying-saucer phenomenon entered national consciousness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shavertron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">Raymond A. Palmer</span></span></span>
+The coincidence did not go unnoticed. Palmer quickly connected himself to the emerging saucer story and later became deeply involved in UFO publishing. For observers looking back, June 1947 became a symbolic moment when two previously separate streams—science-fiction pulp culture and public UFO testimony—appeared to converge. A magazine that had spent years publishing hidden-world claims, mysterious rays and reader witness reports reached its most intense phase just as the flying-saucer phenomenon entered national consciousness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">Raymond A. Palmer</span></span></span>
 
-The overlap did not mean that UFO reports were caused by the Shaver Mystery, nor that saucer witnesses were simply repeating pulp fiction. The more important point is cultural. Palmer had already demonstrated that extraordinary claims could be sustained through a mixture of narrative storytelling, editorial advocacy and reader testimony. When flying [saucers]({{ 'saucers/' | relative_url }}) arrived as a public controversy, a ready-made model existed for treating astonishing reports as both entertainment and possible evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">Raymond A. Palmer</span></span></span>
+The overlap did not mean that UFO reports were caused by the Shaver Mystery, nor that saucer witnesses were simply repeating pulp fiction. The more important point is cultural. Palmer had already demonstrated that extraordinary claims could be sustained through a mixture of narrative storytelling, editorial advocacy and reader testimony. When flying [saucers]({{ 'saucers/' | relative_url }}) arrived as a public controversy, a ready-made model existed for treating astonishing reports as both entertainment and possible evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">Raymond A. Palmer</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1CB0xOwVcSE" title="The Shaver Mystery: Science Fiction&#x27;s first controversy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1CB0xOwVcSE" target="_blank" rel="noopener noreferrer">The Shaver Mystery: Science Fiction&#x27;s first controversy</a></p><p class="youtube-embed-meta">Channel: frigidreads</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1CB0xOwVcSE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1CB0xOwVcSE">Open on YouTube</a></p></div></div></div>
@@ -319,202 +319,202 @@ The overlap did not mean that UFO reports were caused by the Shaver Mystery, nor
 
 ## The pulp mystery closest to saucer culture
 
-The Shaver Mystery occupies a distinctive place in the relationship between science fiction and UFO belief because it was not merely a fictional precursor. It actively challenged the boundary between invention and witness testimony. Readers were encouraged to contribute experiences, editors hinted at hidden truths, and circulation rewards favoured ever greater ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
+The Shaver Mystery occupies a distinctive place in the relationship between science fiction and UFO belief because it was not merely a fictional precursor. It actively challenged the boundary between invention and witness testimony. Readers were encouraged to contribute experiences, editors hinted at hidden truths, and circulation rewards favoured ever greater ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pulpfest.com">[pulpfest.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pulpfest.com</span><span class="citation-popover-title">The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest</span><span class="citation-popover-snippet">The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</span><span class="citation-popover-meta">Published: March 6, 2026</span></span></span>
 
-Later UFO culture would repeatedly use similar mechanisms: witness narratives, collections of personal reports, claims of suppressed knowledge, hidden technologies and communities built around shared belief. The Shaver Mystery did not invent all of these elements, but it assembled them inside a mass-market magazine before the flying-saucer boom began. In that sense it was the pulp phenomenon that came closest to functioning like an early UFO movement while still appearing on the science-fiction rack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Shavertron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">Raymond A. Palmer</span></span></span>
+Later UFO culture would repeatedly use similar mechanisms: witness narratives, collections of personal reports, claims of suppressed knowledge, hidden technologies and communities built around shared belief. The Shaver Mystery did not invent all of these elements, but it assembled them inside a mass-market magazine before the flying-saucer boom began. In that sense it was the pulp phenomenon that came closest to functioning like an early UFO movement while still appearing on the science-fiction rack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond A. Palmer</span><span class="citation-popover-snippet">Raymond A. Palmer</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-3-dark.svg" | relative_url }}" alt="Shaver Mystery illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_shaver_mystery_ufo_b_6f8167-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The pulp mystery closest to saucer culture. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The pulp mystery closest to saucer culture. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frank R. Paul Father of Science Fiction Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uaLUQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frank R. Paul Father of Science Fiction Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frank R. Paul Father of Science Fiction Art">Frank R. Paul Father of Science Fiction Art</a>
-        </h4>
-        <p class="fr-book-author">By Stephen D. Korshak</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frank R. Paul Father of Science Fiction Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uaLUQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frank R. Paul Father of Science Fiction Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frank R. Paul Father of Science Fiction Art">Frank R. Paul Father of Science Fiction Art</a>
+</h4>
+<p class="fr-book-author">By Stephen D. Korshak</p>
         
-        <p class="fr-book-desc">Directly covers Frank R. Paul and his visual influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Frank R. Paul and his visual influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects public UFO interpretations to broader cultural expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects public UFO interpretations to broader cultural expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
-        </h4>
-        <p class="fr-book-author">By Mike Ashley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
+</h4>
+<p class="fr-book-author">By Mike Ashley</p>
         
-        <p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astounding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F_j6vQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Astounding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astounding">Astounding</a>
-        </h4>
-        <p class="fr-book-author">By Alec Nevala-Lee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astounding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F_j6vQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Astounding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astounding">Astounding</a>
+</h4>
+<p class="fr-book-author">By Alec Nevala-Lee</p>
         
-        <p class="fr-book-desc">Explains how SF magazines influenced technological expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how SF magazines influenced technological expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astounding+by+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frank R. Paul Father of Science Fiction Art</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frank R. Paul Father of Science Fiction Art</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="https://i.ebayimg.com/images/g/Io4AAeSwSIBpdQ7s/s-l225.jpg" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="shaver-mystery-the-pulp-mystery-closest-to-saucer-culture-relationships-betwee-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="relationships-betwee-d7372c-pulp-scifi-ufo-roots-18b6cc-shaver-mystery-ufo-b-6f8167-ufo-art-print-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ Later UFO culture would repeatedly use similar mechanisms: witness narratives, c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ Later UFO culture would repeatedly use similar mechanisms: witness narratives, c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ Later UFO culture would repeatedly use similar mechanisms: witness narratives, c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ Later UFO culture would repeatedly use similar mechanisms: witness narratives, c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ Later UFO culture would repeatedly use similar mechanisms: witness narratives, c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,88 +720,88 @@ Later UFO culture would repeatedly use similar mechanisms: witness narratives, c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pulpfest.com  
    Title: The AMAZING Story: The Forties — “Gimme Bang-Bang” – Pulp Fest  
-   Link: <a href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow">https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</p></details>
+   Link:<a href="https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/" target="_blank" rel="noopener noreferrer nofollow">https://pulpfest.com/2026/03/06/the-amazing-story-the-forties-gimme-bang-bang-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AMAZING Story: The Forties — “Gimme Bang-Bang” – PulpFestMarch 6, 2026...</p></details>
    Published: March 6, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Raymond A. Palmer  
-   Link: <a href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_A._Palmer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Raymond_A._Palmer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_A._Palmer</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thelivingmoon.com  
    Title: Kenneth Arnold  
-   Link: <a href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First Flying Saucer Sighting June 1947...</p></details>
+   Link:<a href="https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thelivingmoon.com/49ufo_files/03files2/1945_Ray_Palmer.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Flying Saucer Sighting June 1947...</p></details>
    Published: June 1947  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: shavertron.com  
    Title: Man Who Invented Flaying Saucers  
-   Link: <a href="https://www.shavertron.com/manwho.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shavertron.com/manwho.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Man Who Invented Flaying Saucers...</p></details>
+   Link:<a href="https://www.shavertron.com/manwho.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shavertron.com/manwho.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man Who Invented Flaying Saucers...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/conspiracy/comments/jzpw3g" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/conspiracy/comments/jzpw3g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.comAliens, Extra-terrestrial or inner terrestrial? Some notes on the subject of the hollow earth and demonic beings trapped th...</p></details>
+   Link:<a href="https://www.reddit.com/r/conspiracy/comments/jzpw3g" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/conspiracy/comments/jzpw3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.reddit.comAliens, Extra-terrestrial or inner terrestrial? Some notes on the subject of the hollow earth and demonic beings trapped th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LDREY4CHk0c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LDREY4CHk0c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shaver Mystery Richard Shaver Ray Palmer The Devil’s Agent: The True Untold Story of Richard Sharpe Shaver and The Hollow Earth Cult...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LDREY4CHk0c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LDREY4CHk0c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shaver Mystery Richard Shaver Ray Palmer The Devil’s Agent: The True Untold Story of Richard Sharpe Shaver and The Hollow Earth Cult...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3PZfYQ15Co0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3PZfYQ15Co0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Shaver Mystery | Ray Palmer (1977)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3PZfYQ15Co0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3PZfYQ15Co0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Shaver Mystery | Ray Palmer (1977)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Shaver Mystery: Science Fiction's first controversy  
-   Link: <a href="https://www.youtube.com/watch?v=1CB0xOwVcSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1CB0xOwVcSE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Devil’s Agent: The True Untold Story of Richard Sharpe Shaver and The Hollow Earth Cult...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1CB0xOwVcSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1CB0xOwVcSE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Devil’s Agent: The True Untold Story of Richard Sharpe Shaver and The Hollow Earth Cult...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/opp75d" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/opp75d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare first issue of Fate magazine (Spring 1948) - The first major publication outside of newspapers to feature &quot;flying saucers&quot;...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/opp75d" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/opp75d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rare first issue of Fate magazine (Spring 1948) - The first major publication outside of newspapers to feature &quot;flying saucers&quot;...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: davidhalperin.net  
-   Link: <a href="https://www.davidhalperin.net/the-shaver-mystery-richard-shaver-ray-palmer-and-the-quest-for-lemuria-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidhalperin.net/the-shaver-mystery-richard-shaver-ray-palmer-and-the-quest-for-lemuria-part-3/</a>  
+   Link:<a href="https://www.davidhalperin.net/the-shaver-mystery-richard-shaver-ray-palmer-and-the-quest-for-lemuria-part-3/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidhalperin.net/the-shaver-mystery-richard-shaver-ray-palmer-and-the-quest-for-lemuria-part-3/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Secrets of the Shaver Mystery  
-   Link: <a href="https://www.youtube.com/watch?v=FRHOj4-_kAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FRHOj4-_kAM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Shaver Mystery: Science Fiction&#x27;s first controversy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FRHOj4-_kAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FRHOj4-_kAM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Shaver Mystery: Science Fiction&#x27;s first controversy...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: books.google.com  
    Title: The Coming of the Saucers: A Documentary Report on Sky Objects that Have  
-   Link: <a href="https://books.google.com/books/about/The_Coming_of_the_Saucers.html?id=Fux7V5ROz-sC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Coming_of_the_Saucers.html?id=Fux7V5ROz-sC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Albert Arnold, Ray Palmer - Google Books...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Coming_of_the_Saucers.html?id=Fux7V5ROz-sC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Coming_of_the_Saucers.html?id=Fux7V5ROz-sC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Albert Arnold, Ray Palmer - Google Books...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oona13.com  
-   Link: <a href="https://oona13.com/archive/image/5767" target="_blank" rel="noopener noreferrer nofollow">https://oona13.com/archive/image/5767</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Stories June 1947 – The Shaver Mystery Underground Dero Cave Cover | OONA 13...</p></details>
+   Link:<a href="https://oona13.com/archive/image/5767" target="_blank" rel="noopener noreferrer nofollow">https://oona13.com/archive/image/5767</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Stories June 1947 – The Shaver Mystery Underground Dero Cave Cover | OONA 13...</p></details>
    Published: June 1947  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: en.wikisource.org  
    Title: Amazing Stories/Volume 21/Number 06  
-   Link: <a href="https://en.wikisource.org/wiki/Amazing_Stories/Volume_21/Number_06" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Amazing_Stories/Volume_21/Number_06</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Amazing_Stories/Volume_21/Number_06" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Amazing_Stories/Volume_21/Number_06</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikisource, the free online library...</p></details>

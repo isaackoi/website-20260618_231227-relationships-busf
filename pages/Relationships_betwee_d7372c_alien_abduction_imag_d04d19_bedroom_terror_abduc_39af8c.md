@@ -278,13 +278,13 @@ Alien abduction stories often begin in the most ordinary place imaginable: a bed
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-1-dark.svg" | relative_url }}" alt="Bedroom Terror illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Researchers studying sleep paralysis and related waking hallucinations have found that many people report a striking combination of symptoms: an inability to move, a strong sense that someone is in the room, intense fear, and sometimes visual or auditory perceptions of figures nearby. These experiences closely resemble key elements of later alien abduction accounts. As twentieth-century culture supplied increasingly familiar images of extraterrestrials, spacecraft and medical examinations, those images offered a ready-made explanation for experiences that earlier generations often attributed to demons, spirits or supernatural visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+Researchers studying sleep paralysis and related waking hallucinations have found that many people report a striking combination of symptoms: an inability to move, a strong sense that someone is in the room, intense fear, and sometimes visual or auditory perceptions of figures nearby. These experiences closely resemble key elements of later alien abduction accounts. As twentieth-century culture supplied increasingly familiar images of extraterrestrials, spacecraft and medical examinations, those images offered a ready-made explanation for experiences that earlier generations often attributed to demons, spirits or supernatural visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 ## Paralysis, Presence and Waking Hallucinations
 
-The strongest psychological mechanism linking bedroom terror to alien abduction stories is sleep paralysis. During an episode, a person becomes conscious while the body remains temporarily immobilised by the normal muscle inhibition associated with rapid eye movement (REM) sleep. The result can be deeply unsettling: the individual is awake enough to perceive the room but unable to move, speak or escape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality? A review on sleep paralysis</span><span class="citation-popover-snippet">July 21, 2025...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
+The strongest psychological mechanism linking bedroom terror to alien abduction stories is sleep paralysis. During an episode, a person becomes conscious while the body remains temporarily immobilised by the normal muscle inhibition associated with rapid eye movement (REM) sleep. The result can be deeply unsettling: the individual is awake enough to perceive the room but unable to move, speak or escape.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality? A review on sleep paralysis</span><span class="citation-popover-snippet">July 21, 2025...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
 
-Research has repeatedly found that sleep paralysis is often accompanied by a “felt presence” experience. People report a powerful conviction that another being is nearby even when no one is actually present. Studies by J. Allan Cheyne and colleagues identified fear and the sensed presence as central features that frequently precede more elaborate visual and auditory hallucinations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</span></span></span>
+Research has repeatedly found that sleep paralysis is often accompanied by a “felt presence” experience. People report a powerful conviction that another being is nearby even when no one is actually present. Studies by J. Allan Cheyne and colleagues identified fear and the sensed presence as central features that frequently precede more elaborate visual and auditory hallucinations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</span></span></span>
 
 Several features of these episodes map neatly onto abduction narratives:
 
@@ -296,20 +296,20 @@ Several features of these episodes map neatly onto abduction narratives:
 * **Visual hallucinations** can appear as figures standing in the room.
 * **Floating sensations** resemble reports of levitation or transport.
 * **Memory fragmentation** can create uncertainty about exactly what occurred.
-* **Extreme fear** gives the event lasting emotional force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality? A review on sleep paralysis</span><span class="citation-popover-snippet">July 21, 2025...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
+* **Extreme fear** gives the event lasting emotional force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality? A review on sleep paralysis</span><span class="citation-popover-snippet">July 21, 2025...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
 
 </div>
 
-Importantly, the experience does not feel dreamlike while it is happening. People often perceive the actual bedroom around them, making the event seem physically real. This realism helps explain why such experiences can become the foundation for detailed encounter narratives rather than being dismissed as ordinary dreams. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+Importantly, the experience does not feel dreamlike while it is happening. People often perceive the actual bedroom around them, making the event seem physically real. This realism helps explain why such experiences can become the foundation for detailed encounter narratives rather than being dismissed as ordinary dreams.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zsax2q1p-Qg" title="Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer">Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)</a></p><p class="youtube-embed-meta">Channel: Nerdist</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zsax2q1p-Qg">Open on YouTube</a></p></div></div></div>
 
 ## From Demons and Spirits to Aliens and Craft
 
-The core experience of a threatening nocturnal visitor is far older than modern UFO culture. Historical and folkloric traditions around the world contain accounts of entities entering bedrooms at night, immobilising sleepers, sitting on their chests or carrying them away. What changes across time is not necessarily the underlying experience but the identity assigned to the visitor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Sleep Paralysis &#124; Psychology Today</span><span class="citation-popover-snippet">Psychology Today Sleep Paralysis &#124; Psychology Today</span></span></span>
+The core experience of a threatening nocturnal visitor is far older than modern UFO culture. Historical and folkloric traditions around the world contain accounts of entities entering bedrooms at night, immobilising sleepers, sitting on their chests or carrying them away. What changes across time is not necessarily the underlying experience but the identity assigned to the visitor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Sleep Paralysis &#124; Psychology Today</span><span class="citation-popover-snippet">Psychology Today Sleep Paralysis &#124; Psychology Today</span></span></span>
 
-Researchers studying sleep paralysis have noted that different cultures interpret remarkably similar experiences through different belief systems. In some traditions the visitor is a demon, ghost or spirit. In Newfoundland folklore it became the “Old Hag”. In other cultures it has been linked to jinn or other supernatural beings. In late twentieth-century North America, where UFO books, films and [television]({{ 'television/' | relative_url }}) had made extraterrestrials familiar figures, aliens increasingly filled the same narrative role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Sleep Paralysis &#124; Psychology Today</span><span class="citation-popover-snippet">Psychology Today Sleep Paralysis &#124; Psychology Today</span></span></span>
+Researchers studying sleep paralysis have noted that different cultures interpret remarkably similar experiences through different belief systems. In some traditions the visitor is a demon, ghost or spirit. In Newfoundland folklore it became the “Old Hag”. In other cultures it has been linked to jinn or other supernatural beings. In late twentieth-century North America, where UFO books, films and [television]({{ 'television/' | relative_url }}) had made extraterrestrials familiar figures, aliens increasingly filled the same narrative role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Sleep Paralysis &#124; Psychology Today</span><span class="citation-popover-snippet">Psychology Today Sleep Paralysis &#124; Psychology Today</span></span></span>
 
 This cultural shift mattered because alien imagery supplied details that older supernatural traditions lacked. Instead of an attack by a demon, a modern experiencer could describe:
 
@@ -324,7 +324,7 @@ This cultural shift mattered because alien imagery supplied details that older s
 
 </div>
 
-These elements drew upon the growing visual vocabulary of UFO literature and science fiction while remaining anchored in a highly personal nocturnal experience. The result was a story that felt both culturally familiar and individually authentic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.07284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Imagining the Alien: Human Projections and Cognitive Limitations</span><span class="citation-popover-snippet">Imagining the Alien: Human Projections and Cognitive LimitationsFebruary 7, 2026...</span><span class="citation-popover-meta">Published: February 7, 2026</span></span></span>
+These elements drew upon the growing visual vocabulary of UFO literature and science fiction while remaining anchored in a highly personal nocturnal experience. The result was a story that felt both culturally familiar and individually authentic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2602.07284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Imagining the Alien: Human Projections and Cognitive Limitations</span><span class="citation-popover-snippet">Imagining the Alien: Human Projections and Cognitive LimitationsFebruary 7, 2026...</span><span class="citation-popover-meta">Published: February 7, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-2-dark.svg" | relative_url }}" alt="Bedroom Terror illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -334,9 +334,9 @@ The bedroom is uniquely suited to abduction narratives because it combines vulne
 
 Unlike reports of [strange lights]({{ 'strange-lights/' | relative_url }}) in the sky, a bedroom encounter places the event directly in the witness's personal world. The threat is no longer distant or cosmic; it is beside the bed. That immediacy increases emotional impact and helps explain why many accounts are remembered as life-changing experiences.
 
-The bedroom also solves a narrative problem. Encounters that occur while a person is alone cannot easily be contradicted by other observers. A witness may genuinely remember waking, seeing figures and feeling unable to move. Because the experience happens during a transitional state between sleep and wakefulness, uncertainty about what was perceived becomes part of the story itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality? A review on sleep paralysis</span><span class="citation-popover-snippet">July 21, 2025...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
+The bedroom also solves a narrative problem. Encounters that occur while a person is alone cannot easily be contradicted by other observers. A witness may genuinely remember waking, seeing figures and feeling unable to move. Because the experience happens during a transitional state between sleep and wakefulness, uncertainty about what was perceived becomes part of the story itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNightmares or a crippling reality? A review on sleep paralysis</span><span class="citation-popover-snippet">July 21, 2025...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
 
-Another factor is that bedrooms naturally connect to themes of bodily control. During sleep paralysis, the body seems to stop responding to conscious intention. Abduction stories often transform that loss of control into an external cause: aliens are holding the witness still, communicating telepathically or transporting them elsewhere. The narrative provides an explanation for sensations that otherwise appear inexplicable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</span></span></span>
+Another factor is that bedrooms naturally connect to themes of bodily control. During sleep paralysis, the body seems to stop responding to conscious intention. Abduction stories often transform that loss of control into an external cause: aliens are holding the witness still, communicating telepathically or transporting them elsewhere. The narrative provides an explanation for sensations that otherwise appear inexplicable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</span></span></span>
 
 Within UFO culture, this made the bedroom encounter especially persuasive. It offered a dramatic but intimate story structure:
 
@@ -355,7 +355,7 @@ Within UFO culture, this made the bedroom encounter especially persuasive. It of
 
 </div>
 
-The sequence closely mirrors the phenomenology documented in sleep paralysis research while also matching the established imagery of modern alien abduction narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</span></span></span>
+The sequence closely mirrors the phenomenology documented in sleep paralysis research while also matching the established imagery of modern alien abduction narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-3-dark.svg" | relative_url }}" alt="Bedroom Terror illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_bedroom_terror_abduc_39af8c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -363,201 +363,201 @@ The sequence closely mirrors the phenomenology documented in sleep paralysis res
 
 Bedroom terror became one of the most effective bridges between personal experience and extraterrestrial interpretation. A frightening event occurring during the transition between sleep and wakefulness can feel unquestionably real, yet its meaning remains open to interpretation. Once science fiction, UFO books and popular media provided a recognisable image of extraterrestrials, many experiencers had a culturally available framework for understanding what had happened.
 
-This does not mean that every abduction account arises from the same cause. Rather, it helps explain why certain recurring motifs—small figures, paralysis, levitation, missing time and night-time visitation—appear so consistently. The bedroom supplied the setting, sleep paralysis supplied the sensations, and modern alien imagery supplied the story through which those sensations could be understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[PMC+3ScienceDirect+3Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+This does not mean that every abduction account arises from the same cause. Rather, it helps explain why certain recurring motifs—small figures, paralysis, levitation, missing time and night-time visitation—appear so consistently. The bedroom supplied the setting, sleep paralysis supplied the sensations, and modern alien imagery supplied the story through which those sensations could be understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJfR2iBzunc" title="Was I Abducted or Did I Have a Sleep Anomaly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer">Was I Abducted or Did I Have a Sleep Anomaly</a></p><p class="youtube-embed-meta">Channel: James Cunliffe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJfR2iBzunc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Abductions Moved Into the Bedroom. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Abductions Moved Into the Bedroom. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Abductions+by+Terry+Matheson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Abductions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EfsQAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Alien Abductions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alien+Abductions+by+Terry+Matheson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Abductions">Alien Abductions</a>
-        </h4>
-        <p class="fr-book-author">By Terry Matheson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Abductions+by+Terry+Matheson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Abductions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EfsQAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Alien Abductions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alien+Abductions+by+Terry+Matheson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Abductions">Alien Abductions</a>
+</h4>
+<p class="fr-book-author">By Terry Matheson</p>
         
-        <p class="fr-book-desc">Directly examines how books, television and popular culture shaped narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alien+Abductions+by+Terry+Matheson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how books, television and popular culture shaped narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alien+Abductions+by+Terry+Matheson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Abductions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Abductions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Abductions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Abductions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style"><img src="{{ '/assets/images/marketplace-covers/22f5dac4706785d073a8.jpg' | relative_url }}" alt="Listing image for Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Movie T-Shirt, Xenomorph X-Ray Art, 70s Horror Sci-Fi Style</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt"><img src="{{ '/assets/images/marketplace-covers/4db697dbfa9b660b6707.jpg' | relative_url }}" alt="Listing image for Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien-Close Up Black Unisex Stylish Graphic Print Sci-Fi Horror T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift"><img src="{{ '/assets/images/marketplace-covers/7240a7857b4aa5cdc4a5.jpg' | relative_url }}" alt="Listing image for Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Aliens Saw Me Men&#x27;s T-Shirt Funny Believe UFO Conspiracy Area 51 Spaceship Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="bedroom-terror-why-abductions-moved-into-the-bedroom-relationships-betwee-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ This does not mean that every abduction account arises from the same cause. Rath
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ This does not mean that every abduction account arises from the same cause. Rath
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ This does not mean that every abduction account arises from the same cause. Rath
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ This does not mean that every abduction account arises from the same cause. Rath
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ This does not mean that every abduction account arises from the same cause. Rath
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,77 +763,77 @@ This does not mean that every abduction account arises from the same cause. Rath
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S105381009990404X</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00165.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryRelations among hypnagogic and hypnopompic experiences associated with sleep paralysis - Cheyne - 1999 - Journal of S...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNightmares or a crippling reality? A review on sleep paralysis  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 21, 2025...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12349844/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 21, 2025...</p></details>
    Published: July 21, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment  
-   Link: <a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
+   Link:<a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Imagining the Alien: Human Projections and Cognitive Limitations  
-   Link: <a href="https://arxiv.org/abs/2602.07284" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.07284</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Imagining the Alien: Human Projections and Cognitive LimitationsFebruary 7, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.07284" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.07284</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Imagining the Alien: Human Projections and Cognitive LimitationsFebruary 7, 2026...</p></details>
    Published: February 7, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychologytoday.com  
    Title: Psychology Today Sleep Paralysis | Psychology Today  
-   Link: <a href="https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis</a>  
+   Link:<a href="https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/dream-factory/201409/sleep-paralysis</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Sleep Paralysis  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32965993/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32965993/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32965993/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32965993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis - PubMed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10487786/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10487786/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hypnagogic and hypnopompic hallucinations during sleep paralysis: neurological and cultural construction of the night-mare - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10487786/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10487786/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hypnagogic and hypnopompic hallucinations during sleep paralysis: neurological and cultural construction of the night-mare - PubMed...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dreams.co.uk  
-   Link: <a href="https://www.dreams.co.uk/sleep-matters-club/waking-up-dead-what-is-sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.dreams.co.uk/sleep-matters-club/waking-up-dead-what-is-sleep-paralysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paralysis: What Is It &amp; Can It Cause Death? | Sleep MattersFebruary 20, 2019...</p></details>
+   Link:<a href="https://www.dreams.co.uk/sleep-matters-club/waking-up-dead-what-is-sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.dreams.co.uk/sleep-matters-club/waking-up-dead-what-is-sleep-paralysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paralysis: What Is It &amp; Can It Cause Death? | Sleep MattersFebruary 20, 2019...</p></details>
    Published: February 20, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)  
-   Link: <a href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zsax2q1p-Qg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Terrifying Facts about Sleep Paralysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zsax2q1p-Qg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zsax2q1p-Qg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Terrifying Facts about Sleep Paralysis...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
    Title: Sleep Paralysis, Sexual Abuse, and Space Alien Abduction  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard J. McNally, Susan A. Clancy, 2005...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard J. McNally, Susan A. Clancy, 2005...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Was I Abducted or Did I Have a Sleep Anomaly  
-   Link: <a href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJfR2iBzunc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJfR2iBzunc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Sleep Paralysis Giving You Night Terrors? (Because Science w/ Kyle Hill)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: 10 Terrifying Facts about Sleep Paralysis  
-   Link: <a href="https://www.youtube.com/watch?v=OaRhpjKS1UA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OaRhpjKS1UA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OaRhpjKS1UA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OaRhpjKS1UA</a>  

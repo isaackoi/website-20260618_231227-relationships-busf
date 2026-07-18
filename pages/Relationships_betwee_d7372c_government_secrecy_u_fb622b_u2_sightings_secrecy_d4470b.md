@@ -274,30 +274,30 @@ image: /assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2
 
 ## Introduction
 
-The U-2 spy plane occupies a unique place in the history of UFO reports because it created a situation in which many witnesses were genuinely seeing something unusual, yet the government could not explain what it was. During the Cold War, the United States flew reconnaissance aircraft at altitudes far beyond those reached by ordinary commercial or military planes. Observers who saw bright objects moving in unexpected ways often lacked any conventional explanation. Later declassified records revealed that some of these sightings were linked to [secret aircraft]({{ 'secret-aircraft/' | relative_url }}) rather than extraterrestrial craft. At the same time, the delayed disclosure created a lasting problem of credibility: when officials denied knowledge of unusual objects, the public later discovered that important information had in fact been withheld. That combination—real mysteries followed by partial revelations—became a powerful bridge between UFO culture and science-fiction narratives about hidden technologies and official [cover-ups]({{ 'cover-ups/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+The U-2 spy plane occupies a unique place in the history of UFO reports because it created a situation in which many witnesses were genuinely seeing something unusual, yet the government could not explain what it was. During the Cold War, the United States flew reconnaissance aircraft at altitudes far beyond those reached by ordinary commercial or military planes. Observers who saw bright objects moving in unexpected ways often lacked any conventional explanation. Later declassified records revealed that some of these sightings were linked to [secret aircraft]({{ 'secret-aircraft/' | relative_url }}) rather than extraterrestrial craft. At the same time, the delayed disclosure created a lasting problem of credibility: when officials denied knowledge of unusual objects, the public later discovered that important information had in fact been withheld. That combination—real mysteries followed by partial revelations—became a powerful bridge between UFO culture and science-fiction narratives about hidden technologies and official [cover-ups]({{ 'cover-ups/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-1-dark.svg" | relative_url }}" alt="U 2 Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why High-Altitude Aircraft Confused Witnesses
 
-When the Lockheed U-2 entered testing in the mid-1950s, it operated at roughly 60,000 feet and above, far higher than most aircraft of the era. People on the ground were accustomed to judging aircraft behaviour based on familiar flight patterns. The U-2 disrupted those expectations. At extreme altitude, sunlight could illuminate the aircraft long after sunset at ground level, creating the appearance of a glowing object suspended in the sky. Witnesses often reported lights or craft that seemed too high, too bright or too unusual to match known aviation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
+When the Lockheed U-2 entered testing in the mid-1950s, it operated at roughly 60,000 feet and above, far higher than most aircraft of the era. People on the ground were accustomed to judging aircraft behaviour based on familiar flight patterns. The U-2 disrupted those expectations. At extreme altitude, sunlight could illuminate the aircraft long after sunset at ground level, creating the appearance of a glowing object suspended in the sky. Witnesses often reported lights or craft that seemed too high, too bright or too unusual to match known aviation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
 
-The problem was not simply ignorance. Experienced pilots, radar operators and military personnel also encountered objects that appeared inconsistent with the aircraft technology they knew. Because the U-2 flew outside normal operational envelopes, observers were effectively comparing it against the wrong baseline. An aircraft behaving exactly as designed could still appear extraordinary if the observer did not know such performance was possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+The problem was not simply ignorance. Experienced pilots, radar operators and military personnel also encountered objects that appeared inconsistent with the aircraft technology they knew. Because the U-2 flew outside normal operational envelopes, observers were effectively comparing it against the wrong baseline. An aircraft behaving exactly as designed could still appear extraordinary if the observer did not know such performance was possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
-This helps explain why some UFO reports from the period were neither obvious [hoaxes]({{ 'hoaxes/' | relative_url }}) nor simple misidentifications. Witnesses were often reporting real aerial objects. The missing piece was classified information rather than observational competence. That distinction is important because it made later revelations more persuasive. The public learned that at least some apparently inexplicable sightings had been linked to genuine secret technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+This helps explain why some UFO reports from the period were neither obvious [hoaxes]({{ 'hoaxes/' | relative_url }}) nor simple misidentifications. Witnesses were often reporting real aerial objects. The missing piece was classified information rather than observational competence. That distinction is important because it made later revelations more persuasive. The public learned that at least some apparently inexplicable sightings had been linked to genuine secret technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O5-qNdQi10k" title="Pentagon releases newly declassified UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O5-qNdQi10k" target="_blank" rel="noopener noreferrer">Pentagon releases newly declassified UFO files</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 90.5K &middot; Uploaded: May 2026 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O5-qNdQi10k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O5-qNdQi10k">Open on YouTube</a></p></div></div></div>
 
 ## How Secrecy Protected Reconnaissance and Damaged Trust
 
-The U-2 programme was designed for strategic intelligence gathering during one of the most sensitive periods of the Cold War. Public acknowledgement of its capabilities would have undermined its value. Governments therefore had strong incentives to keep details secret, including the aircraft's altitude, mission profile and testing locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/technology/U-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica U-2 &#124; Facts, Plane, History, &amp; Incident &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica U-2 &#124; Facts, Plane, History, &amp; Incident &#124; Britannica</span></span></span>
+The U-2 programme was designed for strategic intelligence gathering during one of the most sensitive periods of the Cold War. Public acknowledgement of its capabilities would have undermined its value. Governments therefore had strong incentives to keep details secret, including the aircraft's altitude, mission profile and testing locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/technology/U-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica U-2 &#124; Facts, Plane, History, &amp; Incident &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica U-2 &#124; Facts, Plane, History, &amp; Incident &#124; Britannica</span></span></span>
 
-That [secrecy]({{ 'secrecy/' | relative_url }}) produced an institutional dilemma. Officials investigating unusual aerial reports could not always provide the true explanation. In some cases, they offered incomplete answers or allowed uncertainty to persist because revealing classified capabilities was considered a greater risk. From a national-security perspective, the logic was straightforward. From a public-trust perspective, the consequences were more complicated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+That [secrecy]({{ 'secrecy/' | relative_url }}) produced an institutional dilemma. Officials investigating unusual aerial reports could not always provide the true explanation. In some cases, they offered incomplete answers or allowed uncertainty to persist because revealing classified capabilities was considered a greater risk. From a national-security perspective, the logic was straightforward. From a public-trust perspective, the consequences were more complicated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
-Declassified CIA histories later argued that U-2 operations contributed significantly to the surge in UFO reports during the late 1950s and early 1960s. Agency accounts stated that high-altitude testing generated many reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects because observers were seeing aircraft whose existence could not yet be publicly acknowledged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+Declassified CIA histories later argued that U-2 operations contributed significantly to the surge in UFO reports during the late 1950s and early 1960s. Agency accounts stated that high-altitude testing generated many reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects because observers were seeing aircraft whose existence could not yet be publicly acknowledged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
-The long-term effect was a credibility gap. Once the public learned that secret aircraft had indeed been responsible for some unexplained sightings, official denials became harder to evaluate. If authorities had concealed one category of unusual aerial activity, many people wondered whether they might be concealing others as well. The lesson some observers drew was not that aliens existed, but that official statements could not automatically be treated as complete accounts of what was happening in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
+The long-term effect was a credibility gap. Once the public learned that secret aircraft had indeed been responsible for some unexplained sightings, official denials became harder to evaluate. If authorities had concealed one category of unusual aerial activity, many people wondered whether they might be concealing others as well. The lesson some observers drew was not that aliens existed, but that official statements could not automatically be treated as complete accounts of what was happening in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-2-dark.svg" | relative_url }}" alt="U 2 Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -310,11 +310,11 @@ What the U-2 episode clearly demonstrates is that:
 * Secret aerospace programmes can generate sincere reports of apparently anomalous objects.
 * Witnesses may accurately describe unusual observations while misunderstanding their cause.
 * Governments sometimes withhold [explanations]({{ 'explanations/' | relative_url }}) for legitimate security reasons.
-* Later declassification can dramatically alter public understanding of earlier events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+* Later declassification can dramatically alter public understanding of earlier events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
-What it does not demonstrate is that every unexplained UFO report must have a classified human explanation. The historical lesson is more nuanced. The existence of one hidden programme proves that hidden programmes can affect UFO reporting; it does not automatically explain all cases. This distinction remains central to discussions of both historical UFO incidents and modern unidentified aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">navy confirms ufo videos real</span><span class="citation-popover-snippet">Navy Confirms UFO Videos Are Real and Show Unidentified Aerial Phenomena &#124; HISTORYSeptember 19, 2019...</span><span class="citation-popover-meta">Published: September 19, 2019</span></span></span>
+What it does not demonstrate is that every unexplained UFO report must have a classified human explanation. The historical lesson is more nuanced. The existence of one hidden programme proves that hidden programmes can affect UFO reporting; it does not automatically explain all cases. This distinction remains central to discussions of both historical UFO incidents and modern unidentified aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">navy confirms ufo videos real</span><span class="citation-popover-snippet">Navy Confirms UFO Videos Are Real and Show Unidentified Aerial Phenomena &#124; HISTORYSeptember 19, 2019...</span><span class="citation-popover-meta">Published: September 19, 2019</span></span></span>
 
-The U-2 therefore became a touchstone for competing interpretations. Skeptics cite it as evidence that extraordinary sightings can emerge from ordinary, though secret, technology. UFO advocates often point to the same history as evidence that governments sometimes conceal important information. Both sides draw lessons from the same events, but they emphasise different implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+The U-2 therefore became a touchstone for competing interpretations. Skeptics cite it as evidence that extraordinary sightings can emerge from ordinary, though secret, technology. UFO advocates often point to the same history as evidence that governments sometimes conceal important information. Both sides draw lessons from the same events, but they emphasise different implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ng1-I7uB_c" title="The Pentagon released 51 new UFO videos — this is what they actually show | DW News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer">The Pentagon released 51 new UFO videos — this is what they actually show | DW News</a></p><p class="youtube-embed-meta">Channel: DW News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ng1-I7uB_c">Open on YouTube</a></p></div></div></div>
@@ -326,204 +326,204 @@ The U-2 therefore became a touchstone for competing interpretations. Skeptics ci
 
 The U-2 story provided science fiction with a remarkably effective narrative template. Real events showed that governments operated advanced aircraft in secret, tested them in remote locations and sometimes declined to reveal their existence for years. Fiction writers did not need to invent the basic architecture of secrecy; they could adapt it.
 
-A recurring science-fiction plot follows a familiar sequence: witnesses see something extraordinary, authorities dismiss or minimise the reports, rumours spread, and a later revelation shows that part of the story was hidden from the public. The historical experience of U-2 flights made this structure feel plausible because it had happened in a limited but verifiable form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
+A recurring science-fiction plot follows a familiar sequence: witnesses see something extraordinary, authorities dismiss or minimise the reports, rumours spread, and a later revelation shows that part of the story was hidden from the public. The historical experience of U-2 flights made this structure feel plausible because it had happened in a limited but verifiable form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
 
-[Area 51]({{ 'area-51/' | relative_url }}) became especially important in this regard. Although later declassified records tied the site to U-2 testing and subsequent reconnaissance programmes, public awareness of those activities lagged far behind the reality. The gap between secret operations and public knowledge encouraged speculation, while fiction transformed that speculation into stories about alien craft, recovered technologies and concealed discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
+[Area 51]({{ 'area-51/' | relative_url }}) became especially important in this regard. Although later declassified records tied the site to U-2 testing and subsequent reconnaissance programmes, public awareness of those activities lagged far behind the reality. The gap between secret operations and public knowledge encouraged speculation, while fiction transformed that speculation into stories about alien craft, recovered technologies and concealed discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Area 51 Revealed in CIA Spy Plane Documents</span><span class="citation-popover-snippet">ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</span></span></span>
 
-The result was a feedback loop between history and imagination. Real classified aircraft generated genuine mysteries. Delayed disclosure weakened confidence in official explanations. Science fiction then amplified those tensions into dramatic cover-up narratives. The enduring cultural power of UFO stories owes much to that sequence, and the U-2 remains one of its clearest historical examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
+The result was a feedback loop between history and imagination. Real classified aircraft generated genuine mysteries. Delayed disclosure weakened confidence in official explanations. Science fiction then amplified those tensions into dramatic cover-up narratives. The enduring cultural power of UFO stories owes much to that sequence, and the U-2 remains one of its clearest historical examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; &#124; SpaceJanuary 14, 2015...</span><span class="citation-popover-meta">Published: January 14, 2015</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-3-dark.svg" | relative_url }}" alt="U 2 Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_government_secrecy_u_fb622b_u2_sightings_secrecy_d4470b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Spy Planes Looked Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Spy Planes Looked Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how U-2 and related programs generated UFO sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pl-B_TL7S8oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 20 Google Books ratings</p>
+<p class="fr-book-desc">Explains how U-2 and related programs generated UFO sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for secret reconnaissance aircraft development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for secret reconnaissance aircraft development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spy+Pilot+by+Francy+Gary+Powers+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spy Pilot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjlcDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spy Pilot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spy+Pilot+by+Francy+Gary+Powers+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spy Pilot">Spy Pilot</a>
-        </h4>
-        <p class="fr-book-author">By Francy Gary Powers Jr., Keith Dunnavant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spy+Pilot+by+Francy+Gary+Powers+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spy Pilot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjlcDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Spy Pilot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spy+Pilot+by+Francy+Gary+Powers+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spy Pilot">Spy Pilot</a>
+</h4>
+<p class="fr-book-author">By Francy Gary Powers Jr., Keith Dunnavant</p>
         
-        <p class="fr-book-desc">Centred on the U-2 program and Cold War secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spy+Pilot+by+Francy+Gary+Powers+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centred on the U-2 program and Cold War secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spy+Pilot+by+Francy+Gary+Powers+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Explores how advanced technology becomes surrounded by speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how advanced technology becomes surrounded by speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spy+Pilot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spy Pilot</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spy+Pilot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spy Pilot</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Official Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f53239cf724de7d09093.jpg' | relative_url }}" alt="Listing image for Genuine Official Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine Official Star Wars Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Official Star Wars Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f53239cf724de7d09093.jpg' | relative_url }}" alt="Listing image for Genuine Official Star Wars Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Genuine Official Star Wars Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="u-2-sightings-7b5a51-when-spy-planes-looked-like-ufos-relationships-betwee-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The result was a feedback loop between history and imagination. Real classified 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The result was a feedback loop between history and imagination. Real classified 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The result was a feedback loop between history and imagination. Real classified 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The result was a feedback loop between history and imagination. Real classified 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The result was a feedback loop between history and imagination. Real classified 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,86 +729,86 @@ The result was a feedback loop between history and imagination. Real classified 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: 28256 ufo sightings cia u2 aircraft  
-   Link: <a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; | SpaceJanuary 14, 2015...</p></details>
+   Link:<a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27; | SpaceJanuary 14, 2015...</p></details>
    Published: January 14, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica U-2 | Facts, Plane, History, & Incident | Britannica  
-   Link: <a href="https://www.britannica.com/technology/U-2" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/U-2</a>  
+   Link:<a href="https://www.britannica.com/technology/U-2" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/U-2</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: navy confirms ufo videos real  
-   Link: <a href="https://www.history.com/news/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/navy-confirms-ufo-videos-real</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Confirms UFO Videos Are Real and Show Unidentified Aerial Phenomena | HISTORYSeptember 19, 2019...</p></details>
+   Link:<a href="https://www.history.com/news/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/navy-confirms-ufo-videos-real</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Confirms UFO Videos Are Real and Show Unidentified Aerial Phenomena | HISTORYSeptember 19, 2019...</p></details>
    Published: September 19, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: abcnews.com  
    Title: ABC News Area 51 Revealed in CIA Spy Plane Documents  
-   Link: <a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</p></details>
+   Link:<a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsArea 51 Revealed in CIA Spy Plane Documents - ABC News...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: c2f.usff.navy.mil  
    Title: www.c2f.usff.navy.mil History  
-   Link: <a href="https://www.c2f.usff.navy.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.c2f.usff.navy.mil/About-Us/History/</a>  
+   Link:<a href="https://www.c2f.usff.navy.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.c2f.usff.navy.mil/About-Us/History/</a>  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: irishtimes.com  
    Title: cia claims responsibility for ufo sightings in late 1950s 1960s 1.2055124  
-   Link: <a href="https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesCIA claims responsibility for UFO sightings in late 1950s, 1960s – The Irish Times...</p></details>
+   Link:<a href="https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/world/cia-claims-responsibility-for-ufo-sightings-in-late-1950s-1960s-1.2055124</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesCIA claims responsibility for UFO sightings in late 1950s, 1960s – The Irish Times...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: the 1971 australian ufo memo that linked project  
-   Link: <a href="https://www.reddit.com/r/AtlasOfMystery/comments/1u2wdd2/the_1971_australian_ufo_memo_that_linked_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AtlasOfMystery/comments/1u2wdd2/the_1971_australian_ufo_memo_that_linked_project/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1971 Australian UFO Memo That Linked [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), CIA Interest, Avro Saucers, and Gravity Control ResearchJune 11, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/AtlasOfMystery/comments/1u2wdd2/the_1971_australian_ufo_memo_that_linked_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AtlasOfMystery/comments/1u2wdd2/the_1971_australian_ufo_memo_that_linked_project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1971 Australian UFO Memo That Linked [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), CIA Interest, Avro Saucers, and Gravity Control ResearchJune 11, 2026...</p></details>
    Published: June 11, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Angels in Paradise: The Development of the U-2 at Area 51  
-   Link: <a href="https://www.youtube.com/watch?v=nQnBJrj_-l8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nQnBJrj_-l8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is The CIA Responsible For UFO Sightings, Or Is It All A Cover Up?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nQnBJrj_-l8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nQnBJrj_-l8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is The CIA Responsible For UFO Sightings, Or Is It All A Cover Up?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Is The CIA Responsible For UFO Sightings, Or Is It All A Cover Up?  
-   Link: <a href="https://www.youtube.com/watch?v=FcBaUNzcWK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FcBaUNzcWK4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases newly declassified UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FcBaUNzcWK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FcBaUNzcWK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases newly declassified UFO files...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Pentagon releases newly declassified UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=O5-qNdQi10k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O5-qNdQi10k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released 51 new UFO videos — this is what they actually show...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O5-qNdQi10k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O5-qNdQi10k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released 51 new UFO videos — this is what they actually show...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Pentagon released 51 new UFO videos — this is what they actually show  
-   Link: <a href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ng1-I7uB_c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Declassified UAP Secrets...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ng1-I7uB_c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Declassified UAP Secrets...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uap-files.org  
    Title: Declassified UFO/UAP Files — The US Government Disclosure Archive  
-   Link: <a href="https://uap-files.org/" target="_blank" rel="noopener noreferrer nofollow">https://uap-files.org/</a>  
+   Link:<a href="https://uap-files.org/" target="_blank" rel="noopener noreferrer nofollow">https://uap-files.org/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Top 10 Declassified UAP Secrets  
-   Link: <a href="https://www.youtube.com/watch?v=OF3EeAe6v6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OF3EeAe6v6s</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OF3EeAe6v6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OF3EeAe6v6s</a>  

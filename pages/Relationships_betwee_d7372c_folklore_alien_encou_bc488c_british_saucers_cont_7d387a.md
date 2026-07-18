@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_br
 
 ## Introduction
 
-American flying saucer stories did not simply arrive in Britain unchanged. After the first wave of UFO publicity that followed the 1947 sightings in the United States, British newspapers, enthusiasts, broadcasters and local witnesses adapted these stories to their own cultural setting. By the mid-1950s, the idea of visitors from other planets had become part of a distinctly British folklore of [flying saucers]({{ 'flying-saucer/' | relative_url }}). American contactee narratives provided the basic template—a seemingly ordinary person encounters benevolent space beings and receives a message—but British believers reshaped those stories through local landscapes, clubs, magazines, photographs, [television]({{ 'television/' | relative_url }}) appearances and witness drawings. The result was not a copy of American UFO culture but a British version of it, positioned at the intersection of folklore, popular science, science fiction and post-war media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+American flying saucer stories did not simply arrive in Britain unchanged. After the first wave of UFO publicity that followed the 1947 sightings in the United States, British newspapers, enthusiasts, broadcasters and local witnesses adapted these stories to their own cultural setting. By the mid-1950s, the idea of visitors from other planets had become part of a distinctly British folklore of [flying saucers]({{ 'flying-saucer/' | relative_url }}). American contactee narratives provided the basic template—a seemingly ordinary person encounters benevolent space beings and receives a message—but British believers reshaped those stories through local landscapes, clubs, magazines, photographs, [television]({{ 'television/' | relative_url }}) appearances and witness drawings. The result was not a copy of American UFO culture but a British version of it, positioned at the intersection of folklore, popular science, science fiction and post-war media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-1-dark.svg" | relative_url }}" alt="British Saucers illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,22 +288,22 @@ American flying saucer stories did not simply arrive in Britain unchanged. After
 
 The modern flying saucer era began in the United States after pilot Kenneth Arnold's famous 1947 sighting. During the early 1950s, American [contactees]({{ 'contactees/' | relative_url }}) such as George Adamski became internationally known through bestselling books and newspaper coverage. Adamski claimed to have met human-looking visitors from Venus who warned humanity about war and nuclear weapons. These accounts blended science-fiction imagery with spiritual themes and offered readers a hopeful alternative to Cold War anxieties.
 
-British audiences encountered these stories through imported books, newspaper reports and magazine articles. By 1950, flying saucer beliefs had crossed the Atlantic and entered British public discussion. Researchers of British UFO culture note that the earliest British [believers]({{ 'believers/' | relative_url }}) often drew directly on American narratives, adopting the same ideas about extraterrestrial visitors, interplanetary travel and personal contact with “space people”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+British audiences encountered these stories through imported books, newspaper reports and magazine articles. By 1950, flying saucer beliefs had crossed the Atlantic and entered British public discussion. Researchers of British UFO culture note that the earliest British [believers]({{ 'believers/' | relative_url }}) often drew directly on American narratives, adopting the same ideas about extraterrestrial visitors, interplanetary travel and personal contact with “space people”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
-Yet the transfer was never complete. British audiences received these stories through local media institutions that filtered and reinterpreted them. Instead of the deserts and vast highways that featured in many American contactee tales, British accounts increasingly unfolded in rural fields, coastal regions, moorland landscapes and small towns. The mythology retained its extraterrestrial framework while becoming attached to recognisably British places and social settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+Yet the transfer was never complete. British audiences received these stories through local media institutions that filtered and reinterpreted them. Instead of the deserts and vast highways that featured in many American contactee tales, British accounts increasingly unfolded in rural fields, coastal regions, moorland landscapes and small towns. The mythology retained its extraterrestrial framework while becoming attached to recognisably British places and social settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rnMSCKZ811Q" title="1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer">1973: UFO SPOTTING in WARMINSTER, WILTSHIRE | Nationwide | Weird and Wonderful | BBC Archive</a></p><p class="youtube-embed-meta">Channel: BBC Archive &middot; Views: 22.8K &middot; Uploaded: August 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rnMSCKZ811Q">Open on YouTube</a></p></div></div></div>
 
 ## British Media, Clubs and Witness Drawings
 
-One reason the mythology became localised was the structure of British media culture. Newspapers gave extensive coverage to unusual sightings, often reproducing witness sketches and photographs. Television programmes introduced saucer stories to audiences that might never have read specialist UFO literature. A small number of highly visible advocates became key interpreters of the phenomenon, helping shape public understanding of what a flying saucer should look like and how a witness should describe an encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+One reason the mythology became localised was the structure of British media culture. Newspapers gave extensive coverage to unusual sightings, often reproducing witness sketches and photographs. Television programmes introduced saucer stories to audiences that might never have read specialist UFO literature. A small number of highly visible advocates became key interpreters of the phenomenon, helping shape public understanding of what a flying saucer should look like and how a witness should describe an encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
-Visual evidence played an especially important role. British UFO folklore developed through drawings, photographs and newspaper illustrations as much as through written testimony. Researchers of Britain's UFO tradition have highlighted how witness sketches became a recurring feature of reports, creating a shared visual language for [saucers]({{ 'saucers/' | relative_url }}) and strange aerial objects. Decades later, thousands of such drawings preserved in government archives would demonstrate how important visual storytelling had been to the growth of the folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hyperallergic.com/ufo-drawings-national-archives-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperallergic.com">[Hyperallergic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperallergic.com</span><span class="citation-popover-title">Declassified Drawings from the British Government&#x27;s UFO Desk</span><span class="citation-popover-snippet">Declassified Drawings from the British Government&#x27;s UFO DeskNovember 13, 2017...</span><span class="citation-popover-meta">Published: November 13, 2017</span></span></span>
+Visual evidence played an especially important role. British UFO folklore developed through drawings, photographs and newspaper illustrations as much as through written testimony. Researchers of Britain's UFO tradition have highlighted how witness sketches became a recurring feature of reports, creating a shared visual language for [saucers]({{ 'saucers/' | relative_url }}) and strange aerial objects. Decades later, thousands of such drawings preserved in government archives would demonstrate how important visual storytelling had been to the growth of the folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hyperallergic.com/ufo-drawings-national-archives-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hyperallergic.com">[Hyperallergic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hyperallergic.com</span><span class="citation-popover-title">Declassified Drawings from the British Government&#x27;s UFO Desk</span><span class="citation-popover-snippet">Declassified Drawings from the British Government&#x27;s UFO DeskNovember 13, 2017...</span><span class="citation-popover-meta">Published: November 13, 2017</span></span></span>
 
-Photography amplified this process. During the 1950s and 1960s, British newspapers widely circulated images that appeared to show classic saucer-shaped craft. Some photographs closely resembled the famous images associated with George Adamski's alleged Venusian spacecraft. These pictures helped standardise the appearance of UFOs in the public imagination and reinforced the idea that British skies contained the same mysterious visitors reported in America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/alex-birch-ufo-photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Alex Birch UFO photos</span><span class="citation-popover-snippet">Dr. David Clarke Alex Birch UFO photos</span></span></span>
+Photography amplified this process. During the 1950s and 1960s, British newspapers widely circulated images that appeared to show classic saucer-shaped craft. Some photographs closely resembled the famous images associated with George Adamski's alleged Venusian spacecraft. These pictures helped standardise the appearance of UFOs in the public imagination and reinforced the idea that British skies contained the same mysterious visitors reported in America.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/secret-files/alex-birch-ufo-photos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Dr. David Clarke Alex Birch UFO photos</span><span class="citation-popover-snippet">Dr. David Clarke Alex Birch UFO photos</span></span></span>
 
-Alongside the media, flying saucer clubs provided social spaces where stories could circulate. Enthusiasts exchanged reports, debated evidence and invited speakers. These clubs transformed isolated claims into a shared belief system. Local meetings allowed American contactee themes to be retold, modified and connected to British sightings, creating a community-based folklore rather than a simple imported narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+Alongside the media, flying saucer clubs provided social spaces where stories could circulate. Enthusiasts exchanged reports, debated evidence and invited speakers. These clubs transformed isolated claims into a shared belief system. Local meetings allowed American contactee themes to be retold, modified and connected to British sightings, creating a community-based folklore rather than a simple imported narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-2-dark.svg" | relative_url }}" alt="British Saucers illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,11 +311,11 @@ Alongside the media, flying saucer clubs provided social spaces where stories co
 
 The clearest example of localisation was the emergence of British contactees who mirrored American predecessors while adapting their stories to British circumstances.
 
-A notable case was the alleged contactee Cedric Allingham, author of *Flying Saucer from Mars* (1954). The book described a meeting with a Martian in north-east Scotland. The story appeared only months after the British publication of Adamski-inspired literature and closely followed the American contactee pattern. However, the encounter was relocated to a Scottish landscape and presented through the voice of an apparently ordinary British observer. Although later exposed as a hoax, the story demonstrates how quickly American contactee motifs were being adapted into British settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prairieprogressive.com">[prairieprogressive.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prairieprogressive.com</span><span class="citation-popover-snippet">Open source on prairieprogressive.com.</span></span></span>
+A notable case was the alleged contactee Cedric Allingham, author of *Flying Saucer from Mars* (1954). The book described a meeting with a Martian in north-east Scotland. The story appeared only months after the British publication of Adamski-inspired literature and closely followed the American contactee pattern. However, the encounter was relocated to a Scottish landscape and presented through the voice of an apparently ordinary British observer. Although later exposed as a hoax, the story demonstrates how quickly American contactee motifs were being adapted into British settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prairieprogressive.com">[prairieprogressive.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prairieprogressive.com</span><span class="citation-popover-snippet">Open source on prairieprogressive.com.</span></span></span>
 
-British saucer folklore also absorbed older local traditions. Rather than replacing existing legends, UFO stories often settled into a cultural environment already rich with tales of [strange lights]({{ 'strange-lights/' | relative_url }}), mysterious visitors and unexplained aerial phenomena. New extraterrestrial [explanations]({{ 'explanations/' | relative_url }}) were layered onto familiar narrative patterns. As scholars of British UFO culture have argued, the mythology became embedded within existing beliefs and local legends rather than remaining a purely imported American phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+British saucer folklore also absorbed older local traditions. Rather than replacing existing legends, UFO stories often settled into a cultural environment already rich with tales of [strange lights]({{ 'strange-lights/' | relative_url }}), mysterious visitors and unexplained aerial phenomena. New extraterrestrial [explanations]({{ 'explanations/' | relative_url }}) were layered onto familiar narrative patterns. As scholars of British UFO culture have argued, the mythology became embedded within existing beliefs and local legends rather than remaining a purely imported American phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
-This localisation can be seen in the kinds of evidence people considered persuasive. American contactee literature often emphasised personal revelation and spiritual messages. British accounts tended to place greater emphasis on witness testimony, photographs, sketches, club investigations and local sightings. The extraterrestrial visitors remained, but the storytelling increasingly focused on evidence gathering and community discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society+2Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+This localisation can be seen in the kinds of evidence people considered persuasive. American contactee literature often emphasised personal revelation and spiritual messages. British accounts tended to place greater emphasis on witness testimony, photographs, sketches, club investigations and local sightings. The extraterrestrial visitors remained, but the storytelling increasingly focused on evidence gathering and community discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[folklore-society.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ikruHQUtOE" title="A history of flying saucers and UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer">A history of flying saucers and UFOs</a></p><p class="youtube-embed-meta">Channel: BBC Sky at Night Magazine &middot; Views: 10.0K &middot; Uploaded: August 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ikruHQUtOE">Open on YouTube</a></p></div></div></div>
@@ -327,200 +327,200 @@ This localisation can be seen in the kinds of evidence people considered persuas
 
 The British adaptation of American contactee myths illustrates how UFO beliefs spread in a manner similar to folklore. Science fiction supplied imagery of spacecraft, alien visitors and interplanetary travel, but local communities determined how those ideas were retold. Once the flying saucer myth entered Britain, it became entangled with British media habits, regional identities, amateur research groups and local storytelling traditions.
 
-The result was a hybrid cultural form. American science-fiction-inspired contactee narratives provided the initial model, while British newspapers, clubs, photographs and witness drawings transformed that model into a specifically British folklore of flying saucers. This process helps explain why UFO stories can appear globally recognisable yet still possess strong local characteristics. The mythology travelled across the Atlantic, but it became British through the people, places and media that retold it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[Folklore Society+2Ebrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
+The result was a hybrid cultural form. American science-fiction-inspired contactee narratives provided the initial model, while British newspapers, clubs, photographs and witness drawings transformed that model into a specifically British folklore of flying saucers. This process helps explain why UFO stories can appear globally recognisable yet still possess strong local characteristics. The mythology travelled across the Atlantic, but it became British through the people, places and media that retold it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore-society.com">[folklore-society.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore-society.com</span><span class="citation-popover-title">Folklore Society Flying Saucery: How UFOs Landed in the British Isles</span><span class="citation-popover-snippet">Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-3-dark.svg" | relative_url }}" alt="British Saucers illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_folklore_alien_encou_bc488c_british_saucers_cont_7d387a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Flying Saucers Became British Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Flying Saucers Became British Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that modern UFO encounters share patterns with older folklore, fairy lore, and supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how technological and extraterrestrial narratives function similarly to older religious and mythic frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how technological and extraterrestrial narratives function similarly to older religious and mythic frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly examines links between folklore traditions and UFO/abduction reports, matching the page&#x27;s core theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines links between folklore traditions and UFO/abduction reports, matching the page&#x27;s core theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Central text in the development of modern alien abduction narratives, especially bodily examination and intrusion themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central text in the development of modern alien abduction narratives, especially bodily examination and intrusion themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Show Flying Saucer SHADO POSTER"><img src="{{ '/assets/images/marketplace-covers/f905d9529d0c2d6446cf.jpg' | relative_url }}" alt="Listing image for UFO TV Show Flying Saucer SHADO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">UFO TV Show Flying Saucer SHADO POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Show Flying Saucer SHADO POSTER"><img src="{{ '/assets/images/marketplace-covers/f905d9529d0c2d6446cf.jpg' | relative_url }}" alt="Listing image for UFO TV Show Flying Saucer SHADO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">UFO TV Show Flying Saucer SHADO POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green"><img src="{{ '/assets/images/marketplace-covers/0e2e228271ded4497715.jpg' | relative_url }}" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green"><img src="{{ '/assets/images/marketplace-covers/0e2e228271ded4497715.jpg' | relative_url }}" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Green</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="british-saucers-how-flying-saucers-became-british-folklore-relationships-betwee-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ The result was a hybrid cultural form. American science-fiction-inspired contact
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ The result was a hybrid cultural form. American science-fiction-inspired contact
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ The result was a hybrid cultural form. American science-fiction-inspired contact
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ The result was a hybrid cultural form. American science-fiction-inspired contact
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ The result was a hybrid cultural form. American science-fiction-inspired contact
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,91 +726,91 @@ The result was a hybrid cultural form. American science-fiction-inspired contact
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: folklore-society.com  
    Title: Folklore Society Flying Saucery: How UFOs Landed in the British Isles  
-   Link: <a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</p></details>
+   Link:<a href="https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore-society.com/event/flying-saucery-how-ufos-landed-in-the-british-isles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Folklore SocietyFlying Saucery: How UFOs Landed in the British IslesJuly 1, 2025...</p></details>
    Published: July 1, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ebrary.net  
    Title: Interpreting the unknown: the UFO phenomenon in Britain  
-   Link: <a href="https://ebrary.net/177161/geography/interpreting_unknown_phenomenon_britain" target="_blank" rel="noopener noreferrer nofollow">https://ebrary.net/177161/geography/interpreting_unknown_phenomenon_britain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreting the unknown: the UFO phenomenon in Britain...</p></details>
+   Link:<a href="https://ebrary.net/177161/geography/interpreting_unknown_phenomenon_britain" target="_blank" rel="noopener noreferrer nofollow">https://ebrary.net/177161/geography/interpreting_unknown_phenomenon_britain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreting the unknown: the UFO phenomenon in Britain...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hyperallergic.com  
    Title: Declassified Drawings from the British Government's UFO Desk  
-   Link: <a href="https://hyperallergic.com/ufo-drawings-national-archives-book/" target="_blank" rel="noopener noreferrer nofollow">https://hyperallergic.com/ufo-drawings-national-archives-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Drawings from the British Government&#x27;s UFO DeskNovember 13, 2017...</p></details>
+   Link:<a href="https://hyperallergic.com/ufo-drawings-national-archives-book/" target="_blank" rel="noopener noreferrer nofollow">https://hyperallergic.com/ufo-drawings-national-archives-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Drawings from the British Government&#x27;s UFO DeskNovember 13, 2017...</p></details>
    Published: November 13, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: prairieprogressive.com  
-   Link: <a href="https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/" target="_blank" rel="noopener noreferrer nofollow">https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/</a>  
+   Link:<a href="https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/" target="_blank" rel="noopener noreferrer nofollow">https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ebrary.net  
    Title: Outer space and popular culture in post-war Britain  
-   Link: <a href="https://ebrary.net/177160/geography/outer_space_popular_culture_post_britain" target="_blank" rel="noopener noreferrer nofollow">https://ebrary.net/177160/geography/outer_space_popular_culture_post_britain</a>  
+   Link:<a href="https://ebrary.net/177160/geography/outer_space_popular_culture_post_britain" target="_blank" rel="noopener noreferrer nofollow">https://ebrary.net/177160/geography/outer_space_popular_culture_post_britain</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: drdavidclarke.co.uk  
    Title: Dr. David Clarke Alex Birch UFO photos  
-   Link: <a href="https://drdavidclarke.co.uk/secret-files/alex-birch-ufo-photos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/alex-birch-ufo-photos/</a>  
+   Link:<a href="https://drdavidclarke.co.uk/secret-files/alex-birch-ufo-photos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/alex-birch-ufo-photos/</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/science/cia-secret-classified-files-flying-saucer-ufo-sightings-over-britain-uk-conspiracy-a6837281.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/cia-secret-classified-files-flying-saucer-ufo-sightings-over-britain-uk-conspiracy-a6837281.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>releases secret files of &#x27;flying saucer&#x27; UFO sightings - including over UK | The Independent | The IndependentJanuary 29, 2016...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/science/cia-secret-classified-files-flying-saucer-ufo-sightings-over-britain-uk-conspiracy-a6837281.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/cia-secret-classified-files-flying-saucer-ufo-sightings-over-britain-uk-conspiracy-a6837281.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>releases secret files of &#x27;flying saucer&#x27; UFO sightings - including over UK | The Independent | The IndependentJanuary 29, 2016...</p></details>
    Published: January 29, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Todmorden UFO mystery: [Close encounters](&amp;#123;&amp;#123; &#x27;close-encounters/&#x27; | relative_url &amp;#125;&amp;#125;) in West Yorkshire | Sky HISTORY TV Channel...</p></details>
+   Link:<a href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Todmorden UFO mystery: [Close encounters](&amp;#123;&amp;#123; &#x27;close-encounters/&#x27; | relative_url &amp;#125;&amp;#125;) in West Yorkshire | Sky HISTORY TV Channel...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A history of flying saucers and UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rnMSCKZ811Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rnMSCKZ811Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A history of flying saucers and UFOs...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalfolkloresurvey.co.uk  
-   Link: <a href="https://www.nationalfolkloresurvey.co.uk/news/invasion-of-the-saucermen" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalfolkloresurvey.co.uk/news/invasion-of-the-saucermen</a>  
+   Link:<a href="https://www.nationalfolkloresurvey.co.uk/news/invasion-of-the-saucermen" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalfolkloresurvey.co.uk/news/invasion-of-the-saucermen</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
+   Link:<a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: british-paranormal.co.uk  
    Title: ufos 1950s britain  
-   Link: <a href="https://www.british-paranormal.co.uk/ufos-1950s-britain/" target="_blank" rel="noopener noreferrer nofollow">https://www.british-paranormal.co.uk/ufos-1950s-britain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 1950s Britain | British ParanormalNovember 14, 2017...</p></details>
+   Link:<a href="https://www.british-paranormal.co.uk/ufos-1950s-britain/" target="_blank" rel="noopener noreferrer nofollow">https://www.british-paranormal.co.uk/ufos-1950s-britain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in 1950s Britain | British ParanormalNovember 14, 2017...</p></details>
    Published: November 14, 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: A history of flying saucers and UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ikruHQUtOE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4ikruHQUtOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ikruHQUtOE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)...</p></details>
    Published: May 2008  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skepticalinquirer.org  
    Title: On Her Majesty’s Secret Saucers | Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/2015/11/on-her-majestys-secret-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/11/on-her-majestys-secret-saucers/</a>  
+   Link:<a href="https://skepticalinquirer.org/2015/11/on-her-majestys-secret-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/11/on-her-majestys-secret-saucers/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
    Published: May 2008  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Gloria Lee  
-   Link: <a href="https://en.wikipedia.org/wiki/Gloria_Lee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gloria_Lee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gloria_Lee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gloria_Lee</a>  

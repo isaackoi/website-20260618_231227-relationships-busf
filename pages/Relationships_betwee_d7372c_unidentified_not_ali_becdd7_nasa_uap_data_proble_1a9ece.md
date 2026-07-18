@@ -280,15 +280,15 @@ image: /assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_na
 
 ## Introduction
 
-NASA’s public work on [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena (UAP) has become one of the clearest examples of the gap between public expectations and scientific practice. In popular culture, especially through decades of science fiction and UFO narratives, an unexplained object is often treated as the beginning of an alien story. NASA’s position is much narrower. The agency argues that the central problem is not a lack of theories but a lack of reliable data. Existing reports are frequently incomplete, poorly documented, collected by sensors not designed for the task, or missing crucial contextual information. As a result, NASA has consistently framed UAP as a measurement challenge rather than evidence for extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
+NASA’s public work on [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena (UAP) has become one of the clearest examples of the gap between public expectations and scientific practice. In popular culture, especially through decades of science fiction and UFO narratives, an unexplained object is often treated as the beginning of an alien story. NASA’s position is much narrower. The agency argues that the central problem is not a lack of theories but a lack of reliable data. Existing reports are frequently incomplete, poorly documented, collected by sensors not designed for the task, or missing crucial contextual information. As a result, NASA has consistently framed UAP as a measurement challenge rather than evidence for extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_nasa_uap_data_proble_1a9ece-Illustration-1-dark.svg" | relative_url }}" alt="NASA Data illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_nasa_uap_data_proble_1a9ece-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_unidentified_not_ali_becdd7_nasa_uap_data_proble_1a9ece-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because public debate often treats “unidentified” as if it were a conclusion. NASA treats it as a description of the current state of the evidence. The agency’s UAP work therefore offers a useful case study in how scientific institutions respond when extraordinary public interest collides with limited observational data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
+This distinction matters because public debate often treats “unidentified” as if it were a conclusion. NASA treats it as a description of the current state of the evidence. The agency’s UAP work therefore offers a useful case study in how scientific institutions respond when extraordinary public interest collides with limited observational data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
 
 ## Why Current Observations Are Often Too Incomplete
 
-NASA’s independent UAP study repeatedly emphasised that the available evidence is usually insufficient for rigorous scientific analysis. The problem is not simply that some sightings remain unexplained. It is that many reports lack the information needed to determine what was actually observed in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
+NASA’s independent UAP study repeatedly emphasised that the available evidence is usually insufficient for rigorous scientific analysis. The problem is not simply that some sightings remain unexplained. It is that many reports lack the information needed to determine what was actually observed in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
 
 Several recurring weaknesses appear in UAP reports:
 
@@ -299,7 +299,7 @@ Several recurring weaknesses appear in UAP reports:
 * Observations may come from a single instrument rather than multiple independent systems.
 * Data can be missing precise timing, location, weather conditions, or instrument settings.
 * Visual observations by witnesses may not be accompanied by supporting measurements.
-* Raw sensor data are often unavailable for later verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
+* Raw sensor data are often unavailable for later verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
 
 </div>
 
@@ -312,11 +312,11 @@ This is where public expectations often diverge from scientific reasoning. In ma
 
 ## What Calibrated Sensors and Metadata Would Change
 
-A major recommendation of NASA’s study was to improve the quality and consistency of data collection. Rather than searching for a single decisive sighting, the agency focused on creating conditions under which future observations could be evaluated more reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
+A major recommendation of NASA’s study was to improve the quality and consistency of data collection. Rather than searching for a single decisive sighting, the agency focused on creating conditions under which future observations could be evaluated more reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
 
 ### Why Calibration Matters
 
-Scientific instruments must be calibrated so that researchers understand exactly how they behave and what kinds of errors they can produce. According to the study, some apparent UAP cases have ultimately been traced to sensor effects once calibration information and technical details were examined carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
+Scientific instruments must be calibrated so that researchers understand exactly how they behave and what kinds of errors they can produce. According to the study, some apparent UAP cases have ultimately been traced to sensor effects once calibration information and technical details were examined carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
 
 Without calibration, investigators may struggle to determine whether an unusual signal reflects an external object or a characteristic of the instrument itself. A blurry infrared image, for example, can create ambiguity not because the object is extraordinary but because the measurement system is poorly understood.
 
@@ -333,7 +333,7 @@ NASA placed unusual emphasis on [metadata]({{ 'metadata/' | relative_url }})—t
 * Time and date of collection.
 * Viewing angle and position.
 * Environmental conditions.
-* Noise characteristics and technical limitations of the instrument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
+* Noise characteristics and technical limitations of the instrument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
 
 </div>
 
@@ -346,7 +346,7 @@ NASA’s argument is that a scientifically useful UAP record is not merely a pho
 
 ### Building a Larger Evidence Base
 
-The study also highlighted the potential value of combining observations from multiple sources. NASA noted that its experience with Earth-observing systems and large-scale data analysis could contribute to future investigations, even though existing satellites are not generally designed to detect small UAP directly. The broader goal is to create a richer observational environment in which unusual events can be cross-checked against atmospheric, environmental, and other datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2023/09/14/report-uap-independent-study-team-final-report-nasa-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">report uap independent study team final report nasa 2023</span><span class="citation-popover-snippet">New Space EconomyReport: UAP Independent Study Team Final Report (NASA 2023) &#124; New Space EconomyJune 10, 2026...</span><span class="citation-popover-meta">Published: June 10, 2026</span></span></span>
+The study also highlighted the potential value of combining observations from multiple sources. NASA noted that its experience with Earth-observing systems and large-scale data analysis could contribute to future investigations, even though existing satellites are not generally designed to detect small UAP directly. The broader goal is to create a richer observational environment in which unusual events can be cross-checked against atmospheric, environmental, and other datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2023/09/14/report-uap-independent-study-team-final-report-nasa-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">report uap independent study team final report nasa 2023</span><span class="citation-popover-snippet">New Space EconomyReport: UAP Independent Study Team Final Report (NASA 2023) &#124; New Space EconomyJune 10, 2026...</span><span class="citation-popover-meta">Published: June 10, 2026</span></span></span>
 
 This approach reflects a standard scientific principle: confidence grows when independent measurements converge on the same result.
 
@@ -355,14 +355,14 @@ This approach reflects a standard scientific principle: confidence grows when in
 
 ## How NASA Separates Curiosity from Conclusion
 
-One of the most striking aspects of NASA’s UAP work is its effort to preserve scientific curiosity while resisting premature conclusions. Agency statements repeatedly encourage investigation of unusual reports but reject the idea that unexplained observations should be treated as evidence of extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings &#124; SpaceSeptember 14, 2023...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
+One of the most striking aspects of NASA’s UAP work is its effort to preserve scientific curiosity while resisting premature conclusions. Agency statements repeatedly encourage investigation of unusual reports but reject the idea that unexplained observations should be treated as evidence of extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings &#124; SpaceSeptember 14, 2023...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
 
 This balancing act is important because public discussions of UFOs often become polarised between two extremes:
 
 * **Automatic dismissal**, where every report is assumed to have a conventional explanation.
 * **Automatic escalation**, where every unresolved case is treated as evidence of [alien technology]({{ 'tech-magic/' | relative_url }}).
 
-NASA positions itself between these poles. The agency argues that some reports deserve serious investigation, yet also maintains that current evidence does not support claims of extraterrestrial visitors. Its study found no evidence that reported UAP have an extraterrestrial origin, while stressing that better data are needed before firm conclusions of any kind can be reached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings &#124; SpaceSeptember 14, 2023...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
+NASA positions itself between these poles. The agency argues that some reports deserve serious investigation, yet also maintains that current evidence does not support claims of extraterrestrial visitors. Its study found no evidence that reported UAP have an extraterrestrial origin, while stressing that better data are needed before firm conclusions of any kind can be reached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings &#124; SpaceSeptember 14, 2023...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
 
 This stance can disappoint audiences influenced by decades of science-fiction expectations. Popular narratives often reward mystery with revelation. Scientific institutions are more likely to respond to mystery with requests for improved measurement.
 
@@ -372,199 +372,199 @@ This stance can disappoint audiences influenced by decades of science-fiction ex
 
 NASA’s UAP programme illustrates a broader tension in the relationship between UFO culture and science fiction. Fiction encourages audiences to imagine what lies beyond current knowledge. Scientific investigation asks what can be demonstrated with evidence.
 
-The agency’s recommendations therefore focus on infrastructure rather than revelation: better sensors, better reporting systems, better calibration, and better metadata. These are not the elements that typically drive UFO mythology, but they are the tools that allow science to distinguish between competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
+The agency’s recommendations therefore focus on infrastructure rather than revelation: better sensors, better reporting systems, better calibration, and better metadata. These are not the elements that typically drive UFO mythology, but they are the tools that allow science to distinguish between competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</span></span></span>
 
-In public debate, an unidentified object often becomes a symbol of possibility. In NASA’s framework, it is first a data-quality problem. That difference helps explain why scientific institutions and popular UFO narratives frequently appear to talk past one another. One side asks what extraordinary story might explain the mystery. The other asks whether the observation is detailed enough to support any conclusion at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
+In public debate, an unidentified object often becomes a symbol of possibility. In NASA’s framework, it is first a data-quality problem. That difference helps explain why scientific institutions and popular UFO narratives frequently appear to talk past one another. One side asks what extraordinary story might explain the mystery. The other asks whether the observation is detailed enough to support any conclusion at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Provides Coverage of Unidentified Anomalous Phenomena Meeting</span><span class="citation-popover-snippet">NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</span><span class="citation-popover-meta">Published: May 12, 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to NASA&#x27;s Case for Better UFO Data. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to NASA&#x27;s Case for Better UFO Data. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes systematic investigation of unexplained observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes systematic investigation of unexplained observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented reports and data-driven inquiry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented reports and data-driven inquiry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores evidence limitations in modern cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores evidence limitations in modern cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Closely matches NASA&#x27;s emphasis on evidence quality and scientific method.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Closely matches NASA&#x27;s emphasis on evidence quality and scientific method.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft"><img src="{{ '/assets/images/marketplace-covers/153f01bcbdff229bae6d.jpg' | relative_url }}" alt="Listing image for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft"><img src="{{ '/assets/images/marketplace-covers/153f01bcbdff229bae6d.jpg' | relative_url }}" alt="Listing image for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extremely Rare .999 &#x27;TRITANIUM&#x27; Alien Coin/Artefact. Area 51. UFO/Spacecraft"><img src="{{ '/assets/images/marketplace-covers/f52196a4a33bb44d5663.jpg' | relative_url }}" alt="Listing image for Extremely Rare .999 &#x27;TRITANIUM&#x27; Alien Coin/Artefact. Area 51. UFO/Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Extremely Rare .999 &#x27;TRITANIUM&#x27; Alien Coin/Artefact. Area 51. UFO/Spacecraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extremely Rare .999 &#x27;TRITANIUM&#x27; Alien Coin/Artefact. Area 51. UFO/Spacecraft"><img src="{{ '/assets/images/marketplace-covers/f52196a4a33bb44d5663.jpg' | relative_url }}" alt="Listing image for Extremely Rare .999 &#x27;TRITANIUM&#x27; Alien Coin/Artefact. Area 51. UFO/Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Extremely Rare .999 &#x27;TRITANIUM&#x27; Alien Coin/Artefact. Area 51. UFO/Spacecraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft"><img src="{{ '/assets/images/marketplace-covers/a735a675a53d6c228cdb.jpg' | relative_url }}" alt="Listing image for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft"><img src="{{ '/assets/images/marketplace-covers/a735a675a53d6c228cdb.jpg' | relative_url }}" alt="Listing image for Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Extremely Rare .999 TITANIUM Alien Coin/Artefact. Area 51. UFO/Spacecraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Limited Special Edition Alien Space UFO III/Space Craft Blue Glow Large"><img src="{{ '/assets/images/marketplace-covers/2b2c05cbef66d38e0fc2.jpg' | relative_url }}" alt="Listing image for Limited Special Edition Alien Space UFO III/Space Craft Blue Glow Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Limited Special Edition Alien Space UFO III/Space Craft Blue Glow Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Limited Special Edition Alien Space UFO III/Space Craft Blue Glow Large"><img src="{{ '/assets/images/marketplace-covers/2b2c05cbef66d38e0fc2.jpg' | relative_url }}" alt="Listing image for Limited Special Edition Alien Space UFO III/Space Craft Blue Glow Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">Limited Special Edition Alien Space UFO III/Space Craft Blue Glow Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft collectible" data-ebay-reference="nasa-data-ffe0da-nasa-s-case-for-better-ufo-data-relationships-betwee-alien-spacecraft-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ In public debate, an unidentified object often becomes a symbol of possibility. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ In public debate, an unidentified object often becomes a symbol of possibility. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ In public debate, an unidentified object often becomes a symbol of possibility. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ In public debate, an unidentified object often becomes a symbol of possibility. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ In public debate, an unidentified object often becomes a symbol of possibility. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,84 +770,84 @@ In public debate, an unidentified object often becomes a symbol of possibility. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: Provides Coverage of Unidentified Anomalous Phenomena Meeting  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-provides-coverage-of-unidentified-anomalous-phenomena-meeting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Provides Coverage of Unidentified Anomalous Phenomena Meeting - NASAMay 12, 2023...</p></details>
    Published: May 12, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/15 - Wikisource, the free online library...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: to Release, Discuss Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous Phenomena Report - NASA...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous Phenomena Report - NASA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newspaceeconomy.ca  
    Title: report uap independent study team final report nasa 2023  
-   Link: <a href="https://newspaceeconomy.ca/2023/09/14/report-uap-independent-study-team-final-report-nasa-2023/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2023/09/14/report-uap-independent-study-team-final-report-nasa-2023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyReport: UAP Independent Study Team Final Report (NASA 2023) | New Space EconomyJune 10, 2026...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2023/09/14/report-uap-independent-study-team-final-report-nasa-2023/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2023/09/14/report-uap-independent-study-team-final-report-nasa-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyReport: UAP Independent Study Team Final Report (NASA 2023) | New Space EconomyJune 10, 2026...</p></details>
    Published: June 10, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings | SpaceSeptember 14, 2023...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings | SpaceSeptember 14, 2023...</p></details>
    Published: September 14, 2023  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
-   Link: <a href="http://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP report data problem public expectations NASA &amp; UFO controversy: Private briefings, pilot insights &amp; report findings | Backscroll...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP report data problem public expectations NASA &amp; UFO controversy: Private briefings, pilot insights &amp; report findings | Backscroll...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=K29hnj8UACk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K29hnj8UACk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa UFO report: What we learned from UAP study - BBC News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=K29hnj8UACk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K29hnj8UACk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa UFO report: What we learned from UAP study - BBC News...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update  
-   Link: <a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to study Unidentified Aerial Phenomena aka UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to study Unidentified Aerial Phenomena aka UFOs...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="http://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: NASA releases independent report on UAPS  
-   Link: <a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUB8TybhftM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Physicist: The Government Has Known Aliens Are Here Since 1961 | Dr. Kevin Knuth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUB8TybhftM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Physicist: The Government Has Known Aliens Are Here Since 1961 | Dr. Kevin Knuth...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: REPLAY! NASA UFO UAP Press Conference  
-   Link: <a href="https://www.youtube.com/watch?v=ZxalmD24q54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZxalmD24q54</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZxalmD24q54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZxalmD24q54</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
    Published: May 31, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: NASA: UAP Study Report Highlights  
-   Link: <a href="http://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qSAQyOgiELA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qSAQyOgiELA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>

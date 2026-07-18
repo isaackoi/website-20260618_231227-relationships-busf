@@ -280,17 +280,17 @@ image: /assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_ab
 
 ## Introduction
 
-Many famous alien-abduction stories did not begin as complete narratives. Witnesses often reported something much less definite: a frightening dream, a period of missing time, a sensation of presence in a bedroom, anxiety, unexplained marks, or a vague conviction that something unusual had happened. The transformation of these fragments into detailed accounts with recognisable stages—capture, examination, communication, return and aftermath—was often shaped by investigators, therapists, hypnosis practitioners, UFO organisations and media coverage. Within the broader relationship between UFO culture and science fiction, this process helped turn isolated experiences into stories that closely resembled a shared cultural script. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+Many famous alien-abduction stories did not begin as complete narratives. Witnesses often reported something much less definite: a frightening dream, a period of missing time, a sensation of presence in a bedroom, anxiety, unexplained marks, or a vague conviction that something unusual had happened. The transformation of these fragments into detailed accounts with recognisable stages—capture, examination, communication, return and aftermath—was often shaped by investigators, therapists, hypnosis practitioners, UFO organisations and media coverage. Within the broader relationship between UFO culture and science fiction, this process helped turn isolated experiences into stories that closely resembled a shared cultural script.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-1-dark.svg" | relative_url }}" alt="Story Scripts illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Researchers who have studied abduction reports note that the striking similarity between many accounts does not necessarily mean that witnesses consciously copied one another. Rather, interviewing methods, expectations and existing narrative models provided a framework through which uncertain memories could be organised into coherent stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+Researchers who have studied abduction reports note that the striking similarity between many accounts does not necessarily mean that witnesses consciously copied one another. Rather, interviewing methods, expectations and existing narrative models provided a framework through which uncertain memories could be organised into coherent stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[kosu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 ## From Discontinuity to Narrative Sequence
 
-A recurring feature of abduction reports is that the alleged event is not initially remembered in full. Instead, witnesses frequently begin with a discontinuity: lost time, a disturbing nocturnal experience, unexplained fear, or a fragmentary image. These elements are not yet a story. They become a story when they are arranged into a sequence with causes, actions and outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+A recurring feature of abduction reports is that the alleged event is not initially remembered in full. Instead, witnesses frequently begin with a discontinuity: lost time, a disturbing nocturnal experience, unexplained fear, or a fragmentary image. These elements are not yet a story. They become a story when they are arranged into a sequence with causes, actions and outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
-UFO investigators and abduction researchers often approached such fragments with the assumption that hidden memories existed beneath conscious awareness. If a witness reported a gap in memory, investigators frequently interpreted the gap not as uncertainty but as evidence that an encounter had occurred and had been suppressed. This assumption encouraged the search for a complete narrative behind the fragment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+UFO investigators and abduction researchers often approached such fragments with the assumption that hidden memories existed beneath conscious awareness. If a witness reported a gap in memory, investigators frequently interpreted the gap not as uncertainty but as evidence that an encounter had occurred and had been suppressed. This assumption encouraged the search for a complete narrative behind the fragment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 Over time, a relatively standard sequence emerged in abduction literature:
 
@@ -310,19 +310,19 @@ Over time, a relatively standard sequence emerged in abduction literature:
 
 </div>
 
-Once this structure became familiar through books, conferences, [television]({{ 'television/' | relative_url }}) programmes and UFO groups, witnesses and investigators possessed a ready-made template into which ambiguous experiences could be fitted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+Once this structure became familiar through books, conferences, [television]({{ 'television/' | relative_url }}) programmes and UFO groups, witnesses and investigators possessed a ready-made template into which ambiguous experiences could be fitted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-2-dark.svg" | relative_url }}" alt="Story Scripts illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hypnosis, Interviews and Expectation Effects
 
-The most controversial mechanism in the construction of abduction narratives was hypnotic regression. Beginning with influential cases such as Betty and Barney Hill, hypnosis was increasingly used to recover supposedly hidden memories. Later investigators including Budd Hopkins and others treated hypnosis as a tool for uncovering details that witnesses could not consciously recall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/culture/a71497481/alien-abductions-unexplained-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics They Claimed Aliens Abducted Them in New Hampshire</span><span class="citation-popover-snippet">Under Hypnosis, They Recounted What Happened.June 9, 2026 — This article from Popular Mechanics explores notable cases of alleged alien a...</span><span class="citation-popover-meta">Published: June 9, 2026</span></span></span>
+The most controversial mechanism in the construction of abduction narratives was hypnotic regression. Beginning with influential cases such as Betty and Barney Hill, hypnosis was increasingly used to recover supposedly hidden memories. Later investigators including Budd Hopkins and others treated hypnosis as a tool for uncovering details that witnesses could not consciously recall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/culture/a71497481/alien-abductions-unexplained-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics They Claimed Aliens Abducted Them in New Hampshire</span><span class="citation-popover-snippet">Under Hypnosis, They Recounted What Happened.June 9, 2026 — This article from Popular Mechanics explores notable cases of alleged alien a...</span><span class="citation-popover-meta">Published: June 9, 2026</span></span></span>
 
-Psychologists have long argued that hypnosis is not a neutral retrieval device. Research on memory suggestibility shows that hypnosis can increase confidence in memories without guaranteeing their accuracy. Experiments discussed by memory researcher Elizabeth Loftus demonstrated that suggestion can help people develop detailed recollections of events that never occurred. Critics therefore argued that hypnotic sessions could unintentionally encourage witnesses to elaborate uncertain impressions into vivid narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS</span><span class="citation-popover-snippet">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS...</span></span></span>
+Psychologists have long argued that hypnosis is not a neutral retrieval device. Research on memory suggestibility shows that hypnosis can increase confidence in memories without guaranteeing their accuracy. Experiments discussed by memory researcher Elizabeth Loftus demonstrated that suggestion can help people develop detailed recollections of events that never occurred. Critics therefore argued that hypnotic sessions could unintentionally encourage witnesses to elaborate uncertain impressions into vivid narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS</span><span class="citation-popover-snippet">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS...</span></span></span>
 
-The issue was not limited to hypnosis itself. Interview techniques could also shape outcomes. Questions such as “What happened inside the craft?” presume that a craft existed, whereas a more neutral question would not. When interviewers expected abduction experiences, witnesses received subtle cues about which interpretations were considered meaningful or plausible. Repeated interviews could then reinforce emerging details until a coherent account formed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS</span><span class="citation-popover-snippet">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS...</span></span></span>
+The issue was not limited to hypnosis itself. Interview techniques could also shape outcomes. Questions such as “What happened inside the craft?” presume that a craft existed, whereas a more neutral question would not. When interviewers expected abduction experiences, witnesses received subtle cues about which interpretations were considered meaningful or plausible. Repeated interviews could then reinforce emerging details until a coherent account formed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS</span><span class="citation-popover-snippet">NOVA &#124; Transcripts &#124; Kidnapped by UFOs? &#124; PBS...</span></span></span>
 
-Susan Clancy's interviews with self-described abductees found that many individuals did not begin with vivid memories of alien encounters. Instead, they often started with unusual sleep experiences, fears or suspicions and only later came to interpret them through an abduction framework after exposure to books, television programmes or abduction researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+Susan Clancy's interviews with self-described abductees found that many individuals did not begin with vivid memories of alien encounters. Instead, they often started with unusual sleep experiences, fears or suspicions and only later came to interpret them through an abduction framework after exposure to books, television programmes or abduction researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ywvp8SstQkM" title="Richard McNally: Memories of past lifes and space alien abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ywvp8SstQkM" target="_blank" rel="noopener noreferrer">Richard McNally: Memories of past lifes and space alien abduction</a></p><p class="youtube-embed-meta">Channel: PsychiatryLectures &middot; Views: 162.6K &middot; Uploaded: February 2014 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ywvp8SstQkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ywvp8SstQkM">Open on YouTube</a></p></div></div></div>
@@ -331,7 +331,7 @@ Susan Clancy's interviews with self-described abductees found that many individu
 
 One reason abduction accounts became so standardised is that investigators repeatedly encountered and circulated particular story elements. Once a witness accepted the possibility of abduction, subsequent recollections often filled in the same recognisable stages.
 
-The capture phase typically explained the initial mystery. If someone remembered waking frightened or noticing missing time, the narrative supplied an answer: aliens had taken them. The examination phase then gave dramatic content to the event, often borrowing imagery that resembled both modern medicine and science-fiction depictions of advanced technology. The return phase explained why memories were incomplete, while the aftermath phase accounted for lingering anxiety, fascination or life changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+The capture phase typically explained the initial mystery. If someone remembered waking frightened or noticing missing time, the narrative supplied an answer: aliens had taken them. The examination phase then gave dramatic content to the event, often borrowing imagery that resembled both modern medicine and science-fiction depictions of advanced technology. The return phase explained why memories were incomplete, while the aftermath phase accounted for lingering anxiety, fascination or life changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 This structure proved remarkably durable because each stage solved a narrative problem created by the previous one:
 
@@ -346,211 +346,211 @@ This structure proved remarkably durable because each stage solved a narrative p
 
 </div>
 
-As a result, fragmented experiences could be transformed into complete stories with a beginning, middle and end. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+As a result, fragmented experiences could be transformed into complete stories with a beginning, middle and end.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-3-dark.svg" | relative_url }}" alt="Story Scripts illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_abduction_story_scri_7844c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Scripts Resembled Science Fiction
 
-The standard abduction sequence did not emerge in a cultural vacuum. By the time abduction research expanded in the 1970s and 1980s, audiences had already encountered extraterrestrial visitors, spacecraft, medical experimentation and alien intelligence in films, television and popular literature. These images provided a vocabulary for describing experiences that otherwise lacked clear interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+The standard abduction sequence did not emerge in a cultural vacuum. By the time abduction research expanded in the 1970s and 1980s, audiences had already encountered extraterrestrial visitors, spacecraft, medical experimentation and alien intelligence in films, television and popular literature. These images provided a vocabulary for describing experiences that otherwise lacked clear interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
-Clancy and other researchers argue that people often interpret confusing experiences through culturally available narratives. In earlier centuries, sleep-related visions might have been described as demons, spirits or supernatural beings. In the late twentieth century, the same kinds of experiences could be understood through UFO imagery. The crucial point is not simple imitation of fiction but the availability of a recognised script that made an ambiguous event intelligible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</span><span class="citation-popover-meta">Published: March 1, 2005</span></span></span>
+Clancy and other researchers argue that people often interpret confusing experiences through culturally available narratives. In earlier centuries, sleep-related visions might have been described as demons, spirits or supernatural beings. In the late twentieth century, the same kinds of experiences could be understood through UFO imagery. The crucial point is not simple imitation of fiction but the availability of a recognised script that made an ambiguous event intelligible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</span><span class="citation-popover-meta">Published: March 1, 2005</span></span></span>
 
-The result was a feedback loop. Science-fiction imagery influenced UFO expectations; investigators used those expectations to interpret fragments; recovered narratives reinforced the same imagery; and media coverage spread the resulting script to new audiences. As more people learned the pattern, later accounts increasingly followed it, making the abduction story one of the most recognisable narrative forms in modern UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[KOSU+2Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
+The result was a feedback loop. Science-fiction imagery influenced UFO expectations; investigators used those expectations to interpret fragments; recovered narratives reinforced the same imagery; and media coverage spread the resulting script to new audiences. As more people learned the pattern, later accounts increasingly followed it, making the abduction story one of the most recognisable narrative forms in modern UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosu.org">[kosu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosu.org</span><span class="citation-popover-title">abducted the myth of alien kidnappings</span><span class="citation-popover-snippet">KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings &#124; KOSUNovember 8, 2005...</span><span class="citation-popover-meta">Published: November 8, 2005</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9wQVN0atWLw" title="The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer">The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW</a></p><p class="youtube-embed-meta">Channel: Stuff You Should Know &middot; Views: 21.0K &middot; Uploaded: March 2024 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9wQVN0atWLw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fragments Became Full Abduction Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Fragments Became Full Abduction Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep Paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKthXWBdnpYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sleep Paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep Paralysis">Sleep Paralysis</a>
-        </h4>
-        <p class="fr-book-author">By Shelley R. Adler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep Paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKthXWBdnpYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sleep Paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep Paralysis">Sleep Paralysis</a>
+</h4>
+<p class="fr-book-author">By Shelley R. Adler</p>
         
-        <p class="fr-book-desc">Directly addresses sleep paralysis, sensed presence and night-time terror.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses sleep paralysis, sensed presence and night-time terror.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sleep+Paralysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sleep Paralysis</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sleep+Paralysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sleep Paralysis</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Grey Alien Character Action Figure Science Fiction Genre"><img src="{{ '/assets/images/marketplace-covers/ed411f98ead9330b1375.jpg' | relative_url }}" alt="Listing image for Star Wars Grey Alien Character Action Figure Science Fiction Genre" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Star Wars Grey Alien Character Action Figure Science Fiction Genre</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Grey Alien Character Action Figure Science Fiction Genre"><img src="{{ '/assets/images/marketplace-covers/ed411f98ead9330b1375.jpg' | relative_url }}" alt="Listing image for Star Wars Grey Alien Character Action Figure Science Fiction Genre" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Star Wars Grey Alien Character Action Figure Science Fiction Genre</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph - Alien - 3D Printed Kit by NomNom Figures - Resin Grey Fan Art"><img src="{{ '/assets/images/marketplace-covers/15aa2917c9fe26c67508.jpg' | relative_url }}" alt="Listing image for Xenomorph - Alien - 3D Printed Kit by NomNom Figures - Resin Grey Fan Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Xenomorph - Alien - 3D Printed Kit by NomNom Figures - Resin Grey Fan Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph - Alien - 3D Printed Kit by NomNom Figures - Resin Grey Fan Art"><img src="{{ '/assets/images/marketplace-covers/15aa2917c9fe26c67508.jpg' | relative_url }}" alt="Listing image for Xenomorph - Alien - 3D Printed Kit by NomNom Figures - Resin Grey Fan Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Xenomorph - Alien - 3D Printed Kit by NomNom Figures - Resin Grey Fan Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure-Large Model-UK seller"><img src="{{ '/assets/images/marketplace-covers/80fb924f74524fb59ad2.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure-Large Model-UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure-Large Model-UK seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure-Large Model-UK seller"><img src="{{ '/assets/images/marketplace-covers/80fb924f74524fb59ad2.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure-Large Model-UK seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure-Large Model-UK seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien figure" data-ebay-reference="story-scripts-how-fragments-became-full-abduction-stories-relationships-betwee-grey-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ The result was a feedback loop. Science-fiction imagery influenced UFO expectati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ The result was a feedback loop. Science-fiction imagery influenced UFO expectati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ The result was a feedback loop. Science-fiction imagery influenced UFO expectati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ The result was a feedback loop. Science-fiction imagery influenced UFO expectati
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ The result was a feedback loop. Science-fiction imagery influenced UFO expectati
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,70 +756,70 @@ The result was a feedback loop. Science-fiction imagery influenced UFO expectati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kosu.org  
    Title: abducted the myth of alien kidnappings  
-   Link: <a href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow">https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings | KOSUNovember 8, 2005...</p></details>
+   Link:<a href="https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings" target="_blank" rel="noopener noreferrer nofollow">https://www.kosu.org/u-s-news/2005-11-08/abducted-the-myth-of-alien-kidnappings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KOSU&#x27;Abducted&#x27;: The Myth of Alien Kidnappings | KOSUNovember 8, 2005...</p></details>
    Published: November 8, 2005  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pbs.org  
    Title: NOVA | Transcripts | Kidnapped by UFOs? | PBS  
-   Link: <a href="https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA | Transcripts | Kidnapped by UFOs? | PBS...</p></details>
+   Link:<a href="https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/transcripts/2306tufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA | Transcripts | Kidnapped by UFOs? | PBS...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: books.google.com  
    Title: Books Abducted: How People Come to Believe They Were Kidnapped by Aliens  
-   Link: <a href="https://books.google.com/books/about/Abducted.html?id=WUkvEAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Abducted.html?id=WUkvEAAAQBAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksAbducted: How People Come to Believe They Were Kidnapped by Aliens - Susan A. Clancy - Google Books...</p></details>
+   Link:<a href="https://books.google.com/books/about/Abducted.html?id=WUkvEAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Abducted.html?id=WUkvEAAAQBAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksAbducted: How People Come to Believe They Were Kidnapped by Aliens - Susan A. Clancy - Google Books...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.harvard.edu  
    Title: Gazette Alien abduction claims explained — Harvard Gazette  
-   Link: <a href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteAlien abduction claims explained — Harvard Gazette...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2005/09/alien-abduction-claims-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteAlien abduction claims explained — Harvard Gazette...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics They Claimed Aliens Abducted Them in New Hampshire  
-   Link: <a href="https://www.popularmechanics.com/culture/a71497481/alien-abductions-unexplained-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/culture/a71497481/alien-abductions-unexplained-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Under Hypnosis, They Recounted What Happened.June 9, 2026 — This article from Popular Mechanics explores notable cases of alleged alien a...</p></details>
+   Link:<a href="https://www.popularmechanics.com/culture/a71497481/alien-abductions-unexplained-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/culture/a71497481/alien-abductions-unexplained-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Under Hypnosis, They Recounted What Happened.June 9, 2026 — This article from Popular Mechanics explores notable cases of alleged alien a...</p></details>
    Published: June 9, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1363461505050715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1363461505050715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005March 1, 2005...</p></details>
    Published: March 1, 2005  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: Abducted: How People Come to Believe They Were Kidnapped by Aliens  
-   Link: <a href="https://www.reddit.com/r/lectures/comments/cc57wp" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lectures/comments/cc57wp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abducted: How People Come to Believe They Were Kidnapped by Aliens...</p></details>
+   Link:<a href="https://www.reddit.com/r/lectures/comments/cc57wp" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lectures/comments/cc57wp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abducted: How People Come to Believe They Were Kidnapped by Aliens...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: An Alien Abduction Hypnotherapist Explains Extraterrestrial Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=mPHADhObzTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPHADhObzTI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mPHADhObzTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPHADhObzTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW  
-   Link: <a href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wQVN0atWLw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard McNally: Memories of past lifes and space alien abduction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9wQVN0atWLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard McNally: Memories of past lifes and space alien abduction...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10487786/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10487786/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10487786/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10487786/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Richard Mc Nally: Memories of past lifes and space alien abduction  
-   Link: <a href="https://www.youtube.com/watch?v=Ywvp8SstQkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ywvp8SstQkM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Ywvp8SstQkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ywvp8SstQkM</a>  

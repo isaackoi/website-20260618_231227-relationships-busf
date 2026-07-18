@@ -280,28 +280,28 @@ image: /assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_in
 
 ## Introduction
 
-In the 1950s, the flying saucer stopped being merely a mysterious object in the sky and became a machine of invasion. No film illustrates that shift more clearly than *Earth vs. the [Flying Saucers]({{ 'flying-saucer/' | relative_url }})* (1956), a Cold War science-fiction spectacle that transformed the familiar UFO disc into a military threat capable of attacking cities, destroying monuments and challenging national defences. While earlier saucer stories sometimes suggested contact, curiosity or warning, this film helped establish a powerful alternative image: the saucer as an airborne weapon platform. Its influence extended beyond its modest budget, helping to define how hostile alien craft would be portrayed in popular culture for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+In the 1950s, the flying saucer stopped being merely a mysterious object in the sky and became a machine of invasion. No film illustrates that shift more clearly than *Earth vs. the [Flying Saucers]({{ 'flying-saucer/' | relative_url }})* (1956), a Cold War science-fiction spectacle that transformed the familiar UFO disc into a military threat capable of attacking cities, destroying monuments and challenging national defences. While earlier saucer stories sometimes suggested contact, curiosity or warning, this film helped establish a powerful alternative image: the saucer as an airborne weapon platform. Its influence extended beyond its modest budget, helping to define how hostile alien craft would be portrayed in popular culture for decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-1-dark.svg" | relative_url }}" alt="Invasion Disc illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Saucer as a Weapon of Spectacle
 
-One reason the film became so influential is that it gave the saucer dramatic physical power. Rather than hovering mysteriously in the distance, the discs actively attacked military installations, aircraft and cities. The invasion craft carried energy weapons, projected defensive force fields and appeared in organised fleets, turning a once-ambiguous UFO shape into a recognisable instrument of war. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plotexplained.com">[Plot Explained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plotexplained.com</span><span class="citation-popover-title">earth vs the flyingsaucers 1956</span><span class="citation-popover-snippet">Plot ExplainedEarth vs. the Flying Saucers (1956) Full Movie Summary &amp; Plot ExplainedOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
+One reason the film became so influential is that it gave the saucer dramatic physical power. Rather than hovering mysteriously in the distance, the discs actively attacked military installations, aircraft and cities. The invasion craft carried energy weapons, projected defensive force fields and appeared in organised fleets, turning a once-ambiguous UFO shape into a recognisable instrument of war.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plotexplained.com">[Plot Explained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plotexplained.com</span><span class="citation-popover-title">earth vs the flyingsaucers 1956</span><span class="citation-popover-snippet">Plot ExplainedEarth vs. the Flying Saucers (1956) Full Movie Summary &amp; Plot ExplainedOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
 
-The visual effects created by Ray Harryhausen were central to this transformation. Instead of treating the [saucers]({{ 'saucers/' | relative_url }}) as static objects, he animated them with movement, rotation and apparent weight. Their distinctive design featured a central cabin surrounded by a rotating outer ring, creating the impression of sophisticated machinery rather than a simple [unidentified]({{ 'unidentified/' | relative_url }}) object. Harryhausen also animated collapsing masonry and debris, making the destruction caused by the discs feel tangible and consequential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+The visual effects created by Ray Harryhausen were central to this transformation. Instead of treating the [saucers]({{ 'saucers/' | relative_url }}) as static objects, he animated them with movement, rotation and apparent weight. Their distinctive design featured a central cabin surrounded by a rotating outer ring, creating the impression of sophisticated machinery rather than a simple [unidentified]({{ 'unidentified/' | relative_url }}) object. Harryhausen also animated collapsing masonry and debris, making the destruction caused by the discs feel tangible and consequential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
-This mattered culturally because spectacle changed the meaning of the saucer. A mysterious light invites questions. A saucer that crashes through buildings demands a military response. The film therefore pushed the flying saucer away from the realm of unexplained sightings and toward the language of invasion narratives and disaster cinema. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+This mattered culturally because spectacle changed the meaning of the saucer. A mysterious light invites questions. A saucer that crashes through buildings demands a military response. The film therefore pushed the flying saucer away from the realm of unexplained sightings and toward the language of invasion narratives and disaster cinema.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/weiwU_sbZe8" title="Earth vs the Flying Saucers1956 Featurette, Ray Harryhausen&#x27;s stop-motion animation special effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=weiwU_sbZe8" target="_blank" rel="noopener noreferrer">Earth vs the Flying Saucers1956 Featurette, Ray Harryhausen&#x27;s stop-motion animation special effects</a></p><p class="youtube-embed-meta">Channel: Retro Lad&#x27;s 20th Century Memorabilia, Etc.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=weiwU_sbZe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=weiwU_sbZe8">Open on YouTube</a></p></div></div></div>
 
 ## Cities, Military Fear and Destruction
 
-The film's most memorable sequences involve attacks on centres of political and military authority. Washington, D.C. becomes a battlefield as saucers strike government buildings and defensive forces struggle to stop them. The destruction of landmarks turned the invasion into something audiences could immediately understand: an attack not just on individuals but on the institutions of modern society. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+The film's most memorable sequences involve attacks on centres of political and military authority. Washington, D.C. becomes a battlefield as saucers strike government buildings and defensive forces struggle to stop them. The destruction of landmarks turned the invasion into something audiences could immediately understand: an attack not just on individuals but on the institutions of modern society.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
-The choice of targets reflected wider Cold War anxieties. During the 1950s, fears of surprise attack, nuclear devastation and technological competition shaped public imagination. The saucers functioned as a flexible threat. They were alien, but they also resembled fears associated with advanced enemy weapons and uncontrollable technological power. Contemporary and retrospective commentary frequently notes the connection between 1950s science-fiction cinema and the atmosphere of Cold War suspicion and insecurity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://themovieelite.com/earth-vs-the-flying-saucers-1956-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themovieelite.com">[The Movie Elite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themovieelite.com</span><span class="citation-popover-title">earth vs the flying saucers 1956 review</span><span class="citation-popover-snippet">The Movie EliteEarth vs. the Flying Saucers (1956) Review - The Movie Elite...</span></span></span>
+The choice of targets reflected wider Cold War anxieties. During the 1950s, fears of surprise attack, nuclear devastation and technological competition shaped public imagination. The saucers functioned as a flexible threat. They were alien, but they also resembled fears associated with advanced enemy weapons and uncontrollable technological power. Contemporary and retrospective commentary frequently notes the connection between 1950s science-fiction cinema and the atmosphere of Cold War suspicion and insecurity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://themovieelite.com/earth-vs-the-flying-saucers-1956-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: themovieelite.com">[The Movie Elite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">themovieelite.com</span><span class="citation-popover-title">earth vs the flying saucers 1956 review</span><span class="citation-popover-snippet">The Movie EliteEarth vs. the Flying Saucers (1956) Review - The Movie Elite...</span></span></span>
 
-An interesting tension runs through the story. The aliens initially attempt communication and negotiation, yet misunderstandings and escalating violence lead to open conflict. Once the invasion begins, however, the film's imagery overwhelmingly favours military confrontation. The saucer becomes defined less by its origin or occupants than by its ability to inflict destruction on a massive scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plotexplained.com">[Plot Explained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plotexplained.com</span><span class="citation-popover-title">earth vs the flyingsaucers 1956</span><span class="citation-popover-snippet">Plot ExplainedEarth vs. the Flying Saucers (1956) Full Movie Summary &amp; Plot ExplainedOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
+An interesting tension runs through the story. The aliens initially attempt communication and negotiation, yet misunderstandings and escalating violence lead to open conflict. Once the invasion begins, however, the film's imagery overwhelmingly favours military confrontation. The saucer becomes defined less by its origin or occupants than by its ability to inflict destruction on a massive scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plotexplained.com">[Plot Explained]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plotexplained.com</span><span class="citation-popover-title">earth vs the flyingsaucers 1956</span><span class="citation-popover-snippet">Plot ExplainedEarth vs. the Flying Saucers (1956) Full Movie Summary &amp; Plot ExplainedOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-2-dark.svg" | relative_url }}" alt="Invasion Disc illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -314,9 +314,9 @@ Several features made the invasion disc especially reusable:
 * **Instant recognisability:** audiences could identify a saucer silhouette immediately.
 * **Technological ambiguity:** the craft looked advanced without requiring detailed [explanations]({{ 'explanations/' | relative_url }}).
 * **Visual simplicity:** discs could be animated, illustrated and marketed easily.
-* **Military flexibility:** they could serve as bombers, scouts, transports or super-weapons depending on the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+* **Military flexibility:** they could serve as bombers, scouts, transports or super-weapons depending on the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
-The film's influence extended beyond direct imitation. Later alien-invasion stories repeatedly used fleets of disc-shaped craft attacking cities, overwhelming conventional weapons and symbolising an external threat to civilisation. Critics and historians have noted that the movie helped establish a template that later works could either follow sincerely or parody. Even films that mocked 1950s invasion narratives often borrowed imagery traceable to Harryhausen's attacking saucers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+The film's influence extended beyond direct imitation. Later alien-invasion stories repeatedly used fleets of disc-shaped craft attacking cities, overwhelming conventional weapons and symbolising an external threat to civilisation. Critics and historians have noted that the movie helped establish a template that later works could either follow sincerely or parody. Even films that mocked 1950s invasion narratives often borrowed imagery traceable to Harryhausen's attacking saucers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/giV-Kz9qe_o" title="Earth vs. the Flying Saucers (1956)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=giV-Kz9qe_o" target="_blank" rel="noopener noreferrer">Earth vs. the Flying Saucers (1956)</a></p><p class="youtube-embed-meta">Channel: Boomer Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=giV-Kz9qe_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=giV-Kz9qe_o">Open on YouTube</a></p></div></div></div>
@@ -326,202 +326,202 @@ The film's influence extended beyond direct imitation. Later alien-invasion stor
 
 ## From UFO Report to Cultural Threat
 
-One of the most revealing aspects of *Earth vs. the Flying Saucers* is how it drew on contemporary UFO culture while simultaneously reshaping it. The film was inspired in part by Donald Keyhoe's writings about flying saucers, and its saucer design reflected popular descriptions circulating in UFO discussions of the period. Yet the cinematic result was not an investigation of unidentified objects. It was an invasion fantasy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+One of the most revealing aspects of *Earth vs. the Flying Saucers* is how it drew on contemporary UFO culture while simultaneously reshaping it. The film was inspired in part by Donald Keyhoe's writings about flying saucers, and its saucer design reflected popular descriptions circulating in UFO discussions of the period. Yet the cinematic result was not an investigation of unidentified objects. It was an invasion fantasy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
-That shift had lasting consequences for popular culture. The flying saucer remained the dominant UFO symbol, but films like *Earth vs. the Flying Saucers* attached new emotional meanings to it. The disc no longer signified only mystery or possible contact. It could also signify panic, destruction, military mobilisation and the fear that an unknown power might arrive from the sky with overwhelming force. In that sense, the film helped complete the transformation of the saucer from an unexplained sighting into one of science fiction's most enduring machines of invasion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
+That shift had lasting consequences for popular culture. The flying saucer remained the dominant UFO symbol, but films like *Earth vs. the Flying Saucers* attached new emotional meanings to it. The disc no longer signified only mystery or possible contact. It could also signify panic, destruction, military mobilisation and the fear that an unknown power might arrive from the sky with overwhelming force. In that sense, the film helped complete the transformation of the saucer from an unexplained sighting into one of science fiction's most enduring machines of invasion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Earth vs. the Flying Saucers</span><span class="citation-popover-snippet">Earth vs. the Flying Saucers</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-3-dark.svg" | relative_url }}" alt="Invasion Disc illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_invasion_saucer_film_5028f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Saucers Became Invasion Machines. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Saucers Became Invasion Machines. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth+by+Ryan+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Vs. the Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XA4IEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers Vs. the Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth+by+Ryan+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Vs. the Earth">Flying Saucers Vs. the Earth</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Burton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth+by+Ryan+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Vs. the Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XA4IEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers Vs. the Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth+by+Ryan+Burton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Vs. the Earth">Flying Saucers Vs. the Earth</a>
+</h4>
+<p class="fr-book-author">By Ryan Burton</p>
         
-        <p class="fr-book-desc">Most closely matches the page&#x27;s focus on hostile flying-saucer imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth+by+Ryan+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Most closely matches the page&#x27;s focus on hostile flying-saucer imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth+by+Ryan+Burton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how UFO narratives become culturally powerful.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Explores how UFO narratives become culturally powerful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides cultural context for how UFO images gain symbolic power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural context for how UFO images gain symbolic power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day the Earth Stood Still &amp; Other SF Classics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day the Earth Stood Still &amp; Other SF Classics">The Day the Earth Stood Still &amp; Other SF Classics</a>
-        </h4>
-        <p class="fr-book-author">By Harry Bates</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day the Earth Stood Still &amp; Other SF Classics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day the Earth Stood Still &amp; Other SF Classics">The Day the Earth Stood Still &amp; Other SF Classics</a>
+</h4>
+<p class="fr-book-author">By Harry Bates</p>
         
-        <p class="fr-book-desc">Useful contrast between peaceful and hostile saucer representations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful contrast between peaceful and hostile saucer representations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+SF+Classics+by+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Vs. the Earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers+Vs.+the+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Vs. the Earth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="invasion-disc-how-saucers-became-invasion-machines-relationships-betwee-ufo-wall-art-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That shift had lasting consequences for popular culture. The flying saucer remai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That shift had lasting consequences for popular culture. The flying saucer remai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That shift had lasting consequences for popular culture. The flying saucer remai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That shift had lasting consequences for popular culture. The flying saucer remai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That shift had lasting consequences for popular culture. The flying saucer remai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,91 +727,91 @@ That shift had lasting consequences for popular culture. The flying saucer remai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Earth vs. the Flying Saucers  
-   Link: <a href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Earth_vs._the_Flying_Saucers</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: plotexplained.com  
    Title: earth vs the flyingsaucers 1956  
-   Link: <a href="https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/" target="_blank" rel="noopener noreferrer nofollow">https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plot ExplainedEarth vs. the Flying Saucers (1956) Full Movie Summary &amp; Plot ExplainedOctober 9, 2025...</p></details>
+   Link:<a href="https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/" target="_blank" rel="noopener noreferrer nofollow">https://www.plotexplained.com/movie/earth-vs-the-flyingsaucers-1956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plot ExplainedEarth vs. the Flying Saucers (1956) Full Movie Summary &amp; Plot ExplainedOctober 9, 2025...</p></details>
    Published: October 9, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: themovieelite.com  
    Title: earth vs the flying saucers 1956 review  
-   Link: <a href="https://themovieelite.com/earth-vs-the-flying-saucers-1956-review/" target="_blank" rel="noopener noreferrer nofollow">https://themovieelite.com/earth-vs-the-flying-saucers-1956-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Movie EliteEarth vs. the Flying Saucers (1956) Review - The Movie Elite...</p></details>
+   Link:<a href="https://themovieelite.com/earth-vs-the-flying-saucers-1956-review/" target="_blank" rel="noopener noreferrer nofollow">https://themovieelite.com/earth-vs-the-flying-saucers-1956-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Movie EliteEarth vs. the Flying Saucers (1956) Review - The Movie Elite...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ruthlessreviews.com  
    Title: earth vs the flying saucers 1956  
-   Link: <a href="https://www.ruthlessreviews.com/movies/earth-vs-the-flying-saucers-1956/" target="_blank" rel="noopener noreferrer nofollow">https://www.ruthlessreviews.com/movies/earth-vs-the-flying-saucers-1956/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth vs. the Flying Saucers (1956) - Ruthless Reviews...</p></details>
+   Link:<a href="https://www.ruthlessreviews.com/movies/earth-vs-the-flying-saucers-1956/" target="_blank" rel="noopener noreferrer nofollow">https://www.ruthlessreviews.com/movies/earth-vs-the-flying-saucers-1956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth vs. the Flying Saucers (1956) - Ruthless Reviews...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: manapop.com  
    Title: earth vs the flying saucers 1956 review  
-   Link: <a href="https://manapop.com/film/earth-vs-the-flying-saucers-1956-review/" target="_blank" rel="noopener noreferrer nofollow">https://manapop.com/film/earth-vs-the-flying-saucers-1956-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mana PopEarth vs. The Flying Saucers (1956) – Review - Mana Pop...</p></details>
+   Link:<a href="https://manapop.com/film/earth-vs-the-flying-saucers-1956-review/" target="_blank" rel="noopener noreferrer nofollow">https://manapop.com/film/earth-vs-the-flying-saucers-1956-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mana PopEarth vs. The Flying Saucers (1956) – Review - Mana Pop...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vrjNUoiBw6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vrjNUoiBw6s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth vs the Flying Saucers1956 Featurette, Ray Harryhausen&#x27;s stop-motion animation special effects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vrjNUoiBw6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vrjNUoiBw6s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth vs the Flying Saucers1956 Featurette, Ray Harryhausen&#x27;s stop-motion animation special effects...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=weiwU_sbZe8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=weiwU_sbZe8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EARTH vs. THE FLYING SAUCERS (1956) B&amp;W | Full Movie HD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=weiwU_sbZe8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=weiwU_sbZe8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EARTH vs. THE FLYING SAUCERS (1956) B&amp;W | Full Movie HD...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: horrorguys.com  
    Title: 1956 earth vs the flying saucers  
-   Link: <a href="https://www.horrorguys.com/1956-earth-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.horrorguys.com/1956-earth-vs-the-flying-saucers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.horrorguys.com1956 Earth Vs. The Flying Saucers - Horror GuysMay 14, 2025...</p></details>
+   Link:<a href="https://www.horrorguys.com/1956-earth-vs-the-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.horrorguys.com/1956-earth-vs-the-flying-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.horrorguys.com1956 Earth Vs. The Flying Saucers - Horror GuysMay 14, 2025...</p></details>
    Published: May 14, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=giV-Kz9qe_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=giV-Kz9qe_o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This 1956 Alien Invasion Film Still Terrifies Viewers Today...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=giV-Kz9qe_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=giV-Kz9qe_o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why This 1956 Alien Invasion Film Still Terrifies Viewers Today...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Earth vs. the Flying Saucers — From Beyond The Stars… They Attack!  
-   Link: <a href="https://www.youtube.com/watch?v=Vk5F__7TMGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vk5F__7TMGo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth vs. the Flying Saucers (1956)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Vk5F__7TMGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vk5F__7TMGo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth vs. the Flying Saucers (1956)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/fullmoviesonyoutube/comments/qi2cdi" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fullmoviesonyoutube/comments/qi2cdi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. the Flying Saucers (1956) [720p] [Colorized] Ray HarryhausenOctober 29, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/fullmoviesonyoutube/comments/qi2cdi" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fullmoviesonyoutube/comments/qi2cdi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. the Flying Saucers (1956) [720p] [Colorized] Ray HarryhausenOctober 29, 2021...</p></details>
    Published: October 29, 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/fullmoviesonyoutube/comments/mpd4ra" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fullmoviesonyoutube/comments/mpd4ra</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vs The Flying Saucers (1956) [1080p] [colorized version]April 12, 2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/fullmoviesonyoutube/comments/mpd4ra" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fullmoviesonyoutube/comments/mpd4ra</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vs The Flying Saucers (1956) [1080p] [colorized version]April 12, 2021...</p></details>
    Published: April 12, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/badMovies/comments/16aths0" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/badMovies/comments/16aths0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs the Flying Saucers color (1956) | Movie ClassicsSeptember 5, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/badMovies/comments/16aths0" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/badMovies/comments/16aths0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs the Flying Saucers color (1956) | Movie ClassicsSeptember 5, 2023...</p></details>
    Published: September 5, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tcm.com  
    Title: Turner Classic Movies Earth vs. the Flying Saucers  
-   Link: <a href="https://www.tcm.com/articles/28072/earth-vs-the-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/28072/earth-vs-the-flying-saucers</a>  
+   Link:<a href="https://www.tcm.com/articles/28072/earth-vs-the-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.tcm.com/articles/28072/earth-vs-the-flying-saucers</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/MoviePosterPorn/comments/ewk5r6" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MoviePosterPorn/comments/ewk5r6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. The Flying Saucers (1956) [2985 × 4500]January 31, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/MoviePosterPorn/comments/ewk5r6" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MoviePosterPorn/comments/ewk5r6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. The Flying Saucers (1956) [2985 × 4500]January 31, 2020...</p></details>
    Published: January 31, 2020  

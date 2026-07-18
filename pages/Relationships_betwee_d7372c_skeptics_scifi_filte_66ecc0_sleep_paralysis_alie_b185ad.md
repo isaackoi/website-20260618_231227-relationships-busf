@@ -274,7 +274,7 @@ image: /assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_sl
 
 ## Introduction
 
-One of the most influential sceptical [explanations]({{ 'explanations/' | relative_url }}) for many alien-abduction reports is sleep paralysis. The idea is not that every abduction claim can be reduced to a sleep disorder, but that a significant number of classic bedroom encounters closely resemble a well-documented sleep phenomenon. During sleep paralysis, people may awaken while temporarily unable to move, experience intense fear, sense a presence nearby, hear sounds, see figures in the room, or feel themselves floating. When interpreted through a modern science-fiction framework, these experiences can be understood as encounters with extraterrestrial visitors rather than as unusual sleep events. Research by psychologists and sleep researchers has repeatedly found striking similarities between reported abduction experiences and known features of sleep paralysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette+2DOI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims examined — Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteAlien abduction claims examined — Harvard GazetteFebruary 20, 2003...</span><span class="citation-popover-meta">Published: February 20, 2003</span></span></span>
+One of the most influential sceptical [explanations]({{ 'explanations/' | relative_url }}) for many alien-abduction reports is sleep paralysis. The idea is not that every abduction claim can be reduced to a sleep disorder, but that a significant number of classic bedroom encounters closely resemble a well-documented sleep phenomenon. During sleep paralysis, people may awaken while temporarily unable to move, experience intense fear, sense a presence nearby, hear sounds, see figures in the room, or feel themselves floating. When interpreted through a modern science-fiction framework, these experiences can be understood as encounters with extraterrestrial visitors rather than as unusual sleep events. Research by psychologists and sleep researchers has repeatedly found striking similarities between reported abduction experiences and known features of sleep paralysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims examined — Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteAlien abduction claims examined — Harvard GazetteFebruary 20, 2003...</span><span class="citation-popover-meta">Published: February 20, 2003</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_sleep_paralysis_alie_b185ad-Illustration-1-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_sleep_paralysis_alie_b185ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_sleep_paralysis_alie_b185ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,7 +285,7 @@ Within sceptical discussions of UFOs and science fiction, sleep paralysis serves
 
 ## When Sleep Paralysis Feels Like Aliens
 
-Sleep paralysis occurs when a person becomes conscious while the muscle paralysis associated with rapid eye movement (REM) sleep has not yet fully ended. The result is a disturbing mismatch: the mind is awake, but the body remains temporarily immobilised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBISleep Paralysis</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf...</span></span></span>
+Sleep paralysis occurs when a person becomes conscious while the muscle paralysis associated with rapid eye movement (REM) sleep has not yet fully ended. The result is a disturbing mismatch: the mind is awake, but the body remains temporarily immobilised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBISleep Paralysis</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf...</span></span></span>
 
 What makes the phenomenon especially relevant to UFO folklore is the type of experiences that often accompany it. Studies and clinical descriptions consistently report:
 
@@ -297,11 +297,11 @@ What makes the phenomenon especially relevant to UFO folklore is the type of exp
 * Visual apparitions or shadowy figures.
 * Buzzing, humming, or other unusual sounds.
 * Sensations of pressure on the chest or difficulty breathing.
-* Feelings of floating, levitation, or leaving the body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sleepfoundation.org/parasomnias/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation+2NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">Sleep Foundation Sleep Paralysis: Symptoms, Causes, and Treatment</span><span class="citation-popover-snippet">Sleep FoundationSleep Paralysis: Symptoms, Causes, and TreatmentJuly 25, 2025...</span><span class="citation-popover-meta">Published: July 25, 2025</span></span></span>
+* Feelings of floating, levitation, or leaving the body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sleepfoundation.org/parasomnias/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[sleepfoundation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">Sleep Foundation Sleep Paralysis: Symptoms, Causes, and Treatment</span><span class="citation-popover-snippet">Sleep FoundationSleep Paralysis: Symptoms, Causes, and TreatmentJuly 25, 2025...</span><span class="citation-popover-meta">Published: July 25, 2025</span></span></span>
 
 </div>
 
-Many of these features appear repeatedly in alien-abduction narratives. Witnesses often describe waking in bed, finding themselves paralysed, noticing small beings standing nearby, hearing mechanical sounds, and feeling lifted or transported. Harvard researcher Richard McNally highlighted one reported abductee who recalled awakening unable to move, seeing non-human figures by the bed, hearing buzzing noises, and experiencing levitation sensations—an account that closely matched recognised sleep-paralysis symptoms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims examined — Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteAlien abduction claims examined — Harvard GazetteFebruary 20, 2003...</span><span class="citation-popover-meta">Published: February 20, 2003</span></span></span>
+Many of these features appear repeatedly in alien-abduction narratives. Witnesses often describe waking in bed, finding themselves paralysed, noticing small beings standing nearby, hearing mechanical sounds, and feeling lifted or transported. Harvard researcher Richard McNally highlighted one reported abductee who recalled awakening unable to move, seeing non-human figures by the bed, hearing buzzing noises, and experiencing levitation sensations—an account that closely matched recognised sleep-paralysis symptoms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.harvard.edu">[Harvard Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.harvard.edu</span><span class="citation-popover-title">Gazette Alien abduction claims examined — Harvard Gazette</span><span class="citation-popover-snippet">Harvard GazetteAlien abduction claims examined — Harvard GazetteFebruary 20, 2003...</span><span class="citation-popover-meta">Published: February 20, 2003</span></span></span>
 
 From a sceptical perspective, the overlap is too substantial to ignore. The experiences are real in the sense that the person genuinely underwent them; the dispute concerns how they should be interpreted.
 
@@ -310,7 +310,7 @@ From a sceptical perspective, the overlap is too substantial to ignore. The expe
 
 ## Why Culture Supplies the Visitor's Identity
 
-Sleep paralysis is not unique to modern UFO culture. Historical and cross-cultural research shows that people have interpreted similar experiences in very different ways depending on the beliefs available to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
+Sleep paralysis is not unique to modern UFO culture. Historical and cross-cultural research shows that people have interpreted similar experiences in very different ways depending on the beliefs available to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
 
 Before the rise of extraterrestrial abduction stories, sufferers often described:
 
@@ -321,13 +321,13 @@ Before the rise of extraterrestrial abduction stories, sufferers often described
 * Ghosts.
 * Witches.
 * Supernatural intruders.
-* Religious beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
+* Religious beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
 
 </div>
 
-The underlying experience may remain broadly similar, but the identity of the perceived visitor changes. This observation is central to the sceptical argument. If the same cluster of sensations has historically been attributed to demons, spirits, and supernatural attackers, then the modern appearance of [grey aliens]({{ 'grey-aliens/' | relative_url }}) may reflect contemporary cultural expectations rather than a new external phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
+The underlying experience may remain broadly similar, but the identity of the perceived visitor changes. This observation is central to the sceptical argument. If the same cluster of sensations has historically been attributed to demons, spirits, and supernatural attackers, then the modern appearance of [grey aliens]({{ 'grey-aliens/' | relative_url }}) may reflect contemporary cultural expectations rather than a new external phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
 
-Science fiction plays an important role here. Since the second half of the twentieth century, films, [television]({{ 'television/' | relative_url }}) programmes, books, and popular UFO literature have provided a widely recognised image of extraterrestrial visitors: large-headed beings, nighttime bedroom encounters, medical examinations, and abductions. These images supply a ready-made framework for interpreting an otherwise bewildering experience. When someone awakens paralysed and perceives figures nearby, the mind searches for an explanation. In a culture saturated with alien imagery, extraterrestrials become one plausible answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">regret is alien to ufo abductees</span><span class="citation-popover-snippet">Regret Is Alien to UFO Abductees &#124; WIREDOctober 13, 2005...</span><span class="citation-popover-meta">Published: October 13, 2005</span></span></span>
+Science fiction plays an important role here. Since the second half of the twentieth century, films, [television]({{ 'television/' | relative_url }}) programmes, books, and popular UFO literature have provided a widely recognised image of extraterrestrial visitors: large-headed beings, nighttime bedroom encounters, medical examinations, and abductions. These images supply a ready-made framework for interpreting an otherwise bewildering experience. When someone awakens paralysed and perceives figures nearby, the mind searches for an explanation. In a culture saturated with alien imagery, extraterrestrials become one plausible answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">regret is alien to ufo abductees</span><span class="citation-popover-snippet">Regret Is Alien to UFO Abductees &#124; WIREDOctober 13, 2005...</span><span class="citation-popover-meta">Published: October 13, 2005</span></span></span>
 
 This does not require conscious invention. Sceptics generally argue that the process operates through ordinary perception, memory, and interpretation rather than deliberate fabrication.
 
@@ -337,11 +337,11 @@ This does not require conscious invention. Sceptics generally argue that the pro
 
 The connection between sleep paralysis and alien-abduction beliefs has been examined by several researchers, particularly Susan Clancy and Richard McNally.
 
-In one study discussed by McNally and Clancy, researchers assessed individuals whose alien-abduction claims appeared to originate in episodes of sleep paralysis accompanied by vivid hallucinations. The researchers concluded that the experiences were consistent with known sleep-paralysis phenomena that had been interpreted as encounters with alien beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://doi.org/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doi.org">[DOI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doi.org</span><span class="citation-popover-title">Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</span></span></span>
+In one study discussed by McNally and Clancy, researchers assessed individuals whose alien-abduction claims appeared to originate in episodes of sleep paralysis accompanied by vivid hallucinations. The researchers concluded that the experiences were consistent with known sleep-paralysis phenomena that had been interpreted as encounters with alien beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://doi.org/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doi.org">[DOI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doi.org</span><span class="citation-popover-title">Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</span></span></span>
 
-Related work found that people reporting alien abductions showed elevated susceptibility to certain forms of memory distortion, not because they were mentally ill, but because ordinary memory processes can create confidence in events that did not occur as remembered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Memory distortion in people reporting abduction by aliens</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliens - PubMedAugust 1, 2002...</span><span class="citation-popover-meta">Published: August 1, 2002</span></span></span>
+Related work found that people reporting alien abductions showed elevated susceptibility to certain forms of memory distortion, not because they were mentally ill, but because ordinary memory processes can create confidence in events that did not occur as remembered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Memory distortion in people reporting abduction by aliens</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliens - PubMedAugust 1, 2002...</span><span class="citation-popover-meta">Published: August 1, 2002</span></span></span>
 
-An important feature of this research is its rejection of the stereotype that abductees are irrational or psychotic. Clancy's work emphasised that many people reporting abduction experiences appear psychologically normal. The sceptical explanation therefore focuses on cognitive and sleep-related mechanisms rather than pathology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">regret is alien to ufo abductees</span><span class="citation-popover-snippet">Regret Is Alien to UFO Abductees &#124; WIREDOctober 13, 2005...</span><span class="citation-popover-meta">Published: October 13, 2005</span></span></span>
+An important feature of this research is its rejection of the stereotype that abductees are irrational or psychotic. Clancy's work emphasised that many people reporting abduction experiences appear psychologically normal. The sceptical explanation therefore focuses on cognitive and sleep-related mechanisms rather than pathology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">regret is alien to ufo abductees</span><span class="citation-popover-snippet">Regret Is Alien to UFO Abductees &#124; WIREDOctober 13, 2005...</span><span class="citation-popover-meta">Published: October 13, 2005</span></span></span>
 
 This distinction matters because it shifts the discussion away from accusations of dishonesty and towards understanding how unusual experiences can acquire extraordinary meanings.
 
@@ -361,206 +361,206 @@ Instead, the explanation is applied most strongly when several indicators appear
 * The witness was unable to move.
 * Apparitions appeared beside the bed.
 * The event involved fear, pressure, buzzing, or levitation sensations.
-* The memory emerged from a dreamlike state rather than continuous waking observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI+2Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBISleep Paralysis</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf...</span></span></span>
+* The memory emerged from a dreamlike state rather than continuous waking observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBISleep Paralysis</span><span class="citation-popover-snippet">StatPearls - NCBI Bookshelf...</span></span></span>
 
 </div>
 
 Under those conditions, sleep paralysis offers a mechanism that is already known to occur, is medically documented, and reproduces many of the details found in classic alien-abduction narratives. The explanation therefore occupies a central place in sceptical discussions of the science-fiction filter: a genuine human experience becomes interpreted through the cultural stories available at the time.
 
-For sceptics, sleep paralysis is not merely an alternative explanation for a few UFO claims. It is a demonstration of a broader principle. People often experience something real but ambiguous, and culture helps determine whether that experience becomes a tale of demons, ghosts, intruders, or visitors from another world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2DOI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
+For sceptics, sleep paralysis is not merely an alternative explanation for a few UFO claims. It is a demonstration of a broader principle. People often experience something real but ambiguous, and culture helps determine whether that experience becomes a tale of demons, ghosts, intruders, or visitors from another world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Cultural variation in the clinical presentation of sleep paralysis</span><span class="citation-popover-snippet">Cultural variation in the clinical presentation of sleep paralysis - PubMed...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_sleep_paralysis_alie_b185ad-Illustration-3-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_sleep_paralysis_alie_b185ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_skeptics_scifi_filte_66ecc0_sleep_paralysis_alie_b185ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Sleep Paralysis Feels Like Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Sleep Paralysis Feels Like Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to skeptical interpretations of UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=z3uhHwZAhzgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to skeptical interpretations of UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abducted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WUkvEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abducted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abducted">Abducted</a>
-        </h4>
-        <p class="fr-book-author">By Susan A. Clancy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abducted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WUkvEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abducted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abducted">Abducted</a>
+</h4>
+<p class="fr-book-author">By Susan A. Clancy</p>
         
-        <p class="fr-book-desc">Connects sleep-related experiences and abduction beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects sleep-related experiences and abduction beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abducted+by+Susan+A.+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep Paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKthXWBdnpYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sleep Paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep Paralysis">Sleep Paralysis</a>
-        </h4>
-        <p class="fr-book-author">By Shelley R. Adler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep Paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKthXWBdnpYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sleep Paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep Paralysis">Sleep Paralysis</a>
+</h4>
+<p class="fr-book-author">By Shelley R. Adler</p>
         
-        <p class="fr-book-desc">Examines cultural interpretations of sleep paralysis experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines cultural interpretations of sleep paralysis experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides skeptical frameworks for extraordinary experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides skeptical frameworks for extraordinary experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abducted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abducted</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sleep+Paralysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sleep Paralysis</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abducted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abducted</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sleep+Paralysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sleep Paralysis</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1b88282927b1c581df9.jpg' | relative_url }}" alt="Listing image for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1b88282927b1c581df9.jpg' | relative_url }}" alt="Listing image for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcdcd82feb52eda5f467.jpg' | relative_url }}" alt="Listing image for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcdcd82feb52eda5f467.jpg' | relative_url }}" alt="Listing image for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="sleep-paralysis-19fbf7-when-sleep-paralysis-feels-like-aliens-relationships-betwee-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ For sceptics, sleep paralysis is not merely an alternative explanation for a few
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ For sceptics, sleep paralysis is not merely an alternative explanation for a few
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ For sceptics, sleep paralysis is not merely an alternative explanation for a few
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ For sceptics, sleep paralysis is not merely an alternative explanation for a few
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ For sceptics, sleep paralysis is not merely an alternative explanation for a few
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,110 +766,110 @@ For sceptics, sleep paralysis is not merely an alternative explanation for a few
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.harvard.edu  
    Title: Gazette Alien abduction claims examined — Harvard Gazette  
-   Link: <a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteAlien abduction claims examined — Harvard GazetteFebruary 20, 2003...</p></details>
+   Link:<a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteAlien abduction claims examined — Harvard GazetteFebruary 20, 2003...</p></details>
    Published: February 20, 2003  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: doi.org  
    Title: Sleep Paralysis, Sexual Abuse, and Space Alien Abduction  
-   Link: <a href="https://doi.org/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1177/1363461505050715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</p></details>
+   Link:<a href="https://doi.org/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1177/1363461505050715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBISleep Paralysis  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/sites/books/NBK562322/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StatPearls - NCBI Bookshelf...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: regret is alien to ufo abductees  
-   Link: <a href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regret Is Alien to UFO Abductees | WIREDOctober 13, 2005...</p></details>
+   Link:<a href="https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/10/regret-is-alien-to-ufo-abductees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regret Is Alien to UFO Abductees | WIREDOctober 13, 2005...</p></details>
    Published: October 13, 2005  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sleepfoundation.org  
    Title: Sleep Foundation Sleep Paralysis: Symptoms, Causes, and Treatment  
-   Link: <a href="https://www.sleepfoundation.org/parasomnias/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/parasomnias/sleep-paralysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationSleep Paralysis: Symptoms, Causes, and TreatmentJuly 25, 2025...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/parasomnias/sleep-paralysis" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/parasomnias/sleep-paralysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationSleep Paralysis: Symptoms, Causes, and TreatmentJuly 25, 2025...</p></details>
    Published: July 25, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/conditions/narcolepsy/symptoms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/narcolepsy/symptoms/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Symptoms...</p></details>
+   Link:<a href="https://www.nhs.uk/conditions/narcolepsy/symptoms/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/narcolepsy/symptoms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Symptoms...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Cultural variation in the clinical presentation of sleep paralysis  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15881269/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural variation in the clinical presentation of sleep paralysis - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/15881269/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15881269/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural variation in the clinical presentation of sleep paralysis - PubMed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Memory distortion in people reporting abduction by aliens  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliens - PubMedAugust 1, 2002...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliens - PubMedAugust 1, 2002...</p></details>
    Published: August 1, 2002  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: susanblackmore.uk  
    Title: www.susanblackmore.uk Alien Abductions, Sleep Paralysis and the Temporal Lobe  
-   Link: <a href="https://www.susanblackmore.uk/articles/alien-abductions-sleep-paralysis-and-the-temporal-lobe/" target="_blank" rel="noopener noreferrer nofollow">https://www.susanblackmore.uk/articles/alien-abductions-sleep-paralysis-and-the-temporal-lobe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abductions, Sleep Paralysis and the Temporal Lobe - Dr Susan BlackmoreMarch 25, 2002...</p></details>
+   Link:<a href="https://www.susanblackmore.uk/articles/alien-abductions-sleep-paralysis-and-the-temporal-lobe/" target="_blank" rel="noopener noreferrer nofollow">https://www.susanblackmore.uk/articles/alien-abductions-sleep-paralysis-and-the-temporal-lobe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abductions, Sleep Paralysis and the Temporal Lobe - Dr Susan BlackmoreMarch 25, 2002...</p></details>
    Published: March 25, 2002  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sleepstation.org.uk  
    Title: www.sleepstation.org.uk Sleep paralysis. A Demon in your bedroom?  
-   Link: <a href="https://www.sleepstation.org.uk/articles/sleep-disorders/sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepstation.org.uk/articles/sleep-disorders/sleep-paralysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>paralysis. A Demon in your bedroom?October 19, 2020...</p></details>
+   Link:<a href="https://www.sleepstation.org.uk/articles/sleep-disorders/sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepstation.org.uk/articles/sleep-disorders/sleep-paralysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>paralysis. A Demon in your bedroom?October 19, 2020...</p></details>
    Published: October 19, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Alien Abduction | Sketching Extraterrestrial Creatures  
-   Link: <a href="https://www.youtube.com/watch?v=tJFPR0wLQvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tJFPR0wLQvk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monsters on the Couch – The Real Psychological Disorders Behind Your Favorite Horror Movies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tJFPR0wLQvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tJFPR0wLQvk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monsters on the Couch – The Real Psychological Disorders Behind Your Favorite Horror Movies...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533  
-   Link: <a href="https://www.youtube.com/watch?v=T_seRpqUJDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_seRpqUJDo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Alien Abductions Just a Biological Illusion? Explained | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T_seRpqUJDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_seRpqUJDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Alien Abductions Just a Biological Illusion? Explained | Full Documentary...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Are Alien Abductions Just a Biological Illusion? Explained | Full Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=t82kAFrCQlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t82kAFrCQlk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction | Sketching Extraterrestrial Creatures...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t82kAFrCQlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t82kAFrCQlk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction | Sketching Extraterrestrial Creatures...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Was I Abducted or Did I Have a Sleep Anomaly  
-   Link: <a href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJfR2iBzunc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WJfR2iBzunc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJfR2iBzunc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dreams, Nightmares, and Neuroscience | Dr. Baland Jalal | EP 533...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/7860377_Sleep_Paralysis_Sexual_Abuse_and_Space_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7860377_Sleep_Paralysis_Sexual_Abuse_and_Space_Alien_Abduction</a>  
+   Link:<a href="https://www.researchgate.net/publication/7860377_Sleep_Paralysis_Sexual_Abuse_and_Space_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7860377_Sleep_Paralysis_Sexual_Abuse_and_Space_Alien_Abduction</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/ask-the-brains-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ask-the-brains-sleep-paralysis/</a>  
+   Link:<a href="https://www.scientificamerican.com/article/ask-the-brains-sleep-paralysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/ask-the-brains-sleep-paralysis/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=s_ob4bx8W40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s_ob4bx8W40</a>  
+   Link:<a href="https://www.youtube.com/watch?v=s_ob4bx8W40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s_ob4bx8W40</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) PSYCHOLOGY: The Outer Limits of Belief  
-   Link: <a href="https://www.researchgate.net/publication/242900086_PSYCHOLOGY_The_Outer_Limits_of_Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242900086_PSYCHOLOGY_The_Outer_Limits_of_Belief</a>  
+   Link:<a href="https://www.researchgate.net/publication/242900086_PSYCHOLOGY_The_Outer_Limits_of_Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242900086_PSYCHOLOGY_The_Outer_Limits_of_Belief</a>  

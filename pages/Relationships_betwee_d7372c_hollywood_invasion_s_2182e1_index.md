@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-hollywood/
 description: Focused pages that expand on Invasion Films.
-date: '2026-06-18'
+date: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_hollywood_invasion_s_2182e1
 parent_title: Invasion Films
@@ -16,7 +16,7 @@ parent_permalink: /invasion-films/
 
 # Explore Topics in Invasion Films
 
-The following pages expand on the main **[Invasion Films]({{ '/invasion-films/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Invasion Films]({{ '/invasion-films/' | relative_url }})** page and cover its key branches in.
 
 - [Atomic Monsters]({{ '/atomic-monsters/' | relative_url }})
 - [Official Anxiety]({{ '/official-anxiety/' | relative_url }})

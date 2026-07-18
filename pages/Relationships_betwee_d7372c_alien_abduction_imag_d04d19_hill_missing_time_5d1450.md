@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hi
 
 ## Introduction
 
-The Betty and Barney Hill case did more than popularise claims of alien abduction. It helped establish a narrative structure that became central to later UFO abduction stories: a puzzling gap in time, fragmented memories, hypnotic recovery of hidden details, and recollections of examination aboard a non-human craft. Reported after a late-night journey in 1961 and widely publicised during the 1960s, the Hills' account gave later witnesses, investigators and audiences a template for understanding unexplained experiences. Within the broader relationship between UFO culture and science fiction, the case became especially influential because it transformed a simple UFO sighting into a dramatic story of “missing time” and recovered memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">first alien abduction account barney betty hill</span><span class="citation-popover-snippet">How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre &#124; HISTORYSeptember 4, 2018...</span><span class="citation-popover-meta">Published: September 4, 2018</span></span></span>
+The Betty and Barney Hill case did more than popularise claims of alien abduction. It helped establish a narrative structure that became central to later UFO abduction stories: a puzzling gap in time, fragmented memories, hypnotic recovery of hidden details, and recollections of examination aboard a non-human craft. Reported after a late-night journey in 1961 and widely publicised during the 1960s, the Hills' account gave later witnesses, investigators and audiences a template for understanding unexplained experiences. Within the broader relationship between UFO culture and science fiction, the case became especially influential because it transformed a simple UFO sighting into a dramatic story of “missing time” and recovered memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">first alien abduction account barney betty hill</span><span class="citation-popover-snippet">How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre &#124; HISTORYSeptember 4, 2018...</span><span class="citation-popover-meta">Published: September 4, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-1-dark.svg" | relative_url }}" alt="Hill Case illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ The Betty and Barney Hill case did more than popularise claims of alien abductio
 
 The feature that most distinguished the Hill story was not merely the reported UFO sighting. It was the discovery that several hours seemed to be missing from the couple's memory after a night-time drive through rural New Hampshire in September 1961.
 
-According to their account, the journey home took far longer than expected. When they arrived, both noticed odd details that deepened their sense that something unusual had happened. Their watches no longer worked properly, some personal items appeared disturbed, and roughly two hours of the trip could not be accounted for in their conscious memories. This unexplained interval became one of the earliest and most famous examples of UFO-related “missing time”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">first alien abduction account barney betty hill</span><span class="citation-popover-snippet">How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre &#124; HISTORYSeptember 4, 2018...</span><span class="citation-popover-meta">Published: September 4, 2018</span></span></span>
+According to their account, the journey home took far longer than expected. When they arrived, both noticed odd details that deepened their sense that something unusual had happened. Their watches no longer worked properly, some personal items appeared disturbed, and roughly two hours of the trip could not be accounted for in their conscious memories. This unexplained interval became one of the earliest and most famous examples of UFO-related “missing time”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">first alien abduction account barney betty hill</span><span class="citation-popover-snippet">How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre &#124; HISTORYSeptember 4, 2018...</span><span class="citation-popover-meta">Published: September 4, 2018</span></span></span>
 
-Earlier [flying-saucer]({{ 'flying-saucer/' | relative_url }}) reports had generally focused on sightings of strange objects. The Hill case shifted attention from what witnesses saw in the sky to what might have happened during a period they could not remember. That change proved highly influential. In later decades, many abduction narratives began not with a fully remembered encounter but with the discovery of a temporal gap that demanded explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en-academic.com/dic.nsf/enwiki/3640968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-academic.com">[Academic Dictionaries and Encyclopedias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-academic.com</span><span class="citation-popover-title">Academic Dictionaries and Encyclopedias Missing time</span><span class="citation-popover-snippet">Academic Dictionaries and Encyclopedias Missing time</span></span></span>
+Earlier [flying-saucer]({{ 'flying-saucer/' | relative_url }}) reports had generally focused on sightings of strange objects. The Hill case shifted attention from what witnesses saw in the sky to what might have happened during a period they could not remember. That change proved highly influential. In later decades, many abduction narratives began not with a fully remembered encounter but with the discovery of a temporal gap that demanded explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en-academic.com/dic.nsf/enwiki/3640968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-academic.com">[Academic Dictionaries and Encyclopedias]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-academic.com</span><span class="citation-popover-title">Academic Dictionaries and Encyclopedias Missing time</span><span class="citation-popover-snippet">Academic Dictionaries and Encyclopedias Missing time</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/toGAij_mzgQ" title="Betty Hill Relives Her Worst Nightmare | Alien Abduction: Betty &amp; Barney Hill | discovery+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=toGAij_mzgQ" target="_blank" rel="noopener noreferrer">Betty Hill Relives Her Worst Nightmare | Alien Abduction: Betty &amp; Barney Hill | discovery+</a></p><p class="youtube-embed-meta">Channel: discovery plus &middot; Views: 91.3K &middot; Uploaded: March 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=toGAij_mzgQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=toGAij_mzgQ">Open on YouTube</a></p></div></div></div>
@@ -299,7 +299,7 @@ Earlier [flying-saucer]({{ 'flying-saucer/' | relative_url }}) reports had gener
 
 A second reason for the Hill case's influence was the role played by hypnosis. Seeking help for anxiety and recurring nightmares, the Hills underwent hypnosis sessions with psychiatrist Benjamin Simon several years after the reported event.
 
-During these sessions, they described memories of being stopped, taken aboard a craft and subjected to examinations by non-human beings. Whether these memories represented actual events, dream material, reconstruction or suggestion remains heavily disputed. Simon himself accepted that the couple had experienced genuine distress but was sceptical of the extraterrestrial interpretation and considered the possibility that dreams and later reconstruction had shaped the narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpl.org">[Boston Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpl.org</span><span class="citation-popover-snippet">Open source on bpl.org.</span></span></span>
+During these sessions, they described memories of being stopped, taken aboard a craft and subjected to examinations by non-human beings. Whether these memories represented actual events, dream material, reconstruction or suggestion remains heavily disputed. Simon himself accepted that the couple had experienced genuine distress but was sceptical of the extraterrestrial interpretation and considered the possibility that dreams and later reconstruction had shaped the narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpl.org">[Boston Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpl.org</span><span class="citation-popover-snippet">Open source on bpl.org.</span></span></span>
 
 Regardless of interpretation, the public impact was enormous. The Hill story circulated through books, magazine articles, lectures and [television]({{ 'television/' | relative_url }}) coverage. It introduced a powerful narrative formula:
 
@@ -314,21 +314,21 @@ Regardless of interpretation, the public impact was enormous. The Hill story cir
 
 </div>
 
-This sequence became familiar to both [believers]({{ 'believers/' | relative_url }}) and sceptics. It also mirrored themes already present in science-fiction stories involving memory alteration, hidden encounters and advanced beings conducting examinations. The Hill account therefore acted as a bridge between UFO reports and popular imaginative imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpl.org">[Boston Public Library+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpl.org</span><span class="citation-popover-snippet">Open source on bpl.org.</span></span></span>
+This sequence became familiar to both [believers]({{ 'believers/' | relative_url }}) and sceptics. It also mirrored themes already present in science-fiction stories involving memory alteration, hidden encounters and advanced beings conducting examinations. The Hill account therefore acted as a bridge between UFO reports and popular imaginative imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpl.org">[bpl.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpl.org</span><span class="citation-popover-snippet">Open source on bpl.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-2-dark.svg" | relative_url }}" alt="Hill Case illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Later Abduction Stories Reused the Structure
 
-The influence of the Hills can be seen in the recurring structure of later abduction claims. Researcher Thomas E. Bullard's comparison of hundreds of reports found that many narratives followed a recognisable sequence involving capture, examination, return and aftermath. Although individual accounts differed, the basic pattern resembled elements that became famous through the Hill case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufohelp.com/Topics/Abduction%20Experience.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohelp.com">[ufohelp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohelp.com</span><span class="citation-popover-title">Abduction Experience</span><span class="citation-popover-snippet">Abduction Experience</span></span></span>
+The influence of the Hills can be seen in the recurring structure of later abduction claims. Researcher Thomas E. Bullard's comparison of hundreds of reports found that many narratives followed a recognisable sequence involving capture, examination, return and aftermath. Although individual accounts differed, the basic pattern resembled elements that became famous through the Hill case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufohelp.com/Topics/Abduction%20Experience.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohelp.com">[ufohelp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohelp.com</span><span class="citation-popover-title">Abduction Experience</span><span class="citation-popover-snippet">Abduction Experience</span></span></span>
 
 Several factors helped this structure spread.
 
 First, missing time provided a convenient explanation for why witnesses lacked immediate memories of extraordinary events. Instead of needing a complete recollection from the outset, a person could begin with a puzzling gap and later construct a fuller narrative around it.
 
-Second, hypnosis offered a mechanism for recovering supposedly hidden memories. During the 1970s and 1980s, many UFO investigators treated hypnosis as a way to uncover details concealed by trauma or by the abductors themselves. The Hill case supplied the most famous precedent for this approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpl.org">[Boston Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpl.org</span><span class="citation-popover-snippet">Open source on bpl.org.</span></span></span>
+Second, hypnosis offered a mechanism for recovering supposedly hidden memories. During the 1970s and 1980s, many UFO investigators treated hypnosis as a way to uncover details concealed by trauma or by the abductors themselves. The Hill case supplied the most famous precedent for this approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpl.org">[Boston Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpl.org</span><span class="citation-popover-snippet">Open source on bpl.org.</span></span></span>
 
-Third, the story gave later witnesses a culturally familiar script. Psychological researchers have argued that people often interpret unusual experiences through narratives available in their culture. Studies of sleep paralysis and memory distortion suggest that some individuals may use existing cultural frameworks to make sense of frightening or ambiguous experiences. In an era when the Hill story had become widely known, alien abduction offered one such framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</span></span></span>
+Third, the story gave later witnesses a culturally familiar script. Psychological researchers have argued that people often interpret unusual experiences through narratives available in their culture. Studies of sleep paralysis and memory distortion suggest that some individuals may use existing cultural frameworks to make sense of frightening or ambiguous experiences. In an era when the Hill story had become widely known, alien abduction offered one such framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction</span><span class="citation-popover-snippet">Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V3MjsfuLGYw" title="The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer">The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 620.2K &middot; Uploaded: March 2023 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V3MjsfuLGYw">Open on YouTube</a></p></div></div></div>
@@ -340,184 +340,184 @@ Third, the story gave later witnesses a culturally familiar script. Psychologica
 
 The Hill case became influential not because it was the first unusual UFO report, but because it supplied a durable story structure. Missing hours, recovered memories, alien examination and lingering uncertainty formed a narrative that could be repeated, adapted and recognised across decades.
 
-As later books, films, television programmes and UFO investigations reused these motifs, the Hill account helped standardise what many people now imagine when they hear the phrase “alien abduction”. In that sense, the case illustrates a central theme in the relationship between UFO culture and science fiction: once a compelling narrative pattern enters public consciousness, it can shape how future experiences are remembered, interpreted and retold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2ufohelp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">first alien abduction account barney betty hill</span><span class="citation-popover-snippet">How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre &#124; HISTORYSeptember 4, 2018...</span><span class="citation-popover-meta">Published: September 4, 2018</span></span></span>
+As later books, films, television programmes and UFO investigations reused these motifs, the Hill account helped standardise what many people now imagine when they hear the phrase “alien abduction”. In that sense, the case illustrates a central theme in the relationship between UFO culture and science fiction: once a compelling narrative pattern enters public consciousness, it can shape how future experiences are remembered, interpreted and retold.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">first alien abduction account barney betty hill</span><span class="citation-popover-snippet">How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre &#124; HISTORYSeptember 4, 2018...</span><span class="citation-popover-meta">Published: September 4, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-3-dark.svg" | relative_url }}" alt="Hill Case illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_hill_missing_time_5d1450-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One Case Made Missing Time Famous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One Case Made Missing Time Famous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep Paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKthXWBdnpYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sleep Paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep Paralysis">Sleep Paralysis</a>
-        </h4>
-        <p class="fr-book-author">By Shelley R. Adler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep Paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKthXWBdnpYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sleep Paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep Paralysis">Sleep Paralysis</a>
+</h4>
+<p class="fr-book-author">By Shelley R. Adler</p>
         
-        <p class="fr-book-desc">Directly addresses sleep paralysis, sensed presence and night-time terror.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses sleep paralysis, sensed presence and night-time terror.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sleep+Paralysis+by+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sleep+Paralysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sleep Paralysis</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sleep+Paralysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sleep Paralysis</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4"><img src="{{ '/assets/images/marketplace-covers/dceff701be3194150242.jpg' | relative_url }}" alt="Listing image for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4"><img src="{{ '/assets/images/marketplace-covers/dceff701be3194150242.jpg' | relative_url }}" alt="Listing image for Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Vintage Classic Movie Poster Art Print Gift - A0 A1 A2 A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Classic Movie- Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/3bc6c7a1c2d88cab491d.jpg' | relative_url }}" alt="Listing image for Alien 1979 Classic Movie- Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Classic Movie- Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Classic Movie- Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/3bc6c7a1c2d88cab491d.jpg' | relative_url }}" alt="Listing image for Alien 1979 Classic Movie- Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Classic Movie- Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="hill-case-how-one-case-made-missing-time-famous-relationships-betwee-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ As later books, films, television programmes and UFO investigations reused these
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ As later books, films, television programmes and UFO investigations reused these
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ As later books, films, television programmes and UFO investigations reused these
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ As later books, films, television programmes and UFO investigations reused these
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ As later books, films, television programmes and UFO investigations reused these
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,111 +723,111 @@ As later books, films, television programmes and UFO investigations reused these
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: first alien abduction account barney betty hill  
-   Link: <a href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/first-alien-abduction-account-barney-betty-hill</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre | HISTORYSeptember 4, 2018...</p></details>
+   Link:<a href="https://www.history.com/news/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/first-alien-abduction-account-barney-betty-hill</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Betty and Barney Hill&#x27;s Alien Abduction Story Defined the Genre | HISTORYSeptember 4, 2018...</p></details>
    Published: September 4, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufohelp.com  
    Title: Abduction Experience  
-   Link: <a href="https://ufohelp.com/Topics/Abduction%20Experience.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufohelp.com/Topics/Abduction%20Experience.htm</a>  
+   Link:<a href="https://ufohelp.com/Topics/Abduction%20Experience.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufohelp.com/Topics/Abduction%20Experience.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bpl.org  
-   Link: <a href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/</a>  
+   Link:<a href="https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.bpl.org/blogs/post/the-abduction-of-betty-and-barney-hill/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en-academic.com  
    Title: Academic Dictionaries and Encyclopedias Missing time  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/3640968" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/3640968</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/3640968" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/3640968</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Sleep Paralysis, Sexual Abuse, and Space Alien Abduction  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/1363461505050715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSleep Paralysis, Sexual Abuse, and Space Alien Abduction - Richard J. McNally, Susan A. Clancy, 2005...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Memory distortion in people reporting abduction by aliens  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliens - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliens - PubMed...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15200635/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15200635/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychophysiological responding during script-driven imagery in people reporting abduction by space aliens - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/15200635/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15200635/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychophysiological responding during script-driven imagery in people reporting abduction by space aliens - PubMed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16039091/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16039091/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis and recovered memories of sexual abuse: comment on McNally and Clancy (2005) - PubMedJuly 20, 2005...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16039091/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16039091/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis and recovered memories of sexual abuse: comment on McNally and Clancy (2005) - PubMedJuly 20, 2005...</p></details>
    Published: July 20, 2005  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: doi.org  
    Title: Sleep Paralysis, Sexual Abuse, and Space Alien Abduction  
-   Link: <a href="https://doi.org/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1177/1363461505050715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard J. McNally, Susan A. Clancy, 2005...</p></details>
+   Link:<a href="https://doi.org/10.1177/1363461505050715" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1177/1363461505050715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard J. McNally, Susan A. Clancy, 2005...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: [Project Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;): Declassified – The True Story of The [Hill Abduction](&#123;&#123; 'hill-case-695d62/' | relative_url &#125;&#125;) | History  
-   Link: <a href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn9ArqHkurA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Abductions: Encounters Beyond Explanation | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn9ArqHkurA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Abductions: Encounters Beyond Explanation | Ancient Aliens...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mysterious Abductions: Encounters Beyond Explanation | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=hRtbrW0UC8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hRtbrW0UC8g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Hill Relives Her Worst Nightmare | Alien Abduction: Betty &amp; Barney Hill...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hRtbrW0UC8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hRtbrW0UC8g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Hill Relives Her Worst Nightmare | Alien Abduction: Betty &amp; Barney Hill...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Abduction of Betty & Barney Hill  
-   Link: <a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of The Hill Abduction | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3MjsfuLGYw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of The Hill Abduction | History...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Betty Hill Relives Her Worst Nightmare | Alien Abduction: Betty & Barney Hill  
-   Link: <a href="https://www.youtube.com/watch?v=toGAij_mzgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=toGAij_mzgQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Hill: Grandmother of UFO Abductees on her 1961 Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=toGAij_mzgQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=toGAij_mzgQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Hill: Grandmother of UFO Abductees on her 1961 Encounter...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: monstrous.com  
    Title: www.monstrous.com Abduction scenarios  
-   Link: <a href="https://www.monstrous.com/abduction-scenario/" target="_blank" rel="noopener noreferrer nofollow">https://www.monstrous.com/abduction-scenario/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>scenarios - Monstrous.comAugust 9, 2011...</p></details>
+   Link:<a href="https://www.monstrous.com/abduction-scenario/" target="_blank" rel="noopener noreferrer nofollow">https://www.monstrous.com/abduction-scenario/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scenarios - Monstrous.comAugust 9, 2011...</p></details>
    Published: August 9, 2011  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: handwiki.org  
    Title: Unsolved:Narrative of the abduction phenomenon  
-   Link: <a href="https://handwiki.org/wiki/Unsolved%3ANarrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3ANarrative_of_the_abduction_phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2023...</p></details>
+   Link:<a href="https://handwiki.org/wiki/Unsolved%3ANarrative_of_the_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3ANarrative_of_the_abduction_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2023...</p></details>
    Published: March 6, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jl1pVatXwbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jl1pVatXwbU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Jl1pVatXwbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jl1pVatXwbU</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sites.usnh.edu  
    Title: Hill Collection Overview – Betty and Barney Hill Collection  
-   Link: <a href="https://sites.usnh.edu/archivalanalysis/hill-collection-overview/" target="_blank" rel="noopener noreferrer nofollow">https://sites.usnh.edu/archivalanalysis/hill-collection-overview/</a>  
+   Link:<a href="https://sites.usnh.edu/archivalanalysis/hill-collection-overview/" target="_blank" rel="noopener noreferrer nofollow">https://sites.usnh.edu/archivalanalysis/hill-collection-overview/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Barney and Betty Hill incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: library.unh.edu  
    Title: Travel Accounts | Library  
-   Link: <a href="https://library.unh.edu/finding-aid-subjects/travel-accounts" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/finding-aid-subjects/travel-accounts</a>  
+   Link:<a href="https://library.unh.edu/finding-aid-subjects/travel-accounts" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/finding-aid-subjects/travel-accounts</a>  

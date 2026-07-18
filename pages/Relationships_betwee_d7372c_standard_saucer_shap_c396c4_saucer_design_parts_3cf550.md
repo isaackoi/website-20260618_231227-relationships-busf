@@ -280,7 +280,7 @@ image: /assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_sa
 
 ## Introduction
 
-The classic [flying saucer]({{ 'flying-saucer/' | relative_url }}) became a cultural icon not simply because it looked unusual, but because its parts communicated meaning instantly. A flat disc, a raised dome and a ring of lights could be recognised in a fraction of a second, even in a blurry photograph, a comic-book panel or a low-budget film scene. As UFO stories moved into science fiction and popular culture after 1947, these features formed a visual shorthand for advanced technology, mystery and alien presence. The result was a design language that often mattered more than any specific UFO report. A viewer did not need an explanation; the shape itself carried the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
+The classic [flying saucer]({{ 'flying-saucer/' | relative_url }}) became a cultural icon not simply because it looked unusual, but because its parts communicated meaning instantly. A flat disc, a raised dome and a ring of lights could be recognised in a fraction of a second, even in a blurry photograph, a comic-book panel or a low-budget film scene. As UFO stories moved into science fiction and popular culture after 1947, these features formed a visual shorthand for advanced technology, mystery and alien presence. The result was a design language that often mattered more than any specific UFO report. A viewer did not need an explanation; the shape itself carried the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-1-dark.svg" | relative_url }}" alt="Saucer Parts illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ The disc was effective because it rejected almost every feature people associate
 
 In visual storytelling, this absence mattered as much as the shape itself. A smooth circular body suggested a machine operating according to principles beyond familiar aviation. Whether or not such a craft made engineering sense was secondary. What mattered was that audiences could immediately see that it was not a military aircraft, passenger jet or helicopter.
 
-This distinction became especially important after the phrase “flying saucer” entered public culture following coverage of Kenneth Arnold’s 1947 sighting. Although reports varied widely, the saucer image offered a simple geometric form that newspapers, illustrators and filmmakers could reproduce repeatedly. Over time, the disc became less a description of reported objects and more a symbol of the entire UFO phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
+This distinction became especially important after the phrase “flying saucer” entered public culture following coverage of Kenneth Arnold’s 1947 sighting. Although reports varied widely, the saucer image offered a simple geometric form that newspapers, illustrators and filmmakers could reproduce repeatedly. Over time, the disc became less a description of reported objects and more a symbol of the entire UFO phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">This Is Why People Think UFOs Look Like &#x27;Flying Saucers</span><span class="citation-popover-snippet">The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</span></span></span>
 
 The shape also worked well in motion. A circle looks essentially the same from many viewing angles, making it easier to animate, draw and film than a more complex craft. A fleeting glimpse of a disc crossing the sky could still be recognised as a UFO, even when details were unclear.
 
@@ -305,7 +305,7 @@ The basic disc was memorable, but the dome and rim lights turned it into a compl
 
 The raised dome solved a storytelling problem. Audiences expected vehicles to have pilots, yet showing alien occupants directly removed some of the mystery. A transparent or glowing dome hinted at a control area without revealing exactly who—or what—was inside.
 
-Many later depictions adopted the domed-disc form so consistently that it became one of the standard categories used in UFO shape classifications. The dome acted as a visual bridge between machine and intelligence. A plain disc might be a strange object; a disc with a dome implied deliberate control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[handprint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-title">UF O as wildlife</span><span class="citation-popover-snippet">UF O as wildlife</span></span></span>
+Many later depictions adopted the domed-disc form so consistently that it became one of the standard categories used in UFO shape classifications. The dome acted as a visual bridge between machine and intelligence. A plain disc might be a strange object; a disc with a dome implied deliberate control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[handprint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-title">UF O as wildlife</span><span class="citation-popover-snippet">UF O as wildlife</span></span></span>
 
 Because the dome sat at the centre of the craft, it also created a clear focal point for artists. Even simple illustrations could guide the viewer's eye towards the presumed location of alien occupants without requiring additional detail.
 
@@ -319,7 +319,7 @@ Second, the lights implied energy. Audiences tend to associate glowing elements 
 
 Third, they created the illusion of motion. A circle of lights around a rotating disc could imply spinning, hovering or acceleration without requiring complicated animation. In [comics]({{ 'comics/' | relative_url }}), [television]({{ 'television/' | relative_url }}) and film, this was an efficient way to communicate movement using minimal visual information.
 
-Finally, lights added emotional tone. Depending on colour, brightness and context, they could make the craft seem welcoming, mysterious or threatening. This flexibility helped the saucer design survive across very different genres, from serious Cold War science fiction to comedy and parody. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stock.adobe.com/images/classic-ufo-flying-saucer-illustration-with-green-lights-and-glass-dome-extraterrestrial-spaceship-vector-sci-fi-alien-spacecraft-graphic-for-science-fiction-and-paranormal-research-design/1854284287" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stock.adobe.com">[Adobe Stock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stock.adobe.com</span><span class="citation-popover-title">Stock Vector &#124; Adobe Stock</span><span class="citation-popover-snippet">Adobe StockClassic UFO Flying Saucer Illustration with Green Lights and Glass Dome, Extraterrestrial Spaceship Vector, Sci-Fi Alien Space...</span></span></span>
+Finally, lights added emotional tone. Depending on colour, brightness and context, they could make the craft seem welcoming, mysterious or threatening. This flexibility helped the saucer design survive across very different genres, from serious Cold War science fiction to comedy and parody.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stock.adobe.com/images/classic-ufo-flying-saucer-illustration-with-green-lights-and-glass-dome-extraterrestrial-spaceship-vector-sci-fi-alien-spacecraft-graphic-for-science-fiction-and-paranormal-research-design/1854284287" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stock.adobe.com">[Adobe Stock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stock.adobe.com</span><span class="citation-popover-title">Stock Vector &#124; Adobe Stock</span><span class="citation-popover-snippet">Adobe StockClassic UFO Flying Saucer Illustration with Green Lights and Glass Dome, Extraterrestrial Spaceship Vector, Sci-Fi Alien Space...</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-2-dark.svg" | relative_url }}" alt="Saucer Parts illustration 2" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,9 +336,9 @@ This visual device became especially common because it required no technical exp
 
 ## A Film Example That Helped Fix the Formula
 
-One of the most influential early examples appeared in *The Day the Earth Stood Still* (1951). The film presented a smooth, highly stylised flying saucer that landed dramatically in Washington, D.C. Although later UFO imagery drew from many sources, the film helped establish the idea that alien spacecraft should appear sleek, silent and visually distinct from human aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.classicfilmnoir.com/2024/01/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classicfilmnoir.com">[Classic Film Noir+2Vanguard of Hollywood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classicfilmnoir.com</span><span class="citation-popover-title">the day earth stood still 1951</span><span class="citation-popover-snippet">Classic Film NoirThe Day The Earth Stood Still (1951) - Film Noir...</span></span></span>
+One of the most influential early examples appeared in *The Day the Earth Stood Still* (1951). The film presented a smooth, highly stylised flying saucer that landed dramatically in Washington, D.C. Although later UFO imagery drew from many sources, the film helped establish the idea that alien spacecraft should appear sleek, silent and visually distinct from human aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.classicfilmnoir.com/2024/01/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classicfilmnoir.com">[classicfilmnoir.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classicfilmnoir.com</span><span class="citation-popover-title">the day earth stood still 1951</span><span class="citation-popover-snippet">Classic Film NoirThe Day The Earth Stood Still (1951) - Film Noir...</span></span></span>
 
-The saucer's design emphasised uninterrupted curves and a clean surface. Even the production techniques used to create the craft aimed to preserve the impression of a seamless object rather than a machine assembled from visible parts. This aesthetic reinforced the idea of technology beyond contemporary human understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanguardofhollywood.com/the-day-the-earth-stood-still/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanguardofhollywood.com">[Vanguard of Hollywood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanguardofhollywood.com</span><span class="citation-popover-title">the day the earth stood still</span><span class="citation-popover-snippet">Vanguard of HollywoodThe Day the Earth Stood Still (1951) - Vanguard of Hollywood...</span></span></span>
+The saucer's design emphasised uninterrupted curves and a clean surface. Even the production techniques used to create the craft aimed to preserve the impression of a seamless object rather than a machine assembled from visible parts. This aesthetic reinforced the idea of technology beyond contemporary human understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vanguardofhollywood.com/the-day-the-earth-stood-still/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanguardofhollywood.com">[Vanguard of Hollywood]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanguardofhollywood.com</span><span class="citation-popover-title">the day the earth stood still</span><span class="citation-popover-snippet">Vanguard of HollywoodThe Day the Earth Stood Still (1951) - Vanguard of Hollywood...</span></span></span>
 
 Films such as this did not merely reflect UFO culture; they helped standardise it. Viewers learned what an alien spacecraft was supposed to look like, and later artists repeatedly reused those cues.
 
@@ -353,200 +353,200 @@ A child can draw a disc, a dome and a few lights in seconds. A newspaper cartoon
 
 More complicated spacecraft often require close inspection to identify. The classic saucer does not. Its silhouette remains legible at tiny sizes, great distances and low levels of detail.
 
-This explains why popular culture converged on a single visual formula even though reported UFO shapes have varied considerably. The disc, dome and rim lights formed a compact visual vocabulary that crossed comics, cinema, television, advertising and toys with remarkable ease. The design succeeded because it was readable. Every major element carried narrative information, allowing audiences to recognise “[alien technology]({{ 'tech-magic/' | relative_url }})” almost instantly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[handprint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-title">UF O as wildlife</span><span class="citation-popover-snippet">UF O as wildlife</span></span></span>
+This explains why popular culture converged on a single visual formula even though reported UFO shapes have varied considerably. The disc, dome and rim lights formed a compact visual vocabulary that crossed comics, cinema, television, advertising and toys with remarkable ease. The design succeeded because it was readable. Every major element carried narrative information, allowing audiences to recognise “[alien technology]({{ 'tech-magic/' | relative_url }})” almost instantly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[handprint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-title">UF O as wildlife</span><span class="citation-popover-snippet">UF O as wildlife</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-3-dark.svg" | relative_url }}" alt="Saucer Parts illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_standard_saucer_shap_c396c4_saucer_design_parts_3cf550-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Saucer Shape Reads So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Saucer Shape Reads So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for the standard saucer image.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for the standard saucer image.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Story+by+Bruce+A.+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YaxtjmZaHz8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Visual Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Visual+Story+by+Bruce+A.+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Story">The Visual Story</a>
-        </h4>
-        <p class="fr-book-author">By Bruce A. Block</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Story+by+Bruce+A.+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YaxtjmZaHz8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Visual Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Visual+Story+by+Bruce+A.+Block&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Story">The Visual Story</a>
+</h4>
+<p class="fr-book-author">By Bruce A. Block</p>
         
-        <p class="fr-book-desc">Helps explain why simple shapes communicate quickly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Visual+Story+by+Bruce+A.+Block&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why simple shapes communicate quickly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Visual+Story+by+Bruce+A.+Block&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Provides wider context for UFO symbolism and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Provides wider context for UFO symbolism and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+History+of+Science+Fiction+by+James+Patrick+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret History of Science Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CmTkwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret History of Science Fiction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Secret+History+of+Science+Fiction+by+James+Patrick+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of Science Fiction">The Secret History of Science Fiction</a>
-        </h4>
-        <p class="fr-book-author">By James Patrick Kelly, John Kessel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+History+of+Science+Fiction+by+James+Patrick+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret History of Science Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CmTkwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret History of Science Fiction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Secret+History+of+Science+Fiction+by+James+Patrick+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of Science Fiction">The Secret History of Science Fiction</a>
+</h4>
+<p class="fr-book-author">By James Patrick Kelly, John Kessel</p>
         
-        <p class="fr-book-desc">Shows how recurring science-fiction motifs evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Secret+History+of+Science+Fiction+by+James+Patrick+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how recurring science-fiction motifs evolve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Secret+History+of+Science+Fiction+by+James+Patrick+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Story</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Story</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/107817cab6cbf7458710.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/107817cab6cbf7458710.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="saucer-parts-why-the-saucer-shape-reads-so-fast-relationships-betwee-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ This explains why popular culture converged on a single visual formula even thou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ This explains why popular culture converged on a single visual formula even thou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ This explains why popular culture converged on a single visual formula even thou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ This explains why popular culture converged on a single visual formula even thou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ This explains why popular culture converged on a single visual formula even thou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,96 +752,96 @@ This explains why popular culture converged on a single visual formula even thou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: This Is Why People Think UFOs Look Like 'Flying [Saucers](&#123;&#123; 'saucers/' | relative_url &#125;&#125;)'  
-   Link: <a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</p></details>
+   Link:<a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: june 24 1947 they came from outer space  
-   Link: <a href="https://www.wired.com/2008/06/june-24-1947-they-came-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/06/june-24-1947-they-came-from-outer-space</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold reported seeing nine [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying objects near Mt. Rainier, Washington, marking...</p></details>
+   Link:<a href="https://www.wired.com/2008/06/june-24-1947-they-came-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/06/june-24-1947-they-came-from-outer-space</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold reported seeing nine [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying objects near Mt. Rainier, Washington, marking...</p></details>
    Published: June 24, 1947  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: handprint.com  
    Title: UF O as wildlife  
-   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
+   Link:<a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: stock.adobe.com  
    Title: Stock Vector | Adobe Stock  
-   Link: <a href="https://stock.adobe.com/images/classic-ufo-flying-saucer-illustration-with-green-lights-and-glass-dome-extraterrestrial-spaceship-vector-sci-fi-alien-spacecraft-graphic-for-science-fiction-and-paranormal-research-design/1854284287" target="_blank" rel="noopener noreferrer nofollow">https://stock.adobe.com/images/classic-ufo-flying-saucer-illustration-with-green-lights-and-glass-dome-extraterrestrial-spaceship-vector-sci-fi-alien-spacecraft-graphic-for-science-fiction-and-paranormal-research-design/1854284287</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adobe StockClassic UFO Flying Saucer Illustration with Green Lights and Glass Dome, Extraterrestrial Spaceship Vector, Sci-Fi Alien Space...</p></details>
+   Link:<a href="https://stock.adobe.com/images/classic-ufo-flying-saucer-illustration-with-green-lights-and-glass-dome-extraterrestrial-spaceship-vector-sci-fi-alien-spacecraft-graphic-for-science-fiction-and-paranormal-research-design/1854284287" target="_blank" rel="noopener noreferrer nofollow">https://stock.adobe.com/images/classic-ufo-flying-saucer-illustration-with-green-lights-and-glass-dome-extraterrestrial-spaceship-vector-sci-fi-alien-spacecraft-graphic-for-science-fiction-and-paranormal-research-design/1854284287</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adobe StockClassic UFO Flying Saucer Illustration with Green Lights and Glass Dome, Extraterrestrial Spaceship Vector, Sci-Fi Alien Space...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: classicfilmnoir.com  
    Title: the day earth stood still 1951  
-   Link: <a href="https://www.classicfilmnoir.com/2024/01/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow">https://www.classicfilmnoir.com/2024/01/the-day-earth-stood-still-1951.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Classic Film NoirThe Day The Earth Stood Still (1951) - Film Noir...</p></details>
+   Link:<a href="https://www.classicfilmnoir.com/2024/01/the-day-earth-stood-still-1951.html" target="_blank" rel="noopener noreferrer nofollow">https://www.classicfilmnoir.com/2024/01/the-day-earth-stood-still-1951.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classic Film NoirThe Day The Earth Stood Still (1951) - Film Noir...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vanguardofhollywood.com  
    Title: the day the earth stood still  
-   Link: <a href="https://vanguardofhollywood.com/the-day-the-earth-stood-still/" target="_blank" rel="noopener noreferrer nofollow">https://vanguardofhollywood.com/the-day-the-earth-stood-still/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanguard of HollywoodThe Day the Earth Stood Still (1951) - Vanguard of Hollywood...</p></details>
+   Link:<a href="https://vanguardofhollywood.com/the-day-the-earth-stood-still/" target="_blank" rel="noopener noreferrer nofollow">https://vanguardofhollywood.com/the-day-the-earth-stood-still/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanguard of HollywoodThe Day the Earth Stood Still (1951) - Vanguard of Hollywood...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: www.reddit.com“UFO” sightings are always seen as disks  
-   Link: <a href="https://www.reddit.com/r/AskScienceDiscussion/comments/d74b8n" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceDiscussion/comments/d74b8n</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pop culture science fiction popularized the disk shaped UFO. What are the odds they are actually a disk shape? Can this confirm all sight...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskScienceDiscussion/comments/d74b8n" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceDiscussion/comments/d74b8n</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pop culture science fiction popularized the disk shaped UFO. What are the odds they are actually a disk shape? Can this confirm all sight...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EARTH VS THE FLYING SAUCERS Best UFO Clips (1965) Sci-Fi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EARTH VS THE FLYING SAUCERS Best UFO Clips (1965) Sci-Fi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xg713GtUUxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xg713GtUUxY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xg713GtUUxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xg713GtUUxY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-0787/10/4/107" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-0787/10/4/107</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary [Klaatu](&amp;#123;&amp;#123; &#x27;klaatu/&#x27; | relative_url &amp;#125;&amp;#125;) Are Not Anti-Atomic: A Reassessment of the Film...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-0787/10/4/107" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-0787/10/4/107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary [Klaatu](&amp;#123;&amp;#123; &#x27;klaatu/&#x27; | relative_url &amp;#125;&amp;#125;) Are Not Anti-Atomic: A Reassessment of the Film...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bg58bW1oZRo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bg58bW1oZRo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Sci-Fi UFO&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bg58bW1oZRo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bg58bW1oZRo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Sci-Fi UFO&#x27;s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: VFX Artists DEBUNK Laser UFO Videos  
-   Link: <a href="https://www.youtube.com/watch?v=oF5C12kBTp4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oF5C12kBTp4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oF5C12kBTp4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oF5C12kBTp4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: www.reddit.com UF O Art by Jim Nichols 👽🛸  
-   Link: <a href="https://www.reddit.com/r/scifi/comments/101vc0x" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/scifi/comments/101vc0x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art by Jim Nichols 👽🛸January 3, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/scifi/comments/101vc0x" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/scifi/comments/101vc0x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Art by Jim Nichols 👽🛸January 3, 2023...</p></details>
    Published: January 3, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufocaptor.com  
    Title: UF O / UAP Classification – UFOcaptor  
-   Link: <a href="https://ufocaptor.com/classification/" target="_blank" rel="noopener noreferrer nofollow">https://ufocaptor.com/classification/</a>  
+   Link:<a href="https://ufocaptor.com/classification/" target="_blank" rel="noopener noreferrer nofollow">https://ufocaptor.com/classification/</a>  

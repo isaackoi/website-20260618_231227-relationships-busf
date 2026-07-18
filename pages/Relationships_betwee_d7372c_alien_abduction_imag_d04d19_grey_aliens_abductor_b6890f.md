@@ -284,7 +284,7 @@ The small grey alien with a large head, oversized black eyes and an unreadable e
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_grey_aliens_abductor_b6890f-Illustration-1-dark.svg" | relative_url }}" alt="Grey Aliens illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_grey_aliens_abductor_b6890f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_grey_aliens_abductor_b6890f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift matters because it shows how UFO beliefs and science-fiction imagery can reinforce one another. Once a particular alien design became widely recognised, it provided a ready-made visual language for describing mysterious experiences, fears and memories. The grey alien eventually became a cultural shorthand for the entire abduction phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
+This shift matters because it shows how UFO beliefs and science-fiction imagery can reinforce one another. Once a particular alien design became widely recognised, it provided a ready-made visual language for describing mysterious experiences, fears and memories. The grey alien eventually became a cultural shorthand for the entire abduction phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VYoWE_FBlyI" title="Grey Alien Hybridization Program | UFO Witness S2 Ep5 | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VYoWE_FBlyI" target="_blank" rel="noopener noreferrer">Grey Alien Hybridization Program | UFO Witness S2 Ep5 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VYoWE_FBlyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VYoWE_FBlyI">Open on YouTube</a></p></div></div></div>
@@ -306,13 +306,13 @@ Because these visual traits are simple and distinctive, they are easy to reprodu
 
 ## From Varied Beings to a Standard Image
 
-One of the striking findings in studies of abduction reports is that descriptions were not always uniform. Surveys of reported encounters before the mid-1980s include many different categories of entities rather than a single dominant type. Researchers such as Thomas E. Bullard noted substantial variation, including human-like figures, tall humanoids and more unusual creatures alongside greys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
+One of the striking findings in studies of abduction reports is that descriptions were not always uniform. Surveys of reported encounters before the mid-1980s include many different categories of entities rather than a single dominant type. Researchers such as Thomas E. Bullard noted substantial variation, including human-like figures, tall humanoids and more unusual creatures alongside greys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
 
-The standardisation of the grey image accelerated during the 1980s and 1990s. A particularly influential moment was the publication of Whitley Strieber's *Communion* in 1987. The book became a bestseller and introduced millions of readers to an abduction narrative centred on strange visitors and medical examinations. Its cover image—a pale being with enormous dark eyes—became one of the most recognisable images in UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/communion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Communion &#124; Encyclopedia.com</span><span class="citation-popover-snippet">May 23, 2018...</span><span class="citation-popover-meta">Published: May 23, 2018</span></span></span>
+The standardisation of the grey image accelerated during the 1980s and 1990s. A particularly influential moment was the publication of Whitley Strieber's *Communion* in 1987. The book became a bestseller and introduced millions of readers to an abduction narrative centred on strange visitors and medical examinations. Its cover image—a pale being with enormous dark eyes—became one of the most recognisable images in UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/communion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Communion &#124; Encyclopedia.com</span><span class="citation-popover-snippet">May 23, 2018...</span><span class="citation-popover-meta">Published: May 23, 2018</span></span></span>
 
 The importance of *Communion* was not merely literary. The cover circulated through bookstores, newspapers, television interviews and later documentaries. People who knew little about UFO research could instantly recognise the face. As a result, the grey became less a specific character and more a cultural icon.
 
-Researchers and critics have long debated whether popular media shaped later abduction accounts. Some commentators point to similarities between reported abductors and earlier science-fiction aliens. Sources discussing abduction narratives note recurring parallels between fictional extraterrestrials and later descriptions of abducting beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
+Researchers and critics have long debated whether popular media shaped later abduction accounts. Some commentators point to similarities between reported abductors and earlier science-fiction aliens. Sources discussing abduction narratives note recurring parallels between fictional extraterrestrials and later descriptions of abducting beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
 
 Regardless of where the image originated, repetition gave it power. Once audiences already knew what an alien abductor was supposed to look like, new stories became easier to tell, illustrate and recognise. The feedback loop between media representations and personal testimony helped narrow a previously diverse set of alien figures into a largely standard visual type.
 
@@ -339,200 +339,200 @@ The success of the grey alien was ultimately a product of recognisability. It co
 
 A viewer who sees a large-headed, black-eyed grey immediately understands the broader story being referenced: night-time encounters, missing time, spacecraft, examinations and hidden memories. No [flying saucer]({{ 'flying-saucer/' | relative_url }}) is required. The figure alone evokes the entire abduction framework.
 
-Earlier UFO traditions included many competing alien designs. The grey succeeded because it was visually simple, easy to reproduce, compatible with the dominant abduction storyline and repeatedly reinforced through books, television programmes, films and UFO literature. As those images circulated, they transformed a once-diverse collection of alien visitors into a standard cultural archetype. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[HandWiki+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
+Earlier UFO traditions included many competing alien designs. The grey succeeded because it was visually simple, easy to reproduce, compatible with the dominant abduction storyline and repeatedly reinforced through books, television programmes, films and UFO literature. As those images circulated, they transformed a once-diverse collection of alien visitors into a standard cultural archetype.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handwiki.org">[handwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handwiki.org</span><span class="citation-popover-title">Hand Wiki Unsolved:Alien abduction entities</span><span class="citation-popover-snippet">Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_grey_aliens_abductor_b6890f-Illustration-3-dark.svg" | relative_url }}" alt="Grey Aliens illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_grey_aliens_abductor_b6890f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_alien_abduction_imag_d04d19_grey_aliens_abductor_b6890f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Abductors Became Small Grey Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Abductors Became Small Grey Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
-        </h4>
-        <p class="fr-book-author">By John Fuller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
+</h4>
+<p class="fr-book-author">By John Fuller</p>
         
-        <p class="fr-book-desc">Directly documents the missing-time narrative that shaped later abduction stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly documents the missing-time narrative that shaped later abduction stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Intruders on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VpFUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Intruders" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Intruders">Intruders</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Develops recurring abduction motifs including examinations and recovered memories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Intruders+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=joqD292GpGsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers bedroom visitors, missing time, medical examinations and the cultural template of modern abduction stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
-        </h4>
-        <p class="fr-book-author">By Budd Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+</h4>
+<p class="fr-book-author">By Budd Hopkins</p>
         
-        <p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on missing time and the standardisation of abduction accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Intruders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Intruders</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for grey alien figurine on a stand model Area 51 UFO space alien 24cm"><img src="{{ '/assets/images/marketplace-covers/7a7643067fa9e0c93101.jpg' | relative_url }}" alt="Listing image for grey alien figurine on a stand model Area 51 UFO space alien 24cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">grey alien figurine on a stand model Area 51 UFO space alien 24cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for grey alien figurine on a stand model Area 51 UFO space alien 24cm"><img src="{{ '/assets/images/marketplace-covers/7a7643067fa9e0c93101.jpg' | relative_url }}" alt="Listing image for grey alien figurine on a stand model Area 51 UFO space alien 24cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">grey alien figurine on a stand model Area 51 UFO space alien 24cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien Grey Extraterrestrial Bust Handmade Art."><img src="{{ '/assets/images/marketplace-covers/3caf32cd84973ec3f897.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien Grey Extraterrestrial Bust Handmade Art." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien Grey Extraterrestrial Bust Handmade Art.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien Grey Extraterrestrial Bust Handmade Art."><img src="{{ '/assets/images/marketplace-covers/3caf32cd84973ec3f897.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien Grey Extraterrestrial Bust Handmade Art." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien Grey Extraterrestrial Bust Handmade Art.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Highly Detailed Custom Grey Alien Bust -Premium 3D Printed Wall Mount UK Seller"><img src="{{ '/assets/images/marketplace-covers/6015fc44d2b879bbfa17.jpg' | relative_url }}" alt="Listing image for Highly Detailed Custom Grey Alien Bust -Premium 3D Printed Wall Mount UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Highly Detailed Custom Grey Alien Bust -Premium 3D Printed Wall Mount UK Seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Highly Detailed Custom Grey Alien Bust -Premium 3D Printed Wall Mount UK Seller"><img src="{{ '/assets/images/marketplace-covers/6015fc44d2b879bbfa17.jpg' | relative_url }}" alt="Listing image for Highly Detailed Custom Grey Alien Bust -Premium 3D Printed Wall Mount UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Highly Detailed Custom Grey Alien Bust -Premium 3D Printed Wall Mount UK Seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)"><img src="{{ '/assets/images/marketplace-covers/240056c9da932ec39cf4.jpg' | relative_url }}" alt="Listing image for 2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">2x Grey Alien Figurines Set Sci-Fi Collectible Figure Statues (2 pcs)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for grey alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: grey alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=grey+alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="grey alien collectible" data-ebay-reference="grey-aliens-why-abductors-became-small-grey-aliens-relationships-betwee-grey-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Earlier UFO traditions included many competing alien designs. The grey succeeded
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Earlier UFO traditions included many competing alien designs. The grey succeeded
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Earlier UFO traditions included many competing alien designs. The grey succeeded
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Earlier UFO traditions included many competing alien designs. The grey succeeded
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Earlier UFO traditions included many competing alien designs. The grey succeeded
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,65 +738,65 @@ Earlier UFO traditions included many competing alien designs. The grey succeeded
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: handwiki.org  
    Title: Hand Wiki Unsolved:Alien abduction entities  
-   Link: <a href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</p></details>
+   Link:<a href="https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities" target="_blank" rel="noopener noreferrer nofollow">https://www.handwiki.org/wiki/Unsolved%3AAlien_abduction_entities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:Alien abduction entities - HandWikiNovember 23, 2025...</p></details>
    Published: November 23, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: Communion | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/communion" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/communion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2018...</p></details>
+   Link:<a href="https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/communion" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/religion/dictionaries-thesauruses-pictures-and-press-releases/communion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2018...</p></details>
    Published: May 23, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: encyclopedia.com  
    Title: www.encyclopedia.com Communion | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/communion" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/communion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23, 2018...</p></details>
+   Link:<a href="https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/communion" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/communion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23, 2018...</p></details>
    Published: May 23, 2018  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vanityfair.com  
    Title: americans alien abduction science  
-   Link: <a href="https://www.vanityfair.com/culture/2013/05/americans-alien-abduction-science" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/culture/2013/05/americans-alien-abduction-science</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This annual event has offered a safe space for individuals who report alien abduction experiences to share their stories without fear of...</p></details>
+   Link:<a href="https://www.vanityfair.com/culture/2013/05/americans-alien-abduction-science" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/culture/2013/05/americans-alien-abduction-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This annual event has offered a safe space for individuals who report alien abduction experiences to share their stories without fear of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eurQmKTZaD4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eurQmKTZaD4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grey Alien Hybridization Program | UFO Witness S2 Ep5 | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eurQmKTZaD4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eurQmKTZaD4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grey Alien Hybridization Program | UFO Witness S2 Ep5 | Discovery Channel...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Grey Alien Hybridization Program | UFO Witness S2 Ep5 | Discovery Channel  
-   Link: <a href="https://www.youtube.com/watch?v=VYoWE_FBlyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VYoWE_FBlyI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Mysteries | Extraterrestrial Encounters: The Greys | Full Sci-Fi Movie...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VYoWE_FBlyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VYoWE_FBlyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Mysteries | Extraterrestrial Encounters: The Greys | Full Sci-Fi Movie...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: occultusregnum.com  
    Title: ANALYSING ALIEN ABDUCTION SCENARIOS. | occultusregnum  
-   Link: <a href="https://occultusregnum.com/2011/09/09/analysing-alien-abduction-scenarios/" target="_blank" rel="noopener noreferrer nofollow">https://occultusregnum.com/2011/09/09/analysing-alien-abduction-scenarios/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANALYSING ALIEN ABDUCTION SCENARIOS. | occultusregnum...</p></details>
+   Link:<a href="https://occultusregnum.com/2011/09/09/analysing-alien-abduction-scenarios/" target="_blank" rel="noopener noreferrer nofollow">https://occultusregnum.com/2011/09/09/analysing-alien-abduction-scenarios/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANALYSING ALIEN ABDUCTION SCENARIOS. | occultusregnum...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Inside the Mystery of the Greys | Ancient Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=-ccCf5hGJxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ccCf5hGJxI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the Stereotypical Alien is Green/Grey and Bald, What Would Happen if Aliens Invaded, &amp; Much More...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-ccCf5hGJxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ccCf5hGJxI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the Stereotypical Alien is Green/Grey and Bald, What Would Happen if Aliens Invaded, &amp; Much More...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Why is the Stereotypical Image of Aliens Green or Grey Bald Humanoids?  
-   Link: <a href="https://www.youtube.com/watch?v=wdZkXWo_ydU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wdZkXWo_ydU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mystery of the Greys | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wdZkXWo_ydU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wdZkXWo_ydU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mystery of the Greys | Ancient Aliens...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Alien Mysteries | Extraterrestrial Encounters: The Greys | Full Sci-Fi Movie  
-   Link: <a href="https://www.youtube.com/watch?v=6fF4eUov9uw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6fF4eUov9uw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=6fF4eUov9uw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6fF4eUov9uw</a>  

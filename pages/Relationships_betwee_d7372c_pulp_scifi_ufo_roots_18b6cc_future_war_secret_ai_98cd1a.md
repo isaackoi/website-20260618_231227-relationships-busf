@@ -284,18 +284,18 @@ Before the 1947 [flying-saucer]({{ 'flying-saucer/' | relative_url }}) wave, pul
 
 
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_future_war_secret_ai_98cd1a-Illustration-1-dark.svg" | relative_url }}" alt="Future War illustration 1" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_future_war_secret_ai_98cd1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_future_war_secret_ai_98cd1a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mattered because the Second World War altered the boundary between fantasy and reality. Technologies that had once belonged to speculative fiction—[rockets]({{ 'rockets/' | relative_url }}), jets, radar, guided weapons and atomic bombs—appeared in the real world with startling speed. As a result, claims about unusual aircraft no longer sounded automatically impossible. Future-war pulps had already prepared a cultural framework in which mysterious machines in the sky could be interpreted as secret technology rather than pure fantasy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Unleashing the Atom (Chapter Five</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</span><span class="citation-popover-meta">Published: July 25, 2017</span></span></span>
+This mattered because the Second World War altered the boundary between fantasy and reality. Technologies that had once belonged to speculative fiction—[rockets]({{ 'rockets/' | relative_url }}), jets, radar, guided weapons and atomic bombs—appeared in the real world with startling speed. As a result, claims about unusual aircraft no longer sounded automatically impossible. Future-war pulps had already prepared a cultural framework in which mysterious machines in the sky could be interpreted as secret technology rather than pure fantasy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Unleashing the Atom (Chapter Five</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</span><span class="citation-popover-meta">Published: July 25, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b_bp0PGEJtg" title="The History of Science Fiction | CC EP: 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b_bp0PGEJtg" target="_blank" rel="noopener noreferrer">The History of Science Fiction | CC EP: 12</a></p><p class="youtube-embed-meta">Channel: Cosmic Chronicles Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b_bp0PGEJtg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b_bp0PGEJtg">Open on YouTube</a></p></div></div></div>
 
 ## Air Wonder Stories and technical flying fiction
 
-When Hugo Gernsback launched *Air [Wonder]({{ 'wonder/' | relative_url }}) Stories* in 1929, he deliberately distinguished it from ordinary aviation adventure magazines. In his introductory editorial, he promised stories of future flight that would be scientific, mechanical and technical rather than simple war adventures. The magazine focused on advanced aircraft, experimental propulsion systems and the future of aerial transport and combat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazingstories.com">[Amazing Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazingstories.com</span><span class="citation-popover-title">wonder histories july 1929 taking to the air</span><span class="citation-popover-snippet">Amazing StoriesWonder Histories, July 1929: Taking to the Air - Amazing Stories...</span><span class="citation-popover-meta">Published: july 1929</span></span></span>
+When Hugo Gernsback launched *Air [Wonder]({{ 'wonder/' | relative_url }}) Stories* in 1929, he deliberately distinguished it from ordinary aviation adventure magazines. In his introductory editorial, he promised stories of future flight that would be scientific, mechanical and technical rather than simple war adventures. The magazine focused on advanced aircraft, experimental propulsion systems and the future of aerial transport and combat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazingstories.com">[Amazing Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazingstories.com</span><span class="citation-popover-title">wonder histories july 1929 taking to the air</span><span class="citation-popover-snippet">Amazing StoriesWonder Histories, July 1929: Taking to the Air - Amazing Stories...</span><span class="citation-popover-meta">Published: july 1929</span></span></span>
 
 This emphasis was important because it encouraged readers to think about aviation as an engineering problem rather than a fantasy. Aircraft in these stories were often presented with diagrams, technical [explanations]({{ 'explanations/' | relative_url }}) and pseudo-scientific reasoning. The underlying message was that extraordinary flying machines might emerge from scientific progress rather than magic.
 
-The magazine also connected itself to an earlier tradition of speculative air warfare. Gernsback explicitly pointed readers toward works such as H. G. [Wells]({{ 'wells/' | relative_url }})'s *The War in the Air*, a novel that imagined secret air fleets and devastating aerial conflict years before large-scale military aviation became reality. Wells's story centred on hidden preparations, surprise attacks and revolutionary aircraft technologies, themes that became standard ingredients in later pulp fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazingstories.com">[Amazing Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazingstories.com</span><span class="citation-popover-title">wonder histories july 1929 taking to the air</span><span class="citation-popover-snippet">Amazing StoriesWonder Histories, July 1929: Taking to the Air - Amazing Stories...</span><span class="citation-popover-meta">Published: july 1929</span></span></span>
+The magazine also connected itself to an earlier tradition of speculative air warfare. Gernsback explicitly pointed readers toward works such as H. G. [Wells]({{ 'wells/' | relative_url }})'s *The War in the Air*, a novel that imagined secret air fleets and devastating aerial conflict years before large-scale military aviation became reality. Wells's story centred on hidden preparations, surprise attacks and revolutionary aircraft technologies, themes that became standard ingredients in later pulp fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazingstories.com">[Amazing Stories]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazingstories.com</span><span class="citation-popover-title">wonder histories july 1929 taking to the air</span><span class="citation-popover-snippet">Amazing StoriesWonder Histories, July 1929: Taking to the Air - Amazing Stories...</span><span class="citation-popover-meta">Published: july 1929</span></span></span>
 
 Illustrations reinforced the effect. Covers frequently showed giant aircraft, flying fortresses and strange military machines rendered with enough mechanical detail to look engineered rather than magical. Readers repeatedly encountered visual depictions of technology that seemed only a few steps beyond contemporary aviation.
 
@@ -306,9 +306,9 @@ Illustrations reinforced the effect. Covers frequently showed giant aircraft, fl
 
 Future-war pulps rarely limited themselves to improved aeroplanes. Writers filled their stories with death rays, rocket-powered craft, remote-controlled weapons, aerial armadas and exotic power sources. These inventions served dramatic purposes, but they also created a recurring narrative pattern: somewhere, someone was developing a breakthrough weapon in secret.
 
-A striking example appeared on the March 1930 cover of *Air Wonder Stories*, which depicted a gigantic flying fortress attacking a city with a destructive energy beam. Such imagery linked aviation with hidden super-weapons and suggested that technological surprises could abruptly reshape warfare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oona13.com/archive/image/316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oona13.com">[OONA 13]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oona13.com</span><span class="citation-popover-snippet">OONA 13Air Wonder Stories March 1930 — Death Ray Flying Fortress Attacks City &#124; OONA 13March 1, 1930...</span><span class="citation-popover-meta">Published: March 1, 1930</span></span></span>
+A striking example appeared on the March 1930 cover of *Air Wonder Stories*, which depicted a gigantic flying fortress attacking a city with a destructive energy beam. Such imagery linked aviation with hidden super-weapons and suggested that technological surprises could abruptly reshape warfare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oona13.com/archive/image/316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oona13.com">[OONA 13]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oona13.com</span><span class="citation-popover-snippet">OONA 13Air Wonder Stories March 1930 — Death Ray Flying Fortress Attacks City &#124; OONA 13March 1, 1930...</span><span class="citation-popover-meta">Published: March 1, 1930</span></span></span>
 
-The broader future-war genre had long relied on similar ideas. Nineteenth- and early twentieth-century stories frequently imagined weapons that did not yet exist, including advanced airships, missiles and destructive energy devices. As the genre evolved, the notion that a single technological breakthrough could alter the balance of power became one of its defining assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_warfare_in_science_fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space warfare in science fiction</span><span class="citation-popover-snippet">Space warfare in science fiction</span></span></span>
+The broader future-war genre had long relied on similar ideas. Nineteenth- and early twentieth-century stories frequently imagined weapons that did not yet exist, including advanced airships, missiles and destructive energy devices. As the genre evolved, the notion that a single technological breakthrough could alter the balance of power became one of its defining assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_warfare_in_science_fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space warfare in science fiction</span><span class="citation-popover-snippet">Space warfare in science fiction</span></span></span>
 
 Several recurring themes helped make secret aircraft feel plausible:
 
@@ -330,9 +330,9 @@ For readers, the lesson was not necessarily that any particular weapon would exi
 
 The Second World War transformed the relationship between speculative fiction and technological reality. During the 1930s many pulp concepts remained clearly fictional. By the mid-1940s, however, real military research had produced developments that resembled earlier speculative visions.
 
-Jet aircraft entered combat. Radar became a decisive military technology. Germany deployed the V-1 and V-2 weapons, demonstrating long-range guided and rocket-powered attack systems. The atomic bomb revealed a level of destructive power that had previously seemed the province of speculative fiction. Historians of science fiction have noted that wartime advances made many fans feel they were watching once-imaginary inventions emerge into reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Unleashing the Atom (Chapter Five</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</span><span class="citation-popover-meta">Published: July 25, 2017</span></span></span>
+Jet aircraft entered combat. Radar became a decisive military technology. Germany deployed the V-1 and V-2 weapons, demonstrating long-range guided and rocket-powered attack systems. The atomic bomb revealed a level of destructive power that had previously seemed the province of speculative fiction. Historians of science fiction have noted that wartime advances made many fans feel they were watching once-imaginary inventions emerge into reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Unleashing the Atom (Chapter Five</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</span><span class="citation-popover-meta">Published: July 25, 2017</span></span></span>
 
-[Secrecy]({{ 'secrecy/' | relative_url }}) amplified the effect. Many wartime technologies were developed under strict security and became widely known only after deployment. Readers who had spent years encountering stories about hidden laboratories and surprise weapons now had real examples of secret projects producing astonishing results. The pattern familiar from pulp fiction appeared to have happened in real life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Unleashing the Atom (Chapter Five</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</span><span class="citation-popover-meta">Published: July 25, 2017</span></span></span>
+[Secrecy]({{ 'secrecy/' | relative_url }}) amplified the effect. Many wartime technologies were developed under strict security and became widely known only after deployment. Readers who had spent years encountering stories about hidden laboratories and surprise weapons now had real examples of secret projects producing astonishing results. The pattern familiar from pulp fiction appeared to have happened in real life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Unleashing the Atom (Chapter Five</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</span><span class="citation-popover-meta">Published: July 25, 2017</span></span></span>
 
 This did not mean readers believed every extraordinary claim. Instead, the threshold of plausibility shifted. A strange aircraft reported in the distance could now be interpreted as a possible secret military development because recent history had demonstrated that governments really could possess advanced technology unknown to the public.
 
@@ -351,194 +351,194 @@ The cultural bridge was strengthened by the fact that wartime experience had val
 <img src="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_future_war_secret_ai_98cd1a-Illustration-3-dark.svg" | relative_url }}" alt="Future War illustration 3" data-theme-src-dark="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_future_war_secret_ai_98cd1a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Relationships_betwee_d7372c_pulp_scifi_ufo_roots_18b6cc_future_war_secret_ai_98cd1a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When pulp weapons met postwar reality. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When pulp weapons met postwar reality. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tYpPvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
-        </h4>
-        <p class="fr-book-author">By H. G. Wells</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of the Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tYpPvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The War of the Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
+</h4>
+<p class="fr-book-author">By H. G. Wells</p>
         
-        <p class="fr-book-desc">Established many alien roles later echoed in pulp fiction and UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Established many alien roles later echoed in pulp fiction and UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+by+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects public UFO interpretations to broader cultural expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects public UFO interpretations to broader cultural expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
-        </h4>
-        <p class="fr-book-author">By Mike Ashley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4ApkEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Time Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Machines">The Time Machines</a>
+</h4>
+<p class="fr-book-author">By Mike Ashley</p>
         
-        <p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how pulp science fiction shaped ideas later associated with UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Time+Machines+by+Mike+Ashley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frank R. Paul Father of Science Fiction Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uaLUQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frank R. Paul Father of Science Fiction Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frank R. Paul Father of Science Fiction Art">Frank R. Paul Father of Science Fiction Art</a>
-        </h4>
-        <p class="fr-book-author">By Stephen D. Korshak</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frank R. Paul Father of Science Fiction Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uaLUQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Frank R. Paul Father of Science Fiction Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frank R. Paul Father of Science Fiction Art">Frank R. Paul Father of Science Fiction Art</a>
+</h4>
+<p class="fr-book-author">By Stephen D. Korshak</p>
         
-        <p class="fr-book-desc">Showcases the artist behind many influential spacecraft depictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Showcases the artist behind many influential spacecraft depictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Frank+R.+Paul+Father+of+Science+Fiction+Art+by+Stephen+D.+Korshak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+the+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of the Worlds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Machines</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MILITARY AVIATION PRINT- COLD WAR WARRIORS"><img src="{{ '/assets/images/marketplace-covers/3ae132dd4fce5eb28b4e.jpg' | relative_url }}" alt="Listing image for MILITARY AVIATION PRINT- COLD WAR WARRIORS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">MILITARY AVIATION PRINT- COLD WAR WARRIORS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MILITARY AVIATION PRINT- COLD WAR WARRIORS"><img src="{{ '/assets/images/marketplace-covers/3ae132dd4fce5eb28b4e.jpg' | relative_url }}" alt="Listing image for MILITARY AVIATION PRINT- COLD WAR WARRIORS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">MILITARY AVIATION PRINT- COLD WAR WARRIORS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Warriors by John Young - B-47 &quot;Stratojet - Tex Johnston - Aviation Art"><img src="{{ '/assets/images/marketplace-covers/b5705e7f5f3019783a15.jpg' | relative_url }}" alt="Listing image for Cold War Warriors by John Young - B-47 &quot;Stratojet - Tex Johnston - Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Cold War Warriors by John Young - B-47 &quot;Stratojet - Tex Johnston - Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War Warriors by John Young - B-47 &quot;Stratojet - Tex Johnston - Aviation Art"><img src="{{ '/assets/images/marketplace-covers/b5705e7f5f3019783a15.jpg' | relative_url }}" alt="Listing image for Cold War Warriors by John Young - B-47 &quot;Stratojet - Tex Johnston - Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Cold War Warriors by John Young - B-47 &quot;Stratojet - Tex Johnston - Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/2afe6688fa98fb23636a.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art"><img src="{{ '/assets/images/marketplace-covers/2afe6688fa98fb23636a.jpg' | relative_url }}" alt="Listing image for Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Avro Vulcan RAF A4 Aviation Art Print – Cold War Bomber Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation print" data-ebay-reference="future-war-when-pulp-weapons-met-postwar-reality-relationships-betwee-cold-war-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ The cultural bridge was strengthened by the fact that wartime experience had val
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ The cultural bridge was strengthened by the fact that wartime experience had val
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ The cultural bridge was strengthened by the fact that wartime experience had val
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ The cultural bridge was strengthened by the fact that wartime experience had val
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ The cultural bridge was strengthened by the fact that wartime experience had val
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,143 +744,143 @@ The cultural bridge was strengthened by the fact that wartime experience had val
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Unleashing the Atom (Chapter Five)  
-   Link: <a href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/abs/time-machines/unleashing-the-atom/9D1A63E1BAECF22EE3A89D8D455ACEF9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentUnleashing the Atom (Chapter Five) - The Time MachinesJuly 25, 2017...</p></details>
    Published: July 25, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Wonder Stories  
-   Link: <a href="https://es.wikipedia.org/wiki/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Wonder_Stories</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Wonder_Stories</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oona13.com  
-   Link: <a href="https://oona13.com/archive/image/316" target="_blank" rel="noopener noreferrer nofollow">https://oona13.com/archive/image/316</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OONA 13Air Wonder Stories March 1930 — Death Ray Flying Fortress Attacks City | OONA 13March 1, 1930...</p></details>
+   Link:<a href="https://oona13.com/archive/image/316" target="_blank" rel="noopener noreferrer nofollow">https://oona13.com/archive/image/316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OONA 13Air Wonder Stories March 1930 — Death Ray Flying Fortress Attacks City | OONA 13March 1, 1930...</p></details>
    Published: March 1, 1930  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Space warfare in science fiction  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_warfare_in_science_fiction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_warfare_in_science_fiction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_warfare_in_science_fiction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_warfare_in_science_fiction</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oona13.com  
-   Link: <a href="https://oona13.com/archive/image/5173" target="_blank" rel="noopener noreferrer nofollow">https://oona13.com/archive/image/5173</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thrilling Wonder Stories Fall 1943 – Futuristic Aircraft Firing Ray Guns | OONA 13...</p></details>
+   Link:<a href="https://oona13.com/archive/image/5173" target="_blank" rel="noopener noreferrer nofollow">https://oona13.com/archive/image/5173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thrilling Wonder Stories Fall 1943 – Futuristic Aircraft Firing Ray Guns | OONA 13...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: The Argonauts of the Air  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Argonauts_of_the_Air" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Argonauts_of_the_Air</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Argonauts_of_the_Air" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Argonauts_of_the_Air</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Wonder Stories  
-   Link: <a href="https://en.wikipedia.org/wiki/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wonder_Stories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wonder_Stories</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Fighting machine (The War of the Worlds)  
-   Link: <a href="https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fighting_machine_%28The_War_of_the_Worlds%29</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Pulp Science: A Brief History of Science Fiction Magazines  
-   Link: <a href="https://www.youtube.com/watch?v=pWxXCPe0oEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pWxXCPe0oEM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hugo Gernsback | STUFF YOU MISSED IN HISTORY CLASS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pWxXCPe0oEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pWxXCPe0oEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hugo Gernsback | STUFF YOU MISSED IN HISTORY CLASS...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Hugo Gernsback | STUFF YOU MISSED IN HISTORY CLASS  
-   Link: <a href="https://www.youtube.com/watch?v=dckbfZWygEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dckbfZWygEc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adventure in the Skies!- Aviation Pulp Fiction- Air Force Museum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dckbfZWygEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dckbfZWygEc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adventure in the Skies!- Aviation Pulp Fiction- Air Force Museum...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amazingstories.com  
    Title: wonder histories july 1929 taking to the air  
-   Link: <a href="https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing StoriesWonder Histories, July 1929: Taking to the Air - [Amazing Stories](&amp;#123;&amp;#123; &#x27;amazing-stories/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing StoriesWonder Histories, July 1929: Taking to the Air - [Amazing Stories](&amp;#123;&amp;#123; &#x27;amazing-stories/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
    Published: july 1929  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sm-201.org  
    Title: www.sm-201.org Wonder Stories  
-   Link: <a href="https://www.sm-201.org/a/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://www.sm-201.org/a/Wonder_Stories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories - Robin&#x27;s SM-201 Website...</p></details>
+   Link:<a href="https://www.sm-201.org/a/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://www.sm-201.org/a/Wonder_Stories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stories - Robin&#x27;s SM-201 Website...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en-academic.com  
    Title: Wonder Stories  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/740779" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/740779</a>  
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/740779" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/740779</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gutenberg.org  
    Title: www.gutenberg.org The War in the Air | Project Gutenberg  
-   Link: <a href="https://www.gutenberg.org/files/780/780-h/780-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/780/780-h/780-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War in the Air | Project Gutenberg...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/780/780-h/780-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/780/780-h/780-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War in the Air | Project Gutenberg...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spaceflighthistories.com  
    Title: www.spaceflighthistories.com Boeing's X-20 Dyna-Soar Hypersonic Space Bomber  
-   Link: <a href="https://www.spaceflighthistories.com/post/x-20-dyna-soar" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceflighthistories.com/post/x-20-dyna-soar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.spaceflighthistories.comBoeing&#x27;s X-20 Dyna-Soar Hypersonic Space BomberFebruary 7, 2020...</p></details>
+   Link:<a href="https://www.spaceflighthistories.com/post/x-20-dyna-soar" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceflighthistories.com/post/x-20-dyna-soar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.spaceflighthistories.comBoeing&#x27;s X-20 Dyna-Soar Hypersonic Space BomberFebruary 7, 2020...</p></details>
    Published: February 7, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/69254" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/69254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vortex blaster makes war by E. E. Smith | Project GutenbergOctober 28, 2022...</p></details>
+   Link:<a href="https://www.gutenberg.org/ebooks/69254" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/69254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vortex blaster makes war by E. E. Smith | Project GutenbergOctober 28, 2022...</p></details>
    Published: October 28, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skjam.com  
    Title: magazine review wonder stories january 1934  
-   Link: <a href="https://www.skjam.com/2019/01/20/magazine-review-wonder-stories-january-1934/" target="_blank" rel="noopener noreferrer nofollow">https://www.skjam.com/2019/01/20/magazine-review-wonder-stories-january-1934/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review: Wonder Stories January 1934 – SKJAM! ReviewsJanuary 20, 2019...</p></details>
+   Link:<a href="https://www.skjam.com/2019/01/20/magazine-review-wonder-stories-january-1934/" target="_blank" rel="noopener noreferrer nofollow">https://www.skjam.com/2019/01/20/magazine-review-wonder-stories-january-1934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review: Wonder Stories January 1934 – SKJAM! ReviewsJanuary 20, 2019...</p></details>
    Published: january 1934  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: goodreads.com  
    Title: The War in the Air by H.G. Wells | Goodreads  
-   Link: <a href="https://www.goodreads.com/book/show/36506764" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/36506764</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War in the Air by H.G. Wells | Goodreads...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/36506764" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/36506764</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War in the Air by H.G. Wells | Goodreads...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: m.youtube.com  
    Title: Adventure in the Skies!- Aviation Pulp Fiction- Air Force Museum  
-   Link: <a href="https://m.youtube.com/watch?v=19xcHHCj2XE" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=19xcHHCj2XE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Science Fiction | CC EP: 12...</p></details>
+   Link:<a href="https://m.youtube.com/watch?v=19xcHHCj2XE" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=19xcHHCj2XE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Science Fiction | CC EP: 12...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pulpfest.com  
    Title: Wonder in the Air – Pulp Fest  
-   Link: <a href="https://pulpfest.com/2019/06/12/wonder-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://pulpfest.com/2019/06/12/wonder-in-the-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wonder in the Air – PulpFestJune 12, 2019...</p></details>
+   Link:<a href="https://pulpfest.com/2019/06/12/wonder-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://pulpfest.com/2019/06/12/wonder-in-the-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wonder in the Air – PulpFestJune 12, 2019...</p></details>
    Published: June 12, 2019  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/RedditReads/comments/gnus1l" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RedditReads/comments/gnus1l</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War in the Air by H. G. Wells [Science Fiction](1908) May 21, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/RedditReads/comments/gnus1l" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RedditReads/comments/gnus1l</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War in the Air by H. G. Wells [Science Fiction](1908) May 21, 2020...</p></details>
    Published: May 21, 2020  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: library.si.edu  
    Title: Smithsonian Libraries The War in the Air  
-   Link: <a href="https://library.si.edu/es/donate/adopt-a-book/war-air" target="_blank" rel="noopener noreferrer nofollow">https://library.si.edu/es/donate/adopt-a-book/war-air</a>  
+   Link:<a href="https://library.si.edu/es/donate/adopt-a-book/war-air" target="_blank" rel="noopener noreferrer nofollow">https://library.si.edu/es/donate/adopt-a-book/war-air</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fancyclopedia.org  
    Title: Thrilling Wonder Stories  
-   Link: <a href="https://fancyclopedia.org/wiki/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://fancyclopedia.org/wiki/Wonder_Stories</a>  
+   Link:<a href="https://fancyclopedia.org/wiki/Wonder_Stories" target="_blank" rel="noopener noreferrer nofollow">https://fancyclopedia.org/wiki/Wonder_Stories</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pulpmags.org  
    Title: www.pulpmags.org Air Stories  
-   Link: <a href="https://www.pulpmags.org/content/info/air-stories.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pulpmags.org/content/info/air-stories.html</a>  
+   Link:<a href="https://www.pulpmags.org/content/info/air-stories.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pulpmags.org/content/info/air-stories.html</a>  
