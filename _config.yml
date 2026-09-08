@@ -31,7 +31,7 @@ endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
-baseurl: ""
+baseurl: "/website-20260618_231227-relationships-busf"
 url: "https://website-20260618-231227-relationships-busf.branchoria.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
