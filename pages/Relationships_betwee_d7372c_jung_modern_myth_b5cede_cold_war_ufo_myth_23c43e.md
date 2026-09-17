@@ -806,7 +806,7 @@ What makes his analysis enduring is not a solution to the UFO mystery but a diag
 12.<a id="endnote-12"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Related to [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archives: Presidential Library...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Related to [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archives: Presidential Library...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: torrossa.com  

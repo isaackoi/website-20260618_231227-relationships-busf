@@ -734,7 +734,7 @@ Flying saucer invasion films therefore succeeded because they captured the emoti
 
 1.<a id="endnote-1"></a>
    Source: gamesradar.com  
-   Title: [Games](&#123;&#123; 'games/' | relative_url &#125;&#125;) Radar+The 10 best alien movies of all time  
+   Title: [Games]({{ 'games/' | relative_url }}) Radar+The 10 best alien movies of all time  
    Link:<a href="https://www.gamesradar.com/entertainment/best-alien-movies/" target="_blank" rel="noopener noreferrer nofollow">https://www.gamesradar.com/entertainment/best-alien-movies/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>It discusses how these films reflect deep themes such as mortality, identity, and humanity’s place in the universe. The list includes tim...</p></details>
 
@@ -774,7 +774,7 @@ Flying saucer invasion films therefore succeeded because they captured the emoti
 7.<a id="endnote-7"></a>
    Source: tandfonline.com  
    Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/01439685.2015.1134109" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01439685.2015.1134109</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>lm, Radio and [Television](&amp;#123;&amp;#123; &#x27;television/&#x27; | relative_url &amp;#125;&amp;#125;): Vol 36, No 1February 3, 2016...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lm, Radio and [Television]({{ 'television/' | relative_url }}): Vol 36, No 1February 3, 2016...</p></details>
    Published: February 3, 2016  
 
 8.<a id="endnote-8"></a>

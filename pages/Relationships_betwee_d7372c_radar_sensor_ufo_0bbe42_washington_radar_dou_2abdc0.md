@@ -755,7 +755,7 @@ For the relationship between UFOs and science fiction, that shift was significan
 
 6.<a id="endnote-6"></a>
    Source: ghostsofdc.org  
-   Title: flying [saucers](&#123;&#123; 'saucers/' | relative_url &#125;&#125;) capitol white house  
+   Title: flying [saucers]({{ 'saucers/' | relative_url }}) capitol white house  
    Link:<a href="https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://ghostsofdc.org/2018/02/26/flying-saucers-capitol-white-house/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghosts of DC1952 Washington UFO Sightings: Jets Scrambled Over the Capitol...</p></details>
 

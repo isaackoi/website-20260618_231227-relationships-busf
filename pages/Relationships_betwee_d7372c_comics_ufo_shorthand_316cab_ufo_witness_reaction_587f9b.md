@@ -853,7 +853,7 @@ As a result, many memorable UFO images from the 1950s and 1960s are remembered n
 12.<a id="endnote-12"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Cannot Stop Remaking [Close Encounters](&amp;#123;&amp;#123; &#x27;close-encounters/&#x27; | relative_url &amp;#125;&amp;#125;) of the Third Kind (Movie Review)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Spielberg Cannot Stop Remaking [Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Third Kind (Movie Review)...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: youtube.com  

@@ -746,7 +746,7 @@ Earlier supernatural traditions often expressed anxieties about spirits, demons,
 
 4.<a id="endnote-4"></a>
    Source: otherworlders.com  
-   Title: [Grey Aliens](&#123;&#123; 'grey-aliens/' | relative_url &#125;&#125;) Explained: Origins, Traits, Abductions, and UFO Lore  
+   Title: [Grey Aliens]({{ 'grey-aliens/' | relative_url }}) Explained: Origins, Traits, Abductions, and UFO Lore  
    Link:<a href="https://otherworlders.com/alien-greys-a-complete-guide/" target="_blank" rel="noopener noreferrer nofollow">https://otherworlders.com/alien-greys-a-complete-guide/</a>  
 
 5.<a id="endnote-5"></a>

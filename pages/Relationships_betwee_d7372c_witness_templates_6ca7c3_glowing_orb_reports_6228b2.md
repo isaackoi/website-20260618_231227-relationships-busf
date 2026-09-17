@@ -753,7 +753,7 @@ Ordinary lights can appear orb-like. Cameras can record orb-like images from dis
    Source: reuters.com  
    Title: New Pentagon UFO file reveals glowing orbs in US Northeast  
    Link:<a href="https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/new-pentagon-ufo-file-reveals-glowing-orbs-us-northeast-2026-06-12/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) anomalous phen...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This disclosure follows earlier releases on May 8 and May 22, as part of a broader transparency initiative on [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phen...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: open-data.spr.ac.uk  

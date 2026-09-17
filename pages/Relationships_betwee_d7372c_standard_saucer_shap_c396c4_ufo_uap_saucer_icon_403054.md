@@ -804,7 +804,7 @@ That distinction helps explain one of the enduring relationships between UFOs an
    Source: youtube.com  
    Title: free e-book FLYING SAUCERS ARE REAL, Donald E. Keyhoe  
    Link:<a href="https://www.youtube.com/watch?v=pfhx6adH2pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfhx6adH2pE</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8th July 1947: First flying saucer as [Roswell]({{ 'roswell/' | relative_url }}) Army Air Base reports debris of a &#x27;flying disc&#x27;...</p></details>
    Published: July 1947  
 
 14.<a id="endnote-14"></a>

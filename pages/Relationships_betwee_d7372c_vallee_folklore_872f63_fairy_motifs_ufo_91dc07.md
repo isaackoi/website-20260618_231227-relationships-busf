@@ -749,15 +749,15 @@ Within the broader relationship between UFOs and science fiction, Vallée's cont
 
 1.<a id="endnote-1"></a>
    Source: books.google.com  
-   Title: Books Passport to Magonia: from Folklore to [Flying Saucers](&#123;&#123; 'flying-saucer/' | relative_url &#125;&#125;)  
+   Title: Books Passport to Magonia: from Folklore to [Flying Saucers]({{ 'flying-saucer/' | relative_url }})  
    Link:<a href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=RjjPrQEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=RjjPrQEACAAJ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: from Folklore to Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;) - Jacques Vallee - Google Books...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: from Folklore to Flying [Saucers]({{ 'saucers/' | relative_url }}) - Jacques Vallee - Google Books...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: books.google.com  
    Title: Passport to Magonia: from Folklore to Flying Saucers  
    Link:<a href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=HRJDAAAAIAAJ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques [Vallee](&amp;#123;&amp;#123; &#x27;vallee/&#x27; | relative_url &amp;#125;&amp;#125;) - Google Books...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques [Vallee]({{ 'vallee/' | relative_url }}) - Google Books...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: youtube.com  

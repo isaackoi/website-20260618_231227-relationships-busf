@@ -755,7 +755,7 @@ Within the broader relationship between UFOs and science fiction, the Martin epi
 
 4.<a id="endnote-4"></a>
    Source: sciety.org  
-   Title: [Debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;) "When Prophecy Fails" | Sciety  
+   Title: [Debunking]({{ 'debunking/' | relative_url }}) "When Prophecy Fails" | Sciety  
    Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; | Sciety...</p></details>
 

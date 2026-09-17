@@ -1020,7 +1020,7 @@ That layered view preserves the strangeness of the stories without making them a
 
 21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Title: Passport to [Magonia](&#123;&#123; 'magonia/' | relative_url &#125;&#125;): UFOs, Folklore, and Parallel Worlds -- Jacques Vallée  
+   Title: Passport to [Magonia]({{ 'magonia/' | relative_url }}): UFOs, Folklore, and Parallel Worlds -- Jacques Vallée  
    Link:<a href="https://www.youtube.com/watch?v=0l8oBAM3s54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0l8oBAM3s54</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Tewksbury Public Library: The Legends of Changelings &amp; Evil Faeries...</p></details>
 

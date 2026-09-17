@@ -783,7 +783,7 @@ That is why these labels matter. They are not just descriptions. They are shorth
 5.<a id="endnote-5"></a>
    Source: apnews.com  
    Link:<a href="https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/34c2a9b294e94a972f352df42c4a17ae</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>While no conclusive evidence of extraterrestrial life or government [cover-ups](&amp;#123;&amp;#123; &#x27;cover-ups/&#x27; | relative_url &amp;#125;&amp;#125;) has surfaced, the documents provide intriguing details on r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While no conclusive evidence of extraterrestrial life or government [cover-ups]({{ 'cover-ups/' | relative_url }}) has surfaced, the documents provide intriguing details on r...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: cbsnews.com  
@@ -795,7 +795,7 @@ That is why these labels matter. They are not just descriptions. They are shorth
    Source: youtu.be  
    Title: Pentagon UFO file releases and the rising UAP threat  
    Link:<a href="https://youtu.be/oUym8JD-eJ4" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/oUym8JD-eJ4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide direct context regarding the shift in official terminology from [UFO to UAP](&amp;#123;&amp;#123; &#x27;ufo-to-uap/&#x27; | relative_url &amp;#125;&amp;#125;) and the evolving media and government eff...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide direct context regarding the shift in official terminology from [UFO to UAP]({{ 'ufo-to-uap/' | relative_url }}) and the evolving media and government eff...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: youtube.com  

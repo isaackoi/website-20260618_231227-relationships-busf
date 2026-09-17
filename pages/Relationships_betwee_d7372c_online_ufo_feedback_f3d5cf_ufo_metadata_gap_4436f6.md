@@ -841,7 +841,7 @@ The result is a tension at the heart of modern UFO culture. The videos that spre
 
 10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Title: Response to F-16 Pilot Chris Lehto's "De-[Debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;)" of [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) and Gimbal  
+   Title: Response to F-16 Pilot Chris Lehto's "De-[Debunking]({{ 'debunking/' | relative_url }})" of [Go Fast]({{ 'go-fast/' | relative_url }}) and Gimbal  
    Link:<a href="https://www.youtube.com/watch?v=fBeqP4z3rXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fBeqP4z3rXo</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)...</p></details>
 
@@ -854,7 +854,7 @@ The result is a tension at the heart of modern UFO culture. The videos that spre
 12.<a id="endnote-12"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=vP23QUAGCLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vP23QUAGCLA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Anomalous Phenomena...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on [Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: youtube.com  

@@ -1030,7 +1030,7 @@ The core pattern remains the same. People see something they cannot identify, th
 
 21.<a id="endnote-21"></a>
    Source: space.com  
-   Title: 12066 flying [saucers](&#123;&#123; 'saucers/' | relative_url &#125;&#125;) turn 64 ufos origins  
+   Title: 12066 flying [saucers]({{ 'saucers/' | relative_url }}) turn 64 ufos origins  
    Link:<a href="https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html</a>  
 
 22.<a id="endnote-22"></a>

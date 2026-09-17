@@ -803,7 +803,7 @@ The cultural bridge was strengthened by the fact that wartime experience had val
    Source: amazingstories.com  
    Title: wonder histories july 1929 taking to the air  
    Link:<a href="https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://amazingstories.com/2021/07/wonder-histories-july-1929-taking-to-the-air/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing StoriesWonder Histories, July 1929: Taking to the Air - [Amazing Stories](&amp;#123;&amp;#123; &#x27;amazing-stories/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing StoriesWonder Histories, July 1929: Taking to the Air - [Amazing Stories]({{ 'amazing-stories/' | relative_url }})...</p></details>
    Published: july 1929  
 
 12.<a id="endnote-12"></a>

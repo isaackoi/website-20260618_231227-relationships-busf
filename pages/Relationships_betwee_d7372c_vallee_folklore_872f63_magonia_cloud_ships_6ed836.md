@@ -720,7 +720,7 @@ In this sense, Magonia mattered because it transformed UFOs from a purely techno
    Source: books.google.com  
    Title: Books Passport to Magonia: from Folklore to Flying Saucers  
    Link:<a href="https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=RjjPrQEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia_from_Folklore_to_Fly.html?id=RjjPrQEACAAJ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: from Folklore to Flying Saucers - Jacques [Vallee](&amp;#123;&amp;#123; &#x27;vallee/&#x27; | relative_url &amp;#125;&amp;#125;) - Google Books...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: from Folklore to Flying Saucers - Jacques [Vallee]({{ 'vallee/' | relative_url }}) - Google Books...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: web.wiki  

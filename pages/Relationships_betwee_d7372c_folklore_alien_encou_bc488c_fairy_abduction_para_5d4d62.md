@@ -732,7 +732,7 @@ Seen in this way, fairy abductions and alien abductions are connected less by th
    Source: books.google.com  
    Title: Books Passport to Magonia: On UFOs, Folklore, and Parallel Worlds  
    Link:<a href="https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia.html?id=QRjzPwAACAAJ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques [Vallee](&amp;#123;&amp;#123; &#x27;vallee/&#x27; | relative_url &amp;#125;&amp;#125;) - Google Books...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: On UFOs, Folklore, and Parallel Worlds - Jacques [Vallee]({{ 'vallee/' | relative_url }}) - Google Books...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: britannica.com  

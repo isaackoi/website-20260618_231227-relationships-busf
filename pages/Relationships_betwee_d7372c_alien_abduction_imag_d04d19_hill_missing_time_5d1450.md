@@ -777,7 +777,7 @@ As later books, films, television programmes and UFO investigations reused these
 
 10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Title: [Project Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;): Declassified – The True Story of The [Hill Abduction](&#123;&#123; 'hill-case-695d62/' | relative_url &#125;&#125;) | History  
+   Title: [Project Blue Book]({{ 'blue-book/' | relative_url }}): Declassified – The True Story of The [Hill Abduction]({{ 'hill-case-695d62/' | relative_url }}) | History  
    Link:<a href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn9ArqHkurA</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Abductions: Encounters Beyond Explanation | Ancient Aliens...</p></details>
 

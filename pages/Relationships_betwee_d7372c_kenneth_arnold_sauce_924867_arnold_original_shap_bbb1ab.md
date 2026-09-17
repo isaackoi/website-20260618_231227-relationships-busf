@@ -773,7 +773,7 @@ In that sense, Arnold's original shapes occupy a pivotal place in the relationsh
 
 9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
-   Title: The Report on [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Flying Objects/Chapter 2  
+   Title: The Report on [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects/Chapter 2  
    Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_2</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 2 - Wikisource, the free online library...</p></details>
 
@@ -807,4 +807,4 @@ In that sense, Arnold's original shapes occupy a pivotal place in the relationsh
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
    Link:<a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Kenneth [Arnold Sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) | Weird History Ep. #5...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Kenneth [Arnold Sighting]({{ 'arnold-sighting/' | relative_url }}) | Weird History Ep. #5...</p></details>

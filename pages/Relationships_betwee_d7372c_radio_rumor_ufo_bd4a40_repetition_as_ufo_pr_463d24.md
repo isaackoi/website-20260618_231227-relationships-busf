@@ -759,7 +759,7 @@ That mechanism helps explain why early UFO culture expanded so quickly. Repetiti
    Source: wired.com  
    Title: 0624first flying saucer sighting  
    Link:<a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold sighted a series of [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying objects near Mount Rainier, Washington, markin...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold sighted a series of [unidentified]({{ 'unidentified/' | relative_url }}) flying objects near Mount Rainier, Washington, markin...</p></details>
    Published: June 24, 1947  
 
 3.<a id="endnote-3"></a>

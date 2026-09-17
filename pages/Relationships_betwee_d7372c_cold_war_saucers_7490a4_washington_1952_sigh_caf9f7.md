@@ -741,7 +741,7 @@ As the story entered popular culture, it reinforced a recurring science-fiction 
 
 2.<a id="endnote-2"></a>
    Source: internationalflyingsaucerbureau.com  
-   Title: [Project Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
+   Title: [Project Blue Book]({{ 'blue-book/' | relative_url }})  
    Link:<a href="https://www.internationalflyingsaucerbureau.com/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/project-blue-book/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>International Flying Saucer Bureau (IFSB)...</p></details>
 

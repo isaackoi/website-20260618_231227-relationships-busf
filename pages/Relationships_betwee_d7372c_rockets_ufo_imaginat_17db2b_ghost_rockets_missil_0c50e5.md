@@ -816,7 +816,7 @@ In that sense, the ghost rockets were a bridge between wartime rocket warfare an
    Source: youtube.com  
    Title: The Mysterious Foo Fighters Of World War II  
    Link:<a href="https://www.youtube.com/watch?v=SXGWuVglDTo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SXGWuVglDTo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Radio, [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) And The Flying Saucer Craze—Kenneth Arnold And The...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radio, [Roswell]({{ 'roswell/' | relative_url }}) And The Flying Saucer Craze—Kenneth Arnold And The...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: youtube.com  

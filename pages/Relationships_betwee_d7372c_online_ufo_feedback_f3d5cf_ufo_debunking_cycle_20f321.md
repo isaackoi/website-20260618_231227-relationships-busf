@@ -816,7 +816,7 @@ This helps explain why UFO rumours often persist long after technical investigat
 7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
    Link:<a href="https://journals.sagepub.com/doi/abs/10.1089/cyber.2023.0667" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1089/cyber.2023.0667</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHaunting Messages: Online Videos and [Public Belief](&amp;#123;&amp;#123; &#x27;public-belief/&#x27; | relative_url &amp;#125;&amp;#125;) in Paranormal Phenomena - Holly Wright, Erin Oittinen, Paul R. Brewer, 20...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHaunting Messages: Online Videos and [Public Belief]({{ 'public-belief/' | relative_url }}) in Paranormal Phenomena - Holly Wright, Erin Oittinen, Paul R. Brewer, 20...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: doi.org  
@@ -887,4 +887,4 @@ This helps explain why UFO rumours often persist long after technical investigat
    Source: youtube.com  
    Title: Not As They Seem  
    Link:<a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ciopi2r7j-k</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO [Skeptics](&amp;#123;&amp;#123; &#x27;skeptics/&#x27; | relative_url &amp;#125;&amp;#125;) w/ @JimmyAkin...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO [Skeptics]({{ 'skeptics/' | relative_url }}) w/ @JimmyAkin...</p></details>

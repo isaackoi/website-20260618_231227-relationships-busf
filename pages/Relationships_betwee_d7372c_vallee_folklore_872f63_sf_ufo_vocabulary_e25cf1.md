@@ -764,7 +764,7 @@ Vallée's contribution was to remind researchers that these terms belong to a pa
    Source: books.google.com  
    Title: Books Passport to Magonia: From Folklore to Flying Saucers  
    Link:<a href="https://books.google.com/books/about/Passport_to_Magonia.html?id=qA3DrQEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Passport_to_Magonia.html?id=qA3DrQEACAAJ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: From Folklore to Flying Saucers - Jacques [Vallee](&amp;#123;&amp;#123; &#x27;vallee/&#x27; | relative_url &amp;#125;&amp;#125;) - Google BooksNovember 23, 2014...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksPassport to Magonia: From Folklore to Flying Saucers - Jacques [Vallee]({{ 'vallee/' | relative_url }}) - Google BooksNovember 23, 2014...</p></details>
    Published: November 23, 2014  
 
 2.<a id="endnote-2"></a>
@@ -831,7 +831,7 @@ Vallée's contribution was to remind researchers that these terms belong to a pa
 
 13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Title: [Avrocar](&#123;&#123; 'avrocar/' | relative_url &#125;&#125;): a real flying saucer  
+   Title: [Avrocar]({{ 'avrocar/' | relative_url }}): a real flying saucer  
    Link:<a href="https://arxiv.org/abs/1507.06916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1507.06916</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2015...</p></details>
    Published: July 24, 2015  

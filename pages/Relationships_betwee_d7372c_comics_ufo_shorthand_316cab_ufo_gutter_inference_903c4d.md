@@ -835,7 +835,7 @@ In this way, the gutter became one of the most powerful tools for UFO storytelli
    Source: youtube.com  
    Title: Fire In The Sky  
    Link:<a href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oKquY6-NOOc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Activity Surges Across the U.S. | [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;): Inside America&#x27;s UFO Investigation...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Activity Surges Across the U.S. | [Unidentified]({{ 'unidentified/' | relative_url }}): Inside America&#x27;s UFO Investigation...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: youtube.com  

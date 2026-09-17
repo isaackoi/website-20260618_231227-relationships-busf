@@ -755,7 +755,7 @@ In the context of UFOs and science fiction, this distinction is crucial. Science
 5.<a id="endnote-5"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/ufo/comments/1rove7n/before_the_coverups_the_pentagons_original/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1rove7n/before_the_coverups_the_pentagons_original/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>the [cover-ups](&amp;#123;&amp;#123; &#x27;cover-ups/&#x27; | relative_url &amp;#125;&amp;#125;), the Pentagon&#x27;s original conclusion was the &quot;Extraterrestrial Hypothesis.&quot; Here are 3 declassified cases that show exactly...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the [cover-ups]({{ 'cover-ups/' | relative_url }}), the Pentagon&#x27;s original conclusion was the &quot;Extraterrestrial Hypothesis.&quot; Here are 3 declassified cases that show exactly...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: reddit.com  
@@ -767,7 +767,7 @@ In the context of UFOs and science fiction, this distinction is crucial. Science
    Source: reddit.com  
    Title: project blue book the us air forces ufo  
    Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The US Air Force’s UFO investigations, findings, and [closure](&amp;#123;&amp;#123; &#x27;closure/&#x27; | relative_url &amp;#125;&amp;#125;) (1947–1969)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The US Air Force’s UFO investigations, findings, and [closure]({{ 'closure/' | relative_url }}) (1947–1969)...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: youtube.com  
@@ -807,6 +807,6 @@ In the context of UFOs and science fiction, this distinction is crucial. Science
 
 14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Title: J. Allen Hynek and the Project [Blue Book Files](&#123;&#123; 'blue-book-files/' | relative_url &#125;&#125;)  
+   Title: J. Allen Hynek and the Project [Blue Book Files]({{ 'blue-book-files/' | relative_url }})  
    Link:<a href="https://www.youtube.com/watch?v=sO7J4l-T-QY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sO7J4l-T-QY</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the 701 Unidentified UFO Cases...</p></details>

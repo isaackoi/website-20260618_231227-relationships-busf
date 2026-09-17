@@ -780,7 +780,7 @@ This creates a modern UFO feedback loop. A Starlink train appears overhead, witn
 8.<a id="endnote-8"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=JqACWozdHsA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JqACWozdHsA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Strange lights](&amp;#123;&amp;#123; &#x27;strange-lights/&#x27; | relative_url &amp;#125;&amp;#125;) in Night Sky? It was SpaceX Starlink, not UFOs...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Strange lights]({{ 'strange-lights/' | relative_url }}) in Night Sky? It was SpaceX Starlink, not UFOs...</p></details>
    Published: November 2019  
 
 9.<a id="endnote-9"></a>

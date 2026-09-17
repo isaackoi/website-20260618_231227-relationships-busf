@@ -762,18 +762,18 @@ In the relationship between UFOs and science fiction, this is a pivotal moment. 
    Source: wired.com  
    Title: Out of This World: 60 Years of Flying Saucers  
    Link:<a href="https://www.wired.com/2007/06/flyingsaucer-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/flyingsaucer-anniversary</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon has inspired conspiracy theories and cults, including notable incidents such as the [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) event and subsequent governmen...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon has inspired conspiracy theories and cults, including notable incidents such as the [Roswell]({{ 'roswell/' | relative_url }}) event and subsequent governmen...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Title: [project blue book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;) the us air forces ufo  
+   Title: [project blue book]({{ 'blue-book/' | relative_url }}) the us air forces ufo  
    Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The US Air Force’s UFO investigations, findings, and [closure](&amp;#123;&amp;#123; &#x27;closure/&#x27; | relative_url &amp;#125;&amp;#125;) (1947–1969)May 5, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The US Air Force’s UFO investigations, findings, and [closure]({{ 'closure/' | relative_url }}) (1947–1969)May 5, 2026...</p></details>
    Published: May 5, 2026  
 
 7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Title: www.reddit.com The Kenneth [Arnold sighting](&#123;&#123; 'arnold-sighting/' | relative_url &#125;&#125;)  
+   Title: www.reddit.com The Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }})  
    Link:<a href="https://www.reddit.com/r/aliens/comments/16k4ns2" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16k4ns2</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold sightingSeptember 16, 2023...</p></details>
    Published: September 16, 2023  

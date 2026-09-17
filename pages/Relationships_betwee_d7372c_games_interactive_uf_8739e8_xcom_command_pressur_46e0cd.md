@@ -762,7 +762,7 @@ That is why *XCOM* occupies a distinctive place in the relationship between UFOs
 
 5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Title: Classic [Games](&#123;&#123; 'games/' | relative_url &#125;&#125;) Postmortem  
+   Title: Classic [Games]({{ 'games/' | relative_url }}) Postmortem  
    Link:<a href="https://www.youtube.com/watch?v=LP7VjbuNEzg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LP7VjbuNEzg</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>XCOM: Enemy Unknown | Worth it Then Worth it Now (Revisit)...</p></details>
 

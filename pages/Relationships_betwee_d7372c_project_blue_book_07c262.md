@@ -1036,7 +1036,7 @@ As myth fuel, Blue Book is unusually potent because it feels official without fe
 
 26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Title: Project Blue Book: Declassified – The True Story of The [Hill Abduction](&#123;&#123; 'hill-case-695d62/' | relative_url &#125;&#125;) | History  
+   Title: Project Blue Book: Declassified – The True Story of The [Hill Abduction]({{ 'hill-case-695d62/' | relative_url }}) | History  
    Link:<a href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn9ArqHkurA</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries...</p></details>
 

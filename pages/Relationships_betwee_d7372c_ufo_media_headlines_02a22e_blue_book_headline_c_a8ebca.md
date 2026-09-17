@@ -813,7 +813,7 @@ In the broader story of UFOs and science fiction, this distinction is where medi
    Source: reddit.com  
    Title: project blue book the us air forces ufo  
    Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The US Air Force’s UFO investigations, findings, and [closure](&amp;#123;&amp;#123; &#x27;closure/&#x27; | relative_url &amp;#125;&amp;#125;) (1947–1969)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The US Air Force’s UFO investigations, findings, and [closure]({{ 'closure/' | relative_url }}) (1947–1969)...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: youtube.com  

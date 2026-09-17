@@ -1011,7 +1011,7 @@ Arnold’s sighting remains unresolved in the narrow sense that no universally a
 
 21.<a id="endnote-21"></a>
    Source: airandspace.si.edu  
-   Title: reports ufos 1947 [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) incident  
+   Title: reports ufos 1947 [roswell]({{ 'roswell/' | relative_url }}) incident  
    Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
 
 ### Additional References

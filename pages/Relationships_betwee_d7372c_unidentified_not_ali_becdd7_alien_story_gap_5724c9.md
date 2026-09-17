@@ -902,7 +902,7 @@ Alien visitation plots, secret programmes and disclosure narratives are powerful
    Source: youtube.com  
    Title: Neil de Grasse Tyson Finally Takes UFOs Seriously  
    Link:<a href="https://www.youtube.com/watch?v=0EeoauhCl30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0EeoauhCl30</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s [Flying Saucer](&amp;#123;&amp;#123; &#x27;flying-saucer/&#x27; | relative_url &amp;#125;&amp;#125;), UFO, and Alien Encounter Movies...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate 1950s [Flying Saucer]({{ 'flying-saucer/' | relative_url }}), UFO, and Alien Encounter Movies...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: youtube.com  

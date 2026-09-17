@@ -1075,7 +1075,7 @@ The best way to understand Cold War saucer culture is therefore not as a simple 
 
 28.<a id="endnote-28"></a>
    Source: blogs.loc.gov  
-   Title: reading the film registry [close encounters](&#123;&#123; 'close-encounters/' | relative_url &#125;&#125;) of the third kind 1977  
+   Title: reading the film registry [close encounters]({{ 'close-encounters/' | relative_url }}) of the third kind 1977  
    Link:<a href="https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/now-see-hear/2018/12/reading-the-film-registry-close-encounters-of-the-third-kind-1977/</a>  
 
 29.<a id="endnote-29"></a>

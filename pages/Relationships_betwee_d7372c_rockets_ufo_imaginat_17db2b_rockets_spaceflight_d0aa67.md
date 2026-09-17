@@ -770,7 +770,7 @@ In that sense, rockets acted as a bridge. They connected wartime military techno
 
 5.<a id="endnote-5"></a>
    Source: time.com  
-   Title: an astronomers explanation those flying [saucers](&#123;&#123; 'saucers/' | relative_url &#125;&#125;)  
+   Title: an astronomers explanation those flying [saucers]({{ 'saucers/' | relative_url }})  
    Link:<a href="https://time.com/archive/6608795/an-astronomers-explanation-those-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6608795/an-astronomers-explanation-those-flying-saucers/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>An Astronomer&#x27;s Explanation: THOSE FLYING SAUCERSJune 9, 1952...</p></details>
    Published: June 9, 1952  

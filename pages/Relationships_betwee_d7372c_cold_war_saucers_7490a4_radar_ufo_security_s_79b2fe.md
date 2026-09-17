@@ -794,7 +794,7 @@ The national-security scare surrounding radar UFO reports therefore arose from a
 
 9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Title: [project blue book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;) 19521969 the us air forces  
+   Title: [project blue book]({{ 'blue-book/' | relative_url }}) 19521969 the us air forces  
    Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1tymvaq/project_blue_book_19521969_the_us_air_forces/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1tymvaq/project_blue_book_19521969_the_us_air_forces/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (1952–1969): The U.S. Air Force’s Exhaustive UAP Investigation—12,618 Reports, 701 Unexplained, and Its Enduring Influence on M...</p></details>
 

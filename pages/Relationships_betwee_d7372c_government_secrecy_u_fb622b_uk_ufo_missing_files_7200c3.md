@@ -762,7 +762,7 @@ That dynamic helps explain why, in the UK UFO record, the missing documents ofte
 2.<a id="endnote-2"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rzjcrt/national_archives_unveils_an_extensive_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rzjcrt/national_archives_unveils_an_extensive_ufo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Unveils an Extensive UFO Collection: [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), Roswell, [Area 51](&amp;#123;&amp;#123; &#x27;area-51/&#x27; | relative_url &amp;#125;&amp;#125;), and Related MaterialsMarch 21, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives Unveils an Extensive UFO Collection: [Project Blue Book]({{ 'blue-book/' | relative_url }}), Roswell, [Area 51]({{ 'area-51/' | relative_url }}), and Related MaterialsMarch 21, 2026...</p></details>
    Published: March 21, 2026  
 
 3.<a id="endnote-3"></a>

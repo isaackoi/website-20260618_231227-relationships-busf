@@ -810,7 +810,7 @@ That was the gap he believed Project Blue Book left unexplained: not whether som
 6.<a id="endnote-6"></a>
    Source: youtube.com  
    Link:<a href="http://www.youtube.com/watch?v=IEdf3OvPh90" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IEdf3OvPh90</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Project Blue Book interview Jacques Vallée: Project Blue Book, space travel and military [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) | Reality Check NewsNation...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee Project Blue Book interview Jacques Vallée: Project Blue Book, space travel and military [secrecy]({{ 'secrecy/' | relative_url }}) | Reality Check NewsNation...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: reddit.com  

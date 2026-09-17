@@ -1005,7 +1005,7 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
 
 15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Title: NASA [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Anomalous Phenomena Independent Study Team  
+   Title: NASA [Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena Independent Study Team  
    Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 16.<a id="endnote-16"></a>
@@ -1024,7 +1024,7 @@ That evidence gap does not make abduction stories culturally unimportant. It mak
 
 19.<a id="endnote-19"></a>
    Source: space.com  
-   Title: pentagon ufo office aaro historical report no emprical evidence [alien technology](&#123;&#123; 'tech-magic/' | relative_url &#125;&#125;)  
+   Title: pentagon ufo office aaro historical report no emprical evidence [alien technology]({{ 'tech-magic/' | relative_url }})  
    Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 20.<a id="endnote-20"></a>

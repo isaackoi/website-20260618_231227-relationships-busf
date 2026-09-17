@@ -767,7 +767,7 @@ This loop helped explain why UFO waves often appeared to spread rapidly across l
 3.<a id="endnote-3"></a>
    Source: ufologie.patrickgross.org  
    Link:<a href="https://ufologie.patrickgross.org/press/tennessean27jun1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/tennessean27jun1947.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) reports in the Press, The Tennessean, Nashville, Tennessee, USA, on page 1, on June 27, 1947...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }}) reports in the Press, The Tennessean, Nashville, Tennessee, USA, on page 1, on June 27, 1947...</p></details>
    Published: June 27, 1947  
 
 4.<a id="endnote-4"></a>

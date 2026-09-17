@@ -794,7 +794,7 @@ Once established, the shorthand travelled beyond comics into toys, advertising, 
 
 6.<a id="endnote-6"></a>
    Source: airandspace.si.edu  
-   Title: reports ufos 1947 [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) incident  
+   Title: reports ufos 1947 [roswell]({{ 'roswell/' | relative_url }}) incident  
    Link:<a href="https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/reports-ufos-1947-roswell-incident</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space MuseumReports of UFOs: 1947 Roswell Incident | National Air and Space Museum...</p></details>
 

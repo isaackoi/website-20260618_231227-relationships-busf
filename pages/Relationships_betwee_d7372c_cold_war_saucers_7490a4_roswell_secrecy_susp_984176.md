@@ -826,7 +826,7 @@ That dynamic helped shape the modern relationship between UFO culture and scienc
 
 15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Title: The New Science of [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Aerospace-Undersea Phenomena (UAP)  
+   Title: The New Science of [Unidentified]({{ 'unidentified/' | relative_url }}) Aerospace-Undersea Phenomena (UAP)  
    Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2025...</p></details>
    Published: January 27, 2025  

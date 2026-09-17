@@ -769,7 +769,7 @@ That ambiguity helped transform Project Blue Book from a government programme in
 
 6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Title: Project Blue Book: [ROSWELL](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) COVER-UP EXPOSED (Season 2) | History  
+   Title: Project Blue Book: [ROSWELL]({{ 'roswell/' | relative_url }}) COVER-UP EXPOSED (Season 2) | History  
    Link:<a href="https://www.youtube.com/watch?v=Nc3UvS8YTEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nc3UvS8YTEI</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - 1969| Movietone Moment | 17 December 2021...</p></details>
    Published: December 2021  

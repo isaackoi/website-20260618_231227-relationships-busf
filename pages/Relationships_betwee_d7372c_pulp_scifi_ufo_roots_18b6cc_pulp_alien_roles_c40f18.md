@@ -771,7 +771,7 @@ In that sense, pulp magazines did more than imagine extraterrestrials. They supp
    Source: wired.com  
    Title: www.wired.com Out of This World: 60 Years of Flying Saucers  
    Link:<a href="https://www.wired.com/2007/06/flyingsaucer-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/flyingsaucer-anniversary</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon has inspired conspiracy theories and cults, including notable incidents such as the [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) event and subsequent governmen...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon has inspired conspiracy theories and cults, including notable incidents such as the [Roswell]({{ 'roswell/' | relative_url }}) event and subsequent governmen...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: reddit.com  
@@ -789,7 +789,7 @@ In that sense, pulp magazines did more than imagine extraterrestrials. They supp
    Source: youtube.com  
    Title: History of UFO and alien encounters | Prof. Greg Eghigian  
    Link:<a href="https://www.youtube.com/watch?v=XAqOUoUIJWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XAqOUoUIJWA</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS To UFOs Opinion??? Pulps &amp; [Comics](&amp;#123;&amp;#123; &#x27;comics/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS To UFOs Opinion??? Pulps &amp; [Comics]({{ 'comics/' | relative_url }})...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: academic.oup.com  

@@ -761,7 +761,7 @@ That persistence reveals the central role of science-fiction saucer cues. Their 
 
 3.<a id="endnote-3"></a>
    Source: ufoexplorations.com  
-   Title: UFO Explorations | Make-Believe in [Mc Minnville](&#123;&#123; 'mc-minnville/' | relative_url &#125;&#125;)--Famous Photos Faked?  
+   Title: UFO Explorations | Make-Believe in [Mc Minnville]({{ 'mc-minnville/' | relative_url }})--Famous Photos Faked?  
    Link:<a href="https://www.ufoexplorations.com/make-believe-in-mcminville" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/make-believe-in-mcminville</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Explorations | Make-Believe in McMinnville--Famous Photos Faked?...</p></details>
 
@@ -797,7 +797,7 @@ That persistence reveals the central role of science-fiction saucer cues. Their 
 
 9.<a id="endnote-9"></a>
    Source: geekslop.com  
-   Title: 1940 [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) dead alien film authentic original video  
+   Title: 1940 [roswell]({{ 'roswell/' | relative_url }}) dead alien film authentic original video  
    Link:<a href="https://www.geekslop.com/life/strange/ufos-and-aliens/2015/1940-roswell-dead-alien-film-authentic-original-video" target="_blank" rel="noopener noreferrer nofollow">https://www.geekslop.com/life/strange/ufos-and-aliens/2015/1940-roswell-dead-alien-film-authentic-original-video</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Segments Of 1940&#x27;s Recreation Of Roswell Dead Alien Film Be Authentic Footage? - Geek SlopFebruary 3, 2015...</p></details>
    Published: February 3, 2015  
@@ -811,7 +811,7 @@ That persistence reveals the central role of science-fiction saucer cues. Their 
    Source: youtube.com  
    Title: Preview of Alien Intrusion: Unmasking a Deception (Influence of Science Fiction)  
    Link:<a href="https://www.youtube.com/watch?v=1Wvnil9Tyck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Wvnil9Tyck</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Hugh Marlowe in &quot;Earth vs. the Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; (1956) - special effects by Ray Harryhausen...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Hugh Marlowe in &quot;Earth vs. the Flying [Saucers]({{ 'saucers/' | relative_url }})&quot; (1956) - special effects by Ray Harryhausen...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: youtube.com  
