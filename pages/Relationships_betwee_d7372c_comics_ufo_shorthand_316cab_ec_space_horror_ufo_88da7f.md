@@ -734,7 +734,7 @@ Within the broader relationship between UFOs and science fiction, EC's contribut
 
 1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Title: Weird Science ([comics](&#123;&#123; 'comics/' | relative_url &#125;&#125;))  
+   Title: Weird Science ([comics]({{ 'comics/' | relative_url }}))  
    Link:<a href="https://en.wikipedia.org/wiki/Weird_Science_%28comics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weird_Science_%28comics%29</a>  
 
 2.<a id="endnote-2"></a>

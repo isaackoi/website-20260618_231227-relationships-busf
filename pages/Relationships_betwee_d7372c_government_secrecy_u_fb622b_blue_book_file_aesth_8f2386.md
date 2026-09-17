@@ -873,7 +873,7 @@ As a result, modern UFO fiction often borrows less from astronomy than from arch
 17.<a id="endnote-17"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UlmwakUTo3M</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, Pentagon, Washington, DC, 07/31/1952...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying [Saucers]({{ 'saucers/' | relative_url }})&quot;, Pentagon, Washington, DC, 07/31/1952...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: theprojectbluebookarchive.org  

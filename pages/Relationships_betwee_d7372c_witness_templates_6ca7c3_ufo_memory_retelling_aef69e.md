@@ -823,7 +823,7 @@ The key point is not that UFO witnesses merely copy films or books. Rather, inve
 
 13.<a id="endnote-13"></a>
    Source: smithsonianmag.com  
-   Title: in 1947 high altitude balloon crash landed [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) aliens never left 180963917  
+   Title: in 1947 high altitude balloon crash landed [roswell]({{ 'roswell/' | relative_url }}) aliens never left 180963917  
    Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never LeftJuly 5, 2017...</p></details>
    Published: July 5, 2017  
@@ -837,7 +837,7 @@ The key point is not that UFO witnesses merely copy films or books. Rather, inve
 
 15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Title: Project Blue Book: Declassified – The True Story of The [Hill Abduction](&#123;&#123; 'hill-case-695d62/' | relative_url &#125;&#125;) | History  
+   Title: Project Blue Book: Declassified – The True Story of The [Hill Abduction]({{ 'hill-case-695d62/' | relative_url }}) | History  
    Link:<a href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qn9ArqHkurA</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Believe in Weird Sh*t: Ghosts, Tarot, and UFOs...</p></details>
 

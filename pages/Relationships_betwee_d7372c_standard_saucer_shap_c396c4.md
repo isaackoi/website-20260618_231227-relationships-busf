@@ -1076,7 +1076,7 @@ This is why the saucer shape belongs at the centre of the relationship between U
 31.<a id="endnote-31"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=sSY6NB6m2PU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sSY6NB6m2PU</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;), Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | [Roswell]({{ 'roswell/' | relative_url }}), Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office...</p></details>
 
 32.<a id="endnote-32"></a>
    Source: youtube.com  

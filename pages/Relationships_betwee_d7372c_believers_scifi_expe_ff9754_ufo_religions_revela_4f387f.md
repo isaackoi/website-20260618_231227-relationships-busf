@@ -797,7 +797,7 @@ What is well documented, however, is the existence of communities that interpret
 9.<a id="endnote-9"></a>
    Source: youtube.com  
    Link:<a href="http://www.youtube.com/watch?v=qjG-Wz2aZME" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qjG-Wz2aZME</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo religion [flying saucer](&amp;#123;&amp;#123; &#x27;flying-saucer/&#x27; | relative_url &amp;#125;&amp;#125;) cults history The UFO cult that led to 39 deaths: HEAVEN&#x27;S GATE Georgia Marie...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo religion [flying saucer]({{ 'flying-saucer/' | relative_url }}) cults history The UFO cult that led to 39 deaths: HEAVEN&#x27;S GATE Georgia Marie...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: youtube.com  

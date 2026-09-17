@@ -730,7 +730,7 @@ In that sense, the Air Force files changed the meaning of Arnold's sighting more
 
 4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Title: National Archives [Project BLUE BOOK](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
+   Title: National Archives [Project BLUE BOOK]({{ 'blue-book/' | relative_url }})  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
@@ -742,7 +742,7 @@ In that sense, the Air Force files changed the meaning of Arnold's sighting more
 
 6.<a id="endnote-6"></a>
    Source: time.com  
-   Title: This Is Why People Think UFOs Look Like 'Flying [Saucers](&#123;&#123; 'saucers/' | relative_url &#125;&#125;)'  
+   Title: This Is Why People Think UFOs Look Like 'Flying [Saucers]({{ 'saucers/' | relative_url }})'  
    Link:<a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</p></details>
 
@@ -807,7 +807,7 @@ In that sense, the Air Force files changed the meaning of Arnold's sighting more
    Source: youtube.com  
    Title: The Scientist Who Failed to Disprove UFOs  
    Link:<a href="https://www.youtube.com/watch?v=2x4CexTS31M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2x4CexTS31M</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and Project Blue Book...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell]({{ 'roswell/' | relative_url }}) Incident and Project Blue Book...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: reddit.com  
@@ -824,7 +824,7 @@ In that sense, the Air Force files changed the meaning of Arnold's sighting more
 
 19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Title: www.reddit.com Kenneth [Arnold sighting](&#123;&#123; 'arnold-sighting/' | relative_url &#125;&#125;)  
+   Title: www.reddit.com Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }})  
    Link:<a href="https://www.reddit.com/r/ufo/comments/q0f3jt" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q0f3jt</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold sighting..October 3, 2021...</p></details>
    Published: October 3, 2021  

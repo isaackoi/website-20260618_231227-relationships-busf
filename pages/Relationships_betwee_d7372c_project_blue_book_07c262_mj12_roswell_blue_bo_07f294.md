@@ -743,7 +743,7 @@ That is why Roswell and MJ-12 clashed so sharply with Blue Book records. The arc
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects | National ArchivesJune 25, 2024...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
 2.<a id="endnote-2"></a>

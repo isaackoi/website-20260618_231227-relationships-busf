@@ -789,7 +789,7 @@ For researchers interested in the relationship between UFOs and science fiction,
 
 9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Title: [PROJECT BLUE BOOK](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;) | "Operation Paperclips" Sneak Peek  
+   Title: [PROJECT BLUE BOOK]({{ 'blue-book/' | relative_url }}) | "Operation Paperclips" Sneak Peek  
    Link:<a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RbE3arOv3n8</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ghost Rockets, the Scandinavian UFO ghost rockets...</p></details>
 

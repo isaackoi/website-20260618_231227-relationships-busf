@@ -832,7 +832,7 @@ For readers trying to understand Cold War saucer stories, the U-2 is therefore a
    Source: youtube.com  
    Title: Project Blue Book  
    Link:<a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secrets of [Area 51](&amp;#123;&amp;#123; &#x27;area-51/&#x27; | relative_url &amp;#125;&amp;#125;) What the Government Doesn&#x27;t Want You to Know...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secrets of [Area 51]({{ 'area-51/' | relative_url }}) What the Government Doesn&#x27;t Want You to Know...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: airandspace.si.edu  

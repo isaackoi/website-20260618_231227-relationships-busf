@@ -751,7 +751,7 @@ From this perspective, television's role was less that of inventor than of distr
 4.<a id="endnote-4"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/TwilightZone/comments/18jbos1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TwilightZone/comments/18jbos1</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t Hocus Pocus and Frisby get more credit for introducing [Grey Aliens](&amp;#123;&amp;#123; &#x27;grey-aliens/&#x27; | relative_url &amp;#125;&amp;#125;) in [Flying Saucers](&amp;#123;&amp;#123; &#x27;flying-saucer/&#x27; | relative_url &amp;#125;&amp;#125;) to Popular Culture?Decem...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>doesn&#x27;t Hocus Pocus and Frisby get more credit for introducing [Grey Aliens]({{ 'grey-aliens/' | relative_url }}) in [Flying Saucers]({{ 'flying-saucer/' | relative_url }}) to Popular Culture?Decem...</p></details>
    Published: December 15, 2023  
 
 5.<a id="endnote-5"></a>

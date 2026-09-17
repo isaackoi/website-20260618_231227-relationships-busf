@@ -787,7 +787,7 @@ The lasting importance of *UFO: Friend, Foe or Fantasy?* is therefore not that i
 
 8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Title: www.reddit.com Project Blue Book: Hynek Exposes the UFO [Cover-Ups](&#123;&#123; 'cover-ups/' | relative_url &#125;&#125;) 👽  
+   Title: www.reddit.com Project Blue Book: Hynek Exposes the UFO [Cover-Ups]({{ 'cover-ups/' | relative_url }}) 👽  
    Link:<a href="https://www.reddit.com/r/u_No_Money_9404/comments/1npzkvi/project_blue_book_hynek_exposes_the_ufo_coverups/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/u_No_Money_9404/comments/1npzkvi/project_blue_book_hynek_exposes_the_ufo_coverups/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: Hynek Exposes the UFO Cover-Ups 👽September 25, 2025...</p></details>
    Published: September 25, 2025  

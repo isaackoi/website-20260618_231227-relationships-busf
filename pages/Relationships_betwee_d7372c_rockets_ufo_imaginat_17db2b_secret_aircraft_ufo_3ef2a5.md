@@ -820,7 +820,7 @@ For the broader relationship between UFOs and science fiction, this was a crucia
    Source: youtube.com  
    Title: How a Secret Aviation Team Changed the Cold War. Inside the Skunk Works  
    Link:<a href="https://www.youtube.com/watch?v=36VNrcVIMGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36VNrcVIMGQ</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Project Blue Book]({{ 'blue-book/' | relative_url }})...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: youtube.com  

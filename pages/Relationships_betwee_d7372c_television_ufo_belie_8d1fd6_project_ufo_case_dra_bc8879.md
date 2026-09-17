@@ -750,7 +750,7 @@ In the history of UFO television, *Project U.F.O.* therefore represents more tha
 
 2.<a id="endnote-2"></a>
    Source: monster367.rssing.com  
-   Title: Atomic Robot [Comics](&#123;&#123; 'comics/' | relative_url &#125;&#125;) & Toys Atomic Robot  
+   Title: Atomic Robot [Comics]({{ 'comics/' | relative_url }}) & Toys Atomic Robot  
    Link:<a href="https://monster367.rssing.com/chan-12049876/all_p67.html" target="_blank" rel="noopener noreferrer nofollow">https://monster367.rssing.com/chan-12049876/all_p67.html</a>  
 
 3.<a id="endnote-3"></a>

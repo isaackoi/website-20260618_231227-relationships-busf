@@ -778,7 +778,7 @@ That is why *Amazing Stories* occupies a distinctive place in the history linkin
 
 5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Title: [Frank R Paul](&#123;&#123; 'frank-r-paul/' | relative_url &#125;&#125;): Father of Science Fiction Art  
+   Title: [Frank R Paul]({{ 'frank-r-paul/' | relative_url }}): Father of Science Fiction Art  
    Link:<a href="http://www.youtube.com/watch?v=OOnhl23FBpw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OOnhl23FBpw</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AMAZING STORIES - WikiVidi Documentary...</p></details>
 

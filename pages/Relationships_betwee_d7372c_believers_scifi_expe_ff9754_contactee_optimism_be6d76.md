@@ -806,7 +806,7 @@ In doing so, contactees turned flying saucers into hopeful symbols. Their aliens
    Source: wired.com  
    Title: www.wired.com Out of This World: 60 Years of Flying Saucers  
    Link:<a href="https://www.wired.com/2007/06/flyingsaucer-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/flyingsaucer-anniversary</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon has inspired conspiracy theories and cults, including notable incidents such as the [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) event and subsequent governmen...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon has inspired conspiracy theories and cults, including notable incidents such as the [Roswell]({{ 'roswell/' | relative_url }}) event and subsequent governmen...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: youtube.com  

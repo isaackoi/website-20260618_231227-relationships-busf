@@ -774,7 +774,7 @@ That was the programme's enduring innovation. It transformed paperwork into myst
 1.<a id="endnote-1"></a>
    Source: archives.gov  
    Link:<a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: archives.gov  

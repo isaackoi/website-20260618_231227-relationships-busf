@@ -762,7 +762,7 @@ The photograph therefore does not need to prove that a giant spacecraft exists. 
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: [Mc Minnville](&#123;&#123; 'mc-minnville/' | relative_url &#125;&#125;) UFO photographs  
+   Title: [Mc Minnville]({{ 'mc-minnville/' | relative_url }}) UFO photographs  
    Link:<a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
 
 4.<a id="endnote-4"></a>

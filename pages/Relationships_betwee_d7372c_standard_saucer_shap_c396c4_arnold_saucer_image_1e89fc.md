@@ -772,7 +772,7 @@ The enduring flying-saucer silhouette was therefore not simply a record of what 
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
    Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;): The Government&#x27;s Failed War on Flying Saucers | Curious History...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Project Blue Book]({{ 'blue-book/' | relative_url }}): The Government&#x27;s Failed War on Flying Saucers | Curious History...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: youtube.com  

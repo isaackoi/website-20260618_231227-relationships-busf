@@ -527,7 +527,7 @@ For science fiction, that combination was ideal. A fully solved archive would ha
    Source: youtube.com  
    Title: 25 Declassified Government Projects That Sound Like Science Fiction  
    Link:<a href="https://www.youtube.com/watch?v=JaqduCP5yVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JaqduCP5yVo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and Project Blue Book...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell]({{ 'roswell/' | relative_url }}) Incident and Project Blue Book...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: commons.wikimedia.org  

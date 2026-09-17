@@ -752,9 +752,9 @@ That tension explains Roswell's lasting place in the relationship between UFOs a
 
 2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Title: National Archives [Project BLUE BOOK](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
+   Title: National Archives [Project BLUE BOOK]({{ 'blue-book/' | relative_url }})  
    Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects | National Archives...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects | National Archives...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: history.com  

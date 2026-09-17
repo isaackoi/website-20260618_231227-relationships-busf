@@ -771,7 +771,7 @@ The result was a hybrid cultural form. American science-fiction-inspired contact
 8.<a id="endnote-8"></a>
    Source: history.co.uk  
    Link:<a href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Todmorden UFO mystery: [Close encounters](&amp;#123;&amp;#123; &#x27;close-encounters/&#x27; | relative_url &amp;#125;&amp;#125;) in West Yorkshire | Sky HISTORY TV Channel...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Todmorden UFO mystery: [Close encounters]({{ 'close-encounters/' | relative_url }}) in West Yorkshire | Sky HISTORY TV Channel...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: youtube.com  

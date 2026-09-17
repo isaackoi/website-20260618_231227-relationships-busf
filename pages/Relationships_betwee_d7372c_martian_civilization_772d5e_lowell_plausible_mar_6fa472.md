@@ -799,7 +799,7 @@ That achievement mattered for the later relationship between science fiction and
 11.<a id="endnote-11"></a>
    Source: newyorker.com  
    Link:<a href="https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/news/fault-lines/the-long-history-of-life-on-mars</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>It begins with 19th-century astronomer Giovanni Schiaparelli, who mapped what he termed &quot;[canali](&amp;#123;&amp;#123; &#x27;canali/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; on Mars, sparking public intrigue. Perci...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It begins with 19th-century astronomer Giovanni Schiaparelli, who mapped what he termed &quot;[canali]({{ 'canali/' | relative_url }})&quot; on Mars, sparking public intrigue. Perci...</p></details>
 
 ### Additional References
 

@@ -729,7 +729,7 @@ As a result, the photographs occupied a curious position. They were frequently c
 
 1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
-   Title: [Contactees](&#123;&#123; 'contactees/' | relative_url &#125;&#125;) | Encyclopedia.com  
+   Title: [Contactees]({{ 'contactees/' | relative_url }}) | Encyclopedia.com  
    Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2026...</p></details>
    Published: May 29, 2026  
@@ -817,4 +817,4 @@ As a result, the photographs occupied a curious position. They were frequently c
    Source: youtube.com  
    Title: The Contactees: George Adamski and the Space Brothers  
    Link:<a href="https://www.youtube.com/watch?v=8V434-2e9zY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8V434-2e9zY</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the Adamski Saucer Photographs...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Debunking]({{ 'debunking/' | relative_url }}) the Adamski Saucer Photographs...</p></details>

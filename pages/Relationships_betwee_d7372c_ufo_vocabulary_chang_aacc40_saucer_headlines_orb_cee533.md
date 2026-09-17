@@ -786,7 +786,7 @@ In that sense, the history of UFO imagery is also a history of media. As communi
 
 4.<a id="endnote-4"></a>
    Source: smithsonianmag.com  
-   Title: in 1947 high altitude balloon crash landed [roswell](&#123;&#123; 'roswell/' | relative_url &#125;&#125;) aliens never left 180963917  
+   Title: in 1947 high altitude balloon crash landed [roswell]({{ 'roswell/' | relative_url }}) aliens never left 180963917  
    Link:<a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineIn 1947, A High-Altitude Balloon Crash Landed in Roswell. The Aliens Never LeftJuly 5, 2017...</p></details>
    Published: July 5, 2017  
@@ -837,7 +837,7 @@ In that sense, the history of UFO imagery is also a history of media. As communi
    Source: reddit.com  
    Title: project blue book the us air forces ufo  
    Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The US Air Force’s UFO investigations, findings, and [closure](&amp;#123;&amp;#123; &#x27;closure/&#x27; | relative_url &amp;#125;&amp;#125;) (1947–1969)May 5, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The US Air Force’s UFO investigations, findings, and [closure]({{ 'closure/' | relative_url }}) (1947–1969)May 5, 2026...</p></details>
    Published: May 5, 2026  
 
 13.<a id="endnote-13"></a>

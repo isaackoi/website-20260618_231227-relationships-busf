@@ -785,7 +785,7 @@ In the relationship between UFOs and science fiction, this was a crucial develop
 5.<a id="endnote-5"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=jUzzNL6iCUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jUzzNL6iCUg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and Project Blue Book...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell]({{ 'roswell/' | relative_url }}) Incident and Project Blue Book...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: youtube.com  

@@ -797,7 +797,7 @@ The lasting lesson of the 701 cases is therefore not that they proved alien visi
    Source: reddit.com  
    Title: project blue book the us air forces ufo  
    Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1t3zb0g/project_blue_book_the_us_air_forces_ufo/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The US Air Force’s UFO investigations, findings, and [closure](&amp;#123;&amp;#123; &#x27;closure/&#x27; | relative_url &amp;#125;&amp;#125;) (1947–1969)May 5, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: The US Air Force’s UFO investigations, findings, and [closure]({{ 'closure/' | relative_url }}) (1947–1969)May 5, 2026...</p></details>
    Published: May 5, 2026  
 
 11.<a id="endnote-11"></a>

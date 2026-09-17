@@ -820,7 +820,7 @@ That is why the saucer became such a durable symbol in UFO culture and science f
    Source: youtube.com  
    Title: UFO's Are Real: Aliens Sci-Fi Documentary  
    Link:<a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oM9WfDBRNcg</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This selection explores the 1947 Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) that originated the &quot;flying saucer&quot; moniker and examines how 1950s cinema and do...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This selection explores the 1947 Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }}) that originated the &quot;flying saucer&quot; moniker and examines how 1950s cinema and do...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: youtube.com  

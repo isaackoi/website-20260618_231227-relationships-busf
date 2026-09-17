@@ -1085,7 +1085,7 @@ Within the broader relationship between UFOs and science fiction, believers occu
    Source: youtube.com  
    Title: Q & A with "The UFO Movie" Filmmaker Brian Dunning  
    Link:<a href="https://www.youtube.com/watch?v=1SKKYgY9P88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1SKKYgY9P88</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The Roswell Incident and [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The Roswell Incident and [Project Blue Book]({{ 'blue-book/' | relative_url }})...</p></details>
 
 36.<a id="endnote-36"></a>
    Source: academia.edu  

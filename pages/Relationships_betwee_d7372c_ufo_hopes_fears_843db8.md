@@ -965,7 +965,7 @@ That is why UFOs mean so many different things. They are less a single belief th
 
 6.<a id="endnote-6"></a>
    Source: cdamm.org  
-   Title: Extraterrestrial/[UFO Religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;)  
+   Title: Extraterrestrial/[UFO Religion]({{ 'ufo-religion/' | relative_url }})  
    Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
 
 7.<a id="endnote-7"></a>
@@ -1109,7 +1109,7 @@ That is why UFOs mean so many different things. They are less a single belief th
 36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Link:<a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Critics and [skeptics](&amp;#123;&amp;#123; &#x27;skeptics/&#x27; | relative_url &amp;#125;&amp;#125;) argue the materials lack credible analysis and context, which may encourage conspiracy theories. Former AARO directo...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critics and [skeptics]({{ 'skeptics/' | relative_url }}) argue the materials lack credible analysis and context, which may encourage conspiracy theories. Former AARO directo...</p></details>
 
 37.<a id="endnote-37"></a>
    Source: vox.com  

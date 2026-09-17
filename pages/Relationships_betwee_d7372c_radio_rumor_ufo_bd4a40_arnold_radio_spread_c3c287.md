@@ -759,12 +759,12 @@ The result was a shift from a single witness account to a broader cultural pheno
    Source: youtube.com  
    Title: The Coming of the Saucers By Kenneth Arnold, Raymond Palmer. FULL Audiobook  
    Link:<a href="https://www.youtube.com/watch?v=12uXbLC7Xug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=12uXbLC7Xug</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident and [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The [Roswell]({{ 'roswell/' | relative_url }}) Incident and [Project Blue Book]({{ 'blue-book/' | relative_url }})...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=odUSnDgU-oo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This video selection details the historic 1947 Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;), explaining how media coverage and wire services coined the term &quot;...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video selection details the historic 1947 Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }}), explaining how media coverage and wire services coined the term &quot;...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: youtube.com  

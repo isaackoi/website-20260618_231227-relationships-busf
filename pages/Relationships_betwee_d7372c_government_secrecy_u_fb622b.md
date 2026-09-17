@@ -1177,7 +1177,7 @@ The result is a distinctive science-fiction inheritance. UFO stories do not need
 48.<a id="endnote-48"></a>
    Source: theguardian.com  
    Link:<a href="https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jun/12/ufo-uap-files-us-government-release</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Critics and [skeptics](&amp;#123;&amp;#123; &#x27;skeptics/&#x27; | relative_url &amp;#125;&amp;#125;) argue the materials lack credible analysis and context, which may encourage conspiracy theories. Former AARO directo...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critics and [skeptics]({{ 'skeptics/' | relative_url }}) argue the materials lack credible analysis and context, which may encourage conspiracy theories. Former AARO directo...</p></details>
 
 49.<a id="endnote-49"></a>
    Source: shura.shu.ac.uk  

@@ -800,7 +800,7 @@ The endurance of this pattern is one reason *The War of the Worlds* remains a la
 
 8.<a id="endnote-8"></a>
    Source: wired.com  
-   Title: www.wired.com [Close Encounters](&#123;&#123; 'close-encounters/' | relative_url &#125;&#125;) of the Worst Kind  
+   Title: www.wired.com [Close Encounters]({{ 'close-encounters/' | relative_url }}) of the Worst Kind  
    Link:<a href="https://www.wired.com/2005/06/war-2" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/06/war-2</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Wells&#x27; &quot;War of the Worlds&quot; was set to hit screens. The production, starring Tom Cruise and Dakota Fanning, was fast-tracked to meet a luc...</p></details>
 

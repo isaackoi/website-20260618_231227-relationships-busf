@@ -749,7 +749,7 @@ In that sense, Vallée’s challenge was methodological as much as theoretical. 
 
 1.<a id="endnote-1"></a>
    Source: uapinvestigations.com  
-   Title: Passport to [Magonia](&#123;&#123; 'magonia/' | relative_url &#125;&#125;): On UFOs, Folklore, and Parallel Worlds | UAPI Library  
+   Title: Passport to [Magonia]({{ 'magonia/' | relative_url }}): On UFOs, Folklore, and Parallel Worlds | UAPI Library  
    Link:<a href="https://uapinvestigations.com/passport-to-magonia/" target="_blank" rel="noopener noreferrer nofollow">https://uapinvestigations.com/passport-to-magonia/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>February 23, 2026...</p></details>
    Published: February 23, 2026  
@@ -763,7 +763,7 @@ In that sense, Vallée’s challenge was methodological as much as theoretical. 
 
 3.<a id="endnote-3"></a>
    Source: bibliotecapleyades.net  
-   Title: Jacques [Vallee](&#123;&#123; 'vallee/' | relative_url &#125;&#125;) Discusses UFO Control System  
+   Title: Jacques [Vallee]({{ 'vallee/' | relative_url }}) Discusses UFO Control System  
    Link:<a href="https://www.bibliotecapleyades.net/ciencia/ciencia_vallee05.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ciencia_vallee05.htm</a>  
 
 4.<a id="endnote-4"></a>

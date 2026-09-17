@@ -750,7 +750,7 @@ This explains why the Space Brothers became such an influential figure in UFO cu
 
 1.<a id="endnote-1"></a>
    Source: cdamm.org  
-   Title: Extraterrestrial/[UFO Religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;)  
+   Title: Extraterrestrial/[UFO Religion]({{ 'ufo-religion/' | relative_url }})  
    Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMMJanuary 15, 2021...</p></details>
    Published: January 15, 2021  
@@ -798,7 +798,7 @@ This explains why the Space Brothers became such an influential figure in UFO cu
 
 9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Title: The New Science of [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Aerospace-Undersea Phenomena (UAP)  
+   Title: The New Science of [Unidentified]({{ 'unidentified/' | relative_url }}) Aerospace-Undersea Phenomena (UAP)  
    Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2025...</p></details>
    Published: January 27, 2025  

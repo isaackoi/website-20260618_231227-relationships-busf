@@ -795,7 +795,7 @@ That commercial durability explains why toy aisles, souvenir shops and novelty c
 
 6.<a id="endnote-6"></a>
    Source: britannica.com  
-   Title: www.britannica.com [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Flying Objects: What We Know | Britannica  
+   Title: www.britannica.com [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects: What We Know | Britannica  
    Link:<a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Objects: What We Know | Britannica...</p></details>
 

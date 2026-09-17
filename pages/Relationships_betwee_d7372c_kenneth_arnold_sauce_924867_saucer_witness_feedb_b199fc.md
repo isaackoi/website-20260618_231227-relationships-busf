@@ -793,7 +793,7 @@ The enduring lesson of the “flying saucer” is therefore not simply that a fa
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
    Link:<a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;), Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 2 | Flying Saucer UFOs | [Roswell]({{ 'roswell/' | relative_url }}), Kenneth Arnold, McMinnville, Rex Heflin | The Basement Office...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: airandspaceforces.com  

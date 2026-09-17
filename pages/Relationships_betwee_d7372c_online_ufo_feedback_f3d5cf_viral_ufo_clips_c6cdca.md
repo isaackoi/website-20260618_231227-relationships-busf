@@ -788,7 +788,7 @@ The result is a modern UFO feedback loop in miniature: a fragment of ambiguous i
 
 3.<a id="endnote-3"></a>
    Source: uapedia.ai  
-   Title: Unlocking New Realities FLIR, Gimbal, [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;): An Explainer  
+   Title: Unlocking New Realities FLIR, Gimbal, [Go Fast]({{ 'go-fast/' | relative_url }}): An Explainer  
    Link:<a href="https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/flir-gimbal-gofast-an-explainer/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesFLIR, Gimbal, GoFast: An Explainer - UAPediaOctober 14, 2025...</p></details>
    Published: October 14, 2025  

@@ -716,7 +716,7 @@ As a result, the sighting felt modern from the beginning. The objects were not p
 1.<a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
    Link:<a href="https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/eastoregonian25jun1947.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }}) reports in the Press, The East Oregonian, Pendleton, Oregon, USA, on page 1, on June 2...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: nicap.org  
@@ -748,7 +748,7 @@ As a result, the sighting felt modern from the beginning. The objects were not p
 
 7.<a id="endnote-7"></a>
    Source: airandspace.si.edu  
-   Title: 1947 year [flying saucer](&#123;&#123; 'flying-saucer/' | relative_url &#125;&#125;)  
+   Title: 1947 year [flying saucer]({{ 'flying-saucer/' | relative_url }})  
    Link:<a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer | National Air and Space MuseumJune 24, 2022...</p></details>
    Published: June 24, 2022  

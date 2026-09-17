@@ -798,7 +798,7 @@ That sincerity effect became one of television's most influential mechanisms in 
 
 7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Title: David Grusch Opening Statement at [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Anomalous Phenomena (UAP) Hearing  
+   Title: David Grusch Opening Statement at [Unidentified]({{ 'unidentified/' | relative_url }}) Anomalous Phenomena (UAP) Hearing  
    Link:<a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>World-changing confession: Doctor describes studying live alien | Reality Check...</p></details>
 

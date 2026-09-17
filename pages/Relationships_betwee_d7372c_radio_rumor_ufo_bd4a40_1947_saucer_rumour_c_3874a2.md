@@ -771,7 +771,7 @@ For early UFO culture, this was a decisive moment. Science-fiction ideas about a
 2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
    Link:<a href="https://ufologie.patrickgross.org/press/heraldandnews8jul1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/heraldandnews8jul1947.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) reports in the Press, The Herald and News, Klamath Falls, Oregon, USA, on page 1, on July 8...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Kenneth [Arnold sighting]({{ 'arnold-sighting/' | relative_url }}) reports in the Press, The Herald and News, Klamath Falls, Oregon, USA, on page 1, on July 8...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: project1947.com  

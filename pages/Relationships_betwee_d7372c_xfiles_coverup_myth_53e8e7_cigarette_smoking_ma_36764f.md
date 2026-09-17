@@ -752,7 +752,7 @@ The character's endurance demonstrates how effectively *The X-Files* linked UFO 
 11.<a id="endnote-11"></a>
    Source: vanityfair.com  
    Link:<a href="https://www.vanityfair.com/news/2008/03/frank-digiaco-6" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2008/03/frank-digiaco-6</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Paley [Television](&amp;#123;&amp;#123; &#x27;television/&#x27; | relative_url &amp;#125;&amp;#125;) Festival in Los Angeles, Chris Carter debuted the trailer for the second X-Files film, set for release on July 25. The f...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paley [Television]({{ 'television/' | relative_url }}) Festival in Los Angeles, Chris Carter debuted the trailer for the second X-Files film, set for release on July 25. The f...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: theguardian.com  

@@ -754,7 +754,7 @@ This explains why popular culture converged on a single visual formula even thou
 
 1.<a id="endnote-1"></a>
    Source: time.com  
-   Title: This Is Why People Think UFOs Look Like 'Flying [Saucers](&#123;&#123; 'saucers/' | relative_url &#125;&#125;)'  
+   Title: This Is Why People Think UFOs Look Like 'Flying [Saucers]({{ 'saucers/' | relative_url }})'  
    Link:<a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The fascination grew to include an incident on July 7, when a New Mexico rancher found what was initially thought to be a crashed flying...</p></details>
 
@@ -762,7 +762,7 @@ This explains why popular culture converged on a single visual formula even thou
    Source: wired.com  
    Title: june 24 1947 they came from outer space  
    Link:<a href="https://www.wired.com/2008/06/june-24-1947-they-came-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/06/june-24-1947-they-came-from-outer-space</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold reported seeing nine [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying objects near Mt. Rainier, Washington, marking...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space?On June 24, 1947, pilot Kenneth Arnold reported seeing nine [unidentified]({{ 'unidentified/' | relative_url }}) flying objects near Mt. Rainier, Washington, marking...</p></details>
    Published: June 24, 1947  
 
 3.<a id="endnote-3"></a>
@@ -821,7 +821,7 @@ This explains why popular culture converged on a single visual formula even thou
 12.<a id="endnote-12"></a>
    Source: mdpi.com  
    Link:<a href="https://www.mdpi.com/2076-0787/10/4/107" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-0787/10/4/107</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary [Klaatu](&amp;#123;&amp;#123; &#x27;klaatu/&#x27; | relative_url &amp;#125;&amp;#125;) Are Not Anti-Atomic: A Reassessment of the Film...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Wise’s The Day the Earth Stood Still (1951) and Interplanetary Emissary [Klaatu]({{ 'klaatu/' | relative_url }}) Are Not Anti-Atomic: A Reassessment of the Film...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: youtube.com  

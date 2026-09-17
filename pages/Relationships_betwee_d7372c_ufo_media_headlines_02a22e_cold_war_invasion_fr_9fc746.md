@@ -764,7 +764,7 @@ As a result, many readers encountered UFO reports not as isolated observational 
    Source: history.com  
    Title: ufos washington dc news reports  
    Link:<a href="https://www.history.com/news/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufos-washington-dc-news-reports</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, &#x27;Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; Over Washington Sent the Press Into a Frenzy | HISTORY...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1952, &#x27;Flying [Saucers]({{ 'saucers/' | relative_url }})&#x27; Over Washington Sent the Press Into a Frenzy | HISTORY...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: reddit.com  
@@ -828,7 +828,7 @@ As a result, many readers encountered UFO reports not as isolated observational 
 13.<a id="endnote-13"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=bg58bW1oZRo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bg58bW1oZRo</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;): Decoding Decades of Deception...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about [Roswell]({{ 'roswell/' | relative_url }}): Decoding Decades of Deception...</p></details>
 
 14.<a id="endnote-14"></a>
    Source: youtube.com  

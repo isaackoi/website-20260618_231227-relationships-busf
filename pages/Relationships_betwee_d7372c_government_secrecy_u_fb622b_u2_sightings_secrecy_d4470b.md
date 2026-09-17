@@ -776,7 +776,7 @@ The result was a feedback loop between history and imagination. Real classified 
    Source: reddit.com  
    Title: the 1971 australian ufo memo that linked project  
    Link:<a href="https://www.reddit.com/r/AtlasOfMystery/comments/1u2wdd2/the_1971_australian_ufo_memo_that_linked_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AtlasOfMystery/comments/1u2wdd2/the_1971_australian_ufo_memo_that_linked_project/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>1971 Australian UFO Memo That Linked [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;), CIA Interest, Avro Saucers, and Gravity Control ResearchJune 11, 2026...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1971 Australian UFO Memo That Linked [Project Blue Book]({{ 'blue-book/' | relative_url }}), CIA Interest, Avro Saucers, and Gravity Control ResearchJune 11, 2026...</p></details>
    Published: June 11, 2026  
 
 9.<a id="endnote-9"></a>

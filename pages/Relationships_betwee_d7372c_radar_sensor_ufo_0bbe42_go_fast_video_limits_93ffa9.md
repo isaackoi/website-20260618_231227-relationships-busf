@@ -764,7 +764,7 @@ The enduring importance of Go Fast is therefore not that it conclusively proved 
 
 3.<a id="endnote-3"></a>
    Source: whdh.com  
-   Title: 7News Pentagon releases 3 ‘[unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) aerial phenomena’ videos  
+   Title: 7News Pentagon releases 3 ‘[unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena’ videos  
    Link:<a href="https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/" target="_blank" rel="noopener noreferrer nofollow">https://whdh.com/news/pentagon-releases-3-unidentified-aerial-phenomena-videos/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>WHDH 7NewsPentagon releases 3 ‘unidentified aerial phenomena’ videos - Boston News, Weather, Sports | WHDH 7NewsApril 27, 2020...</p></details>
    Published: April 27, 2020  

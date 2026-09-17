@@ -802,7 +802,7 @@ That distinction is often where UFO reporting and science-fiction storytelling d
 
 6.<a id="endnote-6"></a>
    Source: isgp-studies.com  
-   Title: 1947 07 07 scotsman flying [saucers](&#123;&#123; 'saucers/' | relative_url &#125;&#125;) baffle us  
+   Title: 1947 07 07 scotsman flying [saucers]({{ 'saucers/' | relative_url }}) baffle us  
    Link:<a href="https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-07-scotsman-flying-saucers-baffle-us" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/1947-07-07-scotsman-flying-saucers-baffle-us</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>www.isgp-studies.com&quot;Flying Saucers&quot; Baffle U.S.: Planes Ready to Pursue Mystery Objects; Speed of 1200 M.P.H.July 7, 1947...</p></details>
    Published: July 7, 1947  

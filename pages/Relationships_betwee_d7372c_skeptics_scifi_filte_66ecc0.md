@@ -983,7 +983,7 @@ Its weakness appears when it becomes dismissive certainty. Some cases remain unr
 
 16.<a id="endnote-16"></a>
    Source: war.gov  
-   Title: dod examining [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phenomena  
+   Title: dod examining [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena  
    Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 17.<a id="endnote-17"></a>

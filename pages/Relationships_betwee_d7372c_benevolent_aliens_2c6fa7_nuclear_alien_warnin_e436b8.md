@@ -792,7 +792,7 @@ For that reason, the image of the compassionate alien observer became one of the
 7.<a id="endnote-7"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Incident...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Very Real Top Secret Cold War Project That Gave Us the [Roswell]({{ 'roswell/' | relative_url }}) Incident...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: youtube.com  

@@ -853,7 +853,7 @@ That tension links UFO culture to science fiction at a deep level. Both are exer
    Source: youtube.com  
    Title: The story of the Calvine UFO photograph | In Case You Missed It  
    Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Never Made Any Sense To Me&#x27;: Neil deGrasse Tyson Lays Out Why &#x27;Flying [Saucers](&amp;#123;&amp;#123; &#x27;saucers/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; Wouldn&#x27;t Work...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Never Made Any Sense To Me&#x27;: Neil deGrasse Tyson Lays Out Why &#x27;Flying [Saucers]({{ 'saucers/' | relative_url }})&#x27; Wouldn&#x27;t Work...</p></details>
 
 15.<a id="endnote-15"></a>
    Source: youtube.com  

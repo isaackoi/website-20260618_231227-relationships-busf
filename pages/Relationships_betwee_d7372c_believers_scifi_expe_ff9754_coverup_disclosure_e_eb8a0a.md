@@ -754,7 +754,7 @@ The result is a distinctive cultural mechanism: secrecy ceases to be merely a la
 
 8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Title: The Guardian How Churchill chased [flying saucers](&#123;&#123; 'flying-saucer/' | relative_url &#125;&#125;) | UK news | The Guardian  
+   Title: The Guardian How Churchill chased [flying saucers]({{ 'flying-saucer/' | relative_url }}) | UK news | The Guardian  
    Link:<a href="https://www.theguardian.com/uk/2001/oct/21/humanities.research" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/oct/21/humanities.research</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHow Churchill chased flying saucers | UK news | The GuardianOctober 21, 2001...</p></details>
    Published: October 21, 2001  
