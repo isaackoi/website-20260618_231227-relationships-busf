@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-18 22:28:54'
 title: Arnold Sighting Sub-Topic Index
 title_full: Arnold Sighting Sub-Topic Index
 display_title: Sub-Topic Index
